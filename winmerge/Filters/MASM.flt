@@ -1,0 +1,32 @@
+## This is a directory/file filter for WinMerge
+name: MASM loose
+desc: Suppresses various binaries found in MASM source trees
+
+## This is an inclusive (loose) filter
+## (it lets through everything not specified)
+def: include
+
+## Filters for filenames begin with f:
+## Filters for directories begin with d:
+## (Inline comments begin with " ##" and extend to the end of the line)
+
+f: \~$ 
+f: \.map$ 
+f: \.mod$ 
+f: \.aml$ 
+f: \.bak$ 
+f: \.bin$ 
+f: \.dat$ 
+f: \.icr$ 
+f: \.lib$ 
+f: \.lnk$ 
+f: \.log$ 
+f: \.lst$ 
+f: \.map$ 
+f: \.mod$ 
+f: \.obj$ 
+f: \.pgx$ 
+f: \.res$ 
+f: \.rom$ 
+f: \.rls$ 
+f: MAKEFILE$ 

@@ -1,0 +1,8 @@
+// WinHex license file
+
+Name: "Aaron Portnoy"
+Addr1: "zdi@tippingpoint.com"
+Addr2: "Austin, Texas 78731, United States"
+Key1: AF05449665887DD792484E0CE791E83A
+Key2: C83EF47D36B945307B7D6ADD4A2F74AD
+Chksm: AE

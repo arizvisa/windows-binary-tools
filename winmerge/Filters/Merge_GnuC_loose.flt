@@ -1,0 +1,19 @@
+## This is a directory/file filter for WinMerge
+## This filter suppresses various binaries found in GNU C source trees
+name: GNU C loose
+desc: Suppresses various binaries found in GNU C source trees
+
+## This is an inclusive (loose) filter
+## (it lets through everything not specified)
+def: include
+
+## Filters for filenames begin with f:
+## Filters for directories begin with d:
+## (Inline comments begin with " ##" and extend to the end of the line)
+
+f: \.o$
+f: \.lib$
+f: \.bak$ ## backup
+
+d: \\cvs$ ## CVS control directory
+

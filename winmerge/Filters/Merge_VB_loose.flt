@@ -1,0 +1,24 @@
+## This is a directory/file filter for WinMerge
+## This filter suppresses various binaries found in Visual Basic source trees
+name: Visual Basic loose
+desc: Suppresses various binaries found in Visual Basic source trees
+
+## This is an inclusive (loose) filter
+## (it lets through everything not specified)
+def: include
+
+## Filters for filenames begin with f:
+## Filters for directories begin with d:
+## (Inline comments begin with " ##" and extend to the end of the line)
+
+f: \.frx$ ## 
+f: \.dca$ ## 
+f: \.ctx$ ## 
+f: \.dll$ ## Windows DLL
+f: \.ocx$ ## OLE Control Extension
+f: \.exe$ ## Windows/DOS executable
+f: \.bak$ ## backup
+
+d: \\cvs$  ## CVS control directory
+d: \\.svn$ ## Subversion control directory
+

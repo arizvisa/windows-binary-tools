@@ -1,0 +1,67 @@
+:Base winhex.hlp
+:Title WinHex
+1 Contents=Topic1
+1 General Information
+2 About WinHex=Topic2
+2 WinHex vs. X-Ways Forensics=Topic78
+2 Ordering Information=Topic4
+2 Using a Hex Editor=Topic3
+2 Integer Data Types=Topic5
+2 Floating-Point Data Types=Topic38
+2 Date Types=Topic48
+2 ANSI ASCII/IBM ASCII=Topic6
+2 Checksums=Topic7
+2 Digests=Topic44
+2 Technical Hints=Topic8
+2 Legalities=Topic16
+1 Forensic Features
+2 Case Management=Topic73
+2 Evidence Objects=Topic76
+2 Case Log=Topic74
+2 Case Report=Topic99
+2 Report Tables=Topic95
+2 Volume Snapshots=Topic86
+2 Directory Browser=Topic72
+2 Internal Viewer=Topic77
+2 Registry Report=Topic79
+2 Mode Buttons=Topic80
+2 Simultaneous Search=Topic97
+2 Logical Search=Topic83
+2 Search Hit Lists=Topic92
+2 Indexing, Index Search=Topic93
+2 Hash Database=Topic84
+2 Time Zone Concept=Topic90
+2 Evidence File Containers=Topic94
+1 Menu Reference
+2 Dir. Browser Context Menu=Topic85
+2 File Menu=Topic17
+2 Edit Menu=Topic18
+2 Search Menu=Topic19
+2 Position Menu=Topic20
+2 View Menu=Topic62
+2 Tools Menu=Topic22
+2 Specialist Menu=Topic67
+2 Options Menu=Topic23
+2 Window Menu=Topic21
+2 Help Menu=Topic25
+2 Context Menu=Topic41
+1 Selected Concepts
+2 Start Center=Topic61
+2 Options=Topic9
+2 Entering Characters=Topic10
+2 Edit Modes=Topic11
+2 Status Bar=Topic12
+2 Useful Hints=Topic13
+2 Scripts=Topic63
+2 API=Topic64
+2 Disk Editor=Topic15
+2 RAM Editor=Topic39
+2 Conversions=Topic34
+2 Modify Data=Topic28
+2 Wiping and Initializing=Topic50
+2 Data Interpreter=Topic36
+2 Disk Cloning=Topic57
+2 Images and Backups=Topic42
+2 Position Manager=Topic40
+2 Template Editing=Topic52
+2 Data Recovery=Topic59

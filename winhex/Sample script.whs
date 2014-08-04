@@ -1,0 +1,59 @@
+// WinHex sample script, demonstrating various script commands.
+// Can only be executed by the evaluation version if unchanged.
+
+MessageBox "Attention: all windows will now be closed without prompting."
+CloseAll
+
+// Create a file named "abcdefgh.dat" with 123456 bytes in the root directory of drive C:.
+// Will overwrite this file in case it already exists.
+Create "C:\abcdefgh.dat" 123456
+
+MessageBox "The sample file 'abcdefgh.dat' has been created."
+
+// Write some text at offset 0.
+Write "This file was created by a WinHex sample script."
+
+// Write 16 magic hex values at offset 0x100.
+Goto 0x100
+Write 0x57696E48657820697320677265617421
+Move -16
+// Now we are back at offset 0x100.
+
+// Open drive C:
+Open C:
+
+// To find out whether this drive has a FAT file system, search for
+// the string "FAT" in the boot sector. Could also be implemented as
+// Goto 0x36
+// Read "A three-character variable" 3
+// IfEqual "A three-character variable" "FAT"
+
+Block 0 511
+Find "FAT" BlockOnly
+IfFound
+	// Search for the directory entry "abcdefghdat". This only works on FAT drives.
+	MessageBox "Drive C: has a FAT file system. Now looking for the directory entry of 'abcdefgh.dat'."
+	Find "abcdefghdat"
+Else
+	// Search for the filename "abcdefgh.dat" in Unicode, as stored on NTFS drives.
+	MessageBox "Drive C: does not have a FAT file system. Now looking for an NTFS entry of 'abcdefgh.dat'."
+	Find "abcdefgh.dat" Unicode
+EndIf
+
+// Now go back to the file.
+NextObj
+// We know that the only other open window is the file we created,
+// since initially all other possibly open windows were closed.
+
+// Convert the file from Binary to HexASCII and back 3 times.
+{
+	Convert Binary HexASCII
+	Convert HexASCII Binary
+}[3]
+
+// Now make drive C: the active window again, to show
+// that the directory entry of "abcdefgh.dat" has been
+// found.
+NextObj
+
+MessageBox "Sample script execution complete. The file has been converted a few times, and its directory entry has hopefully been found in the file system."

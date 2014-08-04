@@ -1,0 +1,144 @@
+OLLYDBG EXCEPTION PROTOCOL
+
+This file is created by OllyDbg due to unrecoverable error. It
+contains data necessary to locate and remove this and previous
+errors. Please describe circumstances that preceded exception:
+
+>
+>
+>
+>
+
+and email protocol to:
+
+   Ollydbg@t-online.de
+
+Feel free to remove any private data. Thank you for your help!
+
+Operating system:   6.1.7601, platform 2 (Service Pack 1)
+OllyDbg version:    2.01.00
+Exception code:     C0000005
+Parameters:         00000000 10002B70
+Exception address:  10002B70
+
+EAX=76833358  EBX=1003BB60  ECX=00000000  EDX=10002B70
+ESP=054BFF8C  EBP=054BFF94  ESI=00000000  EDI=00000000
+EIP=10002B70  EFL=00010246
+
+Code dump:
+
+Stack dump:
+054BFF8C  7683336A 1003BB60 054BFFD4 777A9F72  j3ƒv`»..Ô.K.rŸzw
+054BFF9C  1003BB60 66FC564A 00000000 00000000  `»..JVüf........
+054BFFAC  1003BB60 C0000005 768576C7 768576C7  `».....ÀÇv…vÇv…v
+054BFFBC  054BFFA0 054BFB54 FFFFFFFF 777E71F5   .K.TûK.....õq~w
+054BFFCC  14CE6CCE 00000000 054BFFEC 777A9F45  ÎlÎ.....ì.K.EŸzw
+054BFFDC  10002B70 1003BB60 00000000 00000000  p+..`»..........
+054BFFEC  00000000 00000000 10002B70 1003BB60  ........p+..`»..
+
+Stack walk:
+054BFF94  054BFFD4 777A9F72 1003BB60 66FC564A 00000000 00000000 
+          1003BB60 C0000005 768576C7 768576C7 054BFFA0 054BFB54 
+          (C:\Windows\SysWOW64\ntdll.dll)
+
+[Settings]
+Check DLL versions=0
+
+---------------------------------------------------------------
+
+OLLYDBG EXCEPTION PROTOCOL
+
+This file is created by OllyDbg due to unrecoverable error. It
+contains data necessary to locate and remove this and previous
+errors. Please describe circumstances that preceded exception:
+
+>
+>
+>
+>
+
+and email protocol to:
+
+   Ollydbg@t-online.de
+
+Feel free to remove any private data. Thank you for your help!
+
+Operating system:   6.1.7601, platform 2 (Service Pack 1)
+OllyDbg version:    2.01.00
+Exception code:     C0000005
+Parameters:         00000000 10002B70
+Exception address:  10002B70
+
+EAX=76833358  EBX=1003BB60  ECX=00000000  EDX=10002B70
+ESP=0551FF8C  EBP=0551FF94  ESI=00000000  EDI=00000000
+EIP=10002B70  EFL=00010246
+
+Code dump:
+
+Stack dump:
+0551FF8C  7683336A 1003BB60 0551FFD4 777A9F72  j3ƒv`»..Ô.Q.rŸzw
+0551FF9C  1003BB60 66E4901E 00000000 00000000  `»...äf........
+0551FFAC  1003BB60 C0000005 768576C7 768576C7  `».....ÀÇv…vÇv…v
+0551FFBC  0551FFA0 0551FB54 FFFFFFFF 777E71F5   .Q.TûQ.....õq~w
+0551FFCC  14CCAA9A 00000000 0551FFEC 777A9F45  šªÌ.....ì.Q.EŸzw
+0551FFDC  10002B70 1003BB60 00000000 00000000  p+..`»..........
+0551FFEC  00000000 00000000 10002B70 1003BB60  ........p+..`»..
+
+Stack walk:
+0551FF94  0551FFD4 777A9F72 1003BB60 66E4901E 00000000 00000000 
+          1003BB60 C0000005 768576C7 768576C7 0551FFA0 0551FB54 
+          (C:\Windows\SysWOW64\ntdll.dll)
+
+[Settings]
+Check DLL versions=0
+
+---------------------------------------------------------------
+
+OLLYDBG EXCEPTION PROTOCOL
+
+This file is created by OllyDbg due to unrecoverable error. It
+contains data necessary to locate and remove this and previous
+errors. Please describe circumstances that preceded exception:
+
+>
+>
+>
+>
+
+and email protocol to:
+
+   Ollydbg@t-online.de
+
+Feel free to remove any private data. Thank you for your help!
+
+Operating system:   6.1.7601, platform 2 (Service Pack 1)
+OllyDbg version:    2.01.00
+Exception code:     C0000005
+Parameters:         00000000 10002B70
+Exception address:  10002B70
+
+EAX=76833358  EBX=1003BB60  ECX=00000000  EDX=10002B70
+ESP=0557FF8C  EBP=0557FF94  ESI=00000000  EDI=00000000
+EIP=10002B70  EFL=00010246
+
+Code dump:
+
+Stack dump:
+0557FF8C  7683336A 1003BB60 0557FFD4 777A9F72  j3ƒv`»..Ô.W.rŸzw
+0557FF9C  1003BB60 66E22F7E 00000000 00000000  `»..~/âf........
+0557FFAC  1003BB60 C0000005 768576C7 768576C7  `».....ÀÇv…vÇv…v
+0557FFBC  0557FFA0 0557FB54 FFFFFFFF 777E71F5   .W.TûW.....õq~w
+0557FFCC  14CC15FA 00000000 0557FFEC 777A9F45  ú.Ì.....ì.W.EŸzw
+0557FFDC  10002B70 1003BB60 00000000 00000000  p+..`»..........
+0557FFEC  00000000 00000000 10002B70 1003BB60  ........p+..`»..
+
+Stack walk:
+0557FF94  0557FFD4 777A9F72 1003BB60 66E22F7E 00000000 00000000 
+          1003BB60 C0000005 768576C7 768576C7 0557FFA0 0557FB54 
+          (C:\Windows\SysWOW64\ntdll.dll)
+
+[Settings]
+Check DLL versions=0
+
+---------------------------------------------------------------
+

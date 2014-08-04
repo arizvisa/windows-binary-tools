@@ -1,0 +1,7 @@
+// WinHex sample script that converts a UNIX text file into a Windows text file.
+// The representation of line breaks differs in both systems.
+// Can only be executed by the evaluation version if unchanged.
+
+ExitIfNoFilesOpen
+CreateBackup
+ReplaceAll 0x0A 0x0D0A

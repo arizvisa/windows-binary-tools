@@ -1,0 +1,24 @@
+[INFO]
+Name = Winbond 83697HF super I/O
+02 = CR02 (Default 0x00)\r B7-1: Reserved\r B0: SWRST --> Soft Reset
+07 = CR07 Logical device number
+20 = CR20 Device ID
+21 = CR20 Device revision
+22 = CR22 (Default 0xff)\r B7-5: Reserved\r B4: HMPWD\r  0: Power down\r  1: No Power down\r B3: URBPWD\r  0: Power down\r  1: No Power down\r B2: URAPWD\r  0: Power down\r  1 No Power down\r B1: PRTPWD\r  0: Power down\r  1: No Power down\r B0: FDCPWD\r  0: Power down\r  1: No Power down
+23 = CR23 (Default 0x00)\r B7-1: Reserved\r B0: IPD (Immediate Power Down)\r  When set to 1, it will put\r  the whole chip into power\r  down mode immediately
+24 = CR24 (Default 0x00)\r B7: Reserved\r B6: CLKSEL (0/1 = 24/48Mhz)\r B5-4: ROM size select\r  00: 1M, 01: 2M, 10: 4M\r B3: MEMW# (0/1=Disable/Enable)\r B2: Reserved\r B1: Flash ROM Interface\r     0/1 = Enable/Disable\r B0: PNPCSV#\r  0: Default value for PnP address select registers\r  1: no default value for PnP address select registers
+25 = CR25 (Default 0x00)\r B7-4: Reserved\r B3: URBTRI\r B2: URATRI\r B1: PRTTRI\r B0: FDCTRI
+26 = CR26 (Default 0x00)\r B7: SEL4FDD (0/1 = 2/4 FDD)\r B6: HEFRAS - config port\r  0/1 = 2Eh/4Eh\r B5: LOCKREG\r  0: enable R/W config reg.\r  1: disable R/W config reg.\r B4: Reserved\r B3: DSFDLGRQ - FDC legacy mode IRQ & DRQ select\r B2: DSPRLGRQ - PRT legacy mode IRQ & DRQ select\r B1: DSUALGRQ - UART A legacy mode IRQ & DRQ select\r B0: DSUBLGRQ - UART B legacy mode IRQ & DRQ select
+28 = CR28 (Default 0x00)\r B7-3: Reserved\r B2-0: PRTMODS2 - PRTMODS0\r  0xx Parallel Port Mode\r  100 Reserved\r  101 External FDC Mode\r  110 Reserved\r  111 External two FDC Mode
+29 = CR29 GPIO1,5(50~51) & Game & MIDI port\r B7: select Game or GPIO port 1\r B6-5: Pin119\r  0/1/2/3 = MSI/WDTO#/Reserved/GP51\r B4-3: Pin120\r  0/1/2/3 = MSO/PLED/Reserved/GP50\r B2: Pin117 - 0/1 = OVT#/SMI#\r B1-0: Reserved
+2A = CR2A GPIO2-5 & Flash ROM Interface Default FF if PENROM# = 0 during POR, default 00 otherwise\r B7: Pin86-89 & 91-94\r  0/1=GPIO 2/Flash IF (xD7-xD0)\r B6: Pin78-85\r  0/1=GPIO 3/Flash IF (xA7-xA0)\r B5: Pin69-74 & 76-77\r  0/1=GPIO 4/Flash IF xA15-xA10 & xA7-xA0\r B4: Pin66-68 & 95-97\r  0/1=GPIO 5/Flash IF (xA18-xA16, ROMCS#, MEMR#, MEMW#)\r  B3-0: Reserved
+30 = CR30 (Default 0x01 if PNPCSV = 0 during POR, default 0x00 otherwise)\r B7-1: Reserved\r B0 = 1 Activates the logical device
+60 = CR60 (Default 0x03 if PNPCSV = 0 during POR, default 0x00 otherwise)\r select FDC I/O base address (high byte)
+61 = CR61 (Default 0xF0 if PNPCSV = 0 during POR, default 0x00 otherwise)\r select FDC I/O base address (low byte)
+70 = CR70 (Default 0x06 if PNPCSV = 0 during POR, default 0x00 otherwise)\r B7-4: Reserved\r B3-0: These bits select IRQ resource for FDC
+74 = CR74 (Default 0x02 if PNPCSV = 0 during POR, default 0x04 otherwise)\r B7-3: Reserved\r B2-0: These bits select DRQ resource for FDC\r  0/1/2/3=DMA0/1/2/3\r  4-7: No DMA active
+F0 = CRF0 (Default 0x0E) FDD Mode\r B7: FIPURDWN - internal pull-up resistors of the FDC input pins RDATA, INDEX, TRAK0, DSKCHG and WP\r  0/1=pull-up turned on/off\r B6: INTVERTZ - This bit determines the polarity of all FDD interface signals\r  0/1=active low/high\r B5: DRV2EN (PS2 mode only) if logic 0, indicates a second drive is installed and is reflected in status register A\r B4: Swap Drive 0, 1 Mode\r B3-2 Interface Mode\r  3/2/1/0=AT/resv./PS2/Model30\r B1: FDC DMA Mode\r  Burst/Non-Burst\r B0: Floppy Mode\r  0/1=Normal/Enhanced 3-mode
+F1 = CRF1 (Default 0x00)\r B7-6: Boot Floppy\r  0/1/2/3=FDD A/B/C/D\r B5-4: Media ID1, Media ID0. reflected on FDC's Tape Drive Register B7-6\r B3-2: Density Select\r  0/1/2/3 Normal/Normal/Logic1/Logic0\r B1: DISFDDWR\r  0/1=write enable/disable\r B0: SWWP - 0: WP to determine whether the FDD is write protected or not, 1: FDD is always write-protected
+F2 = CRF2 (Default 0xFF)\r B7-6: FDD D Drive Type\r B5-4: FDD C Drive Type\r B3-2: FDD B Drive Type\r B1-0: FDD A Drive Type
+F4 = CRF4 (Default 0x00)\r FDD0 Selection:\r B7: Reserved\r B6: 0/1=Precomp. disable/enable\r B5: Reserved\r B4-3: DRTS1, DRTS0: Data Rate Table select (Refer to TABLE A)\r  0: Select regular & 2.88 format\r  1: 3-mode drive\r  2: 2 Meg Tape\r  3: Reserved\r B2: Reserved\r B1-0: DTYPE0, DTYPE1: Drive Type select
+F5 = CRF5 (Default 0x00)\r FDD1 Selection: Same as FDD0 of CRF4
