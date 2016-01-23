@@ -1,0 +1,48 @@
+END USER LICENSE AGREEMENT
+
+We grant you one license to install and use this software on a single computer. You may create backups to the software but do not circulate/distribute them in public. If you do not agree to the following terms of this license, please uninstall and remove all copies of this software.
+
+You may install and use the software on another computer, but the software may not be in use on more than one computer at a time unless you purchase additional licenses. You may make back-up copies of the software for archival purposes. License cannot be transferred or resold to another party.
+
+The software is protected by the copyright laws of European Union and other countries, and we retain all intellectual property rights in the software. You may not separately publish, sell, market, distribute, lend, lease, rent, reverse engineer or sublicense the software, or any part of it, including the license key.
+Exception being the libraries 'wimlib' and '7-zip', described at the end of this document, which follow their own (less restricting) license independently.
+
+
+ACTIVATION
+
+Online connection is necessary for the initial license activation. License is tied to a specific machine upon activation, and can be reactivated online using different host hardware for up to 5 times per license, after which an email-only activation is in effect. Software can function and be upgraded offline, without the need for reactivation unless hardware was changed. License activation is preserved over the host OS reinstalations, if the acompanying original activated license file was backed up and hardware did not change.
+
+
+LIMITED WARRANTY
+
+We warrant that the software will provide the features and functions generally described in the product specification on our website when you purchased it and in the product documentation.
+
+We have taken reasonable steps to keep the software free of viruses, spyware, "back door" entrances, or any other harmful code. We will not track or collect any information about you, your data, or your use of the software except license activation and as you specifically authorize. The software will not download or install patches, upgrades, or any third party software without getting your permission.
+
+We do not warrant that the software or your ability to use it will be uninterrupted or error-free. To the extent permitted by applicable law, we disclaim any implied warranty of merchantability or fitness for a particular purpose.
+
+Additionally, if Microsoft changes how a supported Windows version operates, and thus permanently disabling a certain feature of this program, we reserve the right to pivot or remove the affected feature from the program.
+
+
+LIMITATIONS ON LIABILITY
+
+Your exclusive remedy under the above limited warranty shall be, at our option, either a full refund of the purchase price (if the reclamation is submitted within a month of the purchase date) or correction of the defective software if technically feasable and falls within the existing functionality. To the fullest extent permitted by applicable law, we disclaim all liability for indirect or consequential damages that arise under this license agreement.
+
+
+GENERAL PROVISIONS
+
+If any part of this agreement is found to be invalid or unenforceable, the remaining terms will stay in effect. This agreement does not prejudice the statutory rights of any party dealing as a consumer.
+
+This agreement does not supersede any express warranties we made to you. Any modification to this agreement must be agreed to in writing by both parties.
+
+This agreement will apply from the date of the installation of the software.
+
+
+OPEN SOURCE COPYRIGHT NOTICE
+
+This software is not open source, but it externally includes and makes use of the libraries 'wimlib' and '7-zip', which are open source.
+The versions of wimlib and 7-zip included in this package are distributed under the GNU Lesser General Public License (LGPL) version 3, the terms of which can be read online at http://www.gnu.org/licenses/lgpl.html.
+A copy of the original libraries being used and the copy of LGPL license with additional information will be present in the .\Tools subdirectory after installation.
+Additional information and source code location can be found in the included 'readme.txt' documents of each Tools library subfolder.
+wimlib Copyright (C) 2012-2015 Eric Biggers
+7-Zip Copyright (C) 1999-2015 Igor Pavlov

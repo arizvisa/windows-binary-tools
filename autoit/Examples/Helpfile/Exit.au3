@@ -1,0 +1,3 @@
+; very simple script
+
+Exit

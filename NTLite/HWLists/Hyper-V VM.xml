@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Hardware xmlns="urn:schemas-nliteos-com:pn.v1">
+	<Device name="Audio Endpoint" hidden="false" className="audioendpoint" displayName="Remote Audio">
+		<HWID>GENERICAUDIOENDPOINT</HWID>
+		<HWID>MMDEVAPI\AUDIOENDPOINTS</HWID>
+		<HWID>SWD\GENERIC</HWID>
+		<HWID>SWD\GENERICRAW</HWID>
+	</Device>
+	<Device name="CD-ROM Drive" hidden="false" className="cdrom" displayName="Msft Virtual CD/ROM ATA Device">
+		<HWID>GENCDROM</HWID>
+		<HWID>IDE\CDROMMSFT_VIRTUAL_CD/ROM_____________________</HWID>
+		<HWID>IDE\CDROMMSFT_VIRTUAL_CD/ROM_____________________1.0_____</HWID>
+		<HWID>IDE\MSFT_VIRTUAL_CD/ROM_____________________1.0_____</HWID>
+		<HWID>MSFT_VIRTUAL_CD/ROM_____________________1.0_____</HWID>
+	</Device>
+	<Device name="ACPI PC" hidden="false" className="computer" displayName="ACPI PC">
+		<HWID>ACPIAPIC</HWID>
+		<HWID>DETECTEDINTERNAL\ACPI_HAL</HWID>
+		<HWID>DETECTED\ACPI_HAL</HWID>
+	</Device>
+	<Device name="Disk drive" hidden="false" className="diskdrive" displayName="Virtual HD ATA Device">
+		<HWID>GENDISK</HWID>
+		<HWID>IDE\DISKVIRTUAL_HD______________________________</HWID>
+		<HWID>IDE\DISKVIRTUAL_HD______________________________1.1.0___</HWID>
+		<HWID>IDE\VIRTUAL_HD______________________________1.1.0___</HWID>
+		<HWID>VIRTUAL_HD______________________________1.1.0___</HWID>
+	</Device>
+	<Device name="Microsoft Hyper-V Video" hidden="false" className="display" displayName="Microsoft Hyper-V Video">
+		<HWID>VMBUS\{5620E0C7-8062-4DCE-AEB7-520C7EF76171}</HWID>
+		<HWID>VMBUS\{DA0A7802-E377-4AAC-8E77-0558EB1073F8}</HWID>
+	</Device>
+	<Device name="IDE Channel" hidden="false" className="hdc" displayName="ATA Channel 0">
+		<HWID>*PNP0600</HWID>
+		<HWID>INTEL-PIIX4</HWID>
+		<HWID>INTERNAL_IDE_CHANNEL</HWID>
+	</Device>
+	<Device name="Intel(R) 82371AB/EB PCI Bus Master IDE Controller" hidden="false" className="hdc" displayName="Intel(R) 82371AB/EB PCI Bus Master IDE Controller">
+		<HWID>PCI\CC_0101</HWID>
+		<HWID>PCI\CC_010180</HWID>
+		<HWID>PCI\VEN_8086</HWID>
+		<HWID>PCI\VEN_8086&amp;CC_0101</HWID>
+		<HWID>PCI\VEN_8086&amp;CC_010180</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_7111</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_7111&amp;CC_0101</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_7111&amp;CC_010180</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_7111&amp;REV_01</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_7111&amp;SUBSYS_00000000</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_7111&amp;SUBSYS_00000000&amp;REV_01</HWID>
+	</Device>
+	<Device name="Microsoft Hyper-V Input" hidden="false" className="hidclass" displayName="Microsoft Hyper-V Input">
+		<HWID>VMBUS\{58F75A6D-D949-4320-99E1-A2A2576D581C}</HWID>
+		<HWID>VMBUS\{CFA8B69E-5B4A-4CC0-B98B-8BA1A1F3F95A}</HWID>
+	</Device>
+	<Device name="Microsoft Hyper-V Virtual Keyboard" hidden="false" className="keyboard" displayName="Microsoft Hyper-V Virtual Keyboard">
+		<HWID>VMBUS\{D34B2567-B9B6-42B9-8778-0A4EC0B955BF}</HWID>
+		<HWID>VMBUS\{F912AD6D-2B17-48EA-BD65-F927A61C7684}</HWID>
+	</Device>
+	<Device name="Remote Desktop Keyboard Device" hidden="false" className="keyboard" displayName="Remote Desktop Keyboard Device">
+		<HWID>TI_COMPAT_DEVICE</HWID>
+		<HWID>TS_INPT\TS_KBD</HWID>
+	</Device>
+	<Device name="Standard PS/2 Keyboard" hidden="false" className="keyboard" displayName="Standard PS/2 Keyboard">
+		<HWID>*PNP0303</HWID>
+		<HWID>*PNP030B</HWID>
+		<HWID>ACPI\PNP0303</HWID>
+		<HWID>ACPI\VEN_PNP&amp;DEV_0303</HWID>
+	</Device>
+	<Device name="Generic Non-PnP Monitor" hidden="false" className="monitor" displayName="Generic Non-PnP Monitor">
+		<HWID>*PNP09FF</HWID>
+		<HWID>MONITOR\DEFAULT_MONITOR</HWID>
+	</Device>
+	<Device name="Generic PnP Monitor" hidden="true" className="monitor" displayName="Generic PnP Monitor">
+		<HWID>*PNP09FF</HWID>
+		<HWID>MONITOR\RYI0001</HWID>
+	</Device>
+	<Device name="HID-compliant mouse" hidden="false" className="mouse" displayName="HID-compliant mouse">
+		<HWID>HID\{58F75A6D-D949-4320-99E1-A2A2576D581C}</HWID>
+		<HWID>HID\{CFA8B69E-5B4A-4CC0-B98B-8BA1A1F3F95A}</HWID>
+		<HWID>HID_DEVICE</HWID>
+		<HWID>HID_DEVICE_SYSTEM_MOUSE</HWID>
+		<HWID>HID_DEVICE_UP:0001_U:0002</HWID>
+	</Device>
+	<Device name="Microsoft PS/2 Mouse" hidden="false" className="mouse" displayName="Microsoft PS/2 Mouse">
+		<HWID>*PNP0F03</HWID>
+		<HWID>*PNP0F13</HWID>
+		<HWID>ACPI\PNP0F03</HWID>
+		<HWID>ACPI\VEN_PNP&amp;DEV_0F03</HWID>
+	</Device>
+	<Device name="Remote Desktop Mouse Device" hidden="false" className="mouse" displayName="Remote Desktop Mouse Device">
+		<HWID>TI_COMPAT_DEVICE</HWID>
+		<HWID>TS_INPT\TS_MOU</HWID>
+	</Device>
+	<Device name="Microsoft Hyper-V Network Adapter" hidden="false" className="net" displayName="Microsoft Hyper-V Network Adapter #2">
+		<HWID>VMBUS\{CFB2D76D-90E6-4217-A883-3A6DFE57E0F9}</HWID>
+		<HWID>VMBUS\{F8615163-DF3E-46C5-913F-F2D2F965ED0E}</HWID>
+	</Device>
+	<Device name="Communications Port" hidden="false" className="ports" displayName="Communications Port (COM1)">
+		<HWID>*PNP0501</HWID>
+		<HWID>ACPI\PNP0501</HWID>
+		<HWID>ACPI\VEN_PNP&amp;DEV_0501</HWID>
+	</Device>
+	<Device name="Intel Processor" hidden="false" className="processor" displayName="Intel(R) Core(TM) i7-3930K CPU @ 3.20GHz">
+		<HWID>*GENUINEINTEL_-_X86</HWID>
+		<HWID>*GENUINEINTEL_-_X86_FAMILY_6</HWID>
+		<HWID>*GENUINEINTEL_-_X86_FAMILY_6_MODEL_45</HWID>
+		<HWID>ACPI\GENUINEINTEL_-_X86</HWID>
+		<HWID>ACPI\GENUINEINTEL_-_X86_FAMILY_6</HWID>
+		<HWID>ACPI\GENUINEINTEL_-_X86_FAMILY_6_MODEL_45</HWID>
+		<HWID>ACPI\PROCESSOR</HWID>
+	</Device>
+	<Device name="Microsoft Hyper-V SCSI Controller" hidden="false" className="scsiadapter" displayName="Microsoft Hyper-V SCSI Controller">
+		<HWID>VMBUS\{673408F3-8289-41BE-83F9-57C2BE11D55A}</HWID>
+		<HWID>VMBUS\{BA6163D9-04A1-4D29-B605-72E2FFB1DC7F}</HWID>
+	</Device>
+	<Device name="ACPI Fixed Feature Button" hidden="false" className="system" displayName="ACPI Fixed Feature Button">
+		<HWID>*FIXEDBUTTON</HWID>
+		<HWID>ACPI\FIXEDBUTTON</HWID>
+	</Device>
+	<Device name="Composite Bus Enumerator" hidden="false" className="system" displayName="Composite Bus Enumerator">
+		<HWID>ROOT\COMPOSITEBUS</HWID>
+	</Device>
+	<Device name="Direct memory access controller" hidden="false" className="system" displayName="Direct memory access controller">
+		<HWID>*PNP0200</HWID>
+		<HWID>ACPI\PNP0200</HWID>
+		<HWID>ACPI\VEN_PNP&amp;DEV_0200</HWID>
+	</Device>
+	<Device name="Intel 82371AB/EB PCI to ISA bridge (ISA mode)" hidden="false" className="system" displayName="Intel 82371AB/EB PCI to ISA bridge (ISA mode)">
+		<HWID>PCI\CC_0601</HWID>
+		<HWID>PCI\CC_060100</HWID>
+		<HWID>PCI\VEN_8086</HWID>
+		<HWID>PCI\VEN_8086&amp;CC_0601</HWID>
+		<HWID>PCI\VEN_8086&amp;CC_060100</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_7110</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_7110&amp;CC_0601</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_7110&amp;CC_060100</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_7110&amp;REV_01</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_7110&amp;SUBSYS_00001414</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_7110&amp;SUBSYS_00001414&amp;REV_01</HWID>
+	</Device>
+	<Device name="Intel 82443BX Pentium(R) II Processor to PCI Bridge" hidden="false" className="system" displayName="Intel 82443BX Pentium(R) II Processor to PCI Bridge">
+		<HWID>PCI\CC_0600</HWID>
+		<HWID>PCI\CC_060000</HWID>
+		<HWID>PCI\VEN_8086</HWID>
+		<HWID>PCI\VEN_8086&amp;CC_0600</HWID>
+		<HWID>PCI\VEN_8086&amp;CC_060000</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_7192</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_7192&amp;CC_0600</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_7192&amp;CC_060000</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_7192&amp;REV_03</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_7192&amp;SUBSYS_00000000</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_7192&amp;SUBSYS_00000000&amp;REV_03</HWID>
+	</Device>
+	<Device name="Microsoft ACPI-Compliant System" hidden="false" className="system" displayName="Microsoft ACPI-Compliant System">
+		<HWID>*PNP0C08</HWID>
+		<HWID>ACPI_HAL\PNP0C08</HWID>
+	</Device>
+	<Device name="Microsoft Basic Display Driver" hidden="false" className="system" displayName="Microsoft Basic Display Driver">
+		<HWID>ROOT\BASICDISPLAY</HWID>
+	</Device>
+	<Device name="Microsoft Basic Render Driver" hidden="false" className="system" displayName="Microsoft Basic Render Driver">
+		<HWID>ROOT\BASICRENDER</HWID>
+	</Device>
+	<Device name="Microsoft Hyper-V Activation Component" hidden="false" className="system" displayName="Microsoft Hyper-V Activation Component">
+		<HWID>VMBUS\{3375BAF4-9E15-4B30-B765-67ACB10D607B}</HWID>
+		<HWID>VMBUS\{4487B255-B88C-403F-BB51-D1F69CF17F87}</HWID>
+	</Device>
+	<Device name="Microsoft Hyper-V Data Exchange" hidden="false" className="system" displayName="Microsoft Hyper-V Data Exchange">
+		<HWID>VMBUS\{242FF919-07DB-4180-9C2E-B86CB68C8C55}</HWID>
+		<HWID>VMBUS\{A9A0F4E7-5A45-4D96-B827-8A841E8C03E6}</HWID>
+	</Device>
+	<Device name="Microsoft Hyper-V Generation Counter" hidden="false" className="system" displayName="Microsoft Hyper-V Generation Counter">
+		<HWID>*HYPER_V_GEN_COUNTER_V1</HWID>
+		<HWID>ACPI\HYPER_V_GEN_COUNTER_V1</HWID>
+		<HWID>ACPI\VM_GEN_COUNTER</HWID>
+		<HWID>VM_GEN_COUNTER</HWID>
+	</Device>
+	<Device name="Microsoft Hyper-V Guest Shutdown" hidden="false" className="system" displayName="Microsoft Hyper-V Guest Shutdown">
+		<HWID>VMBUS\{0E0B6031-5213-4934-818B-38D90CED39DB}</HWID>
+		<HWID>VMBUS\{B6650FF7-33BC-4840-8048-E0676786F393}</HWID>
+	</Device>
+	<Device name="Microsoft Hyper-V Heartbeat" hidden="false" className="system" displayName="Microsoft Hyper-V Heartbeat">
+		<HWID>VMBUS\{57164F39-9115-4E78-AB55-382F3BD5422D}</HWID>
+		<HWID>VMBUS\{FD149E91-82E0-4A7D-AFA6-2A4166CBD7C0}</HWID>
+	</Device>
+	<Device name="Microsoft Hyper-V Remote Desktop Control Channel" hidden="false" className="system" displayName="Microsoft Hyper-V Remote Desktop Control Channel">
+		<HWID>VMBUS\{99221FA0-24AD-11E2-BE98-001AA01BBF6E}</HWID>
+		<HWID>VMBUS\{F8E65716-3CB3-4A06-9A60-1889C5CCCAB5}</HWID>
+	</Device>
+	<Device name="Microsoft Hyper-V Remote Desktop Data Channel" hidden="false" className="system" displayName="Microsoft Hyper-V Remote Desktop Data Channel">
+		<HWID>VMBUS\{99221FA2-24AD-11E2-BE98-001AA01BBF6E}</HWID>
+		<HWID>VMBUS\{F9E9C0D3-B511-4A48-8046-D38079A8830C}</HWID>
+	</Device>
+	<Device name="Microsoft Hyper-V Remote Desktop Virtualization" hidden="false" className="system" displayName="Microsoft Hyper-V Remote Desktop Virtualization">
+		<HWID>VMBUS\{276AACF4-AC15-426C-98DD-7521AD3F01FE}</HWID>
+		<HWID>VMBUS\{F5BEE29C-1741-4AAD-A4C2-8FDEDB46DCC2}</HWID>
+	</Device>
+	<Device name="Microsoft Hyper-V S3 Cap" hidden="false" className="system" displayName="Microsoft Hyper-V S3 Cap">
+		<HWID>PCI\CC_0300</HWID>
+		<HWID>PCI\CC_030000</HWID>
+		<HWID>PCI\VEN_1414</HWID>
+		<HWID>PCI\VEN_1414&amp;CC_0300</HWID>
+		<HWID>PCI\VEN_1414&amp;CC_030000</HWID>
+		<HWID>PCI\VEN_1414&amp;DEV_5353</HWID>
+		<HWID>PCI\VEN_1414&amp;DEV_5353&amp;CC_0300</HWID>
+		<HWID>PCI\VEN_1414&amp;DEV_5353&amp;CC_030000</HWID>
+		<HWID>PCI\VEN_1414&amp;DEV_5353&amp;REV_00</HWID>
+		<HWID>PCI\VEN_1414&amp;DEV_5353&amp;SUBSYS_00000000</HWID>
+		<HWID>PCI\VEN_1414&amp;DEV_5353&amp;SUBSYS_00000000&amp;REV_00</HWID>
+	</Device>
+	<Device name="Microsoft Hyper-V Storage Accelerator" hidden="false" className="system" displayName="Microsoft Hyper-V Storage Accelerator">
+		<HWID>VMBUS\{00000000-0000-8899-0000-000000000000}</HWID>
+		<HWID>VMBUS\{32412632-86CB-44A2-9B5C-50D1417354F5}</HWID>
+	</Device>
+	<Device name="Microsoft Hyper-V Time Synchronization" hidden="false" className="system" displayName="Microsoft Hyper-V Time Synchronization">
+		<HWID>VMBUS\{2DD1CE17-079E-403C-B352-A1921EE207EE}</HWID>
+		<HWID>VMBUS\{9527E630-D0AE-497B-ADCE-E80AB0175CAF}</HWID>
+	</Device>
+	<Device name="Microsoft Hyper-V Virtual Machine Bus" hidden="false" className="system" displayName="Microsoft Hyper-V Virtual Machine Bus">
+		<HWID>*VMBUS</HWID>
+		<HWID>ACPI\VMBUS</HWID>
+	</Device>
+	<Device name="Microsoft Hyper-V Volume Shadow Copy" hidden="false" className="system" displayName="Microsoft Hyper-V Volume Shadow Copy">
+		<HWID>VMBUS\{2450EE40-33BF-4FBD-892E-9FB06E9214CF}</HWID>
+		<HWID>VMBUS\{35FA2E29-EA23-4236-96AE-3A6EBACBA440}</HWID>
+	</Device>
+	<Device name="Microsoft System Management BIOS Driver" hidden="false" className="system" displayName="Microsoft System Management BIOS Driver">
+		<HWID>ROOT\MSSMBIOS</HWID>
+	</Device>
+	<Device name="Microsoft Virtual Drive Enumerator" hidden="false" className="system" displayName="Microsoft Virtual Drive Enumerator">
+		<HWID>ROOT\VDRVROOT</HWID>
+	</Device>
+	<Device name="Motherboard resources" hidden="false" className="system" displayName="Motherboard resources">
+		<HWID>*PNP0C02</HWID>
+		<HWID>ACPI\PNP0C02</HWID>
+		<HWID>ACPI\VEN_PNP&amp;DEV_0C02</HWID>
+	</Device>
+	<Device name="NDIS Virtual Network Adapter Enumerator" hidden="false" className="system" displayName="NDIS Virtual Network Adapter Enumerator">
+		<HWID>ROOT\NDISVIRTUALBUS</HWID>
+	</Device>
+	<Device name="Numeric data processor" hidden="false" className="system" displayName="Numeric data processor">
+		<HWID>*PNP0C04</HWID>
+		<HWID>ACPI\PNP0C04</HWID>
+		<HWID>ACPI\VEN_PNP&amp;DEV_0C04</HWID>
+	</Device>
+	<Device name="PCI bus" hidden="false" className="system" displayName="PCI bus">
+		<HWID>*PNP0A03</HWID>
+		<HWID>ACPI\PNP0A03</HWID>
+		<HWID>ACPI\VEN_PNP&amp;DEV_0A03</HWID>
+	</Device>
+	<Device name="Plug and Play Software Device Enumerator" hidden="false" className="system" displayName="Plug and Play Software Device Enumerator">
+		<HWID>ROOT\SWENUM</HWID>
+	</Device>
+	<Device name="Programmable interrupt controller" hidden="false" className="system" displayName="Programmable interrupt controller">
+		<HWID>*PNP0000</HWID>
+		<HWID>ACPI\PNP0000</HWID>
+		<HWID>ACPI\VEN_PNP&amp;DEV_0000</HWID>
+	</Device>
+	<Device name="Remote Desktop Device Redirector Bus" hidden="false" className="system" displayName="Remote Desktop Device Redirector Bus">
+		<HWID>ROOT\RDPBUS</HWID>
+	</Device>
+	<Device name="System board" hidden="false" className="system" displayName="System board">
+		<HWID>*PNP0C01</HWID>
+		<HWID>ACPI\PNP0C01</HWID>
+		<HWID>ACPI\VEN_PNP&amp;DEV_0C01</HWID>
+	</Device>
+	<Device name="System CMOS/real time clock" hidden="false" className="system" displayName="System CMOS/real time clock">
+		<HWID>*PNP0B00</HWID>
+		<HWID>ACPI\PNP0B00</HWID>
+		<HWID>ACPI\VEN_PNP&amp;DEV_0B00</HWID>
+	</Device>
+	<Device name="System speaker" hidden="false" className="system" displayName="System speaker">
+		<HWID>*PNP0800</HWID>
+		<HWID>ACPI\PNP0800</HWID>
+		<HWID>ACPI\VEN_PNP&amp;DEV_0800</HWID>
+	</Device>
+	<Device name="System timer" hidden="false" className="system" displayName="System timer">
+		<HWID>*PNP0100</HWID>
+		<HWID>ACPI\PNP0100</HWID>
+		<HWID>ACPI\VEN_PNP&amp;DEV_0100</HWID>
+	</Device>
+	<Device name="UMBus Enumerator" hidden="false" className="system" displayName="UMBus Enumerator">
+		<HWID>UMB\UMBUS</HWID>
+	</Device>
+	<Device name="UMBus Root Bus Enumerator" hidden="false" className="system" displayName="UMBus Root Bus Enumerator">
+		<HWID>ROOT\UMBUS</HWID>
+	</Device>
+	<Device name="Volume Manager" hidden="false" className="system" displayName="Volume Manager">
+		<HWID>DETECTEDINTERNAL\VOLMGR</HWID>
+		<HWID>DETECTED\VOLMGR</HWID>
+		<HWID>ROOT\VOLMGR</HWID>
+	</Device>
+	<Device name="Generic volume" hidden="false" className="volume" displayName="Generic volume">
+		<HWID>STORAGE\VOLUME</HWID>
+	</Device>
+</Hardware>

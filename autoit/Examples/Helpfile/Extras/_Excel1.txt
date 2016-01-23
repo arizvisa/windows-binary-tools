@@ -1,0 +1,4 @@
+Text1|Text2|Number|Date|Number
+"Textline 1"||"Testline 1 delimited"|123.000,10|08.10.2012|-12345
+"Textline 2"||"Testline 2 delimited"|456.739,99|18.10.2012|-1
+"Textline 3"||"Testline 3 delimited"|23,094.04|28.10.2012|-1

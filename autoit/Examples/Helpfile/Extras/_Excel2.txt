@@ -1,0 +1,4 @@
+Text1            Number           Date
+Textline_1    123000.10     08.10.2012
+Textline_2    5,6739.99     18.10.2012
+Textline_3     1.234,01     28.10.2012

@@ -1,0 +1,1463 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NTLiteTranslation display="Hrvatski" code="hr-hr" rtl="false">
+  <Translator>
+    <Name>Luci Goles</Name>
+    <EMail>goles@net.hr</EMail>
+  </Translator>
+  <Components>
+    <System>
+      <S0001>System locale</S0001>
+      <S0013>Akcijski centar</S0013>
+      <S0014>Akcijski centar navodi važne poruke o sigurnosti i održavanju postavki koje zahtijevaju vašu pažnju.</S0014>
+      <S0042>Omogućuje Vam da više diskova različitih veličina i sučelja grupirate zajedno, tako ih operativni sustav vidi kao jedan veliki disk.</S0042>
+      <S0046>Kompatibilnost aplikacije</S0046>
+      <S0047>Aplikacijski Identity Service</S0047>
+      <S0048>Pokretač aplikacije</S0048>
+      <S0050>Aplikacije mogu koristiti WIF za obradu tokena izdanih od sigurnosnih službi token i donositi odluke temeljene na identitetu na web aplikaciji ili web usluzi.</S0050>
+      <S0065>Automatski radi sigurnosne kopije izmjenjenih datoteka sadržanih u knjižnicama (Libraries).</S0065>
+      <S0069>Automatska reprodukcija</S0069>
+      <S0070>Automatska reprodukcija omogućuje odabir programa za automatsko korištenje u različitim vrstama digitalnih medija, kao glazbeni CD ili slike iz digitalnog fotoaparata.</S0070>
+      <S0080>Sigurnosno kopira neke datoteke Windows paketa. Ovo nije cijeli WinSxS, već samo dodatne kopije nekih paketnih unosa, uklanjanje neće ništa oštetiti.</S0080>
+      <S0095>BitLocker Drive Enkripcija</S0095>
+      <S0097>Block Level Backup Service Engine</S0097>
+      <S0102>Boot Manager</S0102>
+      <S0113>Cache i temp datoteke</S0113>
+      <S0115>Caching mehanizam za brže pokretanje aplikacija.</S0115>
+      <S0124>Cardspace</S0124>
+      <S0128>CEIP (SQM)</S0128>
+      <S0182>Sveobuhvatna sinkronizacijska platforma omogućuje suradnju i offline pristup za aplikacije, usluge i uređaje.</S0182>
+      <S0196>Kontekstualne opcije datoteka Pošalji na - Mail ili Radnu površinu.</S0196>
+      <S0223>Credential Manager</S0223>
+      <S0249>Desktop pločica</S0249>
+      <S0250>Desktop Window Manager</S0250>
+      <S0260>Utvrđuje i provjerava identitet zahtjeva. Uklanjanje ovog servisa će spriječiti provođenje AppLocker.</S0260>
+      <S0262>Informacije i resursi kategorije uređaja</S0262>
+      <S0263>Device Experience</S0263>
+      <S0266>Dijagnostika i rješavanje problema</S0266>
+      <S0267>Dialog Filter</S0267>
+      <S0276>Diskovni Defragmenter</S0276>
+      <S0277>Dijagnostika kvara diska</S0277>
+      <S0311>Easy Transfer</S0311>
+      <S0314>Edition configuration file (EI.cfg)</S0314>
+      <S0317>Ugrađeni upravitelj zaključavanja</S0317>
+      <S0327>Omogućuje aplikacijama u različitim vremenima da komuniciraju preko heterogenih mreža i sustava koji mogu biti privremeno offline. Potreban za IIS.</S0327>
+      <S0331>Omogućuje početak procesa pod drugim akreditivima. Potreban za Blizzard Battle.net ažuriranja, između ostalog.</S0331>
+      <S0333>Omogućuje korištenje hardverskog ubrzanja za renderiranje grafičkog korisničkog sučelja Windowsa.</S0333>
+      <S0337>Primjenjuje grupna pravila za uređaje za pohranu.</S0337>
+      <S0339>Enhanced Storage</S0339>
+      <S0340>Uređaji pojačane pohrane su uređaji koji podržavaju IEEE 1667 protokol za pružanje funkcija kao što su provjera autentičnosti na razini hardvera uređaja za pohranu.</S0340>
+      <S0363>Zapisnik događaja</S0363>
+      <S0405>File History</S0405>
+      <S0412>Datoteke u ovom direktoriju (Sources\SxS), sadržane izvan glavne slike, se mogu koristiti za instalaciju značajki kao .NET3.5 nakon instalacije koje se obično ne instaliraju putem upravljačke ploče. Ako ste već omogućili u mogućnostima, sigurno je ukloniti. Uvijek možete koristiti izvornu sliku imenik prilikom uključivanja značajke koje izričito zahtijeva.</S0412>
+      <S0433>Framework povezanih Microsoftovih tehnologija koji omogućuje programerima jedinstveni i sveobuhvatni način razvoja aplikacija koje mogu pristupiti bilo kojem skladištu podataka. Sastojci su: ActiveX Data Objects (ADO), OLE DB i Open Database Connectivity (ODBC).</S0433>
+      <S0439>Gadget platform</S0439>
+      <S0447>Filter pokreta</S0447>
+      <S0448>Pomoć, smjernice i alati koji će vam pomoći identifikaciju i rad kroz probleme s kompatibilnošću na koje možete naići kada selite svoje aplikacije na noviju verziju Windowsa. Potrebno za Reliability Analysis, ABBYY FineReader i KB2758694 (MSXML4), između ostalog.</S0448>
+      <S0452>Group Policy Client</S0452>
+      <S0453>Group policy storage service</S0453>
+      <S0461>Pomaže premjestiti datoteke i postavke na novo računalo.</S0461>
+      <S0471>Hyper-V gost</S0471>
+      <S0481>Ako je ova datoteka uklonjena, a konačna slika ima više od jednog izdanja, korisnik će biti zatražen da odabere Windows izdanje za koje ima odgovarajući ključ.</S0481>
+      <S0482>Ako niste sigurni, nemojte ukloniti.</S0482>
+      <S0518>Uključuje Mobility Centar.</S0518>
+      <S0525>Infrastruktura za dijagnostiku i rješavanje problema komponenti sustava Windows.</S0525>
+      <S0526>Infrastruktura za hvatanje srušenih otpadaka i prijavu u Microsoft.</S0526>
+      <S0550>Internet Information Server (IIS)</S0550>
+      <S0562>Omogućuje vam da konfigurirate kombinaciju tipki kojom želite spriječiti korisnički ulazak s tipkovnice.</S0562>
+      <S0575>Kernel Debugging</S0575>
+      <S0576>Tipkovnički Filter</S0576>
+      <S0577>Keyboard Filter AppShim</S0577>
+      <S0610>Lokalni Sigurnosni Policy Editor</S0610>
+      <S0612>Lokacijske notifikacije</S0612>
+      <S0627>Upravlja i provodi Volume Shadow kopije korištene za sigurnosne kopije i druge svrhe.</S0627>
+      <S0629>Manifest Backup (WinSxS$#92;Backup)</S0629>
+      <S0631>Manual feature repository</S0631>
+      <S0632>Ručni Setup</S0632>
+      <S0641>Memory Diagnostic</S0641>
+      <S0644>Početna stranica Metro dinamične desktop pločice. Ako je uklonjena, nema Desktop prečaca na Metro početnoh stranici.</S0644>
+      <S0647>Microsoft Data Access Components (MDAC)</S0647>
+      <S0650>Microsoft Message Queue (MSMQ)</S0650>
+      <S0651>Microsoft Sync Framework</S0651>
+      <S0662>MobilePC</S0662>
+      <S0689>Potrebno za funkcionalnost upravljanja diskom - smanjivanje volumena.</S0689>
+      <S0690>Potrebno za Media Centar koji među ostalim koriste .NET Framework 2.0 i 3.5.</S0690>
+      <S0693>Potrebno za vraćanje sustava, zakazana ažuriranja - uključujući automatske provjere Windows ažuriranja, neka pokretanja aplikacija kod logiranja itd.</S0693>
+      <S0694>Potrebno za BIOS podizanje OS (ne UEFI).</S0694>
+      <S0695>Potrebno za UEFI podizanje OS.</S0695>
+      <S0699>Potrebno za Windows vatrozid.</S0699>
+      <S0700>NET sklop predmemorije</S0700>
+      <S0701>.NET Framework </S0701>
+      <S0702>.NET Framework 2.0, 3.0 and 3.5</S0702>
+      <S0703>.NET Framework Core</S0703>
+      <S0704>.NET 4.x Setup predmemorija</S0704>
+      <S0712>Network Projection</S0712>
+      <S0719>NFS Administrativni alati</S0719>
+      <S0729>NTVDM 16-bit podsustav</S0729>
+      <S0730>NTVDM podsustav pruža podršku za 16-bitni DOS i 16-bitne Windows aplikacije na x86 sustavima.</S0730>
+      <S0772>Parental Controls</S0772>
+      <S0786>Performance Monitor</S0786>
+      <S0812>PowerShell</S0812>
+      <S0813>Prekompilirane .NET biblioteke. Uklanjanje ovog će dovesti do ponovnog stvaranja za vrijeme praznog hoda nakon setupa. Štedi prostor na instalacijskom mediju.</S0813>
+      <S0818>Priprema instalaciju Windowsa za umnožavanje, reviziju i isporuku kupcima.</S0818>
+      <S0851>Pruža mogućnost montiranja VHD ili ISO datoteka.</S0851>
+      <S0852>Pruža sadržaj indeksiranja, predmemoriranja i rezultata pretraživanja datoteka, e-mailova i drugih sadržaja. Ovo uklanja funkcionalnost pretraživanja u potpunosti, ne samo servis.</S0852>
+      <S0888>Reliability Analysis Services</S0888>
+      <S0923>Resursi za Control Panel - Uređaji i pisači, ukoliko se ukloni, nedostajat će ikone. Također je potrebno za gumb sigurnosnog iskapčanja USBa.</S0923>
+      <S0958>Secondary Logon</S0958>
+      <S0959>secpol.msc - može se koristiti za provjeru ili podešenje sigurnosnih postavki (policies) na glavnom računalu u Workgroup ili HomeGroup</S0959>
+      <S0961>Sigurnosni centar</S0961>
+      <S0962>Sigurnosna značajka koja od vas traži da omogućite administrativni pristup za određenu aplikaciju. Uključuje Application Information service. Između ostalog, potrebna za Win10 Start Menu.</S0962>
+      <S0987>Send To Mail and Desktop</S0987>
+      <S0988>Sensors</S0988>
+      <S1000>Setup datoteke za .NET 4.x. Ako ne planirate deinstalirati .NET 4.x, uklanjanje je sigurno.</S1000>
+      <S1005>Shared Protection Point (SPP)</S1005>
+      <S1006>Shell Launcher</S1006>
+      <S1016>SideShow</S1016>
+      <S1033>Mali uslužni program za konfiguriranje nekih opcija podizanja i startanja Windowsa.</S1033>
+      <S1074>Storage Spaces</S1074>
+      <S1075>Podsustav za UNIX zasnovane aplikacije</S1075>
+      <S1076>Podsustav za UNIX zasnovane aplikacije (SUA) je izvorno-kompatibilan podsustav za sastavljanje i vođenje klijentovih UNIX zasnovanih aplikacija i skripti na računalu pod Windows operativnim sustavom.</S1076>
+      <S1077>Superfetch</S1077>
+      <S1079>Support directory</S1079>
+      <S1080>Direktorij podrške u korijenskoj mapi slike, sadrži čarobnjaka migracije. To ne utječe na konačno instaliran proizvod, samo na instalacijske datoteke.</S1080>
+      <S1081>Podrška za enkripciju pogona.</S1081>
+      <S1083>Podrška za prodavački dodane značajke da se poboljša korisničko korištenje uređaja spojenih na računalo.</S1083>
+      <S1097>Alat sistemske konfiguracije (MSConfig)</S1097>
+      <S1098>Alat sistemske informacije (MSInfo32)</S1098>
+      <S1099>Alat sistemske pripreme (Sysprep)</S1099>
+      <S1100>Vraćanje sustava</S1100>
+      <S1105>Raspored zadataka</S1105>
+      <S1113>Prikupljanje telemetrijskih podataka te izvješćivanje Microsofta s ciljem poboljšanja Windowsa.</S1113>
+      <S1128>Sposobnost pokretanja setup.exe i nadogradnje prethodno instaliranih Windowsa s ovom slikom.</S1128>
+      <S1148>Ovi servisi prate trenutnu lokaciju sustava i upravlja zemljopisnim ogradama (geografski položaj s povezanim događajima).</S1148>
+      <S1156>Toast Notification Filter</S1156>
+      <S1159>Alati za upravljanje NFS uslugama na lokalnim i udaljenim računalima.</S1159>
+      <S1197>Jedinstveni Telemetrijski Klijent (Asimov)</S1197>
+      <S1198>Jedinstveni filter pisanja</S1198>
+      <S1221>USB Filter</S1221>
+      <S1224>Koristi se za hosting web stranice na ovom stroju.</S1224>
+      <S1228>User Account Control (UAC)</S1228>
+      <S1238>Razne privremene datoteke, mogu se sigurno ukloniti.</S1238>
+      <S1248>Potpora Virtualnog diska</S1248>
+      <S1249>Licenciranje Virtualnog PC i USB drivera</S1249>
+      <S1255>Volume Shadow Copy</S1255>
+      <S1275>Windows Anytime Upgrade</S1275>
+      <S1276>Windows sigurnosna kopija</S1276>
+      <S1279>Windows Communication Foundation (WCF) 3</S1279>
+      <S1280>Windows Communication Foundation (WCF) 4</S1280>
+      <S1283>Windows Customer Experience Improvement Program (CEIP) prikuplja podatke o tome kako Microsoftovi kupci koriste programe te o nekim problemima s kojim se susreću. Microsoft koristi te podatke kako bi pomogao u rješenju problema te unaprijedio proizvode i osobine proizvoda koje kupci najčešće koriste. Sudjelovanje je dobrovoljno, a krajnji rezultati su softverska poboljšanja kako bi se bolje zadovoljile potrebe Microsoftovih kupaca.</S1283>
+      <S1284>Windows Defender</S1284>
+      <S1285>Windows ugrađene značajke</S1285>
+      <S1286>Windows Encryption Provider Host Service</S1286>
+      <S1287>Windows Encryption Provider Host Service brokers encryption related functionalities from 3rd Party Encryption Providers to processes that need to evaluate and apply EAS policies.</S1287>
+      <S1288>Prijava greške Windowsa</S1288>
+      <S1290>Čarobnjak pomoći Windowsa</S1290>
+      <S1291>Windows Identity Foundation (WIF)</S1291>
+      <S1297>Windows Location Framework Service</S1297>
+      <S1299>Windows Management Instrumentation</S1299>
+      <S1305>Windows Presentation Foundation</S1305>
+      <S1307>Windows oporavak</S1307>
+      <S1309>Windows pretraga</S1309>
+      <S1313>Windows Sidebar</S1313>
+      <S1318>Windows ažuriranje</S1318>
+      <S1319>Značajka ažuriranja omogućuje računalu Windows ažuriranja od Microsofta ili WSUS poslužitelja i ručno instaliranje ažuriranih paketa (MSU datoteke).</S1319>
+      <S1339>Zip &amp; Cab mapa</S1339>
+    </System>
+    <Accessories>
+      <S0010>Alati pristupačnosti</S0010>
+      <S0011>Čarobnjak pristupačnosti i alati se mogu koristiti za konfiguriranje sustava kako bi zadovoljili vaše potrebe vida, sluha i mobilnosti. Potreban za CardSpace.</S0011>
+      <S0012>Accessories</S0012>
+      <S0132>Character Map</S0132>
+      <S0191>Sadrži sve Aero kursore. Ako se ukloni, vraća se na zadanu shemu (ništa).</S0191>
+      <S0192>Sadrži teme: arhitektura, likovi, krajolici, priroda i scene.</S0192>
+      <S0193>Sadrži olakšani pristup temama, visoke varijacije kontrasta.</S0193>
+      <S0310>Olakšani pristup temama</S0310>
+      <S0514>Uključuje</S0514>
+      <S0586>Legacy komponente</S0586>
+      <S0655>Razne komandnolinijske korisne stvari</S0655>
+      <S0675>Kursori miša</S0675>
+      <S0758>Druge teme</S0758>
+      <S0768>Paint</S0768>
+      <S0836>Osobni uređivač znakova</S0836>
+      <S0857>Omogućuje stvaranje vlastitih fontova.</S0857>
+      <S0954>Screensaveri</S0954>
+      <S1018>Jednostavan alat za crtanje i uređivanje.</S1018>
+      <S1236>Uslužni program koji prikazuje sve znakove dostupne u fontovima.</S1236>
+      <S1323>Wordpad</S1323>
+    </Accessories>
+    <Network>
+      <S0017>Active Directory Lightweight Directory Services (AD LDS)</S0017>
+      <S0018>ActiveX zastave kompatibilnosti (Killbits)</S0018>
+      <S0019>ActiveX Installer Service</S0019>
+      <S0029>Adobe Flash za Internet Explorer</S0029>
+      <S0036>Omogućuje administratorima da razumiju, kontroliraju i upravljaju količinom i vrstom podataka koje se pohranjuju na njihovim serverima. Koristeći File Server Resource Manager, administratori mogu postavljati kvote na mape i volumene, aktivne zaslonske datoteke i generirati sveobuhvatna izvješća za pohranu.</S0036>
+      <S0037>Omogućuje sinhronizaciju podataka s udaljenim izvorom koristeći kompresiju kako bi se smanjila količina podataka poslanih preko mreže.</S0037>
+      <S0039>Omogućuje preusmjeravanje Printeri/Drives/Ports za RDP veze.</S0039>
+      <S0040>Omogućuje korisniku sinkronizaciju podataka na svojem uređaju iz korisničke mape u korporacijskom podatkovnom centru. Uključuje Active Directory Federation Services (ADFS).</S0040>
+      <S0041>Omogućuje provjeru rezultata nedavnih sinkronizacijskih aktivnosti, ako ste podesili računalo na sinkronizaciju datoteka s mrežnog poslužitelja.</S0041>
+      <S0049>Application Layer Gateway Service</S0049>
+      <S0066>Automatski povezuje prijenosna računala na intranet preko VPNa kad god je dostupan pristup internetu.</S0066>
+      <S0071>AxInstSV - podržava instalaciju ActiveX kontrola u organizacijskom okruženju.</S0071>
+      <S0072>Background Intelligent Transfer Service (BITS)</S0072>
+      <S0096>Crna lista nesigurnih ili zlonamjernih ActiveX kontrola, pomaže očuvanju sigurnosti Internet Explorera i Microsoft Officea.</S0096>
+      <S0107>BranchCache Client</S0107>
+      <S0108>Briefcase</S0108>
+      <S0116>Može se koristiti za stvaranje profila Connection Managera i distribuciju do svojih korisnika. Korisnik ne mora znati telefonski broj dial-up poslužitelja ili IP adresu VPN poslužitelja.</S0116>
+      <S0136>Checkpoint, F5, Juniper and SonicWALL ugrađena VPN podrška.</S0136>
+      <S0165>Prikuplja i pohranjuje konfiguracijske informacije za mrežu i obavještava programe kada je ova informacija promijenjena.</S0165>
+      <S0184>Computer Browser</S0184>
+      <S0194>Contains the Internet Explorer frontend (UI) only.</S0194>
+      <S0243>Dizajniran za smanjenje korištenja WAN veze i poboljšanje odgovora aplikacije za namještenike koji pristupaju sadržaju s poslužitelja u udaljenim mjestima. Podružničina klijentska računala koriste lokalno održavane predmemorirane podatke kako bi se smanjio promet preko WAN veze.</S0243>
+      <S0265>DHCP klijent</S0265>
+      <S0268>Direct Access Connection</S0268>
+      <S0283>Distributed Link Tracking Client</S0283>
+      <S0284>DNS Client</S0284>
+      <S0312>Edge CP</S0312>
+      <S0329>Omogućuje IT administratorima mogućnost finije kontrole nad korporativnim resursima. Ako korisnik registrira svoj uređaj, IT može odobriti neki pristup, dok još provodi neke parametre upravljanja na uređaju.</S0329>
+      <S0330>Omogućuje udaljenim korisnicima da izmijene postavke registra na ovom računalu.</S0330>
+      <S0332>Omogućuje pronalaženje i izmjenu postavki mrežne konfiguracije za lokalno računalo. Potrebno za IPV6, DirectAccess i Windows 7 KB2750841, među ostalim.</S0332>
+      <S0335>Omogućuje monitoring i upravljanje MultiPoint Manager i Dashboard aplikacija vašeg stroja.</S0335>
+      <S0355>Cijeli HTML prikaz, koristi Windows Explorer i brojni drugi programi za prikaz web stranica. Uklanjanje ovog također uzrokuje da Control Panel otvara sve prečace u novim prozorima.</S0355>
+      <S0409>File Server Resource Manager</S0409>
+      <S0410>Potpora File sharing</S0410>
+      <S0417>Pronalazi i prikazuje informacije i web stranice na internetu.</S0417>
+      <S0430>Formerly known as Active Directory Application Mode (ADAM), provides directory services for directory-enabled applications without incurring the overhead of domains and forests and the requirements of a single schema throughout a forest.</S0430>
+      <S0465>HomeGroup</S0465>
+      <S0477>Identificira mreže na koje je računalo povezano, prikuplja i pohranjuje svojstva tih mreža, te obavještava aplikacije kada se ta svojstva promijene.</S0477>
+      <S0504>Izvršava protokol WS-Management za daljinsko upravljanje.</S0504>
+      <S0515>Uključuje posrednike koji nadziru aktivnost mrežnih uređaja i izvješćuju mrežnu konzolu radne stanice.</S0515>
+      <S0542>Integrated sign in support which can be used with Skype, Office 365 subscription; buy games, music and movies from Microsoft stores; OneDrive and Setting Sync.</S0542>
+      <S0546>Internet Authentication Service (IAS)</S0546>
+      <S0547>Internet Connection Sharing (ICS)</S0547>
+      <S0548>Internet Explorer engine</S0548>
+      <S0549>Internet Explorer Feature (UI)</S0549>
+      <S0552>Internet Protocol Helper (IP Helper)</S0552>
+      <S0620>Održava sinkronizaciju vaših odabranih mrežnih datoteka. Korisno je ako koristite laptop za spajanje na mrežu na radnom mjestu.</S0620>
+      <S0628>Barata dial-up i VPN (virtualna privatna mreža) povezivošću ovog računala s Internetom ili drugim udaljenim mrežama. Ako koristite hardverski gateway ili router, ovaj servis nije potreban za tu povezivost.</S0628>
+      <S0645>Microsoft Account</S0645>
+      <S0680>MultiPoint Connector</S0680>
+      <S0687>Potrebno za RDP povezivanje na ovom stroju.</S0687>
+      <S0688>Potrebno za povezivanje s drugim strojevima preko RDP.</S0688>
+      <S0697>Između ostalog, potrebno za VMWare dijeljene mape.</S0697>
+      <S0706>Network and Sharing Center</S0706>
+      <S0707>Network Connection Broker</S0707>
+      <S0709>Network List Service</S0709>
+      <S0711>Network Location Awareness</S0711>
+      <S0734>Nudi zgodan način da se netko komu vjerujete (prijatelj ili osoba tehničke podrške) spoji na vaše računalo i navigava vas do rješenja.</S0734>
+      <S0735>Offers routing services to businesses in local area and wide area network environments.</S0735>
+      <S0736>Offline datoteke</S0736>
+      <S0740>OneDrive (SkyDrive) - Desktop</S0740>
+      <S0783>Peer Networking</S0783>
+      <S0854>Pruža podršku za plug-inove protokola trećih stranki za Internet Connection Sharing.</S0854>
+      <S0861>RAS Connection Manager Administration Kit (CMAK)</S0861>
+      <S0890>Konekcijski manager daljinskog pristupa</S0890>
+      <S0891>Remote Access Service Client Tools</S0891>
+      <S0892>Remote Assistance</S0892>
+      <S0893>Remote Desktop Client</S0893>
+      <S0894>Remote Desktop Server</S0894>
+      <S0895>Remote Desktop Services Port Redirector</S0895>
+      <S0896>Remote Differential Compression (RDC)</S0896>
+      <S0897>Remote Registry</S0897>
+      <S0905>Uklanja razne WAN miniportove.</S0905>
+      <S0931>Usmjeravanje i daljinski pristup usluga</S0931>
+      <S0932>Routing and Remote Access support</S0932>
+      <S0990>Serverless mrežna tehnologija koja omogućuje nekolicini mrežnih uređaja dijeljenje resursa i izravnu komunikaciju jednih s drugima.</S0990>
+      <S1017>Simple Network Management Protocol (SNMP)</S1017>
+      <S1019>Pojedinačni TCP/IP servis</S1019>
+      <S1020>Pojedinačni TCP/IP Servis podržava slijedeće TCP/IP servise: Character Generator, Daytime, Discard, Echo and Quote of the Day. Pojedinačni TCP/IP Servis je predviđen za natražnju kompatibilnost compatibility i ne treba biti instaliran, osim ako je potrebno.</S1020>
+      <S1035>SMB v2</S1035>
+      <S1036>SMB Server v2</S1036>
+      <S1037>SMB Server Common</S1037>
+      <S1038>SMB Server v1</S1038>
+      <S1039>SMB v1</S1039>
+      <S1090>Podržava implementaciju klijent-kontroliranih uređaja i servisa, a uređaji domaćina se prilagođuju Devices Profile for Web Services (DPWS). Potrebno za Visual Studio Remote Debugger i Scan Management između ostalog.</S1090>
+      <S1093>Sync Centar</S1093>
+      <S1094>Sinhronizira vrijeme preko mreže.</S1094>
+      <S1115>Telnet Client</S1115>
+      <S1116>Telnet Server</S1116>
+      <S1125>TFTP client</S1125>
+      <S1146>Ovaj servis je odgovoran za obavljanje IEEE 802.1X autentikacije na Ethernet sučeljima.</S1146>
+      <S1147>Ovaj servis upravlja mobilnom širokopojasnom (GSM &amp; CDMA) karticom/ugrađenim adapterima i konekcijama autokonfigurirajući mreže.</S1147>
+      <S1153>Za pristupiti Mrežnim vezama kada je ovo uklonjeno, u Win8+ desni klik područja Start izbornika, inače stvori prečac do ncpa.cpl ili 'explorer shell:::{7007ACC7-3202-11D1-AAD2-00805FC1270E}'.</S1153>
+      <S1161>Prenosi datoteke u pozadini koristeći prazan hod mrežne propusnosti. Potrebno za servise preuzimanja Windows ažuriranja, ručno ažuriranje s lokalnog diska radi bez toga.</S1161>
+      <S1256>VPN pluginovi</S1256>
+      <S1268>Web Distributed Authoring and Versioning (WebDAV)</S1268>
+      <S1269>Web Services on Devices API (WSDAPI)</S1269>
+      <S1271>WebClient</S1271>
+      <S1289>Windows vatrozid</S1289>
+      <S1298>Windows Mail</S1298>
+      <S1308>Windows Remote Management (WS-Management)</S1308>
+      <S1310>Windows Server komponenta koja omogućuje centraliziranu korisničku autentifikaciju, autorizaciju i vođenje računa.</S1310>
+      <S1317>Windows vrijeme</S1317>
+      <S1321>Wired AutoConfig</S1321>
+      <S1325>Work Folders Client</S1325>
+      <S1328>Workplace Join</S1328>
+      <S1329>Workstation service. Needed to browse file shares.</S1329>
+      <S1330>WWAN AutoConfig</S1330>
+      <S1334>Možete koristiti Briefcase za sinhronizaciju između dva različita računala, čak i ako računala nisu na istoj mreži.</S1334>
+    </Network>
+    <HardwareSupport>
+      <S0030>AGP</S0030>
+      <S0100>Bluetooth</S0100>
+      <S0170>Zajednički upravljački program za gumbe, DockMode i laptop / Slate pokazatelj.</S0170>
+      <S0328>Omogućuje automatsko otvaranje porta na podržanim routerima.</S0328>
+      <S0334>Omogućuje vam da spojite glavno računalo na vanjski iSCSI uređaj za pohranu putem Ethernet mrežnog adaptera.</S0334>
+      <S0400>Fax</S0400>
+      <S0423>Flopi disk</S0423>
+      <S0444>General-Purpose I/O (GPIO)</S0444>
+      <S0449>Daje klijentskim aplikacijama sposobnost hvatanja, usporedbe, manipuliranja i pohrane biometrijskih podataka bez dobivanja izravnog pristupa bilo kojem biometrijskom hardveru ili uzorcima.</S0449>
+      <S0458>Hardver potpora</S0458>
+      <S0524>Infracrveni uređaji</S0524>
+      <S0551>Internet Printing klijent</S0551>
+      <S0557>iSCSI Initiator</S0557>
+      <S0648>Microsoft implementacija Wi-Fi Protected Setup (WPS) protokola.</S0648>
+      <S0664>Modem</S0664>
+      <S0692>Potrebno za neke Webkamere.</S0692>
+      <S0806>Prenosni uređaji</S0806>
+      <S0835>Printanje</S0835>
+      <S0855>Pruža Telefonijsku API (TAPI) potporu programima koji kontroliraju telefonijske uređaje na lokalnom računalu i putem LANa poslužitelje koji također obavljaju servis (TAPI).</S0855>
+      <S0856>Pruža logiku potrebnu za konfiguriranje, otkrivanje, povezivanje i prekidanje bežične lokalne mreže (WLAN). Uključuje WLAN AutoConfig servis.</S0856>
+      <S0951>Scanner</S0951>
+      <S1004>Dijeljene postavke modema (mdmgl*.inf)</S1004>
+      <S1034>Smartcard</S1034>
+      <S1070>Still Image Class Installer</S1070>
+      <S1082>Podrška za slike uvezene iz uređaja.</S1082>
+      <S1114>Telefonija</S1114>
+      <S1170>Trusted Platform Module (TPM)</S1170>
+      <S1219>UPnP Device Host</S1219>
+      <S1226>Koristi se za administriranje TPM sigurnosnog hardvera na vašem računalu.</S1226>
+      <S1237>Različite funkcionalnosti prijenosnih uređaja, kao što su integracija Windows Media Player i podrška Media Transfer Protocola (MTP). Ne uklanja podršku USB pohrane.</S1237>
+      <S1250>Virtualna Smart Card</S1250>
+      <S1277>Windows Biometric Service</S1277>
+      <S1282>Windows Connect Now</S1282>
+      <S1292>Windows Image Acquisition (WIA)</S1292>
+      <S1322>WLAN</S1322>
+      <S1331>XPS pisač i servisi</S1331>
+    </HardwareSupport>
+    <Metro>
+      <S0053>Aplikacije</S0053>
+      <S0109>Brokeri veze koji omogućuju Windows Store aplikacijama primanje obavijesti s interneta.</S0109>
+      <S0110>Browser Choice backend</S0110>
+      <S0406>File Manager (OneDrive &amp; Slike)</S0406>
+      <S0517>Uključuje Metro servise aplikacija, PC Settings i Windows Store. Ako želite unijeti ključ proizvoda bez PC Settings, utipkajte 'slui.exe 3' iz cmd.exe ili idite na Svojstva sustava. Između ostalog, potrebno za Win10 izbornik Start.</S0517>
+      <S0643>Podrška Metro aplikacija (Appx)</S0643>
+      <S0646>Microsoft Camera backend</S0646>
+      <S0858>Neposredna blizina</S0858>
+      <S0997>Postavljanje Sync</S0997>
+      <S1089>Podržava veze između uređaja koji su unutar dometa.</S1089>
+      <S1095>Sinkronizira mnoge postavke između Windows računala i uređaja. To ga čini jednostavnijim za kretanje među različitim strojevima i održava dosljedno iskustvo.</S1095>
+      <S1270>Webcam Experience</S1270>
+      <S1304>Windows PDF preglednik.</S1304>
+      <S1306>Windows Reader backend</S1306>
+      <S1335>Možete koristiti preglednikov izbor ažuriranja za odabir i instalirati web preglednik koji želite koristiti na računalu.</S1335>
+    </Metro>
+    <Languages>
+      <S0054>Arabic</S0054>
+      <S0088>Basque</S0088>
+      <S0091>Bengali (Bangladesh)</S0091>
+      <S0092>Bengali (India)</S0092>
+      <S0112>Bulgarian</S0112>
+      <S0126>Catalan</S0126>
+      <S0140>Chinese</S0140>
+      <S0141>Kineski fontovi. Potrebni za kineski jezik i instalaciju Office (instalacijska pogreška se može ignorirati na popup ako se ovo ukloni).</S0141>
+      <S0173>Potpuno uklanjanje podrške jezika. Nemojte uklanjati ako namjeravate čitati ili pisati na tom jeziku.</S0173>
+      <S0225>Hrvatski</S0225>
+      <S0231>Czech</S0231>
+      <S0232>Danish</S0232>
+      <S0304>Dutch</S0304>
+      <S0338>English</S0338>
+      <S0362>Estonian</S0362>
+      <S0393>Extra Fontovi</S0393>
+      <S0419>Finnish</S0419>
+      <S0437>French</S0437>
+      <S0440>Galician</S0440>
+      <S0446>German</S0446>
+      <S0450>Greek</S0450>
+      <S0454>Gujarati</S0454>
+      <S0459>Hebrew</S0459>
+      <S0463>Hindi</S0463>
+      <S0469>Hungarian</S0469>
+      <S0473>Icelandic</S0473>
+      <S0521>Indonesian</S0521>
+      <S0528>Input Method Editor (IME)</S0528>
+      <S0563>Italian</S0563>
+      <S0564>Japanese</S0564>
+      <S0565>Japanski font. Potreban za japanski jezik i instalaciju Office (instalacijska pogreška se može ignorirati na popup ako se ovo ukloni).</S0565>
+      <S0566>JhengHei and YaHei Font</S0566>
+      <S0571>Kannada</S0571>
+      <S0578>Izgled tipkovnice</S0578>
+      <S0579>Korean</S0579>
+      <S0581>Jezik</S0581>
+      <S0582>Jezični paket</S0582>
+      <S0583>Jezici</S0583>
+      <S0585>Latvian</S0585>
+      <S0587>Legacy Language Support</S0587>
+      <S0595>Lithuanian</S0595>
+      <S0623>Malay (Brunei)</S0623>
+      <S0624>Malay (Malaysia)</S0624>
+      <S0625>Malayalam</S0625>
+      <S0634>Marathi</S0634>
+      <S0640>Meiryo Font</S0640>
+      <S0682>Natural Language</S0682>
+      <S0691>Potreban za neke tipkovnice, obično u istočnim jezicima.</S0691>
+      <S0724>Norwegian</S0724>
+      <S0774>Osobite tipkovnice neće biti uklonjene ako ih se sačuva ovdje ili s povezanim jezikom.</S0774>
+      <S0805>Polish</S0805>
+      <S0807>Portuguese (Brazilian)</S0807>
+      <S0808>Portuguese</S0808>
+      <S0860>Punjabi</S0860>
+      <S0930>Romanian</S0930>
+      <S0935>Russian</S0935>
+      <S0989>Serbian</S0989>
+      <S1031>Slovak</S1031>
+      <S1032>Slovenian</S1032>
+      <S1048>Spanish</S1048>
+      <S1091>Swedish</S1091>
+      <S1101>Servis Table Driven Text se može koristiti za definiranje i prilagodbu vlastitog Procesora teksta (TIP).</S1101>
+      <S1102>Table Text Servis</S1102>
+      <S1104>Tamil</S1104>
+      <S1117>Telugu</S1117>
+      <S1126>Thai</S1126>
+      <S1172>Turkish</S1172>
+      <S1187>Ukrainian</S1187>
+      <S1220>Urdu</S1220>
+      <S1223>Koristi se za dodatne funkcionalnosti u govoru i pretraživanju. Proširuje govor i traženje na prirodniju podršku sintakse, gotovo kao adresiranje druge osobe.</S1223>
+      <S1243>Vietnamese</S1243>
+    </Languages>
+    <Media>
+      <S0056>Auto-Rotation Manager</S0056>
+      <S0085>Osnovna ugrađena Windows podrška za DirectShow DVD reprodukciju videozapisa.</S0085>
+      <S0086>Osnovna ugrađena Windows podrška za MPEG-2 (H.222 / H.262) podršku sadržaja. Nije potrebna za ugrađeni video player.</S0086>
+      <S0087>Osnovni Windows tutoriali.</S0087>
+      <S0305>DVD Maker</S0305>
+      <S0306>DVD Play</S0306>
+      <S0420>Animacija kod prvog logiranja</S0420>
+      <S0441>Game Explorer</S0441>
+      <S0442>Igre</S0442>
+      <S0485>Image Color Management (ICM)</S0485>
+      <S0516>Uključuje podršku Media Player DLNA.</S0516>
+      <S0519>Uključuje uzorak videa, glazbe, slike i zvukove zvona.</S0519>
+      <S0545>Intel Indeo Codeci</S0545>
+      <S0622>Olakšava pristup igranju i upravljanju igrama.</S0622>
+      <S0635>Market Themes</S0635>
+      <S0637>Media Centar</S0637>
+      <S0638>Media Foundation</S0638>
+      <S0639>Medijski preglednik</S0639>
+      <S0649>Microsoft Media Foundation omogućuje razvoj aplikacija i komponenti za korištenje digitalnih medija na Windowsima.</S0649>
+      <S0676>MPEG-2 Splitter</S0676>
+      <S0678>Multimedia</S0678>
+      <S0679>Multiplayer igre</S0679>
+      <S0696>Potrebno za touch-screen potporu.</S0696>
+      <S0787>Photo codec</S0787>
+      <S0788>Photo preglednik</S0788>
+      <S0816>Premium Games</S0816>
+      <S0853>Pruža funkcije koje omogućuju aplikaciji obradu video podataka. Između ostalog, potrebno za webkamere, Reaper, FSViewer i brojne druge.</S0853>
+      <S0936>Uzorci medija</S0936>
+      <S1003>kontrolna ploča dijeljenih medija</S1003>
+      <S1040>Snipping Tool</S1040>
+      <S1041>Snimač zvuka</S1041>
+      <S1042>Zvučne teme</S1042>
+      <S1043>Zvukovi (zadano)</S1043>
+      <S1051>Prepoznavanje govora</S1051>
+      <S1052>Speech TTS</S1052>
+      <S1069>Sticky Notes</S1069>
+      <S1103>Tablet PC</S1103>
+      <S1124>Predviđanje teksta</S1124>
+      <S1132>Informacijska animacija kod prve prijave nakon instalacije Windowsa.</S1132>
+      <S1133>Prilagođene teme su specifične za određenu regiju i uključuju pozadine, zvuk i Aero Glass boje.</S1133>
+      <S1174>TV Tuner codeci i podrška</S1174>
+      <S1225>Used in Explorer picture files thumbnails and Metro tiles.</S1225>
+      <S1239>Razni tematski zvukovi Windows jezgre.</S1239>
+      <S1241>Čarobnjak za stvaranje Video DVD.</S1241>
+      <S1242>Video For Windows (VFW)</S1242>
+      <S1258>Pozadina (zadano)</S1258>
+      <S1259>Pozadine (Teme)</S1259>
+      <S1272>Centar dobrodošlice (Početak)</S1272>
+      <S1278>Windows komponenta upravljanja bojama, prilično intenzivno korištena od drugih programa za primjenu korekcije boje. Između ostalog potrebna za Photo preglednik i druge programe obrade slika (Photoshop, GIMP...).</S1278>
+      <S1300>Windows Media Center ažuriranje</S1300>
+      <S1301>Windows Media Codec</S1301>
+      <S1302>Windows Media Player</S1302>
+      <S1303>Windows Media Streaming</S1303>
+      <S1312>Zvukovi Windows jezgre.</S1312>
+      <S1314>Windows System Assessment Tool (WinSAT)</S1314>
+      <S1315>Windows TIFF IFilter(OCR)</S1315>
+      <S1316>Windows TIFF IFilter obrađuje TIFF slike, a potom osigurava prepoznani tekst pozivatelju za izgradnju indeksa pretraživanja. Može ga koristiti Indexing servis (za Desktop pretragu), Microsoft Office SharePoint Server 2007 ili kasniji, Microsoft SQL Server 2008 i 2005.</S1316>
+    </Media>
+    <Title>
+      <S0099>Plavo zaključani dijelovi zahtijevaju licencu.</S0099>
+      <S0180>Komponente</S0180>
+      <S0738>Desnostrano unesite datoteke za zaštitu od uklanjanja. Unosi su evaluirani kao završetak datotečnog puta, npr: System32\expand.exe da bi zadržali expand.exe u X:\Windows\System32 mapi. Isto vrijedi za Program Files ili bilo koji drugi ciljni direktorij.</S0738>
+      <S0976>Odaberi koju funkcionalnost zaštititi, uključujući strojnu podršku (hardver liste).</S0976>
+      <S1194>Poništite komponente za uklanjanje. Uklanjanje je stalno, povratak komponenti zahtijeva reinstalaciju Windowsa ili oporavak sigurnosnom kopijom.</S1194>
+      <S1260>Prije nego nastavite, pažljivo pročitajte ovo.</S1260>
+      <S1261>Uklanjanje komponenti Windowsa je nepovratan proces i može uzrokovati nepredvidive posljedice.</S1261>
+      <S1262>U slučaju offline modifikacije slike, trebate testirati uređenu sliku u virtualnom okruženju prije implementacije na pravi stroj.</S1262>
+      <S1263>U slučaju žive (online) modifikacije, trebate imati sigurnosnu kopiju spremnu, prije primjene bilo kakve promjene.</S1263>
+      <S1264>Zbog prirode instalacije Windowsa - ako uklonite komponente, neka ažuriranja (hotfixevi, jezični paket, itd) se možda neće instalirati.</S1264>
+      <S1265>Ažuriranja očekuju da su ažurirajuće datoteke prisutne. Zbog djelomičnog uklanjanja paketa (uklanjanje komponente u paketu) možete doći u situaciju gdje se posebno velika kumulativna ažuriranja ili jezični paketi mogu boriti za ispravnu detekciju što treba ažurirati.</S1265>
+      <S1266>Ako uklonite komponente iz Windowsa, morate biti spremni za reinstalaciju u bilo kojem trenutku, bilo zato što želite instalirati nedostatno ažuriranje ili vratiti neke komponente natrag.</S1266>
+      <S1281>Upozorenje uklanjanja Windows komponenti</S1281>
+    </Title>
+    <Toolbar>
+      <S0162>Sažmi sve</S0162>
+      <S0171>Kompatibilnost</S0171>
+      <S0172>Funkcionalnost zaštite</S0172>
+      <S0177>Komponenta funkcionalnost</S0177>
+      <S0375>Proširi sve</S0375>
+      <S0395>Dodatne opcije</S0395>
+      <S0413>Filter</S0413>
+      <S0415>Nađi slijedeće</S0415>
+      <S0416>Pažnja na sljedeću pronađenu stavku</S0416>
+      <S0618>Podrška stroja (lista hardvera)</S0618>
+      <S0849>Zaštićeni obrasci datoteka</S0849>
+      <S0917>Reset</S0917>
+      <S0919>Postavite sve dijelove natrag na pregledane, da se ne uklone.</S0919>
+      <S0957>Pretraga</S0957>
+      <S1195>Poništi sve</S1195>
+    </Toolbar>
+    <List>
+      <S0176>Komponenta</S0176>
+      <S0394>Dodatni info</S0394>
+      <S0728>Bilješke</S0728>
+      <S1021>Veličina</S1021>
+    </List>
+    <Drivers>
+      <S0234>Datum</S0234>
+      <S0293>Izvoz drivera</S0293>
+      <S0294>Driver izvežen</S0294>
+      <S0297>Deinstalacija drivera</S0297>
+      <S0520>Pojedini uređaji [Napredno]</S0520>
+      <S0658>Nedostaje očekivana putanja drivera</S0658>
+      <S0698>Potrebno za montiranje WIM i čuvanje drivera.</S0698>
+      <S0869>Čitam informacije driver datoteka</S0869>
+      <S0870>Čitam informacije drivera</S0870>
+      <S0969>Odaberi mapu za izvoz drivera</S0969>
+      <S1028>Preskoči dvostruku putanju drivera</S1028>
+      <S1138>Te komponente uključuju razrede hardvera i opću podršku da se može instalirati driver za dotičnu vrstu hardvera.</S1138>
+      <S1201>Deinstaliranje uređaja</S1201>
+    </Drivers>
+    <Other>
+      <S0291>Učinjeno</S0291>
+      <S0344>Unesite kraj puta datoteke</S0344>
+      <S0356>Greška</S0356>
+      <S0378>Izričito uklanjanje nije podržano</S0378>
+      <S0408>Uzorak datoteke već postoji</S0408>
+      <S0421>Popravi preimenovanje Explorera</S0421>
+      <S0470>Hiper-V</S0470>
+      <S0472>Hiper-V domaćin</S0472>
+      <S0513>Uključi skrivene uređaje</S0513>
+      <S0613>Zaključano po kompatibilnosti</S0613>
+      <S0820>Priprema deinstalacije drivera</S0820>
+      <S0850>Zaštita uključuje skrivene i isključene uređaje iz odabranih popisa hardvera.</S0850>
+      <S0872>Ponovno pokreni sustav</S0872>
+      <S0874>Ponovno pokreni sustav sada?</S0874>
+      <S0875>Ponovna provjera subkomponenti?</S0875>
+      <S0876>Preporučeno</S0876>
+      <S0886>Odnosi se na komponentu:</S0886>
+      <S0899>Ukloni</S0899>
+      <S0908>Uklanjam</S0908>
+      <S0911>Uspješno dovršeno preimenovanje rutine popravka.</S0911>
+      <S0912>Preimenovanje rutine popravka neuspjelo, prijavite s %temp%\NTLite.log datotekom u privitku.</S0912>
+      <S0963>Čini se da je došlo do pogreške prilikom uređivanja žive instalacije, imajte rezervnu kopiju spremnu u slučaju da se ovaj stroj više ne može ponovno pokrenuti.</S0963>
+      <S1160>Touch-Screen uređaji</S1160>
+    </Other>
+  </Components>
+  <General>
+    <UI>
+      <S0002>Otkaži</S0002>
+      <S0003>OK</S0003>
+      <S0098>Plavo</S0098>
+      <S0138>Dnevna provjera ažuriranja</S0138>
+      <S0212>Kopiraj datoteku</S0212>
+      <S0233>Tamno</S0233>
+      <S0435>Slobodni prostor</S0435>
+      <S0602>Učitaj zadnje podešenje 'Auto-saved sesija' automatski</S0602>
+      <S0760>Prebrisati</S0760>
+      <S0761>Prebrisati postojeću datoteku?</S0761>
+      <S0973>Odaberi privremenu mapu</S0973>
+      <S1009>Prikaži info traku</S1009>
+      <S1118>Privremeni direktorij</S1118>
+      <S1119>Privremeni direktorij ne postoji</S1119>
+      <S1120>Po privremenom direktoriju se ne može pisati.</S1120>
+      <S1121>Privremeni direktorij mora biti subdirektorij particije.</S1121>
+      <S1122>Privremeni direktorij mora bit lociran na NTFS particiji.</S1122>
+      <S1123>Privremeni direktorij nema dovoljno slobodnog mjesta.</S1123>
+      <S1139>Ovo mijenja samo novomontirane slike, već montirane slike moraju biti prvo demontirane.</S1139>
+      <S1157>Postavke alata</S1157>
+      <S1254>Vizualni stil</S1254>
+    </UI>
+    <Other>
+      <S0005>Otkazana obrada.</S0005>
+      <S0007>Prekinuto</S0007>
+      <S0120>Ne mogu dobiti info privremenog direktorija.</S0120>
+      <S0135>Provjera ažuriranja</S0135>
+      <S0159>Zatvoriti tekuću sesiju?</S0159>
+      <S0160>Zatvoriti ovaj program?</S0160>
+      <S0178>Uklanjanje komponenti</S0178>
+      <S0214>Kopiraj u međuspremnik sa CTRL+C</S0214>
+      <S0218>Stvoriti nepostojeći privremeni directorij?</S0218>
+      <S0256>Otkriveno upravljanje na ovom stroju 'Ne dopustite kompresiju na svim NTFS volumenima'. OS ne podržava montiranje slike na takvom stroju. Kako bi nastavili morat ćete isključiti takovo upravljanje i ponovno pokrenuti računalo.</S0256>
+      <S0258>Otkriveno je prethodno otkazano procesiranje na ovom izvoru. Stanje je nepoznato i bit će najbolje da ovaj izvor dalje ne koristite, vratite sigurnosnu kopiju i ponovno učitajte.</S0258>
+      <S0259>Otkrivena nepodržana verzija Windowsa.</S0259>
+      <S0295>Integracija drivera</S0295>
+      <S0398>Neuspjelo stvaranje privremenog direktorija.</S0398>
+      <S0402>Značajke instalacije</S0402>
+      <S0418>Završeno dodavanje paketa na integracijsku listu.</S0418>
+      <S0522>Info</S0522>
+      <S0523>Informacija</S0523>
+      <S0597>Uređivanje žive instalacije</S0597>
+      <S0599>Uživo (Online) konfiguriranje je samo za licenciranu verziju. Primjena će biti onemogućena.</S0599>
+      <S0672>Montirane slike će ostati montirane.</S0672>
+      <S0725>Nema dovoljno diskovnog prostora.</S0725>
+      <S0744>Dostupna samo slobodna licenca.</S0744>
+      <S0763>Integracija paketa</S0763>
+      <S0790>Molimo kopirajte cijeli sadržaj slike na lokaciju po kojoj se može pisati.</S0790>
+      <S0792>Molim instalirajte 64-bitnu verziju ovog alata.</S0792>
+      <S0794>Molimo prijavite bilo kakve probleme.</S0794>
+      <S0803>Ponovno pokrenite ovaj alat da promjena jezika stupi na snagu.</S0803>
+      <S0829>Podignuto podešenje</S0829>
+      <S0832>Pritisnite OK za otvaranje relevantnog zapisnika integracije drivera. Pročitajte blizu kraja datoteke, prije (bezopasnog) prihvaćanja pražnjenja reg pogreški.</S0832>
+      <S0833>Prethodni primjer ovog programa je već pokrenut.</S0833>
+      <S0868>Čitam podatke</S0868>
+      <S0873>Ponovno podizanje sustava je potrebno da bi sve promjene stupile na snagu.</S0873>
+      <S0949>Spremanje općih postavki nije uspjelo.</S0949>
+      <S1134>Izvor je sada u nepoznatom stanju i ne preporuča se koristiti.</S1134>
+      <S1144>Ovaj program podržava klijenta Windows 7 putem 10TP.</S1144>
+      <S1155>Za odabir druge slike, ispraznite tekuću ili odaberite Novu sesiju s alatne trake.</S1155>
+      <S1190>Nenadzirana konfiguracija</S1190>
+      <S1215>Ažuriranje integracija</S1215>
+      <S1222>Koristite stranicu navigacije na lijevo za više mogućnosti.</S1222>
+      <S1227>Prekinuo korisnik</S1227>
+    </Other>
+    <Menu>
+      <S0008>O programu</S0008>
+      <S0009>Prikaz informacija o programu, broj verzije i autorska prava</S0009>
+      <S0137>Provjera ažuriranja</S0137>
+      <S0139>Provjeri postoji li novija verzija ovog alata na raspolaganju</S0139>
+      <S0373>Izlaz</S0373>
+      <S0374>Zatvorite aplikaciju; odmah spremite dokumente</S0374>
+      <S0404>Datoteka</S0404>
+      <S0619>Glavni menu</S0619>
+      <S0880>Registracija</S0880>
+      <S0881>Nadogradite svoju licencu i omogućite sve značajke</S0881>
+      <S0998>Postavke</S0998>
+      <S0999>Postavke programa</S0999>
+      <S1158>Alatna traka</S1158>
+      <S1176>Posjetite nas na Twitter @NTLite</S1176>
+    </Menu>
+  </General>
+  <Source>
+    <Images>
+      <S0004>Poništenje prekida operaciju.</S0004>
+      <S0058>Samoispravak i pokušaj iznova?</S0058>
+      <S0093>64-bit</S0093>
+      <S0094>32-bit</S0094>
+      <S0103>Greška u čitanju Boot sektora, budite sigurni da je izvorna 'Boot' ili 'EFI' mapa prisutna.</S0103>
+      <S0104>Boot/Setup</S0104>
+      <S0123>Ne mogu zamijeniti montiranu sliku.</S0123>
+      <S0143>Odaberi destinaciju ISO datoteke</S0143>
+      <S0144>Odaberi gdje spremiti sliku</S0144>
+      <S0145>Odaberi Da za prepisati, ili Ne za dodati na odredišnu sliku.</S0145>
+      <S0149>Čišćenje montirane mape</S0149>
+      <S0183>Kompresija zahtijeva puno resursa</S0183>
+      <S0202>Pretvoriti cijelu odabranu sliku u ESD format?</S0202>
+      <S0203>Pretvoriti cijelu odabranu sliku u standardni WIM format?</S0203>
+      <S0204>Pretvoriti u standardni WIM format i učitati odabrano izdanje slike?</S0204>
+      <S0213>Prvo kopiraj datoteke slike na lokaciju po kojoj se može pisati.</S0213>
+      <S0215>Ispravljam izdanje</S0215>
+      <S0228>Trenutna slika će biti zamijenjena nakon konverzije,učini sigurnosnu kopiju ručno prije ove operacije.</S0228>
+      <S0241>Brisanje privremenih datoteka</S0241>
+      <S0254>Otkrivena još jedna montirana slika sa istim montiranim putem ali različitog WIM.</S0254>
+      <S0255>Otkrivena još jedna montirana slika sa istim WIM ali različitim montiranim putem.</S0255>
+      <S0257>Otkrivena datoteka u uporabi unutar montirane mape.</S0257>
+      <S0272>Odbacivanje promjena</S0272>
+      <S0287>Želite li ukloniti ovu sliku s popisa montiranih slika?</S0287>
+      <S0346>Unesi veličinu dijela:</S0346>
+      <S0359>Činjenice ESD (Electronic Software Download) formata slike</S0359>
+      <S0380>Istraži direktorij</S0380>
+      <S0381>Istraži montirani direktorij</S0381>
+      <S0384>Izvezi sve</S0384>
+      <S0390>Izvoženje</S0390>
+      <S0407>Odredišna datoteka je otvorena drugim programom, moguće montiranim.</S0407>
+      <S0422>Zastavice</S0422>
+      <S0432>Pronađen i koristim oscdimg u korijenu aplikacije.</S0432>
+      <S0462>Visoka kompresija, samo za čitanje</S0462>
+      <S0468>Domaćin Windows je izgleda trenutačno u konfiguracijskom načinu komponenti.</S0468>
+      <S0479>Ako su neki paketi uklonjeni iz slike prije, ponovo pokrenite sesiju koristeći izvornu netaknutu sliku.</S0479>
+      <S0480>Ako problem traje, provjerite ručno ažuriranje na službenim stranicama i pokušajte ponovno s novijom verzijom ili nas kontaktirajte na e-mail.</S0480>
+      <S0483>Ako ste izmijenili redoslijed promjena, budite sigurni da je slika ispražnjena i spremljena prije stvaranja ISO, inače nastavite.</S0483>
+      <S0486>Izvoz slike</S0486>
+      <S0487>Izvoz slike nije uspio. Možda kodirana ESD slika. Ako je to slučaj, pokušajte 'ESD dekriptirati' prije korištenja ove slike.</S0487>
+      <S0488>Prethodne slike</S0488>
+      <S0489>Sliku je otvorio neki drugi program.</S0489>
+      <S0490>Slika je samo za čitanje</S0490>
+      <S0491>Pridruživanje slike</S0491>
+      <S0492>Slika podignuta</S0492>
+      <S0493>Slika može biti neupotrebljiva i uređivanje treba nanovno pokrenuti nakon ponovnog podizanja sustava.</S0493>
+      <S0494>Slika montirana</S0494>
+      <S0495>Slika spremljena</S0495>
+      <S0496>Slika podijeljena</S0496>
+      <S0497>Dijeljenje slike nije potrebno, veličina je manja od potrebne</S0497>
+      <S0498>Slika ispražnjena</S0498>
+      <S0499>Slika ispražnjena bez spremanja promjena</S0499>
+      <S0503>Slike</S0503>
+      <S0553>Invalidno</S0553>
+      <S0556>Invalidan put slike Windowsa</S0556>
+      <S0558>ISO slika</S0558>
+      <S0559>ISO slika će biti stvorena iz cijele mape</S0559>
+      <S0560>ISO oznaka</S0560>
+      <S0596>Instalacija uživo</S0596>
+      <S0598>Podizanje instalacije uživo</S0598>
+      <S0604>Učitan</S0604>
+      <S0621>Uvjerite se da grozdove registra nije otvorio neki drugi alat i pokušajte ponovo.</S0621>
+      <S0652>Minimalna funkcionalna podijeljena veličina dijela za ovu sliku</S0652>
+      <S0653>Minimalna preporučena podijeljena veličina dijela za Windows 7 je 200MB zbog ograničenja Windows Setup.
+	  Ako instalacija slike zapne predugo nakon 'otpakiravanja Windows datoteka', pretvori natrag u WIM i pokušaj podijeliti u dijelove veće veličine.</S0653>
+      <S0654>Upozorenje minimalne veličine podijaljenog</S0654>
+      <S0659>Nedostaje očekivani Sistem User registar.</S0659>
+      <S0660>Nedostaje montirani direktorij</S0660>
+      <S0669>Montiraj sliku</S0669>
+      <S0670>Montirana</S0670>
+      <S0671>Montirane slike</S0671>
+      <S0673>Montiranje slike</S0673>
+      <S0674>Put montiranja</S0674>
+      <S0723>Ništa</S0723>
+      <S0727>Napomena: ovo nije trenutno učitana slika, za primjenu bilo kakvih izmjena s ovim alatom, morate prvo učitati sliku.</S0727>
+      <S0750>Operacijski sustav</S0750>
+      <S0751>Operacijski sustavi</S0751>
+      <S0791>Molimo obrisati i zamijeniti s radnom slikom.</S0791>
+      <S0793>Ponovno podigni sustav i pokušaj iznova.</S0793>
+      <S0797>Pokušajte ponovo kada su oslobođeni resursi, ili odustani i ponovno pokreni računalo.</S0797>
+      <S0799>Molimo odaberite mapu koja sadrži extrahirane Windows ISO datoteke i direktorije.</S0799>
+      <S0800>Molimo odaberite WIM sliku, obično pod nazivom Install.wim ili Boot.wim u extrahiranom Windows ISO sadržaju, Sources direktorij.</S0800>
+      <S0801>Molimo isprazni bilo koje montirano (plava ikona) izdanje ove slikovne datoteke prije ponovnog pokušaja.</S0801>
+      <S0802>Molim isprazni obje slike i ponovno pokreni proces.</S0802>
+      <S0822>Priprema datoteka za ISO sliku.</S0822>
+      <S0863>Samo za čitanje. Za uređivanje slike, treba pretvoriti natrag u WIM</S0863>
+      <S0865>Čitam registry.</S0865>
+      <S0877>Osvježi kada je dostupno</S0877>
+      <S0885>Registry ispražnjen</S0885>
+      <S0898>Uklanjanje na ovoj verziji Windowsa nije podržano.</S0898>
+      <S0914>Ponovno otvaranje slike</S0914>
+      <S0915>Zamijenite izvornu sliku</S0915>
+      <S0924>Pokušaj ponovno</S0924>
+      <S0925>Pokušaj ponovno brojati</S0925>
+      <S0940>Spremi postojeće promjene u sliku</S0940>
+      <S0948>Spremam promjene u sliku</S0948>
+      <S0950>Spremam ISO sliku</S0950>
+      <S0968>Odaberi mapu koja sadrži Windows instalacijske datoteke</S0968>
+      <S0977>Odaberi Windows sliku</S0977>
+      <S0982>Odabrana mapa iz koje će se stvoriti ISO datoteka je trenutno aktivno učitana.</S0982>
+      <S0984>Odabrana slika je već na popisu</S0984>
+      <S0996>Želite li postaviti veličinu na</S0996>
+      <S1046>Popis izvora</S1046>
+      <S1049>Spanned, split</S1049>
+      <S1054>Podjela slike nije službeno podržana od Microsofta na Windows 8 i novijim.
+	  Međutim poznato je da funkcionira ukoliko je veličina dijela dovoljno velika.
+	  Minimalno preporučena veličina podijeljenog dijela za Windows 8 i novije je polovina konačne veličine izvorne slike.&amp;#xD;</S1054>
+      <S1055>Podijeli dio slike</S1055>
+      <S1057>Podijeliti odabranu WIM sliku u više SWM dijelova?</S1057>
+      <S1059>Podjela</S1059>
+      <S1061>Standardno, uredivo</S1061>
+      <S1073>Zaustavljen prije pohranjivanja podataka na sliku. Oslobodi sliku ručno kada je spremna.</S1073>
+      <S1087>Podržano samo za instalaciju Windows 8 ili noviji</S1087>
+      <S1130>Slika je oštećena</S1130>
+      <S1131>Slika može biti oštećena.</S1131>
+      <S1140>Ova slika nije podržana.</S1140>
+      <S1145>Ovaj program koristi Windows IMAPI 2 za ISO operacije, provjerite ima li vaš OS radnu IMAPI komponentu. Alternativno, kopirajte oscdimg.exe iz korijena (uz ntlite.exe), i to će biti korišteno.</S1145>
+      <S1154>Da biste primijenili promjene s ovim alatom, koristite na lijevo stranicu Primijeni.</S1154>
+      <S1171>Pokušaj prvo demontirati.</S1171>
+      <S1179>Upiši naziv ISO slike:</S1179>
+      <S1204>Isprazni sliku</S1204>
+      <S1205>Pražnjenje registra neuspjelo.</S1205>
+      <S1207>Praznim sliku, odbacujem promjene</S1207>
+      <S1208>nesigurno</S1208>
+      <S1210>Nepodržana arhitektura slike.</S1210>
+      <S1211>nepodržano uklanjanje</S1211>
+      <S1257>Čekam na trenutnoj akciji sustava (cca 40 pokušaja).</S1257>
+      <S1267>Upozorenje</S1267>
+      <S1273>Pri otvaranju montirane mape, budite oprezni da ne ostanu datoteke ili mape iz njega otvorene dok spremate sliku, jer će slika biti oštećena.</S1273>
+      <S1340>Odabrana slika je izolirana slika, tako da će Post-Setup stranica i funkcionalnost Stvori ISO biti onemogućeno.
+	  Za punu funkcionalnost kopiraj cijeli ISO sadržaj i ponovo učitaj sliku iz te mape.</S1340>
+      <S1341>Izolirano</S1341>
+      <S1351>Slika izmijenjena, popis osvježen, molim pokušajte ponovo.</S1351>
+    </Images>
+    <Toolbar>
+      <S0020>Dodaj</S0020>
+      <S0023>Naziv slike (WIM, ESD, SWM)</S0023>
+      <S0024>Dodaj sliku Windowsa na listu</S0024>
+      <S0155>Kloniraj</S0155>
+      <S0158>Napravi duplikat odabranog podešenja</S0158>
+      <S0201>Pretvori</S0201>
+      <S0205>Pretvori odabranu sliku u WIM, ESD ili SWM format.</S0205>
+      <S0206>Pretvori u ESD</S0206>
+      <S0207>Pretvori odabranu sliku u visoko komprimiran ESD format, podržan u Windows 8 ili novijoj instalaciji.</S0207>
+      <S0208>Pretvori u SWM (podijeli sliku)</S0208>
+      <S0209>Pretvori odabrane slike na podijeljene, SWM format; također poznato kao cijepanje slike. Koristi se npr. za zaobilaženje FAT32 4GB ograničenja datoteke ili dijeljenje slike preko više medija.</S0209>
+      <S0210>Pretvori u WIM</S0210>
+      <S0211>Pretvori odabranu sliku u standardni WIM format, spreman za montažu i uređivanje.</S0211>
+      <S0220>Napravi ISO</S0220>
+      <S0221>Napravi ISO sliku iz odabrane mape Windows slika</S0221>
+      <S0238>Obriši</S0238>
+      <S0240>Obriši odabrano podešenje</S0240>
+      <S0383>Izvezi</S0383>
+      <S0391>Izvezi odabrana podešenja u datoteku</S0391>
+      <S0427>Zaboravi</S0427>
+      <S0428>Ukloni odabranu stavku sa slike razvojnog popisa</S0428>
+      <S0484>Slika</S0484>
+      <S0501>Mapa slike</S0501>
+      <S0502>Dodaj mapu slike Windowsa na popis</S0502>
+      <S0505>Uvezi</S0505>
+      <S0512>Uvezi vanjska podešenja na listu</S0512>
+      <S0600>Unos</S0600>
+      <S0605>Unos odabranog izvora</S0605>
+      <S0607>Pročitaj i primijeni prethodno spremljene postavke</S0607>
+      <S0715>Novo</S0715>
+      <S0716>Resetiraj sve trenutne postavke na izvorne</S0716>
+      <S0717>Nova sesija</S0717>
+      <S0718>Započni novu sesiju, spreman za unos drugog izvora bez demontiranja postojećih.</S0718>
+      <S0824>Podešenje</S0824>
+      <S0878>Osvježi liste</S0878>
+      <S0879>Osvježi sliku i podešene liste</S0879>
+      <S0910>Preimenuj</S0910>
+      <S0913>Preimenuj odabrana podešenja</S0913>
+      <S0937>Spremi</S0937>
+      <S0938>Spremi kao...</S0938>
+      <S0939>Spremi trenutno stanje u podešenja</S0939>
+      <S0943>Spremi trenutne postavke na posebno nazvano podešenje</S0943>
+      <S0947>Spremi trenutne postavke preko odabranog podešenja</S0947>
+      <S1203>Oslobodi</S1203>
+      <S1206>Oslobodi i demontiraj odabrani izvor</S1206>
+    </Toolbar>
+    <Presets>
+      <S0057>Auto-spremljena sesija</S0057>
+      <S0142>Odaberite izveženo podešenje odredišta datoteke</S0142>
+      <S0156>kloniraj podešenje</S0156>
+      <S0157>Kloniraj odabrana podešenja</S0157>
+      <S0174>Završeno</S0174>
+      <S0175>Završeno učitavanje mnogih podešenja.</S0175>
+      <S0239>Izbrisati odabrana podešenja?</S0239>
+      <S0251>Naziv odredišta</S0251>
+      <S0252>Naziv podešenog odredišta</S0252>
+      <S0313>Uredi XML</S0313>
+      <S0506>Uveženo</S0506>
+      <S0511>Uvezi podešenje</S0511>
+      <S0555>Krivi naziv podešenja</S0555>
+      <S0584>Zadnja promjena</S0584>
+      <S0603>Uvezi podešenje</S0603>
+      <S0661>Nedostajuće podešenje</S0661>
+      <S0756>Originalni naziv</S0756>
+      <S0825>Podešeni klon</S0825>
+      <S0826>Podešenje izbrisano</S0826>
+      <S0827>Izvoženje podešenja</S0827>
+      <S0828>Podešenje izveženo</S0828>
+      <S0830>Naziv podešenja</S0830>
+      <S0831>Podešenja</S0831>
+      <S0867>Čitaj XML</S0867>
+      <S0918>Vraćanje svih izmjena stranice na zadanu sliku?</S0918>
+      <S0941>Spremi (prepiši)</S0941>
+      <S0942>Spremi postavke</S0942>
+      <S0972>Odaberi podešene datoteke za uvoz</S0972>
+      <S1180>Upiši naziv za novo ili postojeće podešenje za spremanje unutar postojeće slike.</S1180>
+      <S1181>Upiši novi naziv podešenja</S1181>
+      <S1343>upišite ovdje za filtriranje</S1343>
+    </Presets>
+    <Title>
+      <S0601>Učitaj postojeći izvor ispod, ili dodaj novi na popis koristeći alatne trake iznad.</S0601>
+      <S1044>Izvorište</S1044>
+      <S1045>Izvor može biti Windows DVD ili ISO sadržaj kopiran u mapu.</S1045>
+    </Title>
+  </Source>
+  <Updates>
+    <Other>
+      <S0006>Prekini</S0006>
+      <S0111>Build date</S0111>
+      <S0118>Otkazano</S0118>
+      <S0119>Ne mogu pronaći DISM. Onemogućavanje zahvaćenih opcija za ovu sesiju.</S0119>
+      <S0161>Zatvaranje DISM</S0161>
+      <S0179>Uskladištene komponente su pokvarene, molimo kopirajte izvornu sliku i počni iznova.</S0179>
+      <S0197>Nastavi</S0197>
+      <S0226>Ključne datoteke se već koriste u drugom postupku.</S0226>
+      <S0227>Ključan paket nije detektiran, priložite log s prijavom.</S0227>
+      <S0372>Postojeći paketi</S0372>
+      <S0396>Extrahiraj</S0396>
+      <S0531>Čekanje instalacije</S0531>
+      <S0533>Instaliran</S0533>
+      <S0540>Integrirano</S0540>
+      <S0541>Integrirani Runonce</S0541>
+      <S0606>Učitavam...</S0606>
+      <S0642>Poruke</S0642>
+      <S0657>Ključne datoteke nedostaju.</S0657>
+      <S0668>Čini se da je namontirana datoteka u upotrebi. Ovaj alat će zatvoriti sve DISM sesije na vašem računalu, budite sigurni da nemate bilo koju drugu DISM operaciju u tijeku prije nastavka. 
+	  Ako znate što stoji otvoreno, pritisnite Cancel nakon zatvaranja toga.</S0668>
+      <S0720>Ne</S0720>
+      <S0739>Jedna ili nekoliko prethodnih značajki su onemogućene tako značajka ne može biti omogućena.</S0739>
+      <S0747>Otvori lokaciju datoteke</S0747>
+      <S0749>Otvori web članak</S0749>
+      <S0752>Operacija nije podržana.</S0752>
+      <S0753>Operacija zahtijeva nedostajuće datoteke.</S0753>
+      <S0764>Paket nije primjenjiv na ovu sliku.</S0764>
+      <S0767>Paketi</S0767>
+      <S0782>Put</S0782>
+      <S0784>U tijeku otkrivena manipulacija registrom.</S0784>
+      <S0796>Ponovno pokrenite i pokušajte ponovno.</S0796>
+      <S0798>Molimo odaberite drugu sliku ili prvo pokušajte ponovno pokrenuti stroj.</S0798>
+      <S0864>Pročitaj info paketa</S0864>
+      <S0871>Čitam info paketa</S0871>
+      <S0887>Vrsta izdanja</S0887>
+      <S0967>Odaberite mapu koja sadrži ažuriranja ili jezične pakete</S0967>
+      <S0974>Odaberite ažuriranje ili datoteke jezičnog paketa za dodati</S0974>
+      <S0994>Servicing Stack</S0994>
+      <S1029>Preskače trenutnu radnju.</S1029>
+      <S1047>SP1 preduvjet</S1047>
+      <S1060>Priređen</S1060>
+      <S1078>Nadomješteno</S1078>
+      <S1129>Slika je oštećena greškom offline servisa i daljnje održavanje nije dopušteno.</S1129>
+      <S1135>Navedena slika ne sadrži ključne datoteke potrebne za nastavak, ili su neke datoteke u uporabi.</S1135>
+      <S1136>Navedena slika nije u valjanom stanju.</S1136>
+      <S1162>Pokušano dodati nečitljivu ili nepodržanu datoteku paketa</S1162>
+      <S1165>Pokušano dodati postojeći paket</S1165>
+      <S1167>Pokušano dodati nepostojeći put paketa</S1167>
+      <S1199>Čekanje deinstalacije</S1199>
+      <S1200>Deinstaliran</S1200>
+      <S1213>Ažuriraj</S1213>
+      <S1240>Verzija</S1240>
+      <S1332>Da</S1332>
+    </Other>
+    <Title>
+      <S0022>Dodaj ažuriranje ili jezične pakete za integraciju.</S0022>
+      <S1217>Ažuriranja</S1217>
+    </Title>
+    <Toolbar>
+      <S0424>Nađeni paketi mape i podmapa</S0424>
+      <S0765>Paket datoteka</S0765>
+      <S0766>Dodaj paket u redoslijed integracije</S0766>
+      <S0907>Ukloni odabrane stavke iz redoslijeda integracije</S0907>
+      <S0978>Odaberi sve</S0978>
+      <S1216>Redoslijed ažuriranja</S1216>
+    </Toolbar>
+  </Updates>
+  <Licensing>
+    <Other>
+      <S0015>Aktivacija licence...</S0015>
+      <S0121>Ne mogu pročitati nikakvu informaciju s diska.</S0121>
+      <S0122>Ne mogu pročitati nikakvu informaciju s mrežnog adaptera.</S0122>
+      <S0133>Provjeri svoje postavke datuma i vremena.</S0133>
+      <S0134>Provjeri internetsku vezu i pokušaj ponovno kasnije.</S0134>
+      <S0341>Uživajte u punoj verziji!</S0341>
+      <S0357>Pogreška u odgovoru poslužitelja.</S0357>
+      <S0426>Za reaktivaciju molimo da nas kontaktirate na e-mail s e-maila kojim ste kupili licencu ili dodajte info kupljene narudžbe.</S0426>
+      <S0436>Besplatna verzija ima određena ograničenja značajki i korištenja.</S0436>
+      <S0537>Nedovoljan info hardvera</S0537>
+      <S0554>Krivi licenčni ključ.</S0554>
+      <S0590>Neuspjela aktivacija licence.</S0590>
+      <S0591>Aktivacija licence neće raditi.</S0591>
+      <S0592>Licenčni ključ</S0592>
+      <S0593>Licenca uspješno vraćena bez provođenja online aktivacije.</S0593>
+      <S0741>Online aktivacija provedena.</S0741>
+      <S0748>Otvorena web-stranica u pregledniku sadrži link za preuzimanje instalacije</S0748>
+      <S0789>Molimo backupirajte vašu aktivaciju kopiranjem license.dat datoteke sa settings.xml datotekom ili licencnim ključem samim. Obje datoteke se mogu naći u root direktoriju ove aplikacije.</S0789>
+      <S0795>Molimo prijavite ako je neočekivano.</S0795>
+      <S0841>Program će se ponovno pokrenuti da bi promjene stupile na snagu.</S0841>
+      <S0889>preostale online aktivacije, nakon čega je na snazi samo email aktivacija.</S0889>
+      <S0991>Service connection error</S0991>
+      <S0992>Service connection timeout.</S0992>
+      <S1127>Hvala što podržavate i doprinosite daljnjem zazvoju i poboljšanju NTLite proizvoda.</S1127>
+      <S1214>Ažuriranje dostupno</S1214>
+      <S1333>Već imate najnoviju verziju.</S1333>
+      <S1336>Uspješno ste aktivirali svoju licencu.</S1336>
+    </Other>
+    <UI>
+      <S0146>Odaberi svoju licencu.</S0146>
+      <S0345>Unesi ključ licence</S0345>
+      <S0434>Slobodno</S0434>
+      <S0589>Licenca</S0589>
+      <S0594>Licencirano</S0594>
+      <S0667>Više informacija</S0667>
+      <S1212>Dok se licenca ne aktivira, premium značajke neće biti dostupne.</S1212>
+      <S1218>Nadogradi</S1218>
+      <S1253>Posjeti Web stranicu</S1253>
+      <S1338>Vaša licenca zahtijeva reaktivaciju, provjerite svoj ključ i pritisnite OK za početak reaktivacije.</S1338>
+    </UI>
+  </Licensing>
+  <Unattended>
+    <Other>
+      <S0016>Aktivni</S0016>
+      <S0028>Administratori</S0028>
+      <S0061>Auto-logon ovog korisnika</S0061>
+      <S0063>Automatska prijava</S0063>
+      <S0190>Potvrdi zaporku</S0190>
+      <S0217>Kreiraj</S0217>
+      <S0219>Kreiraj particiju</S0219>
+      <S0224>Akreditiv</S0224>
+      <S0229>Custom</S0229>
+      <S0230>Custom grupa</S0230>
+      <S0273>Disk</S0273>
+      <S0274>Konfiguracija diska</S0274>
+      <S0278>Disk ID</S0278>
+      <S0281>Prikaži ime</S0281>
+      <S0285>Ne formatiraj</S0285>
+      <S0288>Domena</S0288>
+      <S0289>Naziv Domene</S0289>
+      <S0292>Slovo pogona</S0292>
+      <S0319>Omogućuje built-in Administratoru korištenje ovog računa</S0319>
+      <S0342>Unesi custom grupu</S0342>
+      <S0343>Unesi naziv Domene</S0343>
+      <S0347>Unesi oznaku particije</S0347>
+      <S0348>Unesi zaporku</S0348>
+      <S0350>Unesi korisnikov opis</S0350>
+      <S0351>Unesi korisničko ime za prikaz</S0351>
+      <S0352>Unesi korisnikovo ime</S0352>
+      <S0353>Unesi korisničko ime</S0353>
+      <S0354>Unesi naziv Workgrupe</S0354>
+      <S0392>Proširi</S0392>
+      <S0429>Formatiraj</S0429>
+      <S0451>Grupa</S0451>
+      <S0475>ID</S0475>
+      <S0476>Identifikacija</S0476>
+      <S0532>Instaliraj na ovu particiju</S0532>
+      <S0567>Pridruži Domenu</S0567>
+      <S0568>Pridruži Workgroup</S0568>
+      <S0580>Label</S0580>
+      <S0588>Slovo</S0588>
+      <S0608>Lokalni račun</S0608>
+      <S0609>Lokalni računi</S0609>
+      <S0615>Logon count</S0615>
+      <S0617>Machine Password</S0617>
+      <S0636>Maximum (Extend)</S0636>
+      <S0665>Izmijeni</S0665>
+      <S0666>Izmijeni particiju</S0666>
+      <S0681>Naziv</S0681>
+      <S0755>slijed</S0755>
+      <S0775>Particija</S0775>
+      <S0776>ID particije</S0776>
+      <S0777>ID particije ili slovo već konfiguriranog pogona.</S0777>
+      <S0778>Modifikacije particije.</S0778>
+      <S0779>Particije</S0779>
+      <S0780>Zaporka</S0780>
+      <S0781>Zaporke nisu identične</S0781>
+      <S0815>Premium značajka</S0815>
+      <S0862>Opetuj zaporku</S0862>
+      <S1001>Mogućnosti podešavanja</S1001>
+      <S1024>Preskoči postavljanje lokalnog računa</S1024>
+      <S1025>Preskoči postavljanje online računa</S1025>
+      <S1152>Timeout period [5-60 minuta]</S1152>
+      <S1188>Nedodijeljen</S1188>
+      <S1209>Nesigurno pridruživanje</S1209>
+      <S1229>Korisnikovi računi</S1229>
+      <S1230>Korisnik već postoji</S1230>
+      <S1234>Korisničko ime</S1234>
+      <S1274>Kod preskakanja čarobnjaka lokalnog računa, dodajte barem jedan lokalni račun ili budite dio domene, kako bi se mogli logirati.</S1274>
+      <S1320>Obrišite disk</S1320>
+      <S1326>Workgrupa</S1326>
+      <S1327>Naziv Workgrupe</S1327>
+    </Other>
+    <Toolbar>
+      <S0025>Dodaj lokalni račun</S0025>
+      <S0026>Dodaj lokalni korisnički račun nenadziranim postavkama.</S0026>
+      <S0059>Auto-popunjavanje</S0059>
+      <S0060>Ukoliko postoje, prepiši dostupne unose sa podatcima host stroja.</S0060>
+      <S0187>Konfiguriraj particiju diska</S0187>
+      <S0188>Postavi particije automatski tijekom podizanja Windowsa.</S0188>
+      <S0237>Zadano</S0237>
+      <S0318>Omogućeno</S0318>
+      <S0569>Pridruži mrežu</S0569>
+      <S0570>Automatski pridruži mrežnu domenu ili workgrupu</S0570>
+      <S0708>Mreža pridružena</S0708>
+      <S0732>OEM Setup Završen</S0732>
+      <S0733>Kada koristite OEM ključ u Windowsima 8 i novijim, SetupComplete.cmd obično nije izvršen. Omogućite ovu opciju da se SetupComplete.cmd uključi u izvršenje na kraju Unattended-RunSynchronous setupa.</S0733>
+      <S0754>Opcije</S0754>
+      <S0906>Ukloni odabrani lokalni račun, pridruživanje mreže ili setup particije diska iz UNATTENDED postavki.</S0906>
+      <S1192>Nenadzirani način</S1192>
+      <S1349>Kopiraj u sliku</S1349>
+      <S1350>Kopiraj datoteku odgovora u lokaciju finalne slike (%WINDIR%\Panther\unattend.xml). Nije preporučeno normalno, koristi samo ukoliko primijenjuješ sliku direktno ručno na particiju.</S1350>
+    </Toolbar>
+    <List>
+      <S0043>Uvijek</S0043>
+      <S0064>Automatska zaštita deaktivirana</S0064>
+      <S0185>Naziv računala</S0185>
+      <S0186>Naziv računala ne može sadržavati razmake i ograničen je na 15 znakova. Koristi * za auto-generirano slučajno ime računala sa statičkim prefiksom napravljenim od 'Registriranog vlasnika' (koristit će se prvih 8 znakova).</S0186>
+      <S0290>Ne čisti ne-prisutne uređaje</S0290>
+      <S0309>Dinamičko ažuriranje</S0309>
+      <S0320>Omogući dinamičko ažuriranje</S0320>
+      <S0349>Unesi ključ proizvoda u ovu sliku da se koristi tijekom setupa.</S0349>
+      <S0399>krivo</S0399>
+      <S0445>Uopći</S0445>
+      <S0460>Pomozi prilagoditi</S0460>
+      <S0464>Doma</S0464>
+      <S0527>Lokalni unos</S0527>
+      <S0529>Instaliraj samo ažuriranja</S0529>
+      <S0572>Zadrži sve instalirane PnP uređaje</S0572>
+      <S0614>Logo</S0614>
+      <S0633>Proizvođač</S0633>
+      <S0663>Model</S0663>
+      <S0710>Lokacija mreže</S0710>
+      <S0713>Nikad</S0713>
+      <S0731>OEM informacija</S0731>
+      <S0737>On error</S0737>
+      <S0746>OOBE (Opcije završne instalacije)</S0746>
+      <S0757>Drugo</S0757>
+      <S0759>Out-of-box experience (OOBE)</S0759>
+      <S0804>PnP Sysprep</S0804>
+      <S0839>Ključ proizvoda</S0839>
+      <S0848>Zaštiti računalo automatski</S0848>
+      <S0859>Javno</S0859>
+      <S0882>Registrirana Organizacija</S0882>
+      <S0883>Registrirani Vlasnik</S0883>
+      <S0916>Izvješće statistike instalacije</S0916>
+      <S0986>Pošalji izviješće Microsoftu</S0986>
+      <S1002>Postavljanje UI jezika</S1002>
+      <S1007>Opcije školjke</S1007>
+      <S1022>Preskoči auto aktivaciju</S1022>
+      <S1023>Preskoči EULA stranicu</S1023>
+      <S1026>Preskoči bežični setup</S1026>
+      <S1050>Specialize</S1050>
+      <S1084>Support hours</S1084>
+      <S1085>Podrška telefona</S1085>
+      <S1086>URL podrška</S1086>
+      <S1151>Vremenska zona</S1151>
+      <S1169>točno</S1169>
+      <S1178>Utipkaj '[KEY]' (bez navodnika) za automatsko čitanje OEM ključa iz BIOSa tijekom setupa.</S1178>
+      <S1184>UI jezik</S1184>
+      <S1231>Korisnikovo iskustvo za Windows licenciranje</S1231>
+      <S1232>Lokalni korisnik</S1232>
+      <S1233>Korisničke postavke</S1233>
+      <S1295>Windows jezik</S1295>
+      <S1296>Windows lokalizacija</S1296>
+      <S1311>Windows setup opcije</S1311>
+      <S1324>Work</S1324>
+    </List>
+    <Title>
+      <S0814>Konfiguriraj unaprijed izbor Windows setup, potpuno automatizirajući instalaciju. Omogući ovu stranicu gornjom lijevom opcijom alatne trake.</S0814>
+      <S1189>Nenadzirani način</S1189>
+    </Title>
+  </Unattended>
+  <Drivers>
+    <Title>
+      <S0021>Dodaj drivere za integraciju i pregledaj hardverske zahtjeve.</S0021>
+      <S0300>Driveri</S0300>
+    </Title>
+    <Toolbar>
+      <S0264>Odabrani popis uređaja.</S0264>
+      <S0298>Mapa s mnogostrukim driverima</S0298>
+      <S0299>Pronađi i dodaj sve drivere iz mape i podmapa u integracijski redoslijed</S0299>
+      <S0303>Driveri (INF selection)</S0303>
+      <S0364>Isključi nekorištene</S0364>
+      <S0365>Otkrij odgovarajuće drivere za odabrani popis uređaja, ukloni ostatak iz integracijskog redoslijeda.</S0365>
+      <S0386>Izvezi driver(e)</S0386>
+      <S0387>Izvezi odabrane domaćinove ili drivere image-a u direktorij.</S0387>
+      <S0388>Izvezite HW listu</S0388>
+      <S0389>Export host hardware device list from any machine which can be imported to a licensed version driver page hardware checlist
+Izvezi popis hardverskih uređaja hosta s bilo kojeg stroja koji može biti uvezen u licenciranu verziju hardverskog popisa provjere drivera</S0389>
+      <S0467>Mašina domaćin</S0467>
+      <S0507>Uvezi domaćina</S0507>
+      <S0508>Dodaj trenutne drivere host mašine na listu.</S0508>
+      <S0509>Uvezi HW listu</S0509>
+      <S0510>Uvezi listu uređaja. </S0510>
+      <S0616>Mašina</S0616>
+      <S0903>Ukloni odabrane drivere s redoslijeda integracije</S0903>
+      <S1013>Pokaži skrivene uređaje</S1013>
+      <S1014>Pokaži skrivene i isključene uređaje u popisu hardwera.</S1014>
+    </Toolbar>
+    <Other>
+      <S0296>Poredak drivera</S0296>
+      <S0301>Driveri dodani u red</S0301>
+      <S0302>Driveri maknuti iz poretka</S0302>
+      <S0431>Nađeno</S0431>
+      <S0455>Provjera popisa hardvera</S0455>
+      <S0456>Popis hardvera</S0456>
+      <S0457>Popis hardvera izvezen.</S0457>
+      <S0466>Uvezen domaćin (host)</S0466>
+      <S0656>Nedostaje</S0656>
+      <S0726>Nije nađeno</S0726>
+      <S0773>Djelimično</S0773>
+      <S0964>Odaberi mapu drivera da se poredaju svi driveri</S0964>
+      <S0965>Odaberi INF datoteke za dodati</S0965>
+      <S0970>Odaberite odredišnu datoteku izveženog popisa hardvera</S0970>
+      <S0971>Odaberite popis hardvera za uvesti</S0971>
+    </Other>
+  </Drivers>
+  <Tweaks>
+    <List>
+      <S0027>Admin način odobrenja za ugrađeni administratorski račun</S0027>
+      <S0034>Dopustite IRDP otkriti i konfigurirati zadane Gateway adrese.</S0034>
+      <S0035>Dopustite UIAccess aplikacijama da zatraže elevacije bez korištenja sigurnosnog desktopa</S0035>
+      <S0038>Omogućuje povišenim aplikacijama pristup mapiranim mrežnim pogonima. Za sigurnosne aspekte čitajte 'Omogući Linkane Konekcije'.</S0038>
+      <S0044>Uvijek kombiniraj</S0044>
+      <S0045>Uvijek prikaži sve ikone i obavijesti na programskoj traci</S0045>
+      <S0055>Auto-Reboot kod BSOD</S0055>
+      <S0062>Automatski</S0062>
+      <S0067>Automatski odbij zahtjeve elevacije</S0067>
+      <S0068>Automatski Reboot kod 'Blue Screen of Death' (BSOD).</S0068>
+      <S0081>Balloon tips - Explorer i desktop</S0081>
+      <S0082>Balloon tips - Info sadržaj mape</S0082>
+      <S0083>Balloon tips - Područje notifikacije</S0083>
+      <S0084>Balloon tips - Start dugme</S0084>
+      <S0089>Ponašanje povišenog redka za administratore u Admin odobrenom modu</S0089>
+      <S0090>Ponašanje povišenog redka za standardne korisnike</S0090>
+      <S0101>Boot</S0101>
+      <S0105>Boot na Desktop (Preskoči početnu stranicu)</S0105>
+      <S0114>Keširaj thumbnailove</S0114>
+      <S0127>CD Burning osobine</S0127>
+      <S0154>Briši povijest nedavno otvorenih dokumenata kod izlaska</S0154>
+      <S0166>Kombiniraj kad je taskbar pun</S0166>
+      <S0169>Zajednička kontrola i animacija prozora</S0169>
+      <S0195>Sadrži vrijednosti Windows service Start.</S0195>
+      <S0198>Control panel - klasični pogled</S0198>
+      <S0199>Control panel - male ikone</S0199>
+      <S0200>Kontrolira što Windowsi rade u slučaju rušenja.</S0200>
+      <S0216>Kontrola rušenja</S0216>
+      <S0235>Detekcija nefunkcionalnog Gatewaya</S0235>
+      <S0236>Detekcija nefunkcionalnog Gatewaya je TCP osobina koja identificira gateway koji ne funkcionira propisno i koja prebacuje računalo na novi defaultni gateway.</S0236>
+      <S0244>Desktop ikona - Control Panel</S0244>
+      <S0245>Desktop ikona - My Computer</S0245>
+      <S0246>Desktop ikona - Mreža</S0246>
+      <S0247>Desktop ikona - Kanta za smeće</S0247>
+      <S0248>Desktop ikona - Korisničke datoteke</S0248>
+      <S0253>Otkrij programske instalacije i traži elevacije</S0253>
+      <S0261>Određuje u kojoj mjeri sustav podržava IP multicasting i sudjeluje u Internet Group Management Protocol.</S0261>
+      <S0270>Onesposobljeno</S0270>
+      <S0279>Pokaži ikone umjesto thumbnailova</S0279>
+      <S0280>Pokaži ikone umjesto thumbnailova na mrežnim mapama</S0280>
+      <S0282>Prikaži stavke traya</S0282>
+      <S0307>Zapisi dinamičkih DNS PTR resursa</S0307>
+      <S0308>Dinamička DNS ažuriranja</S0308>
+      <S0315>Podigni samo potpisano</S0315>
+      <S0316>Podigni bez upita</S0316>
+      <S0321>Omogući linkane konekcije</S0321>
+      <S0322>Omogući samo ako DHCP šalje Perform Router Discovery opcije</S0322>
+      <S0323>Omogući ili onemogući DNS dinamičko ažuriranje registracije PTR (pointer) zapisa ovim DNS klijentom, tj. reverse lookup. PTR zapisi povezuju IP adresu s imenom računala.</S0323>
+      <S0324>Omogući ili onemogući DNS dinamičko ažuriranje registracije za sve adaptere ovog računala. Ubilježi adresu ove konekcije u DNS check box osobine svakog mrežnog TCP/IP naprednog sučelja, ako se ovdje onemogući neće imati efekta.</S0324>
+      <S0325>Omogući UAC - Filtriraj sve administratore (EnableULA)</S0325>
+      <S0326>Omogućeno</S0326>
+      <S0382>Explorer</S0382>
+      <S0414>Filtriraj built-in Administratora</S0414>
+      <S0474>ICMP redirekt</S0474>
+      <S0478>If disabled, causes the Windows Store tray icon to be empty.
+Ako je onemogućen, uzrokuje praznu ikonu Windows Store traya.</S0478>
+      <S0535>Otkrivanje instalera</S0535>
+      <S0573>Čuvaj povijest nedavno otvorenih dokumenata</S0573>
+      <S0630>Manualno</S0630>
+      <S0677>Multicast IGMP razina</S0677>
+      <S0683>Navigation pane - Automatski proširi na trenutnu mapu</S0683>
+      <S0684>Navigation pane - Prikaži sve mape</S0684>
+      <S0685>Navigation pane - Prikaži favorite</S0685>
+      <S0686>Navigation pane - Prikaži biblioteke</S0686>
+      <S0705>Mreža</S0705>
+      <S0714>Nikad ne kombiniraj</S0714>
+      <S0721>Nema multicast podršku</S0721>
+      <S0742>Samo podigni izvršne datoteke koje su potpisane i potvrđene</S0742>
+      <S0743>Samo podigni UIAccess aplikacije koje su instalirane na sigurnim mjestima</S0743>
+      <S0745>Pošalji samo IP multicast pakete</S0745>
+      <S0785>Izvedi otkrivanje routera</S0785>
+      <S0840>Pomoćnik za kompatibilnost programa</S0840>
+      <S0843>Pitaj za suglasnost</S0843>
+      <S0844>Pitaj za suglasnost za ne-Windows binaries</S0844>
+      <S0845>Pitaj za suglasnost na sigurnoj radnoj površini (desktopu)</S0845>
+      <S0846>Pitaj za vjerodajnice</S0846>
+      <S0847>Pitaj za vjerodajnice na sigurnoj radnoj površini (desktopu)</S0847>
+      <S0934>Pokreni sve administratore u modu Admin odobrenja. Treba biti omogućena za Metro aplikacije i Windows 10 Start izbornik.</S0934>
+      <S0960>Osiguraj Desktop na upit</S0960>
+      <S0985>Šalje i prima IP multicast pakete (sudjeluje u IGMP)</S0985>
+      <S0993>Servisi</S0993>
+      <S1008>Pokaži sat</S1008>
+      <S1010>Pokaži Map/Disconnect Network Drive opciju</S1010>
+      <S1011>Pokaži Network Location wizard na novim mrežama</S1011>
+      <S1012>Pokaži ili potpuno onesposobi notification area.</S1012>
+      <S1015>Ugasi bez odjave</S1015>
+      <S1064>Start Menu - Menu Dokumenata</S1064>
+      <S1065>Start menu - praćenje korištenja</S1065>
+      <S1092>Prebaci na sigurnu radnu površinu (desktop) kada pita za podizanje</S1092>
+      <S1096>Sistem</S1096>
+      <S1106>Taskbar - grupiranje gumba</S1106>
+      <S1107>Taskbar obavijest</S1107>
+      <S1108>Taskbar - Prikaži na svim monitorima</S1108>
+      <S1109>Taskbar - Pokaži aplikacije dućana</S1109>
+      <S1110>Taskbar - Male ikone</S1110>
+      <S1112>TCP/IP</S1112>
+      <S1137>Vrijednost je maksimalni postotak diska koji Windows Installer može koristiti za cache starih datoteka. Činjenje ne utječe na datoteke koje su već spremljene.</S1137>
+      <S1143>Ovaj parametar kontrolira mijenjaju li Windowsi svoju tablicu usmjeravanja kao odgovor na ICMP poruke koje ga upućuju da instruira datagrame primatelja cijelim drugačijim putem.</S1143>
+      <S1149>Ova postavka omogućuje prikaz ili skrivanje sata sa sistem traya na programskoj traci.</S1149>
+      <S1173>Uključuje ili isključuje Explorerovo snimanje na disk, Formatiranje i značajke auto-izbacivanja optičkog pogona.</S1173>
+      <S1182>UAC Admin upit</S1182>
+      <S1183>UAC Korisnik upit</S1183>
+      <S1185>UIAccess potrebna sigurna lokacija</S1185>
+      <S1186>UIAccess prebacivanje</S1186>
+      <S1244>View - Pokaži prazne pogone</S1244>
+      <S1245>View - Pokaži extenzije za poznate tipove datoteka</S1245>
+      <S1246>View - Pokaži skrivene datoteke, mape i pogone</S1246>
+      <S1247>View - Pokaži zaštićene sistemske datoteke</S1247>
+      <S1251>Neuspješna virtualizacija datoteke i zapis registra na korisničkim mjestima. Ako je onemogućeno, zatajit će aplikacije koje pišu po zaštićenim lokacijama.</S1251>
+      <S1252>Virtualiziram, neuspješno preusmjereno pisanje</S1252>
+      <S1293>Windows Instaler</S1293>
+      <S1294>Veličina cachea zakrpe Windows Instalera</S1294>
+      <S1342>Reset vrijednost</S1342>
+    </List>
+    <Title>
+      <S0131>Proimjene različite postavke Windowsa. Stroj i korisničke postavke su odvojene i mogu se odabrati na alatnoj traci iznad.</S0131>
+      <S1175>Tweaks</S1175>
+    </Title>
+    <Toolbar>
+      <S0611>Lokalna Mašina</S0611>
+      <S0922>Postavi trenutne postavke tabova na njihove izvorne vrijednosti.</S0922>
+      <S0953>Djelokrug</S0953>
+      <S1235>Korisnici</S1235>
+    </Toolbar>
+  </Tweaks>
+  <Apply>
+    <List>
+      <S0031>Sve promjene se izravno spremaju na host OS</S0031>
+      <S0033>Sve ostale srodne montirane slike bit će demontirane sa spremljenim izmjenama</S0033>
+      <S0074>Zapisnik sigurnosne kopije i podešenje izvora</S0074>
+      <S0076>Zapisnik sigurnosne kopije izvora</S0076>
+      <S0079>Zapisnik podešenja izvora</S0079>
+      <S0106>Oba Boot Managera čekanju za uklanjanje, što može učiniti sliku neupotrebljivom. Idite na stranicu Komponente i isključite jedno od njih.</S0106>
+      <S0117>Zaustavlja sve procese. Ne vraća do sada učinjene promjene.</S0117>
+      <S0129>Zamijeni</S0129>
+      <S0130>Zamijeni i piči</S0130>
+      <S0147>Očistite zahvate koji čekaju</S0147>
+      <S0181>Komponente već uklonjene, ažuriranje integracije može zatajiti zbog nestale datoteke</S0181>
+      <S0189>Konfiguriraj značajke</S0189>
+      <S0269>Onesposobi</S0269>
+      <S0275>Disk konfiguracija prisutna, particije su konfigurirane na bootanje ove slike. Pažljivo pregledajte Unattended stranicu</S0275>
+      <S0286>Ne pokazuj u budućnosti</S0286>
+      <S0371>Postojeća datoteka odgovora Nenadziranog načina će biti izbrisana</S0371>
+      <S0379>Izričiti izvrši SetupComplete.cmd</S0379>
+      <S0425>Za UEFI image, GPT disk, dodaj obavezno 100MB EFI kao prvu particiju i ne označavaj nijednu particiju kao aktivnu</S0425>
+      <S0500>Slika će ostati u nepoznatom stanju, tada je vrlo preporučljivo odbaciti svaku promjenu prije nego se ponovno upotrebi.</S0500>
+      <S0530>Instaliraj pakets</S0530>
+      <S0538>Pridruži drivere</S0538>
+      <S0539>Pridruži pakete</S0539>
+      <S0574>Zadrži samo</S0574>
+      <S0722>Nema promjena na čekanju, koristite alatnu traku iznad ili izbornik za navigaciju s lijeva za promjenu nekih opcija</S0722>
+      <S0811>Post-Setup zadatci</S0811>
+      <S0817>Pripremi podatke</S0817>
+      <S0837>Nastavi na vlastitu odgovornost.</S0837>
+      <S0842>Progres</S0842>
+      <S0866>Pročitajte ažurirane podatke</S0866>
+      <S0900>Ukloni komponente</S0900>
+      <S0901>Ukloni datoteke</S0901>
+      <S0902>Bez uklanjanja datoteka</S0902>
+      <S0933>Run</S0933>
+      <S0945>Spremi promjene i oslobodi sliku</S0945>
+      <S0983>Pregledaj popis hardvera na stranici Drivera za drivere koji nedostaju</S0983>
+      <S1056>Podijeli sliku na nekoliko dijelova ukoliko je veća od</S1056>
+      <S1063>Počni primjenjivati promjene</S1063>
+      <S1071>Zaustavite prije spremanja i oslobodite sliku</S1071>
+      <S1072>Zaustaviti proces ?</S1072>
+      <S1111>Zadatci</S1111>
+      <S1141>To je živo (online) uređivanje host stroja. Veoma je preporučljivo imati backup spreman u slučaju da nešto pođe krivo.</S1141>
+      <S1150>Ovaj izvor je prethodno poništen i može biti u poluprocesiranom, nestabilnom stanju</S1150>
+      <S1191>Odredište datoteke odgovora Nenadziranog načina</S1191>
+      <S1193>Unattended setup</S1193>
+      <S1337>Morat ćete ručno osloboditi sliku iz glavne stranice da bi promjene bile spremljene na slici</S1337>
+    </List>
+    <Title>
+      <S0051>Primijeni</S0051>
+      <S0929>Pregledaj promjene na čekanju i pritisni START na alatnoj traci kada je spremno.</S0929>
+    </Title>
+    <Other>
+      <S0052>Primjena</S0052>
+      <S0148>Čišćenje</S0148>
+      <S0150>Čišćenje praznih direktorija</S0150>
+      <S0151>Čišćenje ostataka unosa</S0151>
+      <S0271>Onemogućavanje</S0271>
+      <S0336>Omogućavanje</S0336>
+      <S0358>Greške i upozorenja</S0358>
+      <S0397>Extrakcija</S0397>
+      <S0438>Čuvanje funkcionalnosti</S0438>
+      <S0536>Instaliranje</S0536>
+      <S0543>Integriranje</S0543>
+      <S0544>Integriranje dijela boot slike</S0544>
+      <S0762>Paket</S0762>
+      <S0819>Priprema podataka</S0819>
+      <S0821>Priprema konfiguracije svojstava</S0821>
+      <S0823>Priprema integracije</S0823>
+      <S0834>Integracija prethodnog paketa zaključala daljnje integriranje na ovu sliku.</S0834>
+      <S0838>Obrada</S0838>
+      <S0909>Uklanjanje zastarjelih datoteka</S0909>
+      <S0928>Reupotreba datoteka driverskog cachea</S0928>
+      <S0952>Skeniranje zastarjelih datoteka</S0952>
+      <S1027>Preskočeno</S1027>
+      <S1030>Slipstreaming servisnog paketa</S1030>
+      <S1142>Ovaj paket zahtijeva novu servisnu skupinu ili noviju verziju Windowsa.</S1142>
+    </Other>
+    <Toolbar>
+      <S0073>Zapisnik sigurnosne kopije</S0073>
+      <S0075>Kopiraj trenutni log sesije na izvor, za  potrebe budućeg debugginga.</S0075>
+      <S0077>Backup preset</S0077>
+      <S0078>Kopiraj trenutno spremljeno podešenje na izvor, za buduću upotrebu u svrhu debugginga.</S0078>
+      <S0152>Očistite sigurnosne kopije ažuriranja</S0152>
+      <S0153>Uklonite zastarjele sigurnosne kopije, čuvajući samo najnovije verzije. Svi postojeći servisni paketi i ažuriranja ne mogu se deinstalirati nakon ove operacije. To neće blokirati deinstalaciju budućih servisnih paketa ili ažuriranja.</S0153>
+      <S0222>Nakon spremanja slike, automatski stvori ISO sliku. Parametri na čekanju će biti potaknuti označivši ovu opciju.</S0222>
+      <S0360>ESD kompresija</S0360>
+      <S0361>Komprimiraj sliku koristeći ESD format, podržan od Windows 8 i novijih. Slika će biti manja, ali traži konverziju natrag u WIM zbog editiranja.</S0361>
+      <S0385>Obnavlja sliku, potencijalno smanjujući njezinu veličinu. Na taj način, trenutno odabrano izdanje će ostati kao jedini ulaz na matičnoj slici.</S0385>
+      <S0809>Post procesiranje slike</S0809>
+      <S0926>Ponovno upotrijebi driver cache</S0926>
+      <S0927>Smanjuje veličinu Windowsa, koristeći NTFS veze između identičnih driverskih datoteka u cacheu i gdje su raspoređene (npr. System32). Dosta prostora sačuvano kada se koristi na Live deployment sa instaliranim driverima.</S0927>
+      <S0944>Spremi promjene i demontiraj</S0944>
+      <S0946>Spremi promjene i demontiraj trenutno učitanu sliku i slične slike.</S0946>
+      <S0955>Zapečačene značajke</S0955>
+      <S0956>Makni Windows 7 zastarjela ažuriranja, smanjujući još više veličinu. Windows Značajke (Panel-&gt; Programs-&gt; Features) se možda neće moći promijeniti nakon ove operacije, zato budite sigurni da postavljate konačna stanja Značajki kada koristite ovu opciju.</S0956>
+      <S1053>Podijeli</S1053>
+      <S1058>Podijeli odabrani WIM image u više SWM dijelova. Koristi se za npr. zaobilaženje FAT32 4GB datotečnog ograničenja jedne datoteke ili obuhvaćanje image-a preko više medija.</S1058>
+      <S1062>Počni</S1062>
+      <S1066>Počni primjenjivati sve promjene.</S1066>
+    </Toolbar>
+  </Apply>
+  <PostSetup>
+    <Other>
+      <S0032>Sve datoteke</S0032>
+      <S0125>Oprezno s tihim instalerima koji se instaliraju na bilo koje izvođenje.</S0125>
+      <S0366>Izvrši</S0366>
+      <S0367>Izvršavanje</S0367>
+      <S0369>Postojeći</S0369>
+      <S0534>Instaler</S0534>
+      <S0771>Parametri</S0771>
+      <S0884>Registar</S0884>
+      <S0966>Odaberi datoteke za dodati</S0966>
+      <S0995>Postavi</S0995>
+      <S1068>Status</S1068>
+      <S1088>Podržane vrste</S1088>
+      <S1163>Pokušaj dodavanja postojeće naredbe</S1163>
+      <S1164>Pokušaj dodavanja postojeće datoteke</S1164>
+      <S1166>Pokušaj dodavanja nepostojeće instalacijske staze</S1166>
+      <S1168>Pokušaj uklanjanja nepostojeće naredbe</S1168>
+      <S1177>Vrsta</S1177>
+      <S1202>Nepoznato</S1202>
+      <S1344>Batch</S1344>
+      <S1345>Passive</S1345>
+      <S1352>koristi kao</S1352>
+    </Other>
+    <Toolbar>
+      <S0167>Komanda</S0167>
+      <S0168>Dodaj instrukcije naredbenog retka na izvršenje nakon instalacije</S0168>
+      <S0368>Red izvršenja</S0368>
+      <S0411>Dodaj instaler datoteku s parametrima, SFX arhivu, PowerShell skriptu ili REG datoteku za izvršenje nakon Windows Setup-a</S0411>
+      <S0769>Parameter Info</S0769>
+      <S0770>Pokušajte help prekidač na odabranom instaleru da vidite popis dostupnih parametara</S0770>
+      <S0904>Obriši označeni redak</S0904>
+      <S0921>Poništi izvorno stanje. Uklanja nove i vraća postojeće unose.</S0921>
+    </Toolbar>
+    <Title>
+      <S0626>Izvršenje post instalacijskih naredbi i instaliranje aplikacija. One se izvršavaju na kraju instalacije Windowsa, samo jednom kao sistemski korisnik.</S0626>
+      <S0810>Post-Setup</S0810>
+    </Title>
+  </PostSetup>
+  <Features>
+    <List>
+      <S0242>Opis</S0242>
+      <S0401>Značajka</S0401>
+      <S1067>Stanje</S1067>
+    </List>
+    <Title>
+      <S0403>Značajke</S0403>
+      <S0975>Odaberite koje značajke omogućiti. Ova stranica radi isto kao Control Panel - 'Turn Windows Features on or off'.</S0975>
+    </Title>
+    <Toolbar>
+      <S0443>Općenito</S0443>
+      <S0920>Postavite značajke na izvorišne postavke</S0920>
+    </Toolbar>
+  </Features>
+</NTLiteTranslation>

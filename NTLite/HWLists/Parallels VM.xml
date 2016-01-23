@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Hardware xmlns="urn:schemas-nliteos-com:pn.v1">
+	<Device name="CD-ROM Drive" hidden="false" className="cdrom" displayName=" Virtual DVD-ROM ATA Device">
+		<HWID>GENCDROM</HWID>
+		<HWID>IDE\CDROM_VIRTUAL_DVD-ROM________________________</HWID>
+		<HWID>IDE\CDROM_VIRTUAL_DVD-ROM________________________R103____</HWID>
+		<HWID>IDE\_VIRTUAL_DVD-ROM________________________R103____</HWID>
+		<HWID>_VIRTUAL_DVD-ROM________________________R103____</HWID>
+		<HWID>SCSI\CDROM</HWID>
+		<HWID>SCSI\CDROM________</HWID>
+		<HWID>SCSI\CDROM________VIRTUAL_DVD-ROM_</HWID>
+		<HWID>SCSI\CDROM________VIRTUAL_DVD-ROM_R103</HWID>
+		<HWID>SCSI\RAW</HWID>
+		<HWID>SCSI\________VIRTUAL_DVD-ROM_R</HWID>
+		<HWID>________VIRTUAL_DVD-ROM_R</HWID>
+	</Device>
+	<Device name="ACPI PC" hidden="false" className="computer" displayName="ACPI PC">
+		<HWID>ACPIAPIC</HWID>
+		<HWID>DETECTEDINTERNAL\ACPI_HAL</HWID>
+		<HWID>DETECTED\ACPI_HAL</HWID>
+	</Device>
+	<Device name="Disk drive" hidden="false" className="diskdrive" displayName="ATA Device">
+		<HWID>GENDISK</HWID>
+		<HWID>SCSI\DISK</HWID>
+		<HWID>SCSI\DISKWINDOWS_</HWID>
+		<HWID>SCSI\RAW</HWID>
+	</Device>
+	<Device name="Parallels Display Adapter (WDDM)" hidden="false" className="display" displayName="Parallels Display Adapter (WDDM)">
+		<HWID>PCI\CC_0300</HWID>
+		<HWID>PCI\CC_030000</HWID>
+		<HWID>PCI\VEN_1AB8</HWID>
+		<HWID>PCI\VEN_1AB8&amp;CC_0300</HWID>
+		<HWID>PCI\VEN_1AB8&amp;CC_030000</HWID>
+		<HWID>PCI\VEN_1AB8&amp;DEV_4005</HWID>
+		<HWID>PCI\VEN_1AB8&amp;DEV_4005&amp;CC_0300</HWID>
+		<HWID>PCI\VEN_1AB8&amp;DEV_4005&amp;CC_030000</HWID>
+		<HWID>PCI\VEN_1AB8&amp;DEV_4005&amp;REV_00</HWID>
+		<HWID>PCI\VEN_1AB8&amp;DEV_4005&amp;SUBSYS_04001AB8</HWID>
+		<HWID>PCI\VEN_1AB8&amp;DEV_4005&amp;SUBSYS_04001AB8&amp;REV_00</HWID>
+	</Device>
+	<Device name="IDE Channel" hidden="false" className="hdc" displayName="ATA Channel 0">
+		<HWID>*PNP0600</HWID>
+		<HWID>INTEL-2821</HWID>
+		<HWID>INTEL-244B</HWID>
+		<HWID>INTERNAL_IDE_CHANNEL</HWID>
+	</Device>
+	<Device name="Intel(R) 82801BA Ultra ATA Storage Controller - 244B" hidden="false" className="hdc" displayName="Intel(R) 82801BA Ultra ATA Storage Controller - 244B">
+		<HWID>PCI\CC_0101</HWID>
+		<HWID>PCI\CC_010180</HWID>
+		<HWID>PCI\VEN_8086</HWID>
+		<HWID>PCI\VEN_8086&amp;CC_0101</HWID>
+		<HWID>PCI\VEN_8086&amp;CC_010180</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_244B</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_244B&amp;CC_0101</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_244B&amp;CC_010180</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_244B&amp;REV_05</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_244B&amp;SUBSYS_04001AB8</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_244B&amp;SUBSYS_04001AB8&amp;REV_05</HWID>
+	</Device>
+	<Device name="Standard AHCI 1.0 Serial ATA Controller" hidden="false" className="hdc" displayName="Standard AHCI 1.0 Serial ATA Controller">
+		<HWID>PCI\CC_0106</HWID>
+		<HWID>PCI\CC_010601</HWID>
+		<HWID>PCI\VEN_8086</HWID>
+		<HWID>PCI\VEN_8086&amp;CC_0106</HWID>
+		<HWID>PCI\VEN_8086&amp;CC_010601</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_2821</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_2821&amp;CC_0106</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_2821&amp;CC_010601</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_2821&amp;REV_02</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_2821&amp;SUBSYS_04001AB8</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_2821&amp;SUBSYS_04001AB8&amp;REV_02</HWID>
+	</Device>
+	<Device name="USB Input Device" hidden="false" className="hidclass" displayName="USB Input Device">
+		<HWID>USB\CLASS_03</HWID>
+		<HWID>USB\CLASS_03&amp;SUBCLASS_00</HWID>
+		<HWID>USB\CLASS_03&amp;SUBCLASS_00&amp;PROT_02</HWID>
+		<HWID>USB\VID_203A&amp;PID_FFFC&amp;MI_00</HWID>
+		<HWID>USB\VID_203A&amp;PID_FFFC&amp;REV_0100&amp;MI_00</HWID>
+	</Device>
+	<Device name="Standard PS/2 Keyboard" hidden="false" className="keyboard" displayName="Standard PS/2 Keyboard">
+		<HWID>*PNP0303</HWID>
+		<HWID>ACPI\PNP0303</HWID>
+		<HWID>ACPI\VEN_PNP&amp;DEV_0303</HWID>
+	</Device>
+	<Device name="Microsoft Streaming Clock Proxy" hidden="true" className="media" displayName="Microsoft Streaming Clock Proxy">
+		<HWID>SW\{97EBAACC-95BD-11D0-A3EA-00A0C9223196}</HWID>
+	</Device>
+	<Device name="Microsoft Streaming Quality Manager Proxy" hidden="true" className="media" displayName="Microsoft Streaming Quality Manager Proxy">
+		<HWID>SW\{DDF4358E-BB2C-11D0-A42F-00A0C9223196}</HWID>
+	</Device>
+	<Device name="Microsoft Streaming Service Proxy" hidden="true" className="media" displayName="Microsoft Streaming Service Proxy">
+		<HWID>SW\{96E080C7-143C-11D1-B40F-00A0C9223196}</HWID>
+	</Device>
+	<Device name="Microsoft Streaming Tee/Sink-to-Sink Converter" hidden="true" className="media" displayName="Microsoft Streaming Tee/Sink-to-Sink Converter">
+		<HWID>SW\{CFD669F1-9BC2-11D0-8299-0000F822FE8A}</HWID>
+	</Device>
+	<Device name="Microsoft Trusted Audio Drivers" hidden="true" className="media" displayName="Microsoft Trusted Audio Drivers">
+		<HWID>SW\{EEC12DB6-AD9C-4168-8658-B03DAEF417FE}</HWID>
+	</Device>
+	<Device name="Parallels Audio Controller" hidden="false" className="media" displayName="Parallels Audio Controller">
+		<HWID>PCI\CC_0401</HWID>
+		<HWID>PCI\CC_040100</HWID>
+		<HWID>PCI\VEN_1022</HWID>
+		<HWID>PCI\VEN_1022&amp;CC_0401</HWID>
+		<HWID>PCI\VEN_1022&amp;CC_040100</HWID>
+		<HWID>PCI\VEN_1022&amp;DEV_746D</HWID>
+		<HWID>PCI\VEN_1022&amp;DEV_746D&amp;CC_0401</HWID>
+		<HWID>PCI\VEN_1022&amp;DEV_746D&amp;CC_040100</HWID>
+		<HWID>PCI\VEN_1022&amp;DEV_746D&amp;REV_00</HWID>
+		<HWID>PCI\VEN_1022&amp;DEV_746D&amp;SUBSYS_04001AB8</HWID>
+		<HWID>PCI\VEN_1022&amp;DEV_746D&amp;SUBSYS_04001AB8&amp;REV_00</HWID>
+		<HWID>PCI\VEN_8086</HWID>
+		<HWID>PCI\VEN_8086&amp;CC_0401</HWID>
+		<HWID>PCI\VEN_8086&amp;CC_040100</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_2445</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_2445&amp;CC_0401</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_2445&amp;CC_040100</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_2445&amp;REV_02</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_2445&amp;SUBSYS_04001AB8</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_2445&amp;SUBSYS_04001AB8&amp;REV_02</HWID>
+	</Device>
+	<Device name="Generic Non-PnP Monitor" hidden="false" className="monitor" displayName="Generic Non-PnP Monitor">
+		<HWID>*PNP09FF</HWID>
+		<HWID>MONITOR\DEFAULT_MONITOR</HWID>
+	</Device>
+	<Device name="Generic PnP Monitor" hidden="true" className="monitor" displayName="Generic PnP Monitor">
+		<HWID>*PNP09FF</HWID>
+		<HWID>MONITOR\PRL4006</HWID>
+	</Device>
+	<Device name="HID-compliant mouse" hidden="false" className="mouse" displayName="HID-compliant mouse">
+		<HWID>HID\VID_203A&amp;PID_FFFC&amp;MI_01</HWID>
+		<HWID>HID\VID_203A&amp;PID_FFFC&amp;REV_0100&amp;MI_01</HWID>
+		<HWID>HID_DEVICE</HWID>
+		<HWID>HID_DEVICE_SYSTEM_MOUSE</HWID>
+		<HWID>HID_DEVICE_UP:0001_U:0002</HWID>
+	</Device>
+	<Device name="Parallels Mouse Synchronization Device" hidden="false" className="mouse" displayName="Parallels Mouse Synchronization Device">
+		<HWID>*PNP0F03</HWID>
+		<HWID>ACPI\PNP0F03</HWID>
+		<HWID>ACPI\VEN_PNP&amp;DEV_0F03</HWID>
+	</Device>
+	<Device name="Parallels USB Mouse Synchronization Device" hidden="false" className="mouse" displayName="Parallels USB Mouse Synchronization Device">
+		<HWID>HID\VID_203A&amp;PID_FFFC&amp;MI_00</HWID>
+		<HWID>HID\VID_203A&amp;PID_FFFC&amp;REV_0100&amp;MI_00</HWID>
+		<HWID>HID_DEVICE</HWID>
+		<HWID>HID_DEVICE_SYSTEM_MOUSE</HWID>
+		<HWID>HID_DEVICE_UP:0001_U:0002</HWID>
+	</Device>
+	<Device name="Intel(R) PRO/1000 MT Network Connection" hidden="false" className="net" displayName="Intel(R) PRO/1000 MT Network Connection">
+		<HWID>PCI\CC_0200</HWID>
+		<HWID>PCI\CC_020000</HWID>
+		<HWID>PCI\VEN_8086</HWID>
+		<HWID>PCI\VEN_8086&amp;CC_0200</HWID>
+		<HWID>PCI\VEN_8086&amp;CC_020000</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_100F</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_100F&amp;CC_0200</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_100F&amp;CC_020000</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_100F&amp;REV_00</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_100F&amp;SUBSYS_04001AB8</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_100F&amp;SUBSYS_04001AB8&amp;REV_00</HWID>
+	</Device>
+	<Device name="Intel Processor" hidden="false" className="processor" displayName="Intel(R) Core(TM) i7-4770K CPU @ 3.50GHz">
+		<HWID>*GENUINEINTEL_-_INTEL64</HWID>
+		<HWID>*GENUINEINTEL_-_INTEL64_FAMILY_6</HWID>
+		<HWID>*GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_60</HWID>
+		<HWID>ACPI\GENUINEINTEL_-_INTEL64</HWID>
+		<HWID>ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6</HWID>
+		<HWID>ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_60</HWID>
+		<HWID>*GENUINEINTEL_-_X86</HWID>
+		<HWID>*GENUINEINTEL_-_X86_FAMILY_6</HWID>
+		<HWID>*GENUINEINTEL_-_X86_FAMILY_6_MODEL_60</HWID>
+		<HWID>ACPI\GENUINEINTEL_-_X86</HWID>
+		<HWID>ACPI\GENUINEINTEL_-_X86_FAMILY_6</HWID>
+		<HWID>ACPI\GENUINEINTEL_-_X86_FAMILY_6_MODEL_60</HWID>
+		<HWID>ACPI\PROCESSOR</HWID>
+	</Device>
+	<Device name="ACPI Fixed Feature Button" hidden="false" className="system" displayName="ACPI Fixed Feature Button">
+		<HWID>*FIXEDBUTTON</HWID>
+		<HWID>ACPI\FIXEDBUTTON</HWID>
+	</Device>
+	<Device name="Composite Bus Enumerator" hidden="false" className="system" displayName="Composite Bus Enumerator">
+		<HWID>ROOT\COMPOSITEBUS</HWID>
+	</Device>
+	<Device name="DEC 21150 PCI to PCI bridge" hidden="false" className="system" displayName="DEC 21150 PCI to PCI bridge">
+		<HWID>PCI\CC_0604</HWID>
+		<HWID>PCI\CC_060400</HWID>
+		<HWID>PCI\VEN_1011</HWID>
+		<HWID>PCI\VEN_1011&amp;CC_0604</HWID>
+		<HWID>PCI\VEN_1011&amp;CC_060400</HWID>
+		<HWID>PCI\VEN_1011&amp;DEV_0022</HWID>
+		<HWID>PCI\VEN_1011&amp;DEV_0022&amp;CC_0604</HWID>
+		<HWID>PCI\VEN_1011&amp;DEV_0022&amp;CC_060400</HWID>
+		<HWID>PCI\VEN_1011&amp;DEV_0022&amp;REV_00</HWID>
+		<HWID>PCI\VEN_1011&amp;DEV_0022&amp;SUBSYS_00000000</HWID>
+		<HWID>PCI\VEN_1011&amp;DEV_0022&amp;SUBSYS_00000000&amp;REV_00</HWID>
+	</Device>
+	<Device name="Direct memory access controller" hidden="false" className="system" displayName="Direct memory access controller">
+		<HWID>*PNP0200</HWID>
+		<HWID>ACPI\PNP0200</HWID>
+		<HWID>ACPI\VEN_PNP&amp;DEV_0200</HWID>
+	</Device>
+	<Device name="File as Volume Driver" hidden="false" className="system" displayName="File as Volume Driver">
+		<HWID>DETECTEDINTERNAL\BLBDRIVE</HWID>
+		<HWID>DETECTED\BLBDRIVE</HWID>
+		<HWID>ROOT\BLBDRIVE</HWID>
+	</Device>
+	<Device name="Generic Bus" hidden="false" className="system" displayName="Generic Bus">
+		<HWID>*PNP0A05</HWID>
+		<HWID>ACPI\PNP0A05</HWID>
+		<HWID>ACPI\VEN_PNP&amp;DEV_0A05</HWID>
+	</Device>
+	<Device name="High precision event timer" hidden="false" className="system" displayName="High precision event timer">
+		<HWID>*PNP0103</HWID>
+		<HWID>ACPI\PNP0103</HWID>
+		<HWID>ACPI\VEN_PNP&amp;DEV_0103</HWID>
+	</Device>
+	<Device name="Intel(R) 82801 PCI Bridge - 244E" hidden="false" className="system" displayName="Intel(R) 82801 PCI Bridge - 244E">
+		<HWID>PCI\CC_0604</HWID>
+		<HWID>PCI\CC_060400</HWID>
+		<HWID>PCI\VEN_8086</HWID>
+		<HWID>PCI\VEN_8086&amp;CC_0604</HWID>
+		<HWID>PCI\VEN_8086&amp;CC_060400</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_244E</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_244E&amp;CC_0604</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_244E&amp;CC_060400</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_244E&amp;REV_F2</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_244E&amp;SUBSYS_04001AB8</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_244E&amp;SUBSYS_04001AB8&amp;REV_F2</HWID>
+	</Device>
+	<Device name="Intel(R) 82802 Firmware Hub Device" hidden="false" className="system" displayName="Intel(R) 82802 Firmware Hub Device">
+		<HWID>*INT0800</HWID>
+		<HWID>ACPI\INT0800</HWID>
+		<HWID>ACPI\VEN_INT&amp;DEV_0800</HWID>
+	</Device>
+	<Device name="Intel(R) G35 Express Chipset PCI Express Root Port - 2981" hidden="false" className="system" displayName="Intel(R) G35 Express Chipset PCI Express Root Port - 2981">
+		<HWID>PCI\CC_0604</HWID>
+		<HWID>PCI\CC_060401</HWID>
+		<HWID>PCI\VEN_8086</HWID>
+		<HWID>PCI\VEN_8086&amp;CC_0604</HWID>
+		<HWID>PCI\VEN_8086&amp;CC_060401</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_2981</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_2981&amp;CC_0604</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_2981&amp;CC_060401</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_2981&amp;REV_02</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_2981&amp;SUBSYS_00008086</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_2981&amp;SUBSYS_00008086&amp;REV_02</HWID>
+	</Device>
+	<Device name="Intel(R) ICH8 Family SMBus Controller - 283E" hidden="false" className="system" displayName="Intel(R) ICH8 Family SMBus Controller - 283E">
+		<HWID>PCI\CC_0C05</HWID>
+		<HWID>PCI\CC_0C0500</HWID>
+		<HWID>PCI\VEN_8086</HWID>
+		<HWID>PCI\VEN_8086&amp;CC_0C05</HWID>
+		<HWID>PCI\VEN_8086&amp;CC_0C0500</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_283E</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_283E&amp;CC_0C05</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_283E&amp;CC_0C0500</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_283E&amp;REV_02</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_283E&amp;SUBSYS_04001AB8</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_283E&amp;SUBSYS_04001AB8&amp;REV_02</HWID>
+	</Device>
+	<Device name="Intel(R) ICH8/ICH8R Family LPC Interface Controller - 2810" hidden="false" className="system" displayName="Intel(R) ICH8/ICH8R Family LPC Interface Controller - 2810">
+		<HWID>PCI\CC_0601</HWID>
+		<HWID>PCI\CC_060100</HWID>
+		<HWID>PCI\VEN_8086</HWID>
+		<HWID>PCI\VEN_8086&amp;CC_0601</HWID>
+		<HWID>PCI\VEN_8086&amp;CC_060100</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_2810</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_2810&amp;CC_0601</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_2810&amp;CC_060100</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_2810&amp;REV_02</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_2810&amp;SUBSYS_04001AB8</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_2810&amp;SUBSYS_04001AB8&amp;REV_02</HWID>
+	</Device>
+	<Device name="Intel(R) P965/G965 Processor to I/O Controller - 29A0" hidden="false" className="system" displayName="Intel(R) P965/G965 Processor to I/O Controller - 29A0">
+		<HWID>PCI\CC_0600</HWID>
+		<HWID>PCI\CC_060000</HWID>
+		<HWID>PCI\VEN_8086</HWID>
+		<HWID>PCI\VEN_8086&amp;CC_0600</HWID>
+		<HWID>PCI\VEN_8086&amp;CC_060000</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_29A0</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_29A0&amp;CC_0600</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_29A0&amp;CC_060000</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_29A0&amp;REV_02</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_29A0&amp;SUBSYS_04001AB8</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_29A0&amp;SUBSYS_04001AB8&amp;REV_02</HWID>
+	</Device>
+	<Device name="Microsoft ACPI-Compliant System" hidden="false" className="system" displayName="Microsoft ACPI-Compliant System">
+		<HWID>*PNP0C08</HWID>
+		<HWID>ACPI_HAL\PNP0C08</HWID>
+	</Device>
+	<Device name="Microsoft Basic Display Driver" hidden="false" className="system" displayName="Microsoft Basic Display Driver">
+		<HWID>ROOT\BASICDISPLAY</HWID>
+	</Device>
+	<Device name="Microsoft Basic Render Driver" hidden="false" className="system" displayName="Microsoft Basic Render Driver">
+		<HWID>ROOT\BASICRENDER</HWID>
+	</Device>
+	<Device name="Microsoft System Management BIOS Driver" hidden="false" className="system" displayName="Microsoft System Management BIOS Driver">
+		<HWID>ROOT\MSSMBIOS</HWID>
+	</Device>
+	<Device name="Microsoft Virtual Drive Enumerator Driver" hidden="false" className="system" displayName="Microsoft Virtual Drive Enumerator Driver">
+		<HWID>ROOT\VDRVROOT</HWID>
+	</Device>
+	<Device name="Motherboard resources" hidden="false" className="system" displayName="Motherboard resources">
+		<HWID>*PNP0C02</HWID>
+		<HWID>ACPI\PNP0C02</HWID>
+		<HWID>ACPI\VEN_PNP&amp;DEV_0C02</HWID>
+	</Device>
+	<Device name="NDIS Virtual Network Adapter Enumerator" hidden="false" className="system" displayName="NDIS Virtual Network Adapter Enumerator">
+		<HWID>ROOT\NDISVIRTUALBUS</HWID>
+	</Device>
+	<Device name="Numeric data processor" hidden="false" className="system" displayName="Numeric data processor">
+		<HWID>*PNP0C04</HWID>
+		<HWID>ACPI\PNP0C04</HWID>
+		<HWID>ACPI\VEN_PNP&amp;DEV_0C04</HWID>
+	</Device>
+	<Device name="Parallels Memory Controller" hidden="false" className="system" displayName="Parallels Memory Controller">
+		<HWID>PCI\CC_FF00</HWID>
+		<HWID>PCI\CC_FF0000</HWID>
+		<HWID>PCI\VEN_1AB8</HWID>
+		<HWID>PCI\VEN_1AB8&amp;CC_FF00</HWID>
+		<HWID>PCI\VEN_1AB8&amp;CC_FF0000</HWID>
+		<HWID>PCI\VEN_1AB8&amp;DEV_4006</HWID>
+		<HWID>PCI\VEN_1AB8&amp;DEV_4006&amp;CC_FF00</HWID>
+		<HWID>PCI\VEN_1AB8&amp;DEV_4006&amp;CC_FF0000</HWID>
+		<HWID>PCI\VEN_1AB8&amp;DEV_4006&amp;REV_00</HWID>
+		<HWID>PCI\VEN_1AB8&amp;DEV_4006&amp;SUBSYS_40061AB8</HWID>
+		<HWID>PCI\VEN_1AB8&amp;DEV_4006&amp;SUBSYS_40061AB8&amp;REV_00</HWID>
+	</Device>
+	<Device name="Parallels Paravirtualization driver" hidden="false" className="system" displayName="Parallels Paravirtualization driver">
+		<HWID>ROOT\PRL_PV32</HWID>
+	</Device>
+	<Device name="Parallels Tool Device" hidden="false" className="system" displayName="Parallels Tool Device">
+		<HWID>PCI\CC_FF00</HWID>
+		<HWID>PCI\CC_FF0000</HWID>
+		<HWID>PCI\VEN_1AB8</HWID>
+		<HWID>PCI\VEN_1AB8&amp;CC_FF00</HWID>
+		<HWID>PCI\VEN_1AB8&amp;CC_FF0000</HWID>
+		<HWID>PCI\VEN_1AB8&amp;DEV_4000</HWID>
+		<HWID>PCI\VEN_1AB8&amp;DEV_4000&amp;CC_FF00</HWID>
+		<HWID>PCI\VEN_1AB8&amp;DEV_4000&amp;CC_FF0000</HWID>
+		<HWID>PCI\VEN_1AB8&amp;DEV_4000&amp;REV_00</HWID>
+		<HWID>PCI\VEN_1AB8&amp;DEV_4000&amp;SUBSYS_04001AB8</HWID>
+		<HWID>PCI\VEN_1AB8&amp;DEV_4000&amp;SUBSYS_04001AB8&amp;REV_00</HWID>
+	</Device>
+	<Device name="PCI bus" hidden="false" className="system" displayName="PCI bus">
+		<HWID>*PNP0A03</HWID>
+		<HWID>*PNP0A08</HWID>
+		<HWID>ACPI\PNP0A08</HWID>
+		<HWID>ACPI\VEN_PNP&amp;DEV_0A08</HWID>
+	</Device>
+	<Device name="Plug and Play Software Device Enumerator" hidden="false" className="system" displayName="Plug and Play Software Device Enumerator">
+		<HWID>ROOT\SWENUM</HWID>
+	</Device>
+	<Device name="Programmable interrupt controller" hidden="false" className="system" displayName="Programmable interrupt controller">
+		<HWID>*PNP0000</HWID>
+		<HWID>ACPI\PNP0000</HWID>
+	</Device>
+	<Device name="Remote Desktop Device Redirector Bus" hidden="false" className="system" displayName="Remote Desktop Device Redirector Bus">
+		<HWID>ROOT\RDPBUS</HWID>
+	</Device>
+	<Device name="System board" hidden="false" className="system" displayName="System board">
+		<HWID>*PNP0C01</HWID>
+		<HWID>ACPI\PNP0C01</HWID>
+		<HWID>ACPI\VEN_PNP&amp;DEV_0C01</HWID>
+	</Device>
+	<Device name="System CMOS/real time clock" hidden="false" className="system" displayName="System CMOS/real time clock">
+		<HWID>*PNP0B00</HWID>
+		<HWID>ACPI\PNP0B00</HWID>
+		<HWID>ACPI\VEN_PNP&amp;DEV_0B00</HWID>
+	</Device>
+	<Device name="System speaker" hidden="false" className="system" displayName="System speaker">
+		<HWID>*PNP0800</HWID>
+		<HWID>ACPI\PNP0800</HWID>
+		<HWID>ACPI\VEN_PNP&amp;DEV_0800</HWID>
+	</Device>
+	<Device name="System timer" hidden="false" className="system" displayName="System timer">
+		<HWID>*PNP0100</HWID>
+		<HWID>ACPI\PNP0100</HWID>
+		<HWID>ACPI\VEN_PNP&amp;DEV_0100</HWID>
+	</Device>
+	<Device name="Terminal Server Keyboard Driver" hidden="false" className="system" displayName="Terminal Server Keyboard Driver">
+		<HWID>ROOT\RDP_KBD</HWID>
+	</Device>
+	<Device name="Terminal Server Mouse Driver" hidden="false" className="system" displayName="Terminal Server Mouse Driver">
+		<HWID>ROOT\RDP_MOU</HWID>
+	</Device>
+	<Device name="UMBus Enumerator" hidden="false" className="system" displayName="UMBus Enumerator">
+		<HWID>UMB\UMBUS</HWID>
+	</Device>
+	<Device name="UMBus Root Bus Enumerator" hidden="false" className="system" displayName="UMBus Root Bus Enumerator">
+		<HWID>ROOT\UMBUS</HWID>
+	</Device>
+	<Device name="Volume Manager" hidden="false" className="system" displayName="Volume Manager">
+		<HWID>DETECTEDINTERNAL\VOLMGR</HWID>
+		<HWID>DETECTED\VOLMGR</HWID>
+		<HWID>ROOT\VOLMGR</HWID>
+	</Device>
+	<Device name="Intel(R) 82801FB/FBM USB Universal Host Controller - 2658" hidden="false" className="usb" displayName="Intel(R) 82801FB/FBM USB Universal Host Controller - 2658">
+		<HWID>PCI\CC_0C03</HWID>
+		<HWID>PCI\CC_0C0300</HWID>
+		<HWID>PCI\VEN_8086</HWID>
+		<HWID>PCI\VEN_8086&amp;CC_0C03</HWID>
+		<HWID>PCI\VEN_8086&amp;CC_0C0300</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_2658</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_2658&amp;CC_0C03</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_2658&amp;CC_0C0300</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_2658&amp;REV_02</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_2658&amp;SUBSYS_04001AB8</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_2658&amp;SUBSYS_04001AB8&amp;REV_02</HWID>
+	</Device>
+	<Device name="Intel(R) 82801FB/FBM USB2 Enhanced Host Controller - 265C" hidden="false" className="usb" displayName="Intel(R) 82801FB/FBM USB2 Enhanced Host Controller - 265C">
+		<HWID>PCI\CC_0C03</HWID>
+		<HWID>PCI\CC_0C0320</HWID>
+		<HWID>PCI\VEN_8086</HWID>
+		<HWID>PCI\VEN_8086&amp;CC_0C03</HWID>
+		<HWID>PCI\VEN_8086&amp;CC_0C0320</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_265C</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_265C&amp;CC_0C03</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_265C&amp;CC_0C0320</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_265C&amp;REV_02</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_265C&amp;SUBSYS_04001AB8</HWID>
+		<HWID>PCI\VEN_8086&amp;DEV_265C&amp;SUBSYS_04001AB8&amp;REV_02</HWID>
+	</Device>
+	<Device name="USB Composite Device" hidden="true" className="usb" displayName="USB Composite Device">
+		<HWID>USB\COMPOSITE</HWID>
+		<HWID>USB\DEVCLASS_00</HWID>
+		<HWID>USB\DEVCLASS_00&amp;SUBCLASS_00</HWID>
+		<HWID>USB\DEVCLASS_00&amp;SUBCLASS_00&amp;PROT_00</HWID>
+		<HWID>USB\VID_203A&amp;PID_FFF9</HWID>
+		<HWID>USB\VID_203A&amp;PID_FFF9&amp;REV_0100</HWID>
+	</Device>
+	<Device name="USB Root Hub" hidden="false" className="usb" displayName="USB Root Hub">
+		<HWID>USB\ROOT_HUB</HWID>
+		<HWID>USB\ROOT_HUB&amp;VID8086&amp;PID2658</HWID>
+		<HWID>USB\ROOT_HUB&amp;VID8086&amp;PID2658&amp;REV0002</HWID>
+	</Device>
+	<Device name="USB Root Hub" hidden="false" className="usb" displayName="USB Root Hub">
+		<HWID>USB\ROOT_HUB20</HWID>
+		<HWID>USB\ROOT_HUB20&amp;VID8086&amp;PID265C</HWID>
+		<HWID>USB\ROOT_HUB20&amp;VID8086&amp;PID265C&amp;REV0002</HWID>
+	</Device>
+	<Device name="USB Root Hub (xHCI)" hidden="false" className="usb" displayName="USB Root Hub (xHCI)">
+		<HWID>USB\ROOT_HUB30</HWID>
+		<HWID>USB\ROOT_HUB30&amp;VID1033&amp;PID0194</HWID>
+		<HWID>USB\ROOT_HUB30&amp;VID1033&amp;PID0194&amp;REV0003</HWID>
+	</Device>
+	<Device name="Generic volume" hidden="false" className="volume" displayName="Generic volume">
+		<HWID>STORAGE\VOLUME</HWID>
+	</Device>
+</Hardware>

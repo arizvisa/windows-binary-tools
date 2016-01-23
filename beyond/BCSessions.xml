@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 3 from Scooter Software -->
+<BCSessions>
+	<TSessionFolder>
+		<Items>
+			<TSessionFolder>
+				<Items>
+					<TTextCompareSession Value="ali.py">
+						<LastModified Value="2010-07-14 12:11:40"/>
+						<Specs>
+							<Left Value="F:\repository\idascripts.git\user\ali.py"/>
+							<Right Value="C:\Documents and Settings\arizvisa\My Documents\ali.py"/>
+						</Specs>
+					</TTextCompareSession>
+					<TDirCompareSession Value="original.docx %3C--%3E poc.docx">
+						<LastModified Value="2010-07-12 21:32:56"/>
+						<Specs>
+							<Left Value="Y:\cases\ab0011\fuzzed\original.docx"/>
+							<Right Value="Y:\cases\ab0011\fuzzed\poc.docx"/>
+						</Specs>
+						<State>
+							<DirHandling Value="dirCompareFilesOnly"/>
+						</State>
+					</TDirCompareSession>
+					<THexCompareSession Value="original.ppt %3C--%3E poc.ppt">
+						<LastModified Value="2010-07-02 16:50:09"/>
+						<Specs>
+							<Left Value="Y:\cases\ashtrax0032.investigated\original.ppt"/>
+							<Right Value="Y:\cases\ashtrax0032.investigated\poc.ppt"/>
+						</Specs>
+					</THexCompareSession>
+					<TDirCompareSession Value="lib">
+						<Filters>
+							<NameFilter Value="-*.pyc"/>
+						</Filters>
+						<LastModified Value="2010-06-30 22:45:54"/>
+						<Specs>
+							<Left Value="F:\work\syringe.git\lib"/>
+							<Right Value="F:\work\deletethis\syringe.git_2\lib"/>
+						</Specs>
+						<State>
+							<DirHandling Value="dirCompareFilesOnly"/>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="work">
+						<LastModified Value="2010-06-30 22:36:16"/>
+						<Specs>
+							<Left Value="F:\work\syringe.git\work"/>
+							<Right Value="F:\work\deletethis\syringe.git_2\work"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+					<TDirCompareSession Value="syringe.git %3C--%3E syringe.git_2">
+						<LastModified Value="2010-06-30 18:31:24"/>
+						<Specs>
+							<Left Value="F:\work\syringe.git"/>
+							<Right Value="F:\work\syringe.git_2"/>
+						</Specs>
+						<State>
+							<DisplayFilter Value="[showLeftAdded, showRightAdded, showLeftChanged, showRightChanged, showConflict]"/>
+						</State>
+					</TDirCompareSession>
+				</Items>
+			</TSessionFolder>
+			<TDirCompareSession>
+				<State>
+					<DirHandling Value="dirCompareFilesOnly"/>
+				</State>
+			</TDirCompareSession>
+		</Items>
+	</TSessionFolder>
+</BCSessions>

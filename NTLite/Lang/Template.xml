@@ -1,0 +1,1525 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NTLiteTranslation version="1.0.0.3249" display="[Template]" code="en-us" rtl="false">
+	<Translator>
+		<Name>Name or nick here</Name>
+		<EMail>Email here (optional)</EMail>
+	</Translator>
+	<Components>
+		<System>
+			<S0001>System locale</S0001>
+			<S0013>Action Center</S0013>
+			<S0014>Action Center lists important messages about security and maintenance settings that need your attention.</S0014>
+			<S0042>Allows you to take multiple disks of different sizes and interfaces and group them together so the operating system sees them as one large disk.</S0042>
+			<S0046>Application compatibility</S0046>
+			<S0047>Application Identity Service</S0047>
+			<S0048>Application Launcher</S0048>
+			<S0050>Applications can use WIF to process tokens issued from security token services and make identity-based decisions at the web application or web service.</S0050>
+			<S0065>Automatically backups revisions of files contained in Libraries.</S0065>
+			<S0069>AutoPlay</S0069>
+			<S0070>AutoPlay lets you choose which program to use automatically for different kinds of digital media, such as music CDs or pictures from your digital camera.</S0070>
+			<S0080>Backups of some Windows package database files. This is not the entire WinSxS store, but only extra duplicates of some packages, removing them should not break anything.</S0080>
+			<S0095>BitLocker Drive Encryption</S0095>
+			<S0097>Block Level Backup Service Engine</S0097>
+			<S0102>Boot Manager</S0102>
+			<S0113>Cache and temp files</S0113>
+			<S0115>Caching mechanism for applications to start faster.</S0115>
+			<S0124>Cardspace</S0124>
+			<S0128>CEIP (SQM)</S0128>
+			<S0182>Comprehensive synchronization platform enabling collaboration and offline access for applications, services and devices.</S0182>
+			<S0196>Context menu options on files for Send To - Mail or Desktop.</S0196>
+			<S0223>Credential Manager</S0223>
+			<S0249>Desktop Tile</S0249>
+			<S0250>Desktop Window Manager (DWM)</S0250>
+			<S0260>Determines and verifies the identity of an application. Removing this service will prevent AppLocker from being enforced.</S0260>
+			<S0262>Device Category information and resources</S0262>
+			<S0263>Device Experience</S0263>
+			<S0266>Diagnostics and Troubleshooting</S0266>
+			<S0267>Dialog Filter</S0267>
+			<S0276>Disk Defragmenter</S0276>
+			<S0277>Disk failure diagnostics</S0277>
+			<S0311>Easy Transfer</S0311>
+			<S0314>Edition configuration file (EI.cfg)</S0314>
+			<S0317>Embedded Lockdown Manager</S0317>
+			<S0327>Enables applications running at different times to communicate across heterogeneous networks and systems that may be temporarily offline. Needed for IIS.</S0327>
+			<S0331>Enables starting processes under alternate credentials. Needed for Blizzard Battle.net updates, among other things.</S0331>
+			<S0333>Enables the use of hardware acceleration to render the graphical user interface of Windows.</S0333>
+			<S0337>Enforces group policy for storage devices.</S0337>
+			<S0339>Enhanced Storage</S0339>
+			<S0340>Enhanced Storage devices are devices that support the IEEE 1667 protocol to provide functions such as authentication at the hardware level of the storage device.</S0340>
+			<S0363>Event Log</S0363>
+			<S0405>File History</S0405>
+			<S0412>Files in this directory (Sources\SxS), contained outside of the main image, can be used to install features like .NET3.5 after install which normally do not install through control panel. If you already enabled it in features, it is safe to remove this. You can always use original image directory when enabling features which explicitly require it.</S0412>
+			<S0433>Framework of interrelated Microsoft technologies that allows programmers a uniform and comprehensive way of developing applications that can access almost any data store. Its components include: ActiveX Data Objects (ADO), OLE DB, and Open Database Connectivity (ODBC).</S0433>
+			<S0439>Gadget platform</S0439>
+			<S0447>Gesture Filter</S0447>
+			<S0448>Get help, guidance, and tools to help you identify and work through compatibility issues you might encounter when migrating your applications to a newer Windows version. Needed for Reliability Analysis, ABBYY FineReader and KB2758694(MSXML4), among other things.</S0448>
+			<S0452>Group Policy Client</S0452>
+			<S0453>Group policy storage service</S0453>
+			<S0461>Helps you move your files and settings to a new PC.</S0461>
+			<S0471>Hyper-V guest</S0471>
+			<S0481>If this file is removed and the final image has more than one edition, user will be prompted to select Windows edition for which he has a proper key.</S0481>
+			<S0482>If unsure, do not remove.</S0482>
+			<S0518>Includes Mobility Center.</S0518>
+			<S0525>Infrastructure for diagnostics and troubleshooting Windows components.</S0525>
+			<S0526>Infrastructure to capture crash dumps and report them back to Microsoft.</S0526>
+			<S0550>Internet Information Server (IIS)</S0550>
+			<S0562>It enables you to configure key combinations that you want to prevent users from entering from a keyboard.</S0562>
+			<S0575>Kernel Debugging</S0575>
+			<S0576>Keyboard Filter</S0576>
+			<S0577>Keyboard Filter AppShim</S0577>
+			<S0610>Local Security Policy Editor</S0610>
+			<S0612>Location notifications</S0612>
+			<S0627>Manages and implements Volume Shadow Copies used for backup and other purposes.</S0627>
+			<S0629>Manifest Backup (WinSxS\Backup)</S0629>
+			<S0631>Manual feature repository</S0631>
+			<S0632>Manual Setup</S0632>
+			<S0641>Memory Diagnostic</S0641>
+			<S0644>Metro Start page dynamic Desktop tile. If removed, there won't be a Desktop shortcut on Metro Start page.</S0644>
+			<S0647>Microsoft Data Access Components (MDAC)</S0647>
+			<S0650>Microsoft Message Queue (MSMQ)</S0650>
+			<S0651>Microsoft Sync Framework</S0651>
+			<S0662>MobilePC</S0662>
+			<S0689>Needed for disk management - shrink volume functionality.</S0689>
+			<S0690>Needed for Media Center among other things which use .NET Framework 2.0 and 3.5.</S0690>
+			<S0693>Needed for System Restore, scheduled updates - including Windows Update automatic checks, some application startup on logon etc.</S0693>
+			<S0694>Needed for the BIOS-type (non-UEFI) OS boot.</S0694>
+			<S0695>Needed for the UEFI-type OS boot.</S0695>
+			<S0699>Needed for Windows Firewall.</S0699>
+			<S0700>.NET assembly cache</S0700>
+			<S0701>.NET Framework </S0701>
+			<S0702>.NET Framework 2.0, 3.0 and 3.5</S0702>
+			<S0703>.NET Framework Core</S0703>
+			<S0704>.NET 4.x Setup Cache</S0704>
+			<S0712>Network Projection</S0712>
+			<S0719>NFS Administrative Tools</S0719>
+			<S0729>NTVDM 16-bit subsystem</S0729>
+			<S0730>NTVDM subsystem providing support for 16-bit DOS and 16-bit Windows applications on x86 systems.</S0730>
+			<S0772>Parental Controls</S0772>
+			<S0786>Performance Monitor</S0786>
+			<S0812>PowerShell</S0812>
+			<S0813>Pre-compiled .NET libraries. Removing this will cause it to be recreated after setup on idle. Saves space on the installation media.</S0813>
+			<S0818>Prepares an installation of Windows for duplication, auditing, and customer delivery.</S0818>
+			<S0851>Provides ability to mount VHD or ISO files.</S0851>
+			<S0852>Provides content indexing, property caching, and search results for files, e-mail, and other content. This removes Search functionality completely, not just a service.</S0852>
+			<S0888>Reliability Analysis Services</S0888>
+			<S0923>Resources for Control Panel - Devices and Printers, the icons will be missing if this is removed. Also needed for the USB tray safe-disconnect button.</S0923>
+			<S0958>Secondary Logon</S0958>
+			<S0959>secpol.msc - can be used to check or configure security settings (policies) on a host computer in a Workgroup or HomeGroup</S0959>
+			<S0961>Security Center</S0961>
+			<S0962>A security feature which prompts you to allow administrative access for a given application. Includes Application Information service. Among other things, needed for Win10 Start Menu.</S0962>
+			<S0987>Send To Mail and Desktop</S0987>
+			<S0988>Sensors</S0988>
+			<S1000>Setup files for .NET 4.x. If you do not plan on uninstalling .NET 4.x, safe to remove.</S1000>
+			<S1005>Shared Protection Point (SPP)</S1005>
+			<S1006>Shell Launcher</S1006>
+			<S1016>SideShow</S1016>
+			<S1033>A small utility to configure some of the Windows boot and startup options.</S1033>
+			<S1074>Storage Spaces</S1074>
+			<S1075>Subsystem for UNIX-based applications</S1075>
+			<S1076>Subsystem for UNIX-based Applications (SUA) is a source-compatibility subsystem for compiling and running custom UNIX-based applications and scripts on a computer running Windows operating system.</S1076>
+			<S1077>Superfetch</S1077>
+			<S1079>Support directory</S1079>
+			<S1080>Support directory in the image root folder, contains migration wizard. This does not influence the final installed product, just the installation files.</S1080>
+			<S1081>Support for drive encryption.</S1081>
+			<S1083>Support for vendor added features to improve how users discover and use devices that are connected to their PC.</S1083>
+			<S1097>System Configuration tool (MSConfig)</S1097>
+			<S1098>System Information tool (MSInfo32)</S1098>
+			<S1099>System Preparation tool (Sysprep)</S1099>
+			<S1100>System Restore</S1100>
+			<S1105>Task Scheduler</S1105>
+			<S1113>Telemetry data collecting and reporting to Microsoft in order to improve Windows.</S1113>
+			<S1128>Removes functionalities used for non-booted setup initialization, like autorun.inf, setup.exe and upgrade from previously installed Windows with this image.</S1128>
+			<S1148>This services monitors the current location of the system and manages geo-fences (a geographical location with associated events).</S1148>
+			<S1156>Toast Notification Filter</S1156>
+			<S1159>Tools for managing Services for NFS on local and remote computers.</S1159>
+			<S1197>Unified Telemetry Client (Asimov)</S1197>
+			<S1198>Unified Write Filter</S1198>
+			<S1221>USB Filter</S1221>
+			<S1224>Used for hosting websites on this target.</S1224>
+			<S1228>User Account Control (UAC)</S1228>
+			<S1238>Various temporary files, should be safe to remove.</S1238>
+			<S1248>Virtual disk support</S1248>
+			<S1249>Virtual PC Licensing and USB driver</S1249>
+			<S1255>Volume Shadow Copy</S1255>
+			<S1275>Windows Anytime Upgrade</S1275>
+			<S1276>Windows Backup</S1276>
+			<S1279>Windows Communication Foundation (WCF) 3</S1279>
+			<S1280>Windows Communication Foundation (WCF) 4</S1280>
+			<S1283>Windows Customer Experience Improvement Program (CEIP) collects information about how Microsoft customers use programs and about some of the problems they encounter. Microsoft uses this information to improve the products and features customers use most often and to help solve problems. Participation in the program is voluntary, and the end results are software improvements to better meet the needs of Microsoft customers.</S1283>
+			<S1284>Windows Defender</S1284>
+			<S1285>Windows Embedded Features</S1285>
+			<S1286>Windows Encryption Provider Host Service</S1286>
+			<S1287>Windows Encryption Provider Host Service brokers encryption related functionalities from 3rd Party Encryption Providers to processes that need to evaluate and apply EAS policies.</S1287>
+			<S1288>Windows Error Reporting</S1288>
+			<S1290>Windows Help wizard</S1290>
+			<S1291>Windows Identity Foundation (WIF)</S1291>
+			<S1297>Windows Location Framework Service</S1297>
+			<S1299>Windows Management Instrumentation</S1299>
+			<S1305>Windows Presentation Foundation</S1305>
+			<S1307>Windows Recovery</S1307>
+			<S1309>Windows Search</S1309>
+			<S1313>Windows Sidebar</S1313>
+			<S1318>Windows Update</S1318>
+			<S1319>Windows Update feature enables a computer to get Windows Updates from Microsoft or WSUS server, and to manually install update packages (MSU files).</S1319>
+			<S1339>Zip &amp; Cab folder</S1339>
+		</System>
+		<Accessories>
+			<S0010>Accessibility tools</S0010>
+			<S0011>Accessibility Wizard and tools can be used to configure your system to meet your vision, hearing, and mobility needs. Needed for Cardspace.</S0011>
+			<S0012>Accessories</S0012>
+			<S0132>Character Map</S0132>
+			<S0191>Contains all of the Aero cursors. If removed, defaults back to Scheme (none).</S0191>
+			<S0192>Contains the Architecture, Characters, Landscapes, Nature and Scenes themes.</S0192>
+			<S0193>Contains the Ease of Access themes, high contrast variations.</S0193>
+			<S0310>Ease Of Access Themes</S0310>
+			<S0514>Includes</S0514>
+			<S0586>Legacy components</S0586>
+			<S0655>Miscellaneous Command Line Utilities</S0655>
+			<S0675>Mouse Pointers</S0675>
+			<S0758>Other Themes</S0758>
+			<S0768>Paint</S0768>
+			<S0836>Private Character Editor</S0836>
+			<S0857>Provides a way to create your own font characters.</S0857>
+			<S0954>Screensavers</S0954>
+			<S1018>Simple picture drawing and editing tool.</S1018>
+			<S1236>Utility which displays all the characters available in the fonts.</S1236>
+			<S1323>Wordpad</S1323>
+		</Accessories>
+		<Network>
+			<S0017>Active Directory Lightweight Directory Services (AD LDS)</S0017>
+			<S0018>ActiveX Compatibility Flags (Killbits)</S0018>
+			<S0019>ActiveX Installer Service</S0019>
+			<S0029>Adobe Flash for Internet Explorer</S0029>
+			<S0036>Allows administrators to understand, control, and manage the quantity and type of data that is stored on their servers. By using File Server Resource Manager, administrators can place quotas on folders and volumes, actively screen files, and generate comprehensive storage reports.</S0036>
+			<S0037>Allows data to be synchronized with a remote source using compression techniques to minimize the amount of data sent across the network.</S0037>
+			<S0039>Allows the redirection of Printers/Drives/Ports for RDP connections.</S0039>
+			<S0040>Allows a user to sync data to their device from their user folder located in the corporation's data center. Includes Active Directory Federation Services (ADFS).</S0040>
+			<S0041>Allows you to check the results of your recent sync activity if you've set up your computer to sync files with a network server.</S0041>
+			<S0049>Application Layer Gateway Service</S0049>
+			<S0066>Automatically connects mobile computers to their intranet over VPN any time Internet access is available.</S0066>
+			<S0071>AxInstSV - supports the installation of ActiveX controls in an organizational environment.</S0071>
+			<S0072>Background Intelligent Transfer Service (BITS)</S0072>
+			<S0096>Blacklist of unsafe or malicious ActiveX controls, helps keeping Internet Explorer and Microsoft Office safer.</S0096>
+			<S0107>BranchCache Client</S0107>
+			<S0108>Briefcase</S0108>
+			<S0116>Can be used to create profiles for Connection Manager and distribute them to your users. The user does not have to know the phone number of a dial-up server, or the IP address of a VPN server.</S0116>
+			<S0136>Checkpoint, F5, Juniper and SonicWALL built-in VPN support.</S0136>
+			<S0165>Collects and stores configuration information for the network and notifies programs when this information is modified.</S0165>
+			<S0184>Computer Browser</S0184>
+			<S0194>Contains the Internet Explorer frontend (UI) only.</S0194>
+			<S0243>Designed to reduce WAN link utilization and improve application responsiveness for branch office workers who access content from servers in remote locations. Branch office client computers use a locally maintained cache of data to reduce traffic over a WAN link.</S0243>
+			<S0265>DHCP Client</S0265>
+			<S0268>Direct Access Connection</S0268>
+			<S0283>Distributed Link Tracking Client</S0283>
+			<S0284>DNS Client</S0284>
+			<S0312>Edge CP</S0312>
+			<S0329>Enables IT administrators with the ability to offer finer-grained control to corporate resources. If a user registers their device, IT can grant some access while still enforcing some governance parameters on the device.</S0329>
+			<S0330>Enables remote users to modify registry settings on this computer.</S0330>
+			<S0332>Enables the retrieval and modification of network configuration settings for the local computer. Needed for IPV6, DirectAccess and Windows 7 KB2750841, among other things.</S0332>
+			<S0335>Enables your machine to be monitored and managed by the MultiPoint Manager and Dashboard apps.</S0335>
+			<S0355>Entire HTML display engine, used by Windows Explorer and many other programs to display websites. Removing this also causes Control Panel to open all its shortcuts in new windows.</S0355>
+			<S0409>File Server Resource Manager</S0409>
+			<S0410>File sharing support</S0410>
+			<S0417>Finds and displays information and Web sites on the Internet.</S0417>
+			<S0430>Formerly known as Active Directory Application Mode (ADAM), provides directory services for directory-enabled applications without incurring the overhead of domains and forests and the requirements of a single schema throughout a forest.</S0430>
+			<S0465>HomeGroup</S0465>
+			<S0477>Identifies the networks to which the computer has connected, collects and stores properties for these networks, and notifies applications when these properties change.</S0477>
+			<S0504>Implements the WS-Management protocol for remote management.</S0504>
+			<S0515>Includes agents that monitor the activity in network devices and report to the network console workstation.</S0515>
+			<S0542>Integrated sign in support which can be used with Skype, Office 365 subscription; buy games, music and movies from Microsoft stores; OneDrive and Setting Sync.</S0542>
+			<S0546>Internet Authentication Service (IAS)</S0546>
+			<S0547>Internet Connection Sharing (ICS)</S0547>
+			<S0548>Internet Explorer engine</S0548>
+			<S0549>Internet Explorer Feature (UI)</S0549>
+			<S0552>Internet Protocol Helper (IP Helper)</S0552>
+			<S0620>Maintains a sync of your selected network files. This is useful if you use a laptop to connect to a workplace network.</S0620>
+			<S0628>Manages dial-up and virtual private network (VPN) connections from this computer to the Internet or other remote networks. If you use a hardware gateway or router, this service is not needed for that connection.</S0628>
+			<S0645>Microsoft Account</S0645>
+			<S0680>MultiPoint Connector</S0680>
+			<S0687>Needed for connecting RDP to this machine.</S0687>
+			<S0688>Needed for connecting to other machines over RDP.</S0688>
+			<S0697>Needed for VMWare Shared Folders, among other things.</S0697>
+			<S0706>Network and Sharing Center</S0706>
+			<S0707>Network Connection Broker</S0707>
+			<S0709>Network List Service</S0709>
+			<S0711>Network Location Awareness</S0711>
+			<S0734>Offers a convenient way for someone you trust, such as a friend or technical support person, to connect to your computer and walk you through a solution.</S0734>
+			<S0735>Offers routing services to businesses in local area and wide area network environments.</S0735>
+			<S0736>Offline Files</S0736>
+			<S0740>OneDrive</S0740>
+			<S0783>Peer Networking</S0783>
+			<S0854>Provides support for 3rd party protocol plug-ins for Internet Connection Sharing.</S0854>
+			<S0861>RAS Connection Manager Administration Kit (CMAK)</S0861>
+			<S0890>Remote Access Connection Manager</S0890>
+			<S0891>Remote Access Service Client Tools</S0891>
+			<S0892>Remote Assistance</S0892>
+			<S0893>Remote Desktop Client</S0893>
+			<S0894>Remote Desktop Server</S0894>
+			<S0895>Remote Desktop Services Port Redirector</S0895>
+			<S0896>Remote Differential Compression (RDC)</S0896>
+			<S0897>Remote Registry</S0897>
+			<S0905>Removes various WAN miniports.</S0905>
+			<S0931>Routing and Remote Access Service</S0931>
+			<S0932>Routing and Remote Access support</S0932>
+			<S0990>Serverless networking technology that allows several network devices to share resources and communicate directly with each other.</S0990>
+			<S1017>Simple Network Management Protocol (SNMP)</S1017>
+			<S1019>Simple TCP/IP services</S1019>
+			<S1020>Simple TCP/IP Services supports the following TCP/IP services: Character Generator, Daytime, Discard, Echo and Quote of the Day. Simple TCP/IP Services is provided for backward compatibility and should not be installed unless it is required.</S1020>
+			<S1035>SMB v2</S1035>
+			<S1036>SMB Server v2</S1036>
+			<S1037>SMB Server Common</S1037>
+			<S1038>SMB Server v1</S1038>
+			<S1039>SMB v1</S1039>
+			<S1090>Supports the implementation of client-controlled devices and services, and device hosts conforming to the Devices Profile for Web Services (DPWS). Needed for Visual Studio Remote Debugger, and Scan Management, among other things.</S1090>
+			<S1093>Sync Center</S1093>
+			<S1094>Synchronizes time over the network.</S1094>
+			<S1115>Telnet Client</S1115>
+			<S1116>Telnet Server</S1116>
+			<S1125>TFTP client</S1125>
+			<S1146>This service is responsible for performing IEEE 802.1X authentication on Ethernet interfaces.</S1146>
+			<S1147>This service manages mobile broadband (GSM &amp; CDMA) data card/embedded module adapters and connections by auto-configuring the networks.</S1147>
+			<S1153>To access Network Connections with this removed, in Win8+ right-click the Start menu area, otherwise create shortcut to ncpa.cpl or 'explorer shell:::{7007ACC7-3202-11D1-AAD2-00805FC1270E}'.</S1153>
+			<S1161>Transfers files in the background using idle network bandwidth. Needed for Windows Update service download, manual update installation from a local disk works without this.</S1161>
+			<S1256>VPN plugins</S1256>
+			<S1268>Web Distributed Authoring and Versioning (WebDAV)</S1268>
+			<S1269>Web Services on Devices API (WSDAPI)</S1269>
+			<S1271>WebClient</S1271>
+			<S1289>Windows Firewall</S1289>
+			<S1298>Windows Mail</S1298>
+			<S1308>Windows Remote Management (WS-Management)</S1308>
+			<S1310>Windows Server component that provides centralized user authentication, authorization and accounting.</S1310>
+			<S1317>Windows Time</S1317>
+			<S1321>Wired AutoConfig</S1321>
+			<S1325>Work Folders Client</S1325>
+			<S1328>Workplace Join</S1328>
+			<S1329>Workstation service. Needed to browse file shares.</S1329>
+			<S1330>WWAN AutoConfig</S1330>
+			<S1334>You can use Briefcase to keep files in sync between two different computers, even if the computers aren't on the same network.</S1334>
+			<S1346>Virtual PC</S1346>
+			<S1347>Enables you to run one or more virtual machines, each with its own operating system, on a single computer. This provides you with the flexibility to use different operating systems on one physical computer.</S1347>
+			<S1384>OneDrive (previously SkyDrive) is a cloud storage, file hosting service that allows users to sync files and later access them from a web browser or mobile device.</S1384>
+			<S1390>SMB Witness Client API</S1390>
+			<S1391>Used in SMBv3 to enhance continuous file shares, and enables a faster client failover.</S1391>
+			<S1422>Windows Mail Communications DLL</S1422>
+			<S1423>Needed for MHT file format support.</S1423>
+		</Network>
+		<HardwareSupport>
+			<S0030>AGP</S0030>
+			<S0100>Bluetooth</S0100>
+			<S0170>Common Driver for Buttons, DockMode and Laptop/Slate indicator.</S0170>
+			<S0328>Enables automatic port opening on supported routers.</S0328>
+			<S0334>Enables you to connect a host computer to an external iSCSI-based storage array through an Ethernet network adapter.</S0334>
+			<S0400>Fax</S0400>
+			<S0423>Floppy disk</S0423>
+			<S0444>General-Purpose I/O (GPIO)</S0444>
+			<S0449>Gives client applications the ability to capture, compare, manipulate, and store biometric data without gaining direct access to any biometric hardware or samples.</S0449>
+			<S0458>Hardware support</S0458>
+			<S0524>Infrared devices</S0524>
+			<S0551>Internet Printing Client</S0551>
+			<S0557>iSCSI Initiator</S0557>
+			<S0648>Microsoft's Implementation of Wi-Fi Protected Setup (WPS) protocol.</S0648>
+			<S0664>Modem</S0664>
+			<S0692>Needed for some Webcams.</S0692>
+			<S0806>Portable devices</S0806>
+			<S0835>Printing</S0835>
+			<S0855>Provides Telephony API (TAPI) support for programs that control telephony devices on the local computer and, through the LAN, on servers that are also running the service.</S0855>
+			<S0856>Provides the logic required to configure, discover, connect to, and disconnect from a wireless local area network (WLAN). Includes WLAN AutoConfig service.</S0856>
+			<S0951>Scanner</S0951>
+			<S1004>Shared modem settings (mdmgl*.inf)</S1004>
+			<S1034>Smartcard</S1034>
+			<S1070>Still Image Class Installer</S1070>
+			<S1082>Support for image importing from devices.</S1082>
+			<S1114>Telephony</S1114>
+			<S1170>Trusted Platform Module (TPM)</S1170>
+			<S1219>UPnP Device Host</S1219>
+			<S1226>Used to administer the TPM security hardware in your computer.</S1226>
+			<S1237>Various portable device functionalities, such as Windows Media Player integration and Media Transfer Protocol (MTP) support. Does not remove USB storage support.</S1237>
+			<S1250>Virtual Smart Card</S1250>
+			<S1277>Windows Biometric Service</S1277>
+			<S1282>Windows Connect Now</S1282>
+			<S1292>Windows Image Acquisition (WIA)</S1292>
+			<S1322>WLAN</S1322>
+			<S1331>XPS Writer and Services</S1331>
+			<S1401>Wi-Fi Network Manager (Wi-Fi Sense)</S1401>
+			<S1402>Provides the ability to share your Wi-Fi password automatically with your Outlook, Skype or Facebook contacts, enabling seamless Wi-Fi network usage between friends.</S1402>
+			<S1403>Print to PDF</S1403>
+			<S1418>Network Discovery</S1418>
+			<S1419>Includes Function Discovery services. These FD providers supply network discovery services for the Simple Services Discovery Protocol (SSDP) and Web Services – Discovery (WS-D) protocol.</S1419>
+		</HardwareSupport>
+		<Metro>
+			<S0053>Apps</S0053>
+			<S0109>Brokers connections that allow Windows Store Apps to receive notifications from the internet.</S0109>
+			<S0110>Browser Choice backend</S0110>
+			<S0406>File Manager (OneDrive &amp; Photos)</S0406>
+			<S0517>Includes Metro app services, PC Settings app and Windows Store. If you want to enter a product key without PC Settings, type 'slui.exe 3' from cmd.exe or go to System Properties. Among other things, needed for Win10 Start Menu.</S0517>
+			<S0643>Metro apps (Appx) support</S0643>
+			<S0646>Microsoft Camera backend</S0646>
+			<S0858>Proximity</S0858>
+			<S0997>Setting Sync</S0997>
+			<S1089>Supports connections between devices that are within close range.</S1089>
+			<S1095>Syncs many settings between your Windows PCs and devices. This makes it simpler to move between different machines and maintain a consistent experience.</S1095>
+			<S1270>Webcam Experience</S1270>
+			<S1304>Windows PDF file viewer.</S1304>
+			<S1306>Windows Reader backend</S1306>
+			<S1335>You can use the Browser Choice update to select and install the web browser you want to use on your PC.</S1335>
+			<S1405>Retail Demo Content</S1405>
+			<S1406>Demo profile useful for retail stores to advertise and show off Windows devices.</S1406>
+			<S1417>System Apps</S1417>
+		</Metro>
+		<Languages>
+			<S0054>Arabic</S0054>
+			<S0088>Basque</S0088>
+			<S0091>Bengali (Bangladesh)</S0091>
+			<S0092>Bengali (India)</S0092>
+			<S0112>Bulgarian</S0112>
+			<S0126>Catalan</S0126>
+			<S0140>Chinese</S0140>
+			<S0141>Chinese fonts. Needed for Chinese Language and Office install (install error can be ignored on popup if this removed).</S0141>
+			<S0173>Complete language support removal. Do not remove if you intend to read or type in this language.</S0173>
+			<S0225>Croatian</S0225>
+			<S0231>Czech</S0231>
+			<S0232>Danish</S0232>
+			<S0304>Dutch</S0304>
+			<S0338>English</S0338>
+			<S0362>Estonian</S0362>
+			<S0393>Extra Fonts</S0393>
+			<S0419>Finnish</S0419>
+			<S0437>French</S0437>
+			<S0440>Galician</S0440>
+			<S0446>German</S0446>
+			<S0450>Greek</S0450>
+			<S0454>Gujarati</S0454>
+			<S0459>Hebrew</S0459>
+			<S0463>Hindi</S0463>
+			<S0469>Hungarian</S0469>
+			<S0473>Icelandic</S0473>
+			<S0521>Indonesian</S0521>
+			<S0528>Input Method Editor (IME)</S0528>
+			<S0563>Italian</S0563>
+			<S0564>Japanese</S0564>
+			<S0565>Japanese font. Needed for Japanese Language and Office install (install error can be ignored on popup if this removed).</S0565>
+			<S0566>JhengHei and YaHei Font</S0566>
+			<S0571>Kannada</S0571>
+			<S0578>Keyboard layouts</S0578>
+			<S0579>Korean</S0579>
+			<S0581>Language</S0581>
+			<S0582>Language Pack</S0582>
+			<S0583>Languages</S0583>
+			<S0585>Latvian</S0585>
+			<S0587>Legacy Language Support</S0587>
+			<S0595>Lithuanian</S0595>
+			<S0623>Malay (Brunei)</S0623>
+			<S0624>Malay (Malaysia)</S0624>
+			<S0625>Malayalam</S0625>
+			<S0634>Marathi</S0634>
+			<S0640>Meiryo Font</S0640>
+			<S0682>Natural Language</S0682>
+			<S0691>Needed for some language keyboards, usually eastern languages.</S0691>
+			<S0724>Norwegian</S0724>
+			<S0774>A particular keyboards will not be removed if kept here or its related language.</S0774>
+			<S0805>Polish</S0805>
+			<S0807>Portuguese (Brazilian)</S0807>
+			<S0808>Portuguese</S0808>
+			<S0860>Punjabi</S0860>
+			<S0930>Romanian</S0930>
+			<S0935>Russian</S0935>
+			<S0989>Serbian</S0989>
+			<S1031>Slovak</S1031>
+			<S1032>Slovenian</S1032>
+			<S1048>Spanish</S1048>
+			<S1091>Swedish</S1091>
+			<S1101>Table Driven Text Service can be used to define and customize your own Text Input Processor (TIP).</S1101>
+			<S1102>Table Text Service</S1102>
+			<S1104>Tamil</S1104>
+			<S1117>Telugu</S1117>
+			<S1126>Thai</S1126>
+			<S1172>Turkish</S1172>
+			<S1187>Ukrainian</S1187>
+			<S1220>Urdu</S1220>
+			<S1223>Used for extra functionalities in speech and search. It extends Speech and Search for a more natural syntax support, almost like addressing another person.</S1223>
+			<S1243>Vietnamese</S1243>
+			<S1388>Pseudo-locale</S1388>
+			<S1389>Used for testing the localization of applications.</S1389>
+		</Languages>
+		<Media>
+			<S0056>Auto-Rotation Manager</S0056>
+			<S0085>Basic Windows built-in DirectShow DVD movie playback support.</S0085>
+			<S0086>Basic Windows built-in MPEG-2 (H.222/H.262) content support. Not needed for video player which have it built-in.</S0086>
+			<S0087>Basic Windows tutorials.</S0087>
+			<S0305>DVD Maker</S0305>
+			<S0306>DVD Play</S0306>
+			<S0420>First-logon animation</S0420>
+			<S0441>Game Explorer</S0441>
+			<S0442>Games</S0442>
+			<S0485>Image Color Management (ICM)</S0485>
+			<S0516>Includes Media Player DLNA support.</S0516>
+			<S0519>Includes sample videos, music, pictures and ringtones.</S0519>
+			<S0545>Intel Indeo Codecs</S0545>
+			<S0622>Makes it easy to access, play, and manage your games.</S0622>
+			<S0635>Market Themes</S0635>
+			<S0637>Media Center</S0637>
+			<S0638>Media Foundation</S0638>
+			<S0639>Media Viewer</S0639>
+			<S0649>Microsoft Media Foundation enables the development of applications and components for using digital media on Windows.</S0649>
+			<S0676>MPEG-2 Splitter</S0676>
+			<S0678>Multimedia</S0678>
+			<S0679>Multiplayer Games</S0679>
+			<S0696>Needed for touch-screen support.</S0696>
+			<S0787>Photo codec</S0787>
+			<S0788>Photo Viewer</S0788>
+			<S0816>Premium Games</S0816>
+			<S0853>Provides functions that enable an application to process video data. Among other things, needed for webcams, Reaper, FSViewer and many others.</S0853>
+			<S0936>Sample media</S0936>
+			<S1003>Share Media Control Panel</S1003>
+			<S1040>Snipping Tool</S1040>
+			<S1041>Sound Recorder</S1041>
+			<S1042>Sound Themes</S1042>
+			<S1043>Sounds (Default)</S1043>
+			<S1051>Speech Recognition</S1051>
+			<S1052>Speech TTS</S1052>
+			<S1069>Sticky Notes</S1069>
+			<S1103>Tablet PC</S1103>
+			<S1124>Text prediction</S1124>
+			<S1132>The informational animation after Windows install on first logon.</S1132>
+			<S1133>The market-customized themes are specific for a particular region and include wallpapers, sound schemes, and aero glass colors.</S1133>
+			<S1174>TV Tuner codecs and support</S1174>
+			<S1225>Used in Explorer picture files thumbnails and Metro tiles.</S1225>
+			<S1239>Various Windows theme Shell sounds.</S1239>
+			<S1241>Video DVD creation wizard.</S1241>
+			<S1242>Video For Windows (VFW)</S1242>
+			<S1258>Wallpaper (Default)</S1258>
+			<S1259>Wallpapers (Themes)</S1259>
+			<S1272>Welcome Center (Getting Started)</S1272>
+			<S1278>Windows color management component, quite extensively used by other programs to apply color correction. Among other things needed for Photo Viewer and many picture viewing and editing software like Photoshop, Gimp and others.</S1278>
+			<S1300>Windows Media Center update</S1300>
+			<S1301>Windows Media Codec</S1301>
+			<S1302>Windows Media Player</S1302>
+			<S1303>Windows Media Streaming</S1303>
+			<S1312>Windows Shell sounds.</S1312>
+			<S1314>Windows System Assessment Tool (WinSAT)</S1314>
+			<S1315>Windows TIFF IFilter(OCR)</S1315>
+			<S1316>Windows TIFF IFilter processes TIFF images, and then provides the recognized text to the caller for building the search index. It can be used by Indexing Service(for Desktop Search), Microsoft Office SharePoint Server 2007 or later, Microsoft SQL Server 2008, and Microsoft SQL Server 2005.</S1316>
+			<S1353>Windows Media Services Remote Server Administration Tools</S1353>
+			<S1354>Enables you to manage your Windows Media server.</S1354>
+			<S1365>WMP Network Sharing Service</S1365>
+			<S1366>Windows Disc Image Burning Tool</S1366>
+			<S1367>Built-in Explorer ISO burning feature. Does not remove the ISO burning ability for other, third-party programs.</S1367>
+			<S1407>Xbox Support</S1407>
+			<S1409>PlayReady</S1409>
+			<S1410>Microsoft PlayReady is a set of technologies that prevent the unauthorized use or copying of digital content, such as music and videos, enabling content providers to distribute content securely over the Internet.</S1410>
+		</Media>
+		<Title>
+			<S0099>Blue locked components require a license.</S0099>
+			<S0180>Components</S0180>
+			<S0738>On the right enter files to protect from removal. Entries are evaluated as a file path ending, e.g.: System32\expand.exe to keep expand.exe in the X:\Windows\System32 folder. Same works for Program Files or any other directory on the target.</S0738>
+			<S0976>Select which functionalities to protect, including machine support (Hardware lists).</S0976>
+			<S1194>Uncheck components for removal. Removal is permanent, restoring a component requires Windows reinstall or backup recovery.</S1194>
+			<S1260>Before proceeding, please read this carefully.</S1260>
+			<S1261>Removing Windows components is irreversible process and can cause unforeseen consequences.</S1261>
+			<S1262>In case of an image (offline) modification, you should test the edited image in a virtual environment before deploying it to a real machine.</S1262>
+			<S1263>In case of a live (online) modification, you should have a backup ready before applying any changes.</S1263>
+			<S1264>Due to the nature of Windows package installation - if you remove components, some updates (hotfix, language pack, etc.) and Features later might not install.</S1264>
+			<S1265>Updates expect files being updated to be present. Due to partial package removal (removing a component in the package) you can run into a situation where especially bigger update rollups or language packs will struggle to correctly detect what needs to be updated and thus fail installing.</S1265>
+			<S1266>If you remove components from Windows, you should be prepared to reinstall at any point, be it because you want to install a failing update, or to return some component back.</S1266>
+			<S1281>Windows component removal warning</S1281>
+		</Title>
+		<Toolbar>
+			<S0162>Collapse all</S0162>
+			<S0171>Compatibility</S0171>
+			<S0172>Functionality protections</S0172>
+			<S0177>Component functionality</S0177>
+			<S0375>Expand all</S0375>
+			<S0395>Extra options</S0395>
+			<S0413>Filter</S0413>
+			<S0415>Find next</S0415>
+			<S0416>Focus on the next found item</S0416>
+			<S0618>Machine support (Hardware lists)</S0618>
+			<S0849>Protected file patterns</S0849>
+			<S0917>Reset</S0917>
+			<S0919>Set all components back to checked, not to be removed.</S0919>
+			<S0957>Search Box</S0957>
+			<S1195>Uncheck all</S1195>
+		</Toolbar>
+		<List>
+			<S0176>Component</S0176>
+			<S0394>Extra info</S0394>
+			<S0728>Notes</S0728>
+			<S1021>Size</S1021>
+		</List>
+		<Drivers>
+			<S0234>Date</S0234>
+			<S0293>Driver Export</S0293>
+			<S0294>Driver exported</S0294>
+			<S0297>Driver uninstall</S0297>
+			<S0520>Individual devices [Advanced]</S0520>
+			<S0658>Missing expected driver path</S0658>
+			<S0698>Needed for WIM mounting and storage drivers.</S0698>
+			<S0869>Reading driver files information</S0869>
+			<S0870>Reading driver info</S0870>
+			<S0969>Select a folder where to export the drivers</S0969>
+			<S1028>Skipping duplicate driver path</S1028>
+			<S1138>These components include hardware classes and general support to even be able to install a driver for a given type of hardware.</S1138>
+			<S1201>Uninstalling device</S1201>
+		</Drivers>
+		<Other>
+			<S0291>Done</S0291>
+			<S0344>Enter file path end</S0344>
+			<S0356>Error</S0356>
+			<S0378>Explicit removal not supported</S0378>
+			<S0408>File pattern already exists</S0408>
+			<S0421>Fix Explorer renaming</S0421>
+			<S0470>Hyper-V</S0470>
+			<S0472>Hyper-V host</S0472>
+			<S0513>Include hidden devices</S0513>
+			<S0613>Locked by compatibility</S0613>
+			<S0820>Preparing driver uninstall</S0820>
+			<S0850>Protection includes hidden and unplugged devices from the selected hardware lists.</S0850>
+			<S0872>Reboot</S0872>
+			<S0874>Reboot now?</S0874>
+			<S0875>Recheck the sub-components?</S0875>
+			<S0876>Recommended</S0876>
+			<S0886>Related to the component:</S0886>
+			<S0899>Remove</S0899>
+			<S0908>Removing</S0908>
+			<S0911>Rename fix routine completed successfully.</S0911>
+			<S0912>Rename fix routine failed, please report with the %temp%\NTLite.log file attached.</S0912>
+			<S0963>Seems like an error occurred while editing Live installation, have your backup ready in case this machine cannot boot any more.</S0963>
+			<S1160>Touch-Screen devices</S1160>
+			<S1357>Removable only in Live mode.</S1357>
+			<S1398>Needed for the StartMenu and Metro apps.</S1398>
+		</Other>
+	</Components>
+	<General>
+		<UI>
+			<S0002>Cancel</S0002>
+			<S0003>OK</S0003>
+			<S0098>Blue</S0098>
+			<S0138>Check for updates daily</S0138>
+			<S0212>Copy file</S0212>
+			<S0233>Dark</S0233>
+			<S0435>Free space</S0435>
+			<S0602>Load auto-preset</S0602>
+			<S0760>Overwrite</S0760>
+			<S0761>Overwrite existing file?</S0761>
+			<S0973>Select temporary folder</S0973>
+			<S1009>Show info bar</S1009>
+			<S1118>Temporary directory</S1118>
+			<S1119>Temporary directory does not exist.</S1119>
+			<S1120>Temporary directory is not writeable.</S1120>
+			<S1121>Temporary directory must be a subdirectory of a partition.</S1121>
+			<S1122>Temporary directory must be located on a local NTFS partition.</S1122>
+			<S1123>Temporary directory partition does not have enough free space.</S1123>
+			<S1139>Includes mount points and WIM temporary files. This changes only newly mounted images, already mounted images need to be unmounted first.</S1139>
+			<S1157>Tool settings</S1157>
+			<S1254>Visual style</S1254>
+			<S1355>Light</S1355>
+			<S1382>Scratch (Extract) directory</S1382>
+			<S1383>Includes DISM and general extract temporary locations. Setting this to your fastest disk can help speed up integrations. Automatic sets it under the Temporary directory. Available before the processing has started.</S1383>
+		</UI>
+		<Other>
+			<S0005>Cancelled processing.</S0005>
+			<S0007>Aborted</S0007>
+			<S0120>Cannot get temporary directory info.</S0120>
+			<S0135>Checking for updates</S0135>
+			<S0159>Close current session?</S0159>
+			<S0160>Close this program?</S0160>
+			<S0178>Component removal</S0178>
+			<S0214>Copy to clipboard with CTRL+C</S0214>
+			<S0218>Create non-existent temporary directory?</S0218>
+			<S0256>Detected 'Do not allow compression on all NTFS volumes' policy on this machine. Mounting an image on such a machine is not supported by the OS. In order to proceed you will need to disable this policy and reboot the machine first.</S0256>
+			<S0258>Detected previously cancelled processing on this source. State is unknown and it would be best not to use this source further, instead restore backup and reload.</S0258>
+			<S0259>Detected unsupported Windows version.</S0259>
+			<S0295>Driver integration</S0295>
+			<S0398>Failed creating temporary directory.</S0398>
+			<S0402>Feature setup</S0402>
+			<S0418>Finished adding packages to the integration list.</S0418>
+			<S0522>Info</S0522>
+			<S0523>Information</S0523>
+			<S0597>Live install edit</S0597>
+			<S0599>Live (Online) configuration is for licensed version only. Applying will be disabled.</S0599>
+			<S0672>Mounted images will remain mounted.</S0672>
+			<S0725>Not enough disk space.</S0725>
+			<S0744>Only free license available.</S0744>
+			<S0763>Package integration</S0763>
+			<S0790>Please copy entire image content to a writeable location.</S0790>
+			<S0792>Please install the 64-bit version of this tool.</S0792>
+			<S0794>Please report any issues.</S0794>
+			<S0803>This tool needs to be restarted for language changes to take effect.</S0803>
+			<S0829>Preset load</S0829>
+			<S0832>Press OK to open relevant driver integration log. Read near the end of the file, before (harmless) unload reg hive errors.</S0832>
+			<S0833>Previous instance of this program is already running.</S0833>
+			<S0868>Reading data</S0868>
+			<S0873>Reboot is required for all changes to take effect.</S0873>
+			<S0949>Saving general settings failed.</S0949>
+			<S1134>The source is now in an unknown state and not recommended to be used.</S1134>
+			<S1144>This program supports client Windows 7 through 10TP.</S1144>
+			<S1155>To select another image, unload current or choose New session from the toolbar.</S1155>
+			<S1190>Unattended configuration</S1190>
+			<S1215>Update integration</S1215>
+			<S1222>Use page navigation on the left for more options.</S1222>
+			<S1227>User aborted</S1227>
+		</Other>
+		<Menu>
+			<S0008>About</S0008>
+			<S0009>Display program information, version number and copyright</S0009>
+			<S0137>Check for updates</S0137>
+			<S0139>Check if there is a newer version of this tool available</S0139>
+			<S0373>Exit</S0373>
+			<S0374>Quit the application; prompts to save documents</S0374>
+			<S0404>File</S0404>
+			<S0619>Main menu</S0619>
+			<S0880>Register</S0880>
+			<S0881>Upgrade your license and enable all features</S0881>
+			<S0998>Settings</S0998>
+			<S0999>Application settings</S0999>
+			<S1158>Toolbar</S1158>
+			<S1176>Visit us on Twitter @NTLite</S1176>
+		</Menu>
+	</General>
+	<Source>
+		<Images>
+			<S0004>Cancel aborts the operation.</S0004>
+			<S0058>Auto-correct and retry?</S0058>
+			<S0093>64-bit</S0093>
+			<S0094>32-bit</S0094>
+			<S0103>Boot sector read error, make sure that the original 'Boot' or 'Efi' folder is present.</S0103>
+			<S0104>Boot/Setup</S0104>
+			<S0123>Cannot replace mounted image.</S0123>
+			<S0143>Choose ISO file destination</S0143>
+			<S0144>Choose where to save the image</S0144>
+			<S0145>Choose Yes to overwrite, or No to append to the destination image.</S0145>
+			<S0149>Cleaning mount folder</S0149>
+			<S0183>Compression requires a lot of resources</S0183>
+			<S0202>Convert the entire selected image to the ESD format?</S0202>
+			<S0203>Convert the entire selected image to the standard WIM format?</S0203>
+			<S0204>Convert to the standard WIM format and load the selected image edition?</S0204>
+			<S0213>Copy image files to a writeable location first.</S0213>
+			<S0215>Correcting edition</S0215>
+			<S0228>Current image will be replaced after conversion, backup manually before this operation.</S0228>
+			<S0241>Deleting temporary files</S0241>
+			<S0254>Detected another mounted image with the same Mountpath but different WIM.</S0254>
+			<S0255>Detected another mounted image with the same WIM but different mountpath.</S0255>
+			<S0257>Detected file in use within the mount folder.</S0257>
+			<S0272>Discarding changes</S0272>
+			<S0287>Do you want to remove this image from the list of mounted images?</S0287>
+			<S0346>Enter part size:</S0346>
+			<S0359>ESD (Electronic Software Download) image format facts</S0359>
+			<S0380>Explore directory</S0380>
+			<S0381>Explore mount directory</S0381>
+			<S0384>Export all</S0384>
+			<S0390>Exporting</S0390>
+			<S0407>Destination file is open by another program, possibly mounted.</S0407>
+			<S0422>Flags</S0422>
+			<S0432>Found and using oscdimg in the application root.</S0432>
+			<S0462>High compression, read-only</S0462>
+			<S0468>Host Windows seems to currently be in the component configuration mode.</S0468>
+			<S0479>If some packages have been removed from the image before, please restart the session using an original intact image.</S0479>
+			<S0480>If the problem is persistent, please check manually for an update at the official website and try again with the newer version, or contact us on email.</S0480>
+			<S0483>If you have pending changes, make sure the image is unloaded and saved before making the ISO, otherwise continue.</S0483>
+			<S0486>Image export</S0486>
+			<S0487>Image Export failed. Possibly encrypted ESD image. If that is the case, please search for and try 'ESD Decrypt' before using this image.</S0487>
+			<S0488>Image history</S0488>
+			<S0489>Image is open by another application.</S0489>
+			<S0490>Image is read-only.</S0490>
+			<S0491>Image join</S0491>
+			<S0492>Image load</S0492>
+			<S0493>Image might be unusable and the editing should be restarted fresh after a reboot.</S0493>
+			<S0494>Image mount</S0494>
+			<S0495>Image save</S0495>
+			<S0496>Image split</S0496>
+			<S0497>Image splitting not needed, size is already smaller than the part size</S0497>
+			<S0498>Image unload</S0498>
+			<S0499>Image unload without saving any changes</S0499>
+			<S0503>Images</S0503>
+			<S0553>Invalid</S0553>
+			<S0556>Invalid Windows image path</S0556>
+			<S0558>ISO image</S0558>
+			<S0559>ISO image will be created from the whole folder</S0559>
+			<S0560>ISO label</S0560>
+			<S0596>Live install</S0596>
+			<S0598>Live installation load</S0598>
+			<S0604>Loaded</S0604>
+			<S0621>Make sure that the registry hives are not open by another tool and then retry.</S0621>
+			<S0652>Minimum functional split part size for this image</S0652>
+			<S0653>Minimum recommended split part size for Windows 7 is 200MB due to a Windows Setup limitation.
+If this image installation gets stuck for too long after the 'Expanding Windows files', convert it back to WIM and try a bigger split part size.</S0653>
+			<S0654>Minimum split size warning</S0654>
+			<S0659>Missing expected System User registry.</S0659>
+			<S0660>Missing mount directory</S0660>
+			<S0669>Mount image</S0669>
+			<S0670>Mounted</S0670>
+			<S0671>Mounted images</S0671>
+			<S0673>Mounting image</S0673>
+			<S0674>Mount Path</S0674>
+			<S0723>None</S0723>
+			<S0727>Note: this is not the currently loaded image, to apply any changes with this tool, you must load the image first.</S0727>
+			<S0750>Operating system</S0750>
+			<S0751>Operating systems</S0751>
+			<S0791>Please delete it and replace with a working image.</S0791>
+			<S0793>Please reboot and try again.</S0793>
+			<S0797>Please retry when the resources have been freed, or cancel and reboot the machine.</S0797>
+			<S0799>Please select a folder containing extracted Windows ISO files and directories.</S0799>
+			<S0800>Please select a WIM image, usually named Install.wim or Boot.wim in the extracted Windows ISO content, Sources directory.</S0800>
+			<S0801>Please unload any mounted (blue state icon) editions from this image file before retrying.</S0801>
+			<S0802>Please unload both images and restart the process.</S0802>
+			<S0822>Preparing files for the ISO image.</S0822>
+			<S0863>Read-only. To edit the image, it needs to be converted back to WIM</S0863>
+			<S0865>Read registry.</S0865>
+			<S0877>Refresh when available</S0877>
+			<S0885>Registry unload</S0885>
+			<S0898>Removal on this Windows version not supported.</S0898>
+			<S0914>Reopening image</S0914>
+			<S0915>Replace source image</S0915>
+			<S0924>Retry</S0924>
+			<S0925>Retry count</S0925>
+			<S0940>Save existing changes to the image</S0940>
+			<S0948>Saving changes to the image</S0948>
+			<S0950>Saving ISO image</S0950>
+			<S0968>Select a folder containing Windows installation files</S0968>
+			<S0977>Select Windows image file</S0977>
+			<S0982>Selected folder from which to create an ISO file is currently actively loaded.</S0982>
+			<S0984>Selected image is already on the list</S0984>
+			<S0996>Do you want to set the size to</S0996>
+			<S1046>Source list</S1046>
+			<S1049>Spanned, split</S1049>
+			<S1054>Split image is not officially supported by Microsoft on Windows 8 and newer.
+However it is known to work if the part size is big enough.
+Minimum recommended split part size for Windows 8 and newer is half of the final source image size.
+If this image installation gets stuck on boot asking for a product key or a Windows license even if you provided a valid one, convert back to WIM and try a bigger split part size.</S1054>
+			<S1055>Split image part</S1055>
+			<S1057>Split the selected WIM image into multiple SWM parts?</S1057>
+			<S1059>Splitting</S1059>
+			<S1061>Standard, editable</S1061>
+			<S1073>Stopped before storing data to the image. Release image manually when ready.</S1073>
+			<S1087>Supported only for Windows 8 or newer setup</S1087>
+			<S1130>The image is corrupted.</S1130>
+			<S1131>The image might be corrupted.</S1131>
+			<S1140>This image is not supported.</S1140>
+			<S1145>This program uses Windows IMAPI 2 for ISO operations, make sure your OS has a working IMAPI component. Alternatively, copy oscdimg.exe in the root (next to ntlite.exe) and it will be used instead.</S1145>
+			<S1154>To apply any changes with this tool, use the Apply page on the left instead.</S1154>
+			<S1171>Try unmounting first.</S1171>
+			<S1179>Type a label for ISO image:</S1179>
+			<S1204>Unload image</S1204>
+			<S1205>Unload registry failed.</S1205>
+			<S1207>Unloading image, discarding changes</S1207>
+			<S1208>unsafe</S1208>
+			<S1210>Unsupported image architecture.</S1210>
+			<S1211>unsupported removals</S1211>
+			<S1257>Waiting on current system action (cca 40 retries).</S1257>
+			<S1267>Warning</S1267>
+			<S1273>When opening a mount folder, be careful to not keep any files or folders from it open while saving the image, or the image will be corrupted.</S1273>
+			<S1340>Selected image is an isolated image, thus Post-Setup page and Create ISO functionality will be disabled.
+For full functionality you should copy the entire ISO content and reload the image from that folder instead.</S1340>
+			<S1341>Isolated</S1341>
+			<S1351>Image changed, list refreshed, please try again.</S1351>
+		</Images>
+		<Toolbar>
+			<S0020>Add</S0020>
+			<S0023>Image file (WIM, ESD, SWM)</S0023>
+			<S0024>Add Windows image to the list</S0024>
+			<S0155>Clone</S0155>
+			<S0158>Make a duplicate of the selected preset</S0158>
+			<S0201>Convert</S0201>
+			<S0205>Convert selected image to a WIM, ESD or SWM format.</S0205>
+			<S0206>Convert to ESD</S0206>
+			<S0207>Convert selected image to a high-compression ESD format, supported on Windows 8 or newer setup.</S0207>
+			<S0208>Convert to SWM (Split image)</S0208>
+			<S0209>Convert selected image to a spanned, SWM format; also known as image splitting. Used for example to bypass the FAT32 single-file 4GB limitation, or span the image across multiple media.</S0209>
+			<S0210>Convert to WIM</S0210>
+			<S0211>Convert selected image to a standard WIM format, ready for mounting and editing.</S0211>
+			<S0220>Create ISO</S0220>
+			<S0221>Create ISO image from the selected Windows image folder. Cannot create an ISO from an already installed Windows (Live install).</S0221>
+			<S0238>Delete</S0238>
+			<S0240>Delete a selected preset</S0240>
+			<S0383>Export</S0383>
+			<S0391>Export selected preset to a file</S0391>
+			<S0427>Forget</S0427>
+			<S0428>Remove selected item from the image history list</S0428>
+			<S0484>Image</S0484>
+			<S0501>Image folder</S0501>
+			<S0502>Add Windows image folder to the list</S0502>
+			<S0505>Import</S0505>
+			<S0512>Import external preset to the list</S0512>
+			<S0600>Load</S0600>
+			<S0605>Load selected source</S0605>
+			<S0607>Read and apply previously saved settings</S0607>
+			<S0715>New</S0715>
+			<S0716>Reset all current settings to source defaults</S0716>
+			<S0717>New session</S0717>
+			<S0718>Start new session, ready to load another source without unmounting existing mounts.</S0718>
+			<S0824>Preset</S0824>
+			<S0878>Refresh lists</S0878>
+			<S0879>Refresh image and preset lists</S0879>
+			<S0910>Rename</S0910>
+			<S0913>Rename selected preset</S0913>
+			<S0937>Save</S0937>
+			<S0938>Save as...</S0938>
+			<S0939>Save current state to preset</S0939>
+			<S0943>Save current settings to a specifically named preset</S0943>
+			<S0947>Save current settings over the selected preset</S0947>
+			<S1203>Unload</S1203>
+			<S1206>Unload and unmount selected source</S1206>
+			<S1420>Recompress</S1420>
+		</Toolbar>
+		<Presets>
+			<S0057>Auto-saved session</S0057>
+			<S0142>Choose exported preset file destination</S0142>
+			<S0156>Clone preset</S0156>
+			<S0157>Clone selected preset</S0157>
+			<S0174>Completed</S0174>
+			<S0175>Completed loading multiple presets.</S0175>
+			<S0239>Delete selected presets?</S0239>
+			<S0251>Destination name</S0251>
+			<S0252>Destination preset name</S0252>
+			<S0313>Edit XML</S0313>
+			<S0506>Imported</S0506>
+			<S0511>Import preset</S0511>
+			<S0555>Invalid preset file</S0555>
+			<S0584>Last change</S0584>
+			<S0603>Load preset</S0603>
+			<S0661>Missing preset</S0661>
+			<S0756>Original name</S0756>
+			<S0825>Preset clone</S0825>
+			<S0826>Preset deleted</S0826>
+			<S0827>Preset export.</S0827>
+			<S0828>Preset exported</S0828>
+			<S0830>Preset name</S0830>
+			<S0831>Presets</S0831>
+			<S0867>Read XML</S0867>
+			<S0918>Reset all page changes to image defaults?</S0918>
+			<S0941>Save (overwrite)</S0941>
+			<S0942>Save settings</S0942>
+			<S0972>Select preset files to import</S0972>
+			<S1180>Type name for a new or existing preset to save current image settings into.</S1180>
+			<S1181>Type a new name for the preset</S1181>
+			<S1343>type here to filter</S1343>
+		</Presets>
+		<Title>
+			<S0601>Load existing source below, or add a new one to the list by using the toolbar above.</S0601>
+			<S1044>Source</S1044>
+			<S1045>Source can be a Windows DVD or ISO content copied to a writeable folder.</S1045>
+		</Title>
+	</Source>
+	<Updates>
+		<Other>
+			<S0006>Abort</S0006>
+			<S0111>Build date</S0111>
+			<S0118>Cancelled</S0118>
+			<S0119>Cannot find DISM. Disabling affected options for this session.</S0119>
+			<S0161>Closing DISM</S0161>
+			<S0179>Component store is corrupt, please copy the original image and start again.</S0179>
+			<S0197>Continue</S0197>
+			<S0226>Crucial files are being already used by another process.</S0226>
+			<S0227>Crucial package not detected, please report with the log attached.</S0227>
+			<S0372>Existing packages</S0372>
+			<S0396>Extract</S0396>
+			<S0531>Install Pending</S0531>
+			<S0533>Installed</S0533>
+			<S0540>Integrated</S0540>
+			<S0541>Integrated Runonce</S0541>
+			<S0606>Loading...</S0606>
+			<S0642>Messages</S0642>
+			<S0657>Missing crucial files.</S0657>
+			<S0668>Mount folder seems to be in use. This tool is about to close all DISM sessions on your machine, make sure that you do not have any other DISM operation in progress before continuing.
+If you know what is keeping it open, press Cancel after closing it.</S0668>
+			<S0720>No</S0720>
+			<S0739>One or several parent features are disabled so the feature can not be enabled.</S0739>
+			<S0747>Open file location</S0747>
+			<S0749>Open web article</S0749>
+			<S0752>Operation not supported.</S0752>
+			<S0753>Operation requires missing files.</S0753>
+			<S0764>Package is not applicable to this image.</S0764>
+			<S0767>Packages</S0767>
+			<S0782>Path</S0782>
+			<S0784>Pending registry operation detected.</S0784>
+			<S0796>Please restart and try again.</S0796>
+			<S0798>Please select another image or try rebooting the machine first.</S0798>
+			<S0864>Read package info</S0864>
+			<S0871>Reading package info</S0871>
+			<S0887>Release type</S0887>
+			<S0967>Select a folder containing updates or language packs</S0967>
+			<S0974>Select update or language pack files to add</S0974>
+			<S0994>Servicing Stack</S0994>
+			<S1029>Skipping the current operation.</S1029>
+			<S1047>SP1 pre-requisite</S1047>
+			<S1060>Staged</S1060>
+			<S1078>Superseded</S1078>
+			<S1129>The image has been damaged by an offline servicing failure and no further servicing is allowed.</S1129>
+			<S1135>The specified image is not containing crucial files needed to continue, or some files are in use.</S1135>
+			<S1136>The specified image is not in a valid state.</S1136>
+			<S1162>Unreadable or unsupported file</S1162>
+			<S1165>Existing item</S1165>
+			<S1167>Non-existent file path</S1167>
+			<S1199>Uninstall Pending</S1199>
+			<S1200>Uninstalled</S1200>
+			<S1213>Update</S1213>
+			<S1240>Version</S1240>
+			<S1332>Yes</S1332>
+			<S1356>Wrong architecture</S1356>
+			<S1370>Missing prerequisites</S1370>
+			<S1371>Not recommended</S1371>
+			<S1372>Slows down the final stage of installation, and is not actually a needed update, check online KB article.</S1372>
+			<S1396>Prevents enabling of .NET 3.5.</S1396>
+			<S1397>Can cause a reboot loop if Windows as the boot loader is not used. Make sure to change BIOS settings to enable the Windows boot loader directly when you install this update.</S1397>
+		</Other>
+		<Title>
+			<S0022>Add update or language packages for integration.</S0022>
+			<S1217>Updates</S1217>
+		</Title>
+		<Toolbar>
+			<S0424>Folder and subfolders found packages</S0424>
+			<S0765>Package files</S0765>
+			<S0766>Add a package to the integration queue</S0766>
+			<S0907>Remove selected items from the integration queue</S0907>
+			<S0978>Select all</S0978>
+			<S1216>Update queue</S1216>
+			<S1368>Analyze</S1368>
+			<S1369>Shows any special messages, like update pre-requisites or recommended steps. Enabled only if there is a detected problematic (red marked) update, or a special recommendation.</S1369>
+		</Toolbar>
+	</Updates>
+	<Licensing>
+		<Other>
+			<S0015>Activating license...</S0015>
+			<S0121>Cannot read any disk info.</S0121>
+			<S0122>Cannot read any network adapter info.</S0122>
+			<S0133>Check your date and time settings.</S0133>
+			<S0134>Check your internet connection and try again later.</S0134>
+			<S0341>Enjoy the full version!</S0341>
+			<S0357>Error in server response.</S0357>
+			<S0426>For reactivation please contact us on email from the email you purchased the license with, or add the order info to prove the purchase.</S0426>
+			<S0436>Free version has certain feature and usage limitations.</S0436>
+			<S0537>Insufficient hardware info</S0537>
+			<S0554>Invalid license key.</S0554>
+			<S0590>License activation failed.</S0590>
+			<S0591>License activation will not work.</S0591>
+			<S0592>License key</S0592>
+			<S0593>License successfully restored without spending online activations.</S0593>
+			<S0741>Online activations spent.</S0741>
+			<S0748>Open the webpage in a browser containing the installer download link?</S0748>
+			<S0789>Please backup your activation by copying the license.dat file. Optionally also backup the settings.xml file which contains the license key. Both files can be found in the root directory of this application.</S0789>
+			<S0795>Please report if unexpected.</S0795>
+			<S0841>Program will restart itself for the changes to take effect.</S0841>
+			<S0889>remaining online activations, after which the email-only activation is in effect.</S0889>
+			<S0991>Service connection error</S0991>
+			<S0992>Service connection timeout.</S0992>
+			<S1127>Thank you for supporting NTLite and contributing to further product development and enhancements.</S1127>
+			<S1214>Update available</S1214>
+			<S1333>You already have the latest version.</S1333>
+			<S1336>You have successfully activated your license.</S1336>
+		</Other>
+		<UI>
+			<S0146>Choose your license.</S0146>
+			<S0345>Enter license key</S0345>
+			<S0434>Free (limited, non-commercial)</S0434>
+			<S0589>License</S0589>
+			<S0594>Licensed</S0594>
+			<S0667>More info</S0667>
+			<S1212>Until license is activated, premium features will be unavailable.</S1212>
+			<S1218>Upgrade</S1218>
+			<S1253>Visit website</S1253>
+			<S1338>Your license requires reactivation, check your key and press OK to start the reactivation.</S1338>
+			<S1392>Home (single-seat, non-commercial)</S1392>
+			<S1393>Professional (single-seat, commercial)</S1393>
+			<S1394>Business (single-seat, commercial)</S1394>
+			<S1395>Enterprise (multi-seat, commercial)</S1395>
+		</UI>
+	</Licensing>
+	<Unattended>
+		<Other>
+			<S0016>Active</S0016>
+			<S0028>Administrators</S0028>
+			<S0061>Auto-logon this user</S0061>
+			<S0063>Automatic logon</S0063>
+			<S0190>Confirm password</S0190>
+			<S0217>Create</S0217>
+			<S0219>Create partition</S0219>
+			<S0224>Credentials</S0224>
+			<S0229>Custom</S0229>
+			<S0230>Custom group</S0230>
+			<S0273>Disk</S0273>
+			<S0274>Disk Configuration</S0274>
+			<S0278>Disk ID</S0278>
+			<S0281>Display name</S0281>
+			<S0285>Do not format</S0285>
+			<S0288>Domain</S0288>
+			<S0289>Domain name</S0289>
+			<S0292>Drive Letter</S0292>
+			<S0319>Enable built-in Administrator using this account</S0319>
+			<S0342>Enter custom group</S0342>
+			<S0343>Enter Domain name</S0343>
+			<S0347>Enter partition label</S0347>
+			<S0348>Enter password</S0348>
+			<S0350>Enter user description</S0350>
+			<S0351>Enter user display name</S0351>
+			<S0353>Enter username</S0353>
+			<S0354>Enter Workgroup name</S0354>
+			<S0392>Extend</S0392>
+			<S0429>Format</S0429>
+			<S0451>Group</S0451>
+			<S0475>ID</S0475>
+			<S0476>Identification</S0476>
+			<S0532>Install to this partition</S0532>
+			<S0567>Join Domain</S0567>
+			<S0568>Join Workgroup</S0568>
+			<S0580>Label</S0580>
+			<S0588>Letter</S0588>
+			<S0608>Local account</S0608>
+			<S0609>Local accounts</S0609>
+			<S0615>Logon count</S0615>
+			<S0617>Machine Password</S0617>
+			<S0636>Maximum (Extend)</S0636>
+			<S0665>Modify</S0665>
+			<S0666>Modify partition</S0666>
+			<S0681>Name</S0681>
+			<S0755>Order</S0755>
+			<S0775>Partition</S0775>
+			<S0776>Partition ID</S0776>
+			<S0777>Partition ID or a drive letter already configured.</S0777>
+			<S0778>Partition modifications</S0778>
+			<S0779>Partitions</S0779>
+			<S0780>Password</S0780>
+			<S0781>Passwords are not equal</S0781>
+			<S0815>Premium feature</S0815>
+			<S0862>Re-enter password</S0862>
+			<S1001>Setup options</S1001>
+			<S1024>Skip local account setup</S1024>
+			<S1025>Skip online account setup</S1025>
+			<S1152>Timeout period [Minutes 5-60]</S1152>
+			<S1188>Unassigned</S1188>
+			<S1209>Unsecure Join</S1209>
+			<S1229>User accounts</S1229>
+			<S1230>User already exists</S1230>
+			<S1234>Username</S1234>
+			<S1274>When skipping local account wizard, make sure to add at least one local account or be part of the domain, in order to be able to logon.</S1274>
+			<S1320>Wipe Disk</S1320>
+			<S1326>Workgroup</S1326>
+			<S1327>Workgroup Name</S1327>
+			<S1385>Primary</S1385>
+			<S1386>Extended</S1386>
+			<S1387>Logical</S1387>
+		</Other>
+		<Toolbar>
+			<S0025>Add local account</S0025>
+			<S0026>Add a local user account to the unattended settings.</S0026>
+			<S0059>Auto-fill</S0059>
+			<S0060>Overwrite available entries with the host machine data, where available. </S0060>
+			<S0187>Configure disk partition</S0187>
+			<S0188>Setup partitions automatically during Windows deployment. </S0188>
+			<S0237>Default</S0237>
+			<S0318>Enable</S0318>
+			<S0569>Join network</S0569>
+			<S0570>Automatically join a network domain or a workgroup</S0570>
+			<S0708>Network Join</S0708>
+			<S0732>OEM SetupComplete</S0732>
+			<S0733>When using an OEM product key in Windows 8 and newer, SetupComplete.cmd is normally not executed. Enable this option to include SetupComplete.cmd in the Unattended-RunSynchronous commands to be executed at the end of setup.</S0733>
+			<S0754>Options</S0754>
+			<S0906>Remove selected local account, network join or disk partition setup from the unattended settings.</S0906>
+			<S1192>Unattended mode</S1192>
+			<S1349>Copy to image</S1349>
+			<S1350>Copy answer file directly to a final image location (%WINDIR%\Panther\unattend.xml). Not recommended normally, use only if directly manually applying an image to a partition.</S1350>
+			<S1376>Overwrite any existing unattended settings with the ones set on this page.</S1376>
+			<S1381>Leave current unattended settings on the selected image intact.</S1381>
+		</Toolbar>
+		<List>
+			<S0043>Always</S0043>
+			<S0064>Automatic protection disabled</S0064>
+			<S0185>Computer name</S0185>
+			<S0186>Computer name cannot contain spaces and is limited to 15 characters. Use * for auto-generated random computer name with a static prefix made out of 'Registered Owner' entry (at most first 8 characters will be used).</S0186>
+			<S0290>Don't clean non-present devices</S0290>
+			<S0309>Dynamic update</S0309>
+			<S0320>Enable dynamic update</S0320>
+			<S0349>Enter a product key for this image to be used during setup.</S0349>
+			<S0399>false</S0399>
+			<S0445>Generalize</S0445>
+			<S0460>Help customized</S0460>
+			<S0464>Home</S0464>
+			<S0527>Input locale</S0527>
+			<S0529>Install only updates</S0529>
+			<S0572>Keep all PnP devices installed</S0572>
+			<S0614>Logo</S0614>
+			<S0633>Manufacturer</S0633>
+			<S0663>Model</S0663>
+			<S0710>Network location</S0710>
+			<S0713>Never</S0713>
+			<S0731>OEM information</S0731>
+			<S0737>On error</S0737>
+			<S0746>OOBE (Final install options)</S0746>
+			<S0757>Other</S0757>
+			<S0759>Out-of-box experience</S0759>
+			<S0804>PnP Sysprep</S0804>
+			<S0839>Product key</S0839>
+			<S0848>Protect your computer automatically</S0848>
+			<S0859>Public</S0859>
+			<S0882>Registered Organization</S0882>
+			<S0883>Registered Owner</S0883>
+			<S0916>Report installation statistics</S0916>
+			<S0986>Send report to Microsoft</S0986>
+			<S1002>Setup UI Language</S1002>
+			<S1007>Shell options</S1007>
+			<S1022>Skip auto activation</S1022>
+			<S1023>Skip EULA page</S1023>
+			<S1026>Skip wireless setup</S1026>
+			<S1050>Specialize</S1050>
+			<S1084>Support hours</S1084>
+			<S1085>Support phone</S1085>
+			<S1086>Support URL</S1086>
+			<S1151>Time zone</S1151>
+			<S1169>true</S1169>
+			<S1178>Type '[KEY]' (without quotes) for reading OEM key automatically from the BIOS during setup.</S1178>
+			<S1184>UI language</S1184>
+			<S1231>User experience for Windows licensing</S1231>
+			<S1232>User locale</S1232>
+			<S1233>User settings</S1233>
+			<S1295>Windows language</S1295>
+			<S1296>Windows localization</S1296>
+			<S1311>Windows setup options</S1311>
+			<S1324>Work</S1324>
+		</List>
+		<Title>
+			<S0814>Configure Windows setup choices in advance, making a fully automated installation. Enable this page with the top left toolbar option.</S0814>
+			<S1189>Unattended</S1189>
+		</Title>
+	</Unattended>
+	<Drivers>
+		<Title>
+			<S0021>Add drivers for integration and review hardware requirements.</S0021>
+			<S0300>Drivers</S0300>
+		</Title>
+		<Toolbar>
+			<S0264>Selected device list. </S0264>
+			<S0298>Folder with multiple drivers</S0298>
+			<S0299>Find and add all drivers from a folder and subfolders to the integration queue</S0299>
+			<S0303>Drivers (INF selection)</S0303>
+			<S0364>Exclude unused</S0364>
+			<S0365>Detect appropriate drivers for the selected device list, remove the rest from the integration queue. </S0365>
+			<S0386>Export driver(s)</S0386>
+			<S0387>Export selected host or image drivers to a directory. </S0387>
+			<S0388>Export HW list</S0388>
+			<S0389>Export host hardware device list from any machine which can be imported to a licensed version driver page hardware checlist</S0389>
+			<S0467>Host machine</S0467>
+			<S0507>Import host</S0507>
+			<S0508>Add current host machine drivers to the list. </S0508>
+			<S0509>Import HW list</S0509>
+			<S0510>Import device list. </S0510>
+			<S0616>Machine</S0616>
+			<S0903>Remove a selected driver from the integration queue</S0903>
+			<S1013>Show hidden devices</S1013>
+			<S1014>Show hidden and unplugged devices in the hardware checklist. </S1014>
+		</Toolbar>
+		<Other>
+			<S0296>Driver queue</S0296>
+			<S0301>Drivers added to queue</S0301>
+			<S0302>Drivers removed from queue</S0302>
+			<S0431>Found</S0431>
+			<S0455>Hardware checklist</S0455>
+			<S0456>Hardware list</S0456>
+			<S0457>Hardware list exported.</S0457>
+			<S0466>Host imported</S0466>
+			<S0656>Missing</S0656>
+			<S0726>Not found</S0726>
+			<S0773>Partial</S0773>
+			<S0964>Select driver folder to queue all drivers in it</S0964>
+			<S0965>Select driver INF files to add</S0965>
+			<S0970>Select hardware list export destination file</S0970>
+			<S0971>Select hardware list files to import</S0971>
+		</Other>
+	</Drivers>
+	<Tweaks>
+		<List>
+			<S0027>Admin Approval Mode for the built-in Administrator account</S0027>
+			<S0034>Allow IRDP to detect and configure Default Gateway addresses.</S0034>
+			<S0035>Allow UIAccess applications to prompt for elevation without using the secure desktop</S0035>
+			<S0038>Allows elevated applications to access mapped network drives. Read on 'EnableLinkedConnections' for safety concerns.</S0038>
+			<S0044>Always combine</S0044>
+			<S0045>Always show all icons and notifications on the taskbar</S0045>
+			<S0055>Auto-Reboot on BSOD crash</S0055>
+			<S0062>Automatic</S0062>
+			<S0067>Automatically deny elevation requests</S0067>
+			<S0081>Balloon tips - Explorer and desktop</S0081>
+			<S0082>Balloon tips - Folder contents info</S0082>
+			<S0083>Balloon tips - Notification area</S0083>
+			<S0084>Balloon tips - Start button</S0084>
+			<S0089>Behavior of the elevation prompt for administrators in Admin Approval Mode</S0089>
+			<S0090>Behavior of the elevation prompt for standard users</S0090>
+			<S0101>Boot</S0101>
+			<S0105>Boot to Desktop (Skip Start page)</S0105>
+			<S0114>Cache thumbnails</S0114>
+			<S0127>CD Burning features</S0127>
+			<S0154>Clear history of recently opened documents on exit</S0154>
+			<S0166>Combine when taskbar is full</S0166>
+			<S0169>Common control and window animations</S0169>
+			<S0195>Contains Windows service Start values.</S0195>
+			<S0198>Control panel - classic view</S0198>
+			<S0199>Control panel - small icons</S0199>
+			<S0200>Controls what Windows does in an event of a crash.</S0200>
+			<S0216>Crash control</S0216>
+			<S0235>Dead Gateway Detection</S0235>
+			<S0236>Dead gateway detection is a TCP feature that identifies gateways that are not operating properly and that switches the computer to a new default gateway.</S0236>
+			<S0244>Desktop icon - Control Panel</S0244>
+			<S0245>Desktop icon - My Computer</S0245>
+			<S0246>Desktop icon - Network</S0246>
+			<S0247>Desktop icon - Recycle Bin</S0247>
+			<S0248>Desktop icon - User Files</S0248>
+			<S0253>Detect application installations and prompt for elevation</S0253>
+			<S0261>Determines the extent to which the system supports IP multicasting and participates in the Internet Group Management Protocol.</S0261>
+			<S0270>Disabled</S0270>
+			<S0279>Display icons instead of thumbnails</S0279>
+			<S0280>Display icons instead of thumbnails on network folders</S0280>
+			<S0282>Display tray items</S0282>
+			<S0307>Dynamic DNS PTR resource records</S0307>
+			<S0308>Dynamic DNS updates</S0308>
+			<S0315>Elevate signed only</S0315>
+			<S0316>Elevate without prompting</S0316>
+			<S0321>Enable linked connections</S0321>
+			<S0322>Enable only if DHCP sends the Perform Router Discovery option</S0322>
+			<S0323>Enable or disable DNS dynamic update registration of PTR (pointer) records by this DNS client, aka reverse lookup. PTR records associate an IP address with a computer name.</S0323>
+			<S0324>Enable or disable DNS update registration for all adaptors on this computer. 'Register this connection's addresses in DNS' check box of each network interface's TCP/IP advanced properties, will have no effect if disabled here.</S0324>
+			<S0325>Enable UAC - Filter all administrators (EnableLUA)</S0325>
+			<S0326>Enabled</S0326>
+			<S0382>Explorer</S0382>
+			<S0414>Filter built-in Administrator</S0414>
+			<S0474>ICMP redirect</S0474>
+			<S0478>If disabled, causes the Windows Store tray icon to be empty.</S0478>
+			<S0535>Installer detection</S0535>
+			<S0573>Keep history of recently opened documents</S0573>
+			<S0630>Manual</S0630>
+			<S0677>Multicast IGMP level</S0677>
+			<S0683>Navigation pane - Automatically expand to current folder</S0683>
+			<S0684>Navigation pane - Show all folders</S0684>
+			<S0685>Navigation pane - Show favorites</S0685>
+			<S0686>Navigation pane - Show libraries</S0686>
+			<S0705>Network</S0705>
+			<S0714>Never combine</S0714>
+			<S0721>No multicast support</S0721>
+			<S0742>Only elevate executables that are signed and validated</S0742>
+			<S0743>Only elevate UIAccess applications that are installed in secure locations</S0743>
+			<S0745>Only send IP multicast packets</S0745>
+			<S0785>Perform router discovery</S0785>
+			<S0840>Program Compatibility Assistant</S0840>
+			<S0843>Prompt for consent</S0843>
+			<S0844>Prompt for consent for non-Windows binaries</S0844>
+			<S0845>Prompt for consent on the secure desktop</S0845>
+			<S0846>Prompt for credentials</S0846>
+			<S0847>Prompt for credentials on the secure desktop</S0847>
+			<S0934>Run all administrators in Admin Approval Mode. Needs to be enabled for Metro apps and Windows 10 Start Menu.</S0934>
+			<S0960>Secure Desktop on prompt</S0960>
+			<S0985>Send and receive IP multicast packets (participate in IGMP)</S0985>
+			<S0993>Services</S0993>
+			<S1008>Show clock</S1008>
+			<S1010>Show Map/Disconnect Network Drive option</S1010>
+			<S1011>Show Network Location wizard on new networks</S1011>
+			<S1012>Show or completely disable the notification area.</S1012>
+			<S1015>Shutdown without logon</S1015>
+			<S1064>Start Menu - Documents menu</S1064>
+			<S1065>Start menu - Usage tracking</S1065>
+			<S1092>Switch to the secure desktop when prompting for elevation</S1092>
+			<S1096>System</S1096>
+			<S1106>Taskbar - Button grouping</S1106>
+			<S1107>Taskbar notifications</S1107>
+			<S1108>Taskbar - Show on all monitors</S1108>
+			<S1109>Taskbar - Show Store apps</S1109>
+			<S1110>Taskbar - Small icons</S1110>
+			<S1112>TCP/IP</S1112>
+			<S1137>The value is the maximum percentage of disk space that the Windows installer can use for the cache of old files. The policy does not affect files that have already been saved.</S1137>
+			<S1143>This parameter controls whether Windows alters its routing table in response to Internet Control Message Protocol (ICMP) messages that instruct it to direct datagrams for the recipient along a different route.</S1143>
+			<S1149>This setting allows you to show or hide the clock from the system tray on the taskbar.</S1149>
+			<S1173>Turns on or off Explorer's Burn To Disk, Format and auto-eject optical drive features.</S1173>
+			<S1182>UAC Admin prompt</S1182>
+			<S1183>UAC User prompt</S1183>
+			<S1185>UIAccess secure location required</S1185>
+			<S1186>UIAccess toggle</S1186>
+			<S1244>View - Show empty drives</S1244>
+			<S1245>View - Show extensions for known file types</S1245>
+			<S1246>View - Show hidden files, folders and drives</S1246>
+			<S1247>View - Show protected operating system files</S1247>
+			<S1251>Virtualize file and registry write failures to per-user locations. If disabled, applications that write data to protected locations fail.</S1251>
+			<S1252>Virtualize, redirect write failures</S1252>
+			<S1293>Windows Installer</S1293>
+			<S1294>Windows Installer patch cache size</S1294>
+			<S1342>Reset Value</S1342>
+			<S1358>Windows Update (Important updates)</S1358>
+			<S1359>Install updates automatically</S1359>
+			<S1360>Download updates but let me choose whether to install them</S1360>
+			<S1361>Check for updates but let me choose whether to download and install them</S1361>
+			<S1362>Never check for updates</S1362>
+			<S1363>Include recommended updates</S1363>
+			<S1364>Allow users (non-admins) to install updates</S1364>
+			<S1377>Adobe Type Manager Font Driver (ATMFD)</S1377>
+			<S1378>Disable to prevent ATMFD.DLL elevation of privilege vulnerability. See Security Bulletin MS15-077 for more info.</S1378>
+			<S1411>Write an event to the system log</S1411>
+			<S1412>Write debugging information</S1412>
+			<S1413>Small memory dump (256 KB)</S1413>
+			<S1414>Kernel memory dump</S1414>
+			<S1415>Complete memory dump</S1415>
+			<S1416>Automatic memory dump</S1416>
+		</List>
+		<Title>
+			<S0131>Change various Windows settings. Use tabs below to navigate between subpages.</S0131>
+			<S1175>Tweaks</S1175>
+		</Title>
+		<Toolbar>
+			<S0611>Local Machine</S0611>
+			<S0922>Set current tab settings to their source values.</S0922>
+			<S0953>Scope</S0953>
+			<S1235>Users</S1235>
+		</Toolbar>
+	</Tweaks>
+	<Apply>
+		<List>
+			<S0031>All changes are directly saved on the host OS</S0031>
+			<S0033>All other mounted sibling images will be unmounted with their changes saved</S0033>
+			<S0074>Backup log and preset on the source</S0074>
+			<S0076>Backup log on the source</S0076>
+			<S0079>Backup preset on the source</S0079>
+			<S0106>Both Boot Managers queued for removal, that would make the image unusable.</S0106>
+			<S0117>Stop all processing. Does not revert changes done so far.</S0117>
+			<S0129>Change</S0129>
+			<S0130>Change and run</S0130>
+			<S0147>Clean pending operations</S0147>
+			<S0181>Components were already removed on this target, update integration may fail due to missing files</S0181>
+			<S0189>Configure features</S0189>
+			<S0269>Disable</S0269>
+			<S0275>Disk configuration present, partitions are being configured on booting this image. Carefully review the Unattended page</S0275>
+			<S0286>Do not show this in the future</S0286>
+			<S0371>Existing unattended answer file will be deleted</S0371>
+			<S0379>Explicitly execute SetupComplete.cmd</S0379>
+			<S0425>For an UEFI image, GPT disk, add the mandatory 100MB EFI as first partition, and do not mark any partition as active</S0425>
+			<S0500>Image will be left in unknown state, it is then highly recommended to discard any changes before using it again.</S0500>
+			<S0530>Install packages</S0530>
+			<S0538>Integrate drivers</S0538>
+			<S0539>Integrate packages</S0539>
+			<S0574>Keep only</S0574>
+			<S0722>No pending changes, use the toolbar above or the navigation menu on the left to change some options</S0722>
+			<S0811>Post-Setup tasks</S0811>
+			<S0817>Prepare data</S0817>
+			<S0837>Proceed at your own risk.</S0837>
+			<S0842>Progress</S0842>
+			<S0866>Read updated data</S0866>
+			<S0900>Remove components</S0900>
+			<S0901>Removed files</S0901>
+			<S0902>Removed no files</S0902>
+			<S0933>Run</S0933>
+			<S0945>Save changes, and unload the image</S0945>
+			<S0983>Review hardware checklist on the Drivers page for missing drivers</S0983>
+			<S1056>Split image to multiple parts, if bigger than</S1056>
+			<S1063>Start applying changes</S1063>
+			<S1071>Stop before saving and releasing the image</S1071>
+			<S1072>Stop the process?</S1072>
+			<S1111>Tasks</S1111>
+			<S1141>This is a live (online) host machine editing session. It is higly recommended to have a backup ready in case something goes wrong.</S1141>
+			<S1150>This source was previously cancelled and may be in an half-processed, unstable state</S1150>
+			<S1191>Unattended answer file destination</S1191>
+			<S1193>Unattended setup</S1193>
+			<S1337>You will have to manually unload from the Source page for changes to be saved to the image file</S1337>
+			<S1373>Review update integration analysis messages on the Updates page for recommended steps</S1373>
+			<S1399>At least one Metro App needs to be kept so that Windows 10 Start Menu gets installed properly.</S1399>
+			<S1400>Please go to the Components page and keep one of them.</S1400>
+		</List>
+		<Title>
+			<S0051>Apply</S0051>
+			<S0929>Review pending changes and press Start on the toolbar when ready.</S0929>
+		</Title>
+		<Other>
+			<S0052>Applying</S0052>
+			<S0148>Cleaning</S0148>
+			<S0150>Cleaning empty directories</S0150>
+			<S0151>Cleaning leftover entries</S0151>
+			<S0271>Disabling</S0271>
+			<S0336>Enabling</S0336>
+			<S0358>Errors and warnings</S0358>
+			<S0397>Extracting</S0397>
+			<S0438>Functionality guard</S0438>
+			<S0536>Installing</S0536>
+			<S0543>Integrating</S0543>
+			<S0544>Integrating boot image portion</S0544>
+			<S0762>Package</S0762>
+			<S0819>Preparing data</S0819>
+			<S0821>Preparing feature configuration</S0821>
+			<S0823>Preparing integration</S0823>
+			<S0834>Previous package integration locked further integration to this image.</S0834>
+			<S0838>Processing</S0838>
+			<S0909>Removing obsolete files</S0909>
+			<S0928>Reusing driver cache files</S0928>
+			<S0952>Scanning for obsolete files</S0952>
+			<S1027>Skipped</S1027>
+			<S1030>Slipstreaming service pack</S1030>
+			<S1142>This package requires a new servicing stack or a newer version of Windows.</S1142>
+		</Other>
+		<Toolbar>
+			<S0073>Backup log</S0073>
+			<S0075>Copy current session log to the source, for future debugging purposes.</S0075>
+			<S0077>Backup preset</S0077>
+			<S0078>Copy currently auto-saved preset to the source, for future reuse or debugging purposes.</S0078>
+			<S0152>Clean update backup</S0152>
+			<S0153>Remove obsolete updated backup files, keeping only latest versions. All existing service packs and updates cannot be uninstalled after this operation. This will not block the uninstallation of future service packs or updates. </S0153>
+			<S0222>After image is saved, automatically create the ISO image. Queued parameters will be prompted upon checking this option.</S0222>
+			<S0360>ESD compression</S0360>
+			<S0361>Compress image using the ESD format, supported only on Windows 8 setup and newer. Resulting image will be smaller, but needs to be converted back to WIM for editing.</S0361>
+			<S0385>Rebuild image, potentially reducing its size. By doing so, currently selected edition will remain as the only entry on the parent image file.</S0385>
+			<S0809>Image post-processing</S0809>
+			<S0926>Reuse driver cache</S0926>
+			<S0927>Reduce effective Windows size, utilizing NTFS links between identical driver files in cache and where deployed (e.g. System32). Most space saved when used on Live deployments with installed drivers. </S0927>
+			<S0944>Save changes and unmount</S0944>
+			<S0946>Save changes and unmount currently loaded image and its siblings.</S0946>
+			<S0955>Seal features</S0955>
+			<S0956>Remove Windows 7 Features obsolete updates, reducing size even more. Windows Features (CPanel-&gt;Programs-&gt;Features) states might not be able to change after this operation, so make sure to setup final Features page states when using this option. </S0956>
+			<S1053>Split</S1053>
+			<S1058>Split the selected WIM image into multiple SWM parts. Used for example to bypass the FAT32 single-file 4GB limitation, or span the image across multiple media.</S1058>
+			<S1062>Start</S1062>
+			<S1066>Start applying all changes.</S1066>
+		</Toolbar>
+	</Apply>
+	<PostSetup>
+		<Other>
+			<S0032>All files</S0032>
+			<S0125>Careful with silent installers which install themselves on any execution.</S0125>
+			<S0366>Execute</S0366>
+			<S0367>Executing</S0367>
+			<S0369>Existing</S0369>
+			<S0534>Installer</S0534>
+			<S0771>Parameters</S0771>
+			<S0884>Registry</S0884>
+			<S0966>Select files to add</S0966>
+			<S0995>Set</S0995>
+			<S1068>Status</S1068>
+			<S1088>Supported Types</S1088>
+			<S1168>Tried to remove non-existing command</S1168>
+			<S1177>Type</S1177>
+			<S1202>Unknown</S1202>
+			<S1344>Batch</S1344>
+			<S1345>Passive</S1345>
+			<S1352>use as</S1352>
+		</Other>
+		<Toolbar>
+			<S0167>Command</S0167>
+			<S0168>Add a command-line instruction for execution after install</S0168>
+			<S0368>Execution queue</S0368>
+			<S0411>Add a single-file application installer with parameters, SFX archive, PowerShell script or a REG file for execution after Windows Setup</S0411>
+			<S0769>Parameter Info</S0769>
+			<S0770>Try the help switch on the selected installer to see the list of available parameters</S0770>
+			<S0904>Remove selected row</S0904>
+			<S0921>Reset source state. Removes new and returns existing entries.</S0921>
+			<S1374>Move up</S1374>
+			<S1375>Move down</S1375>
+		</Toolbar>
+		<Title>
+			<S0626>Manage post-setup execution of commands and application installations. They get executed at the end of setup, only once as System user.</S0626>
+			<S0810>Post-Setup</S0810>
+		</Title>
+	</PostSetup>
+	<Features>
+		<List>
+			<S0242>Description</S0242>
+			<S0401>Feature</S0401>
+			<S1067>State</S1067>
+		</List>
+		<Title>
+			<S0403>Features</S0403>
+			<S0975>Select which features to enable. This page does the same as Control Panel - 'Turn Windows Features on or off' would do.</S0975>
+		</Title>
+		<Toolbar>
+			<S0443>General</S0443>
+			<S0920>Set feature states to source defaults</S0920>
+		</Toolbar>
+	</Features>
+</NTLiteTranslation>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Produced by Beyond Compare 3 from Scooter Software -->
+<BCState>
+	<TBcState>
+		<FirstStartup Value="False"/>
+		<FormPosStr Value="12;44;1440;870"/>
+	</TBcState>
+	<TBrowseState>
+		<FormPosStr Value="495;231;957;683"/>
+	</TBrowseState>
+	<TCheckForUpdatesState>
+		<Build Value="12204"/>
+		<LastChecked Value="2010-07-14 12:11:04"/>
+	</TCheckForUpdatesState>
+	<TDirCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="Y:\cases\ab0011\fuzzed\original.docx"/>
+			<_1 Value="F:\work\syringe.git\lib"/>
+			<_2 Value="F:\work\syringe.git\work"/>
+			<_3 Value="F:\work\syringe.git"/>
+		</LeftMRUSpecs>
+		<MRUFilters>
+			<_0 Value="-*.pyc"/>
+			<_1 Value="-.\pecoff\"/>
+		</MRUFilters>
+		<RightMRUSpecs>
+			<_0 Value="Y:\cases\ab0011\fuzzed\poc.docx"/>
+			<_1 Value="F:\work\deletethis\syringe.git_2\lib"/>
+			<_2 Value="F:\work\deletethis\syringe.git_2\work"/>
+			<_3 Value="F:\work\syringe.git_2"/>
+		</RightMRUSpecs>
+		<SessionFormPosStr Value="459;186;992;728"/>
+	</TDirCompareState>
+	<THexCompareState>
+		<LeftMRUSpecs>
+			<_0 Value="Y:\cases\ashtrax0032.investigated\original.ppt"/>
+			<_1 Value="F:\work\syringe.git\lib\bitmap.pyc"/>
+			<_2 Value="F:\work\syringe.git\work\linker.pyc"/>
+			<_3 Value="F:\work\syringe.git\lib\pecoff\Executable.pyc"/>
+		</LeftMRUSpecs>
+		<MRUFonts>
+			<_0 Value="Courier New;9"/>
+			<_1 Value="Consolas;10"/>
+		</MRUFonts>
+		<RightMRUSpecs>
+			<_0 Value="Y:\cases\ashtrax0032.investigated\poc.ppt"/>
+			<_1 Value="F:\work\deletethis\syringe.git_2\lib\bitmap.pyc"/>
+			<_2 Value="F:\work\deletethis\syringe.git_2\work\linker.pyc"/>
+			<_3 Value="F:\work\syringe.git_2\lib\pecoff\Executable.pyc"/>
+		</RightMRUSpecs>
+	</THexCompareState>
+	<THomeState>
+		<SessionType Value="TTextCompareSession"/>
+	</THomeState>
+	<TOpCompareState>
+		<Kind Value="ccRulesBased"/>
+	</TOpCompareState>
+	<TTextCompareState>
+		<FullEdit Value="False"/>
+		<LeftMRUSpecs>
+			<_0 Value="F:\repository\idascripts.git\user\ali.py"/>
+			<_1 Value="F:\work\syringe.git\lib\pecoff\Executable.py"/>
+			<_2 Value="F:\work\syringe.git\lib\ptypes\parray.py"/>
+			<_3 Value="F:\work\syringe.git\lib\ptypes\dyn.py"/>
+			<_4 Value="F:\work\syringe.git\lib\pecoff\Object.py"/>
+			<_5 Value="F:\work\syringe.git\lib\pecoff\Archive.py"/>
+			<_6 Value="F:\work\syringe.git\lib\pecoff\__init__.py"/>
+			<_7 Value="F:\work\syringe.git\work\loader.py"/>
+			<_8 Value="F:\work\syringe.git\work\linker.py"/>
+		</LeftMRUSpecs>
+		<MRUFonts>
+			<_0 Value="Courier New;9"/>
+			<_1 Value="Consolas;10"/>
+		</MRUFonts>
+		<RightMRUSpecs>
+			<_0 Value="C:\Documents and Settings\arizvisa\My Documents\ali.py"/>
+			<_1 Value="F:\work\deletethis\syringe.git_2\lib\pecoff\Executable.py"/>
+			<_2 Value="F:\work\deletethis\syringe.git_2\lib\ptypes\parray.py"/>
+			<_3 Value="F:\work\deletethis\syringe.git_2\lib\ptypes\dyn.py"/>
+			<_4 Value="F:\work\deletethis\syringe.git_2\lib\pecoff\Object.py"/>
+			<_5 Value="F:\work\deletethis\syringe.git_2\lib\pecoff\Archive.py"/>
+			<_6 Value="F:\work\deletethis\syringe.git_2\lib\pecoff\__init__.py"/>
+			<_7 Value="F:\work\deletethis\syringe.git_2\work\loader.py"/>
+			<_8 Value="F:\work\deletethis\syringe.git_2\work\linker.py"/>
+		</RightMRUSpecs>
+	</TTextCompareState>
+</BCState>

@@ -1,0 +1,130 @@
+[INFO]
+Name = DDR SDRAM SPD
+00 = Number of Serial PD bytes written during module manufacturer\r 01 = 1 byte\r 02 = 2 bytes\r 03 = 3 bytes\r  .     .\r  .     .\r 80 = 128 bytes\r  .     .
+01 = Total number of bytes in Serial PD device\r 01 = 2 bytes\r 02 = 4 bytes\r 03 = 8 bytes\r  .     .\r  .     .\r 07 = 128 bytes\r 08 = 256 bytes\r  .     .
+02 = Fundamental memory type\r 01 = FPM\r 02 = EDO\r 03 = Pipelined Nibble\r 04 = SDR SDRAM\r 05 = ROM\r 06 = DDR SGRAM\r 07 = DDR SDRAM
+03 = Number of row addresses (includes Mixed-size Row addr) This field describes the Row addressing on the module. If there is one physical bank on the module or if there are two physical banks of the same size and organization, then bits 0-3 are used to represent the number of row addresses for each physical bank. If the module has two physical banks of asymmetric size, then bits 0-3 represent the number of row addresses for physical bank 1 and bits 4-7 represent the number of row addresses for physical bank 2 (bank 2 device is 2x bank 1 device width).
+04 = Number of column addresses (includes Mixed-size Col addr) This field describes the Column addressing on the module. If there is one physical bank on the module or if there are two physical banks of the same size, then bits 0-3 are used to represent the number of column addresses for each physical bank. If the module has two physical banks of asymmetric size, then bits 0-3 represent the number of column addresses for physical bank 1 and bits 4-7 represent the number of column addresses for physical bank 2 (bank 2 device is 2x bank 1 device width).
+05 = Number of physical banks on DIMM
+06 = Module Data Width, Bytes 6 and 7 are used to designate the module¡¦s data width. The data width is presented as a 16-bit word: bit 0 of byte 6 becomes the LSB of the 16 bit width identifier and bit 7 of byte 7 becomes the MSB. Consequently, if the module has a width of less than 255 bits, byte 7 will be 00h. If the data width is 256 bits or more, byte 7 is used in conjunction with byte 6 to designate the total module width.
+07 = Module Data Width, Bytes 6 and 7 are used to designate the module¡¦s data width. The data width is presented as a 16-bit word: bit 0 of byte 6 becomes the LSB of the 16 bit width identifier and bit 7 of byte 7 becomes the MSB. Consequently, if the module has a width of less than 255 bits, byte 7 will be 00h. If the data width is 256 bits or more, byte 7 is used in conjunction with byte 6 to designate the total module width.
+08 = Voltage Interface Level of this assembly\r 0 = TTL/5V tolerant\r 1 = 1 LVTTL (not 5V tolerant)\r 2 = HSTL 1.5V\r 3 = SSTL 3.3V\r 4 = SSTL 2.5V
+09 = SDRAM Cycle time, CL=X (highest CAS latency), This byte defines the minimum cycle time for the SDRAM device at the highest CAS Latency, CAS Latency=X, defined in byte 18. Byte 9, Cycle time for CAS Latency=X, is split into two nibbles: the higher order nibble (bits 4-7) designates the cycle time to a granularity of 1ns; the value presented by the lower order nibble (bits 0-3) has a granularity of .1ns and is added to the value designated by the higher nibble.
+0A = SDRAM Access from Clock (highest CAS latency), This byte defines the maximum clock to data out time () for the SDRAM device. This is the Clock to data out specification at the highest given CAS Latency specified in byte 18 of this SPD specification. The byte is split into two nibbles: the higher order nibble (bits 4-7) designate the access time to a granularity of 0.1ns; the value presented by the lower order nibble (bits 0-3) has the granularity of .01ns and is added to the value designated by the higher nibble.
+0B = DIMM configuration type, This byte describes the module's error detection and/or correction scheme.\r 0 = None\r 1 = Parity\r 2 = ECC
+0C = Refresh Rate/Type\r 00 = Normal (15.625 us)\r 01 = Reduced (.25x) 3.9us\r 02 = Reduced (.5x) 7.8us\r 03 = Extended (2x) 31.3us\r 04 = Extended (4x) 62.5us\r 05 = Extended (8x) 125us\rSelf Refresh Entries\r 80 = Normal (15.625 us)\r 81 = Reduced (.25x) 3.9us\r 82 = Reduced (.5x) 7.8us\r 83 = Extended (2x) 31.3us\r 84 = Extended (4x) 62.5us\r 85 = Extended (8x) 125us
+0D = Primary SDRAM Width, B6:0 = width of the primary data SDRAM. B7 = 1 - when there is a second physical bank on the module which is of different size from the first physical bank (the second physical bank's data RAMs are 2X the width of those on the first physical bank). If there is a second physical bank of the same size and configuration as the first, then bit 7 remains as 0 and primary SDRAM width for both banks is expressed using bits 0-6.
+0E = Error Checking SDRAM width, If the module incorporates error checking and if the primary data SDRAM does not include these bits - i.e. there are separate error checking SDRAMs ¡X then the error checking SDRAM¡¦s width is expressed in this byte. B6:0 = Error checking SDRAM¡¦s width. B7 = 1 - when the module has a second physical bank that is a different size than the first physical bank. Bit 7 set to 1 indicates that Bank 2's error checking RAMs are 2X the width of those on the first physical bank.
+0F = SDRAM Device Attributes ¡V Minimum Clock Delay, Back-to-Back Random Column Access
+10 = Burst Lengths Supported. This byte describes which various programmable burst lengths are supported by the devices on the module. If the bit is 1, then that Burst Length is supported on the module; if the bit is 0, then that Burst Length is not supported by the module.
+11 = SDRAM Device Attributes ¡V Number of Banks on SDRAM Device
+12 = CAS# Latencies Supported. This byte describes which of the programmable CAS latencies (CAS to data out) are acceptable for the SDRAM devices used on the module.\r B0 = 1\r B1 = 1.5\r B2 = 2\r B3 = 2.5\r B4 = 3\r B5 = 3.5
+13 = CS# Latency. Tthis byte defines the Chip Select (CS) latency associated with the SDRAM devices used on the module.\r B0 = 0\r B1 = 1\r B2 = 2\r B3 = 3\r B4 = 4\r B5 = 5\r B6 = 6
+14 = Write Latency. This byte defines the write (W) latency associated with the SDRAM devices used on the module.\r B0 = 0\r B1 = 1\r B2 = 2\r B3 = 3
+15 = SDRAM Module Attributes
+16 = SDRAM Device Attributes
+17 = Minimum SDRAM Cycle time at CL X-0.5 (2nd highest CAS latency)
+18 = Maximum Data Access Time (tAC) from Clock at CLX-0.5 (2nd highest CAS latency)
+19 = Minimum Clock Cycle at CLX-1 (3rd highest CAS latency)
+1A = SDRAM Device Maximum Data Access Time (tAC) from Clock at CLX-1 (3rd highest CAS latency)
+1B = Minimum Row Precharge Time (tRP), the higher order bits (bits 2-7) designate the time to a granularity of 1ns; the value presented by the lower order bits (bits 0-1) has a granularity of .25ns and is added to the value designated by the higher bits.
+1C = Minimum Row Active to Row Active delay (tRRD), the higher order bits (bits 2-7) designate the time to a granularity of 1ns; the value presented by the lower order bits (bits 0-1) has a granularity of .25ns and is added to the value designated by the higher bits.
+1D = Minimum RAS to CAS delay (tRCD), the higher order bits (bits 2-7) designate the time to a granularity of 1ns; the value presented by the lower order bits (bits 0-1) has a granularity of .25ns and is added to the value designated by the higher bits.
+1E = Minimum Active to Precharge Time (tRAS), This byte identifies the minimum active to precharge time.
+1F = Density of each row on module (mixed, non-mixed sizes), This byte describes the density of each physical bank on the SRAM DIMM. This byte will have at least one bit set to 1 to represent at least one bank's density. If there are more than one physical bank on the module (as represented in byte 5), and they have the same density, then only one bit is set in this field. If the module has more than one physical bank of different sizes, then more than one bit will be set; each bit set for each density represented.
+20 = Address and Command Input Setup Time Before Clock, This field describes the input setup time before the rising edge of the clock at the SDRAM device on unbuffered modules, or at the register on registered modules. The byte is split into two nibbles: the higher order nibble (bits 4-7) designate the access time to a granularity of 0.1ns; the value presented by the lower order nibble (bits 0-3) has the granularity of .01ns and is added to the value designated by the higher nibble.
+21 = Address and Command Input Hold Time After Clock, This field describes the input hold time after the rising edge of the clock at the SDRAM device on unbuffered modules, or at the register on registered modules. The byte is split into two nibbles: the higher order nibble (bits 4-7) designate the access time to a granularity of 0.1ns; the value presented by the lower order nibble (bits 0-3) has the granularity of .01ns and is added to the value designated by the higher nibble.
+22 = Device Data/Data Mask Input Setup Time Before Data Strobe, This field describes the input setup time before the rising or falling edge of the Data Strobe. The byte is split into two nibbles: the higher order nibble (bits 4-7) designates the time to a granularity of 0.1ns; the value presented by the lower order nibble (bits 0-3) has the granularity of .01ns and is added to the value designated by the higher nibble.
+23 = Device Data/Data Mask Input Hold Time After Data Strobe, This field describes the input hold time after the rising or falling edge of the Data Strobe. The byte is split into two nibbles: the higher order nibble (bits 4-7) designates the time to a granularity of 0.1ns; the value presented by the lower order nibble (bits 0-3) has the granularity of .01ns and is added to the value designated by the higher nibble.
+24 = Reserved for VCSDRAM
+25 = Reserved for VCSDRAM
+26 = Reserved for VCSDRAM
+27 = Reserved for VCSDRAM
+28 = Reserved for VCSDRAM
+29 = SDRAM Device Minimum Active to Active/Auto Refresh Time (tRC), This byte identifies the minimum active to active or auto refresh time.
+2A = SDRAM Device Minimum Auto¡VRefresh to Active/Auto¡VRefresh (tRFC), This byte identifies the minimum Auto-refresh to Active/Auto-Refresh command period.
+2B = SDRAM Device Maximum device cycle time (tCKmax), This byte identifies the maximum device cycle time at any CAS latency, in nanoseconds. one special reserved value, FF, is used to describe devices which have no maximum cycle time. This byte split into two pieces: the higher order bits (bits 2-7) designate the time to a granularity of 1ns; the value presented by the lower order bits (bits 0-1) has a granularity of .25ns and is added to the value designated by the higher bits.
+2C = SDRAM Device Maximum skew between DQS and DQ signals (tDQSQ), This byte identifies the maximum skew between DQS and associated DQ signals for each device, in hundredths of nanoseconds.
+2D = DDR SDRAM Device Maximum Read DataHold Skew Factor (tQHS), This byte identifies the maximum skew factor used in the calculation of read data hold time from edges of DQS, specifically tQH = tHP - tQHS where tQHS is the read data hold skew factor. This SPD byte is split into two nibbles: the higher order nibble (bits 4-7) designate the access time to a granulartiy of 0.01 ns; the value presented by the lower order nibble (bits 0-3) has the granularity of 0.01ns and is added to the value designated by the higher nibble.
+2E = Superset information (may be used in future)
+2F = Superset information (may be used in future)
+30 = Superset information (may be used in future)
+31 = Superset information (may be used in future)
+32 = Superset information (may be used in future)
+33 = Superset information (may be used in future)
+34 = Superset information (may be used in future)
+35 = Superset information (may be used in future)
+36 = Superset information (may be used in future)
+37 = Superset information (may be used in future)
+38 = Superset information (may be used in future)
+39 = Superset information (may be used in future)
+3A = Superset information (may be used in future)
+3B = Superset information (may be used in future)
+3C = Superset information (may be used in future)
+3D = Superset information (may be used in future)
+3E = SPD Revision
+3F = Checksum for Bytes 0-62 (00h - 3Eh)
+40 = Manufacturer's JEDEC ID code per JEP-108E
+41 = Manufacturer's JEDEC ID code per JEP-108E
+42 = Manufacturer's JEDEC ID code per JEP-108E
+43 = Manufacturer's JEDEC ID code per JEP-108E
+44 = Manufacturer's JEDEC ID code per JEP-108E
+45 = Manufacturer's JEDEC ID code per JEP-108E
+46 = Manufacturer's JEDEC ID code per JEP-108E
+47 = Manufacturer's JEDEC ID code per JEP-108E
+48 = Manufacturing Location
+49 = Manufacturer's Part Number
+4A = Manufacturer's Part Number
+4B = Manufacturer's Part Number
+4C = Manufacturer's Part Number
+4D = Manufacturer's Part Number
+4E = Manufacturer's Part Number
+4F = Manufacturer's Part Number
+50 = Manufacturer's Part Number
+51 = Manufacturer's Part Number
+52 = Manufacturer's Part Number
+53 = Manufacturer's Part Number
+54 = Manufacturer's Part Number
+55 = Manufacturer's Part Number
+56 = Manufacturer's Part Number
+57 = Manufacturer's Part Number
+58 = Manufacturer's Part Number
+59 = Manufacturer's Part Number
+5A = Manufacturer's Part Number
+5B = Revision Code
+5C = Revision Code
+5D = Manufacturing Date
+5E = Manufacturing Date
+5F = Assembly Serial Number
+60 = Assembly Serial Number
+61 = Assembly Serial Number
+62 = Assembly Serial Number
+63 = Manufacturer Specific Data
+64 = Manufacturer Specific Data
+65 = Manufacturer Specific Data
+66 = Manufacturer Specific Data
+67 = Manufacturer Specific Data
+68 = Manufacturer Specific Data
+69 = Manufacturer Specific Data
+6A = Manufacturer Specific Data
+6B = Manufacturer Specific Data
+6C = Manufacturer Specific Data
+6D = Manufacturer Specific Data
+6E = Manufacturer Specific Data
+6F = Manufacturer Specific Data
+70 = Manufacturer Specific Data
+71 = Manufacturer Specific Data
+72 = Manufacturer Specific Data
+73 = Manufacturer Specific Data
+74 = Manufacturer Specific Data
+75 = Manufacturer Specific Data
+76 = Manufacturer Specific Data
+77 = Manufacturer Specific Data
+78 = Manufacturer Specific Data
+79 = Manufacturer Specific Data
+7A = Manufacturer Specific Data
+7B = Manufacturer Specific Data
+7C = Manufacturer Specific Data
+7D = Manufacturer Specific Data
+7E = Intel specification frequency
+7F = Intel Specification CAS# Latency support
