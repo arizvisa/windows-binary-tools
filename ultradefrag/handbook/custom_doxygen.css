@@ -1,0 +1,147 @@
+/* The customized CSS for doxygen */
+
+body, table, div, p, dl {
+	font-family: Lucida Grande, Verdana, Geneva, Arial, sans-serif;
+	font-size: 12px;
+	line-height: normal;
+}
+
+#titlearea
+{
+	background-image: url(tab_b.png);
+	background-repeat: repeat-x;
+	background-position: 0 -5px;
+	height: 30px;
+}
+
+#projectlogo
+{
+	vertical-align: middle;
+	padding-left: 20px;
+	width: 80px;
+	text-align: left;
+}
+
+#sourceforgelogo
+{
+	vertical-align: middle;
+	padding-left: 5px;
+	width: 80px;
+	text-align: left;
+	border-collapse: separate;
+}
+
+#sourceforgelogo img
+{
+	border: 0px none;
+}
+
+#projectname
+{
+	font-family: Lucida Grande, Verdana, Geneva, Arial, sans-serif;
+	font-size: 100%;
+	text-align: right;
+	padding-right: 20px;
+}
+
+#projectnumber
+{
+	font-size: 75%;
+}
+
+h1 {
+	font-size: 140%;
+	text-align: center;
+}
+
+h2 {
+	font-size: 120%;
+}
+
+h3 {
+	font-size: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin-right: 0;
+}
+
+.title {
+	text-align: center;
+	margin: 0;
+}
+
+a {
+	color: #3D578C;
+	text-decoration: underline;
+}
+
+.contents a:visited {
+	color: #3D578C;
+}
+
+a.qindex {
+	text-decoration: none;
+}
+
+a.qindexHL {
+	text-decoration: none;
+}
+
+a.el {
+	text-decoration: none;
+}
+
+a.elRef {
+	text-decoration: none;
+}
+
+a.code {
+	text-decoration: none;
+}
+
+a.codeRef {
+	text-decoration: none;
+}
+
+a.index_pointer, a.anchor, a.simple, dl.author a, span.simple a {
+	text-decoration: none;
+}
+
+body {
+	padding: 0;
+}
+
+div.contents {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+div.headertitle
+{
+	padding: 5px;
+}
+
+.navpath ul
+{
+	height:20px;
+	line-height:20px;
+}
+
+.navpath li.footer a
+{
+	text-decoration: none;
+}
+
+/* custom style for batch scripts colorization */
+
+span.comment
+{
+    color: #008000;
+}
+
+span.keyword
+{
+    color: #224fff;
+    font-weight: bold;
+}

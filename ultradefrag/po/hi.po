@@ -1,0 +1,492 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR UltraDefrag Development Team
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Stefan Pendl <stefanpe@users.sourceforge.net>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: ultradefrag\n"
+"Report-Msgid-Bugs-To: http://sourceforge.net/p/ultradefrag/bugs/\n"
+"POT-Creation-Date: 2013-07-10 21:44+0200\n"
+"PO-Revision-Date: 2013-11-20 09:52+0000\n"
+"Last-Translator: Stefan Pendl <stefanpe@users.sourceforge.net>\n"
+"Language-Team: Hindi (http://www.transifex.com/stefanpendl/ultradefrag/language/hi/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: hi\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: about.cpp:77
+msgid "About UltraDefrag"
+msgstr "अल्ट्रा डिफ्रेग्मेन्टर के बारे में"
+
+#: about.cpp:90
+msgid "An open source defragmentation utility."
+msgstr ""
+
+#: about.cpp:92
+msgid "Credits and licenses are listed in the handbook."
+msgstr ""
+
+#: about.cpp:95
+msgid "UltraDefrag website"
+msgstr ""
+
+#: i18n.cpp:129
+msgid "&Action"
+msgstr "कार्य"
+
+#: i18n.cpp:130
+msgid "&Report"
+msgstr "विवरण"
+
+#: i18n.cpp:131
+msgid "&Settings"
+msgstr "पतिस्थितियाँ"
+
+#: i18n.cpp:132 i18n.cpp:213
+msgid "&Help"
+msgstr "सहायता"
+
+#: i18n.cpp:135
+msgid "&Analyze"
+msgstr "&विश्लेषण करें"
+
+#: i18n.cpp:136
+msgid "&Defragment"
+msgstr "&एकीकृत करें"
+
+#: i18n.cpp:137
+msgid "&Quick optimization"
+msgstr "&त्वरित अनुकूलन"
+
+#: i18n.cpp:138
+msgid "&Full optimization"
+msgstr "पूर्ण &अनुकूलन"
+
+#: i18n.cpp:139
+msgid "&Optimize MFT"
+msgstr "MFT अनुकूल करें"
+
+#: i18n.cpp:140 tray.cpp:80
+msgid "Pa&use"
+msgstr "विश्राम"
+
+#: i18n.cpp:141
+msgid "&Stop"
+msgstr "रोकें"
+
+#: i18n.cpp:142
+msgid "Re&peat action"
+msgstr "कार्यवाही दोहराएँ"
+
+#: i18n.cpp:143
+msgid "Skip removable &media"
+msgstr "अलग हो सकने वाली ड्राइव छोडें"
+
+#: i18n.cpp:144
+msgid "&Rescan drives"
+msgstr "ड्राइव पुनः जाचें"
+
+#: i18n.cpp:145
+msgid "Repair dri&ves"
+msgstr "ड्राइव की मरम्मत करें"
+
+#: i18n.cpp:146 i18n.cpp:151 tray.cpp:85
+msgid "E&xit"
+msgstr "बाहर निकलें"
+
+#: i18n.cpp:149
+msgid "&When done"
+msgstr "जब कार्य पूर्ण हो"
+
+#: i18n.cpp:150
+msgid "&None"
+msgstr "कुछ न करें"
+
+#: i18n.cpp:152
+msgid "Stan&dby"
+msgstr "अतिरिक्त कार्यों के लिए रुकें"
+
+#: i18n.cpp:153
+msgid "&Hibernate"
+msgstr "शीतनिद्रा में जाएँ"
+
+#: i18n.cpp:154
+msgid "&Logoff"
+msgstr "लॉग आफ करें"
+
+#: i18n.cpp:155
+msgid "&Reboot"
+msgstr "सँगणक पुनः आरंभ करें"
+
+#: i18n.cpp:156
+msgid "&Shutdown"
+msgstr "सँगणक बंद करें"
+
+#: i18n.cpp:159
+msgid "&Show report"
+msgstr "विवरणी दिखाइए"
+
+#: i18n.cpp:162
+msgid "&Language"
+msgstr "भाषा"
+
+#: i18n.cpp:163 i18n.cpp:209
+msgid "&Boot time scan"
+msgstr "विंडोज़ बूट काल जाँच"
+
+#: i18n.cpp:164
+msgid "&Sorting"
+msgstr "अनुक्रमण"
+
+#: i18n.cpp:165
+msgid "&Reports"
+msgstr "विवरणियाँ"
+
+#: i18n.cpp:168
+msgid "&View change log"
+msgstr "अनुवाद परिवर्तन लॉग"
+
+#: i18n.cpp:169
+msgid "View translation &report"
+msgstr "अनुवाद विवरणी"
+
+#: i18n.cpp:170
+msgid "&Translations folder"
+msgstr "अनुवाद फोल्डर"
+
+#: i18n.cpp:171
+msgid "&Submit current translation"
+msgstr "वर्तमान अनुवाद जमा करें"
+
+#: i18n.cpp:174
+msgid "&Options"
+msgstr ""
+
+#: i18n.cpp:177
+msgid "&Enable"
+msgstr "चालू करें"
+
+#: i18n.cpp:178
+msgid "&Script"
+msgstr "आलेख"
+
+#: i18n.cpp:181
+msgid "By &path"
+msgstr "पथ से अनुक्रमित करें"
+
+#: i18n.cpp:182
+msgid "By &size"
+msgstr "आकार से अनुक्रमित करें"
+
+#: i18n.cpp:183
+msgid "By &creation time"
+msgstr "रचनाकाल से अनुक्रमित करें"
+
+#: i18n.cpp:184
+msgid "By last &modification time"
+msgstr "संशोधनकाल से अनुक्रमित करें"
+
+#: i18n.cpp:185
+msgid "By &last access time"
+msgstr "अंतिम प्रयोगकाल से अनुक्रमित करें"
+
+#: i18n.cpp:186
+msgid "In &ascending order"
+msgstr "आरोेही क्रम में लगाएँ"
+
+#: i18n.cpp:187
+msgid "In &descending order"
+msgstr "अवरोही क्रम में लगाएँ"
+
+#: i18n.cpp:190
+msgid "&Contents"
+msgstr "विषय-सूची"
+
+#: i18n.cpp:191
+msgid "Best &practice"
+msgstr "सर्वोत्तम कार्य"
+
+#: i18n.cpp:192
+msgid "&Frequently asked questions"
+msgstr "अक्सर पूछे गए सवाल"
+
+#: i18n.cpp:193
+msgid "Cluster map &legend"
+msgstr "क्लस्टर नक्शा कथा"
+
+#: i18n.cpp:196 upgrade.cpp:161
+msgid "&Upgrade"
+msgstr ""
+
+#: i18n.cpp:197
+msgid "&Never check"
+msgstr ""
+
+#: i18n.cpp:198
+msgid "Check &stable releases only"
+msgstr ""
+
+#: i18n.cpp:199
+msgid "Check &all releases"
+msgstr ""
+
+#: i18n.cpp:200
+msgid "&Check now"
+msgstr ""
+
+#: i18n.cpp:201
+msgid "&About"
+msgstr "के विषय में"
+
+#: i18n.cpp:204
+msgid "&Debug"
+msgstr "डीबग करें"
+
+#: i18n.cpp:205 utils.cpp:411
+msgid "Open &log"
+msgstr "आलेख देखें"
+
+#: i18n.cpp:206
+msgid "Send bug &report"
+msgstr "बग वर्णन जमा करें"
+
+#: i18n.cpp:211
+msgid "Boot time script"
+msgstr "बूट काल लिपि"
+
+#: i18n.cpp:218
+msgid "Drive"
+msgstr "खण्ड"
+
+#: i18n.cpp:219 i18n.cpp:275
+msgid "Status"
+msgstr "स्थिति"
+
+#: i18n.cpp:220
+msgid "Fragmentation"
+msgstr "विखंडन"
+
+#: i18n.cpp:221
+msgid "Total space"
+msgstr "कुल स्थान"
+
+#: i18n.cpp:222
+msgid "Free space"
+msgstr "रिक्त स्थान"
+
+#: i18n.cpp:224
+#, no-c-format
+msgid "% free"
+msgstr "% प्रतिशत"
+
+#: i18n.cpp:267
+msgid "Fragmented files on"
+msgstr "खंडित फ़ाइलें इनमें"
+
+#: i18n.cpp:268
+msgid "Visit our Homepage"
+msgstr "हमारे होमपेज पर जाएँ"
+
+#: i18n.cpp:269
+msgid "View report options"
+msgstr "रिपोर्ट विकल्प देखें"
+
+#: i18n.cpp:270
+msgid "Powered by Lua"
+msgstr "LUA द्वारा संचालित"
+
+#: i18n.cpp:271
+msgid "Fragments"
+msgstr "टुकड़े"
+
+#: i18n.cpp:272
+msgid "Size"
+msgstr "परिमाप"
+
+#: i18n.cpp:273
+msgid "Filename"
+msgstr "फ़ाइल का नाम"
+
+#: i18n.cpp:274
+msgid "Comment"
+msgstr "टिप्पणी"
+
+#: i18n.cpp:276
+msgid "locked"
+msgstr "अवरोधित"
+
+#: i18n.cpp:277
+msgid "move failed"
+msgstr "कार्यवाही विफल"
+
+#: i18n.cpp:278
+msgid "invalid"
+msgstr "अमान्य"
+
+#: shutdown.cpp:100
+msgid "Please confirm"
+msgstr "कृपया पुष्टि करें"
+
+#: shutdown.cpp:107
+msgid "Do you really want to hibernate when done?"
+msgstr "क्या आप वास्तव में पूर्ण होने पर सँगणक शीतनिद्रा में भेजना चाहते हैं?"
+
+#. : This expands to "60 seconds until hibernation"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:110
+#, c-format
+msgid "%lu seconds until hibernation"
+msgstr "%lu सेकंड शीतनिद्रा में जाने में"
+
+#: shutdown.cpp:113
+msgid "Do you really want to log off when done?"
+msgstr "क्या आप वास्तव में पूर्ण होने पर सँगणक लॉग ऑफ़ करना चाहते हैं?"
+
+#. : This expands to "60 seconds until logoff"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:116
+#, c-format
+msgid "%lu seconds until logoff"
+msgstr "%lu सेकंड लॉग ऑफ़ होने में"
+
+#: shutdown.cpp:119
+msgid "Do you really want to reboot when done?"
+msgstr "क्या आप वास्तव में पूर्ण होने पर सँगणक पुनः आरंभ करना चाहते हैं?"
+
+#. : This expands to "60 seconds until reboot"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:122
+#, c-format
+msgid "%lu seconds until reboot"
+msgstr "%lu सेकंड पुनः आरंभ होने में"
+
+#: shutdown.cpp:125
+msgid "Do you really want to shutdown when done?"
+msgstr "क्या आप वास्तव में पूर्ण होने पर सँगणक बन्द करना चाहते हैं?"
+
+#. : This expands to "60 seconds until shutdown"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:128
+#, c-format
+msgid "%lu seconds until shutdown"
+msgstr "%lu सेकंड बन्द होने में"
+
+#: shutdown.cpp:140
+msgid "&Yes"
+msgstr "हाँ"
+
+#: shutdown.cpp:141
+msgid "&No"
+msgstr "नहीं"
+
+#: statbar.cpp:92
+msgid "folders"
+msgstr "फोल्डर"
+
+#: statbar.cpp:93
+msgid "files"
+msgstr "फ़ाइल"
+
+#: statbar.cpp:94
+msgid "fragmented"
+msgstr "खंडित"
+
+#: statbar.cpp:95
+msgid "compressed"
+msgstr "सम्पीड़ित"
+
+#: taskbar.cpp:198
+msgid "The job is paused"
+msgstr ""
+
+#: taskbar.cpp:203
+msgid "The job is running"
+msgstr "एक कार्य चल रहा है"
+
+#: tray.cpp:70
+msgid "Show"
+msgstr "दिखाएँ"
+
+#: tray.cpp:72
+msgid "Hide"
+msgstr "छुपाएँ"
+
+#. : This expands to "Release 7.0.0 is available for download!"
+#. : Make sure that "%ls" is included in the translated string at the correct
+#. position
+#: upgrade.cpp:158
+#, c-format
+msgid "Release %ls is available for download!"
+msgstr ""
+
+#: upgrade.cpp:160
+msgid "You can upgrade me ^-^"
+msgstr "आप मुझे अद्यतन कर सकते हैं ^-^!"
+
+#: upgrade.cpp:161 utils.cpp:415
+msgid "&Cancel"
+msgstr ""
+
+#: utils.cpp:414
+msgid "Error!"
+msgstr ""
+
+#: vollist.cpp:328
+msgid "Disk needs to be repaired"
+msgstr "डिस्क की मरम्मत की जरूरत है"
+
+#. : Status of the running disk analysis,
+#. : expands to "10 % analyzed".
+#. : Make sure that "%5.2lf" is included in the
+#. : translated string at the correct position.
+#: vollist.cpp:369
+#, c-format
+msgid "%5.2lf %% analyzed"
+msgstr ""
+
+#. : Status of the running disk defragmentation,
+#. : expands to "10 % defragmented, pass 5".
+#. : Make sure that "%5.2lf" and "%d" are included
+#. : in the translated string at the correct positions.
+#: vollist.cpp:375
+#, c-format
+msgid "%5.2lf %% defragmented, pass %d"
+msgstr ""
+
+#. : Status of the running disk optimization, expands to
+#. : "10 % optimized, pass 5, 1024 moves total".
+#. : Make sure that "%5.2lf", "%d" and "%I64u" are included
+#. : in the translated string at the correct positions.
+#: vollist.cpp:383
+msgid "%5.2lf %% optimized, pass %d, %I64u moves total"
+msgstr ""
+
+#. : Status of the completed disk analysis.
+#: vollist.cpp:390
+msgid "Analyzed"
+msgstr "विश्लेषण पूर्ण"
+
+#. : Status of the completed disk defragmentation,
+#. : expands to "Defragmented, in 5 passes".
+#. : Make sure that "%d" is included in the
+#. : translated string at the correct position.
+#: vollist.cpp:396
+#, c-format
+msgid "Defragmented, in %d passes"
+msgstr ""
+
+#. : Status of the completed disk optimization, expands to
+#. : "Optimized, in 5 passes, 1024 moves total".
+#. : Make sure that "%d" and "%I64u" are included
+#. : in the translated string at the correct positions.
+#: vollist.cpp:404
+msgid "Optimized, in %d passes, %I64u moves total"
+msgstr ""

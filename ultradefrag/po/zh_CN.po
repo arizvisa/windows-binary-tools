@@ -1,0 +1,495 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR UltraDefrag Development Team
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Aivier <iaivier@126.com>, 2013
+# Stefan Pendl <stefanpe@users.sourceforge.net>, 2013
+# wwj402 <wwj402@gmail.com>, 2013
+# Y.F Yang <yfdyh000@gmail.com>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: ultradefrag\n"
+"Report-Msgid-Bugs-To: http://sourceforge.net/p/ultradefrag/bugs/\n"
+"POT-Creation-Date: 2013-07-10 21:44+0200\n"
+"PO-Revision-Date: 2014-11-22 01:20+0000\n"
+"Last-Translator: Y.F Yang <yfdyh000@gmail.com>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/stefanpendl/ultradefrag/language/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: about.cpp:77
+msgid "About UltraDefrag"
+msgstr "关于 UltraDefrag"
+
+#: about.cpp:90
+msgid "An open source defragmentation utility."
+msgstr "一个开源的碎片整理程序。"
+
+#: about.cpp:92
+msgid "Credits and licenses are listed in the handbook."
+msgstr "致谢和许可列在手册中。"
+
+#: about.cpp:95
+msgid "UltraDefrag website"
+msgstr "UltraDefrag 网站"
+
+#: i18n.cpp:129
+msgid "&Action"
+msgstr "操作(&A)"
+
+#: i18n.cpp:130
+msgid "&Report"
+msgstr "报告(&R)"
+
+#: i18n.cpp:131
+msgid "&Settings"
+msgstr "设置(&S)"
+
+#: i18n.cpp:132 i18n.cpp:213
+msgid "&Help"
+msgstr "帮助(&H)"
+
+#: i18n.cpp:135
+msgid "&Analyze"
+msgstr "分析(&A)"
+
+#: i18n.cpp:136
+msgid "&Defragment"
+msgstr "碎片整理(&D)"
+
+#: i18n.cpp:137
+msgid "&Quick optimization"
+msgstr "快速优化(&Q)"
+
+#: i18n.cpp:138
+msgid "&Full optimization"
+msgstr "全面优化(&F)"
+
+#: i18n.cpp:139
+msgid "&Optimize MFT"
+msgstr "优化 MFT(&O)"
+
+#: i18n.cpp:140 tray.cpp:80
+msgid "Pa&use"
+msgstr "暂停(&P)"
+
+#: i18n.cpp:141
+msgid "&Stop"
+msgstr "停止(&S)"
+
+#: i18n.cpp:142
+msgid "Re&peat action"
+msgstr "重复操作(&P)"
+
+#: i18n.cpp:143
+msgid "Skip removable &media"
+msgstr "跳过可移动媒体(&M)"
+
+#: i18n.cpp:144
+msgid "&Rescan drives"
+msgstr "重新扫描驱动器(&R)"
+
+#: i18n.cpp:145
+msgid "Repair dri&ves"
+msgstr "修复驱动器(&V)"
+
+#: i18n.cpp:146 i18n.cpp:151 tray.cpp:85
+msgid "E&xit"
+msgstr "退出(&X)"
+
+#: i18n.cpp:149
+msgid "&When done"
+msgstr "完成后(&W)"
+
+#: i18n.cpp:150
+msgid "&None"
+msgstr "无操作(&N)"
+
+#: i18n.cpp:152
+msgid "Stan&dby"
+msgstr "待机(&D)"
+
+#: i18n.cpp:153
+msgid "&Hibernate"
+msgstr "休眠(&H)"
+
+#: i18n.cpp:154
+msgid "&Logoff"
+msgstr "注销(&L)"
+
+#: i18n.cpp:155
+msgid "&Reboot"
+msgstr "重新启动(&R)"
+
+#: i18n.cpp:156
+msgid "&Shutdown"
+msgstr "关机(&S)"
+
+#: i18n.cpp:159
+msgid "&Show report"
+msgstr "显示报告(&S)"
+
+#: i18n.cpp:162
+msgid "&Language"
+msgstr "语言(&L)"
+
+#: i18n.cpp:163 i18n.cpp:209
+msgid "&Boot time scan"
+msgstr "启动时扫描(&B)"
+
+#: i18n.cpp:164
+msgid "&Sorting"
+msgstr "排序(&S)"
+
+#: i18n.cpp:165
+msgid "&Reports"
+msgstr "报告(&R)"
+
+#: i18n.cpp:168
+msgid "&View change log"
+msgstr "查看变更日志(&V)"
+
+#: i18n.cpp:169
+msgid "View translation &report"
+msgstr "查看翻译报告(&R)"
+
+#: i18n.cpp:170
+msgid "&Translations folder"
+msgstr "语言包文件夹(&T)"
+
+#: i18n.cpp:171
+msgid "&Submit current translation"
+msgstr "提交当前翻译(&S)"
+
+#: i18n.cpp:174
+msgid "&Options"
+msgstr "选项(&O)"
+
+#: i18n.cpp:177
+msgid "&Enable"
+msgstr "启用(&E)"
+
+#: i18n.cpp:178
+msgid "&Script"
+msgstr "脚本(&S)"
+
+#: i18n.cpp:181
+msgid "By &path"
+msgstr "按路径排序(&P)"
+
+#: i18n.cpp:182
+msgid "By &size"
+msgstr "按大小排序(&S)"
+
+#: i18n.cpp:183
+msgid "By &creation time"
+msgstr "按创建时间排序(&C)"
+
+#: i18n.cpp:184
+msgid "By last &modification time"
+msgstr "按修改时间排序(&M)"
+
+#: i18n.cpp:185
+msgid "By &last access time"
+msgstr "按访问时间排序(&L)"
+
+#: i18n.cpp:186
+msgid "In &ascending order"
+msgstr "升序排序(&A)"
+
+#: i18n.cpp:187
+msgid "In &descending order"
+msgstr "降序排序(&D)"
+
+#: i18n.cpp:190
+msgid "&Contents"
+msgstr "目录(&C)"
+
+#: i18n.cpp:191
+msgid "Best &practice"
+msgstr "最佳方法(&P)"
+
+#: i18n.cpp:192
+msgid "&Frequently asked questions"
+msgstr "常见问题(&F)"
+
+#: i18n.cpp:193
+msgid "Cluster map &legend"
+msgstr "簇图说明(&L)"
+
+#: i18n.cpp:196 upgrade.cpp:161
+msgid "&Upgrade"
+msgstr "升级(&U)"
+
+#: i18n.cpp:197
+msgid "&Never check"
+msgstr "从不检查(&N)"
+
+#: i18n.cpp:198
+msgid "Check &stable releases only"
+msgstr "只检查稳定的版本(&s)"
+
+#: i18n.cpp:199
+msgid "Check &all releases"
+msgstr "检查所有版本(&a)"
+
+#: i18n.cpp:200
+msgid "&Check now"
+msgstr "现在检查(&C)"
+
+#: i18n.cpp:201
+msgid "&About"
+msgstr "关于(&A)"
+
+#: i18n.cpp:204
+msgid "&Debug"
+msgstr "调试(&B)"
+
+#: i18n.cpp:205 utils.cpp:411
+msgid "Open &log"
+msgstr "打开日志(&L)"
+
+#: i18n.cpp:206
+msgid "Send bug &report"
+msgstr "发送错误报告(&R)"
+
+#: i18n.cpp:211
+msgid "Boot time script"
+msgstr "启动时扫描脚本"
+
+#: i18n.cpp:218
+msgid "Drive"
+msgstr "卷"
+
+#: i18n.cpp:219 i18n.cpp:275
+msgid "Status"
+msgstr "状态"
+
+#: i18n.cpp:220
+msgid "Fragmentation"
+msgstr "碎片"
+
+#: i18n.cpp:221
+msgid "Total space"
+msgstr "容量"
+
+#: i18n.cpp:222
+msgid "Free space"
+msgstr "可用空间"
+
+#: i18n.cpp:224
+#, no-c-format
+msgid "% free"
+msgstr "% 可用"
+
+#: i18n.cpp:267
+msgid "Fragmented files on"
+msgstr "碎片文件"
+
+#: i18n.cpp:268
+msgid "Visit our Homepage"
+msgstr "访问我们的主页"
+
+#: i18n.cpp:269
+msgid "View report options"
+msgstr "查看报告选项"
+
+#: i18n.cpp:270
+msgid "Powered by Lua"
+msgstr "由 Lua 技术支持"
+
+#: i18n.cpp:271
+msgid "Fragments"
+msgstr "碎片"
+
+#: i18n.cpp:272
+msgid "Size"
+msgstr "大小"
+
+#: i18n.cpp:273
+msgid "Filename"
+msgstr "文件名"
+
+#: i18n.cpp:274
+msgid "Comment"
+msgstr "注释"
+
+#: i18n.cpp:276
+msgid "locked"
+msgstr "已锁定"
+
+#: i18n.cpp:277
+msgid "move failed"
+msgstr "移动失败"
+
+#: i18n.cpp:278
+msgid "invalid"
+msgstr "无效的"
+
+#: shutdown.cpp:100
+msgid "Please confirm"
+msgstr "请确认"
+
+#: shutdown.cpp:107
+msgid "Do you really want to hibernate when done?"
+msgstr "您确定要在完成后休眠吗？"
+
+#. : This expands to "60 seconds until hibernation"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:110
+#, c-format
+msgid "%lu seconds until hibernation"
+msgstr "%lu 秒后休眠"
+
+#: shutdown.cpp:113
+msgid "Do you really want to log off when done?"
+msgstr "您确定要在完成后注销吗？"
+
+#. : This expands to "60 seconds until logoff"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:116
+#, c-format
+msgid "%lu seconds until logoff"
+msgstr "%lu 秒后注销"
+
+#: shutdown.cpp:119
+msgid "Do you really want to reboot when done?"
+msgstr "您确定要在完成后重启吗？"
+
+#. : This expands to "60 seconds until reboot"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:122
+#, c-format
+msgid "%lu seconds until reboot"
+msgstr "%lu 秒后重新启动"
+
+#: shutdown.cpp:125
+msgid "Do you really want to shutdown when done?"
+msgstr "您确定要在完成后关机吗？"
+
+#. : This expands to "60 seconds until shutdown"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:128
+#, c-format
+msgid "%lu seconds until shutdown"
+msgstr "%lu 秒后关机"
+
+#: shutdown.cpp:140
+msgid "&Yes"
+msgstr "是(&Y)"
+
+#: shutdown.cpp:141
+msgid "&No"
+msgstr "否(&N)"
+
+#: statbar.cpp:92
+msgid "folders"
+msgstr "文件夹"
+
+#: statbar.cpp:93
+msgid "files"
+msgstr "文件"
+
+#: statbar.cpp:94
+msgid "fragmented"
+msgstr "碎片"
+
+#: statbar.cpp:95
+msgid "compressed"
+msgstr "已压缩"
+
+#: taskbar.cpp:198
+msgid "The job is paused"
+msgstr "暂停作业"
+
+#: taskbar.cpp:203
+msgid "The job is running"
+msgstr "正在执行一个操作，请稍等"
+
+#: tray.cpp:70
+msgid "Show"
+msgstr "显示"
+
+#: tray.cpp:72
+msgid "Hide"
+msgstr "隐藏"
+
+#. : This expands to "Release 7.0.0 is available for download!"
+#. : Make sure that "%ls" is included in the translated string at the correct
+#. position
+#: upgrade.cpp:158
+#, c-format
+msgid "Release %ls is available for download!"
+msgstr "版本 %ls 可供下载！"
+
+#: upgrade.cpp:160
+msgid "You can upgrade me ^-^"
+msgstr "升级吧 ^-^"
+
+#: upgrade.cpp:161 utils.cpp:415
+msgid "&Cancel"
+msgstr "取消(&C)"
+
+#: utils.cpp:414
+msgid "Error!"
+msgstr "错误！"
+
+#: vollist.cpp:328
+msgid "Disk needs to be repaired"
+msgstr "磁盘需要修复"
+
+#. : Status of the running disk analysis,
+#. : expands to "10 % analyzed".
+#. : Make sure that "%5.2lf" is included in the
+#. : translated string at the correct position.
+#: vollist.cpp:369
+#, c-format
+msgid "%5.2lf %% analyzed"
+msgstr "%5.2lf %% 已分析"
+
+#. : Status of the running disk defragmentation,
+#. : expands to "10 % defragmented, pass 5".
+#. : Make sure that "%5.2lf" and "%d" are included
+#. : in the translated string at the correct positions.
+#: vollist.cpp:375
+#, c-format
+msgid "%5.2lf %% defragmented, pass %d"
+msgstr "%5.2lf %% 已整理，%d 通过"
+
+#. : Status of the running disk optimization, expands to
+#. : "10 % optimized, pass 5, 1024 moves total".
+#. : Make sure that "%5.2lf", "%d" and "%I64u" are included
+#. : in the translated string at the correct positions.
+#: vollist.cpp:383
+msgid "%5.2lf %% optimized, pass %d, %I64u moves total"
+msgstr "%5.2lf %% 已优化，%d 通过，%I64u 总移动"
+
+#. : Status of the completed disk analysis.
+#: vollist.cpp:390
+msgid "Analyzed"
+msgstr "分析完成"
+
+#. : Status of the completed disk defragmentation,
+#. : expands to "Defragmented, in 5 passes".
+#. : Make sure that "%d" is included in the
+#. : translated string at the correct position.
+#: vollist.cpp:396
+#, c-format
+msgid "Defragmented, in %d passes"
+msgstr "已整理，%d 通过"
+
+#. : Status of the completed disk optimization, expands to
+#. : "Optimized, in 5 passes, 1024 moves total".
+#. : Make sure that "%d" and "%I64u" are included
+#. : in the translated string at the correct positions.
+#: vollist.cpp:404
+msgid "Optimized, in %d passes, %I64u moves total"
+msgstr "已优化，%d 通过，%I64u 总移动"

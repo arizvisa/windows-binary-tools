@@ -1,0 +1,89 @@
+QueryDACL v1.7 from http://aw.comyr.com
+Lists the accounts contained in, and access rights granted by
+a securable objects' discretionary access control list (DACL)
+
+Usage: qd <type> [additional] <name> [token]
+Where <type> is one of the following:
+
+ file		a pipe, file or directory. <name> can be a relative, 
+		absolute or UNC path. Names that contain spaces must
+		be quoted.
+		
+examples:
+	qd file C:\Windows\
+	qd file ..\..\Windows\notepad.exe
+	qd file \\.\pipe\NtControlPipe7
+	qd file "C:\Documents and Settings"
+
+ reg		a registy key. <name> is the path to a registy key. 
+		Root keys must be named as "CLASSES_ROOT", "CURRENT_USER",
+		"MACHINE", and "USERS". Names that contain spaces must
+		be quoted.
+
+examples:
+	qd reg classes_root\.exe
+	qd reg users\.default
+	
+
+ svc		a windows or kernel service. <name> is the name of a service.
+		On Windows Server 2003 and above, omitting <name> will display
+		the permissions for the Service Control Manager, versions 
+		prior to Server 2003 will return an error.
+		
+examples:
+	qd svc dcomlaunch
+	qd svc acpi
+	qd svc (only valid on Server 2003 and above)
+	
+
+ prn		a printer, <name> identifies an installed printer.
+		The name must be quoted if it contains spaces.
+examples:
+	qd prn "Microsoft Office Document Image Writer"
+	
+
+ user		a desktop or WindowStation object. <name> identifies a 
+		windowstation or a desktop. To query a desktop on a 
+		non-default windowstation, specify windowstation\desktop
+		as the name.
+		
+examples:
+	qd user default
+	qd user winsta0
+	qd user SAWinSta\SADesktop
+	
+
+ kernel		a kernel object such as a waitable timer, event, mutex
+		semaphore, process or thread. The [additional] parameter must
+		be one of these values:
+			notify     <name> specifies a waitable timer,
+				event, mutex, semaphore or section (the name is
+				case sensitive and must be quoted if it 
+				contains spaces)
+			process    <name> is a process id
+			thread     <name> is a thread id
+			job        <name> is a the name of a job
+			directory  <name> is an object manager directory 
+				or entry
+
+		If [additional] is process or thread, then "token"
+		(without quotes) can be	added to retrieve the information
+		for the process or thread token.
+
+examples:
+	qd kernel process 1428
+	qd kernel notify MyAppMutex
+	qd kernel notify ShimSharedMemory
+	qd kernel thread 3544 token
+	qd kernel directory \BaseNamedObjects\FirstWinlogonCheck
+	
+
+The <name> value can be prefixed by \\Computer\, where Computer is the
+identifer of a remote computer in the local network, to specify that
+the object on that computer be queried (except for kernel objects which
+must be on the local computer).
+
+examples:
+	qd file "\\2003Virtual\\.\pipe\Ctx_WinStation_API_service"
+	qd svc \\VistaBox\Themes
+	qd reg \\XPVirtual\MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run

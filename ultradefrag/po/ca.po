@@ -1,0 +1,494 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR UltraDefrag Development Team
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# jmontane, 2013
+# Stefan Pendl <stefanpe@users.sourceforge.net>, 2013
+# Stefan Pendl <stefanpe@users.sourceforge.net>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: ultradefrag\n"
+"Report-Msgid-Bugs-To: http://sourceforge.net/p/ultradefrag/bugs/\n"
+"POT-Creation-Date: 2013-07-10 21:44+0200\n"
+"PO-Revision-Date: 2013-11-20 09:52+0000\n"
+"Last-Translator: jmontane\n"
+"Language-Team: Catalan (http://www.transifex.com/stefanpendl/ultradefrag/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: about.cpp:77
+msgid "About UltraDefrag"
+msgstr "Quant a l'UltraDefrag"
+
+#: about.cpp:90
+msgid "An open source defragmentation utility."
+msgstr "Una utilitat de desfragmentació de codi obert."
+
+#: about.cpp:92
+msgid "Credits and licenses are listed in the handbook."
+msgstr "Els crèdits i reconeixements és llisten al manual."
+
+#: about.cpp:95
+msgid "UltraDefrag website"
+msgstr "Lloc web de l'UltraDefrag"
+
+#: i18n.cpp:129
+msgid "&Action"
+msgstr "&Tasca"
+
+#: i18n.cpp:130
+msgid "&Report"
+msgstr "&Informe"
+
+#: i18n.cpp:131
+msgid "&Settings"
+msgstr "&Configuració"
+
+#: i18n.cpp:132 i18n.cpp:213
+msgid "&Help"
+msgstr "&Ajuda"
+
+#: i18n.cpp:135
+msgid "&Analyze"
+msgstr "&Analitza"
+
+#: i18n.cpp:136
+msgid "&Defragment"
+msgstr "&Compacta"
+
+#: i18n.cpp:137
+msgid "&Quick optimization"
+msgstr "&Optimitza ràpidament"
+
+#: i18n.cpp:138
+msgid "&Full optimization"
+msgstr "Opti&mitza completament"
+
+#: i18n.cpp:139
+msgid "&Optimize MFT"
+msgstr "Optimitza M&FT"
+
+#: i18n.cpp:140 tray.cpp:80
+msgid "Pa&use"
+msgstr "Pa&usa"
+
+#: i18n.cpp:141
+msgid "&Stop"
+msgstr "At&ura"
+
+#: i18n.cpp:142
+msgid "Re&peat action"
+msgstr "&Repeteix l'acció"
+
+#: i18n.cpp:143
+msgid "Skip removable &media"
+msgstr "Omet les unitats &extraïbles"
+
+#: i18n.cpp:144
+msgid "&Rescan drives"
+msgstr "Reanalit&za"
+
+#: i18n.cpp:145
+msgid "Repair dri&ves"
+msgstr "Les &unitats de reparació"
+
+#: i18n.cpp:146 i18n.cpp:151 tray.cpp:85
+msgid "E&xit"
+msgstr "&Surt"
+
+#: i18n.cpp:149
+msgid "&When done"
+msgstr "En &finalitzar"
+
+#: i18n.cpp:150
+msgid "&None"
+msgstr "&Cap"
+
+#: i18n.cpp:152
+msgid "Stan&dby"
+msgstr "&Entra en espera"
+
+#: i18n.cpp:153
+msgid "&Hibernate"
+msgstr "&Hiberna"
+
+#: i18n.cpp:154
+msgid "&Logoff"
+msgstr "&Tanca la sessió"
+
+#: i18n.cpp:155
+msgid "&Reboot"
+msgstr "&Reinicia"
+
+#: i18n.cpp:156
+msgid "&Shutdown"
+msgstr "Tanca l'&ordinador"
+
+#: i18n.cpp:159
+msgid "&Show report"
+msgstr "&Mostra l'informe"
+
+#: i18n.cpp:162
+msgid "&Language"
+msgstr "&Llengua"
+
+#: i18n.cpp:163 i18n.cpp:209
+msgid "&Boot time scan"
+msgstr "&Escaneig d'inici del Windows"
+
+#: i18n.cpp:164
+msgid "&Sorting"
+msgstr "classificació"
+
+#: i18n.cpp:165
+msgid "&Reports"
+msgstr "Infor&mes"
+
+#: i18n.cpp:168
+msgid "&View change log"
+msgstr "&Mostra el canvi de registre"
+
+#: i18n.cpp:169
+msgid "View translation &report"
+msgstr "Mostra l'&informe de la traducció"
+
+#: i18n.cpp:170
+msgid "&Translations folder"
+msgstr "&Carpeta de traduccions"
+
+#: i18n.cpp:171
+msgid "&Submit current translation"
+msgstr "&Envia la traducció actual"
+
+#: i18n.cpp:174
+msgid "&Options"
+msgstr "&Opcions"
+
+#: i18n.cpp:177
+msgid "&Enable"
+msgstr "&Activa"
+
+#: i18n.cpp:178
+msgid "&Script"
+msgstr "&Seqüència"
+
+#: i18n.cpp:181
+msgid "By &path"
+msgstr "Per &ruta"
+
+#: i18n.cpp:182
+msgid "By &size"
+msgstr "Per &mida"
+
+#: i18n.cpp:183
+msgid "By &creation time"
+msgstr "Per data de &creació"
+
+#: i18n.cpp:184
+msgid "By last &modification time"
+msgstr "Per última data de &modificació"
+
+#: i18n.cpp:185
+msgid "By &last access time"
+msgstr "Per última data d'&accés"
+
+#: i18n.cpp:186
+msgid "In &ascending order"
+msgstr "En ordre &ascendent"
+
+#: i18n.cpp:187
+msgid "In &descending order"
+msgstr "En ordre &descendent"
+
+#: i18n.cpp:190
+msgid "&Contents"
+msgstr "&Continguts"
+
+#: i18n.cpp:191
+msgid "Best &practice"
+msgstr "&Millors pràctiques"
+
+#: i18n.cpp:192
+msgid "&Frequently asked questions"
+msgstr "&Preguntes més freqüents"
+
+#: i18n.cpp:193
+msgid "Cluster map &legend"
+msgstr "Grup &llegenda del mapa"
+
+#: i18n.cpp:196 upgrade.cpp:161
+msgid "&Upgrade"
+msgstr "&Actualitza"
+
+#: i18n.cpp:197
+msgid "&Never check"
+msgstr "&No ho comprovis mai"
+
+#: i18n.cpp:198
+msgid "Check &stable releases only"
+msgstr "Comprova només les versions e&stables"
+
+#: i18n.cpp:199
+msgid "Check &all releases"
+msgstr "Comprova &totes les versions"
+
+#: i18n.cpp:200
+msgid "&Check now"
+msgstr "&Comprova-ho ara"
+
+#: i18n.cpp:201
+msgid "&About"
+msgstr "&Quant a"
+
+#: i18n.cpp:204
+msgid "&Debug"
+msgstr "&Depuració"
+
+#: i18n.cpp:205 utils.cpp:411
+msgid "Open &log"
+msgstr "Obre el &registre"
+
+#: i18n.cpp:206
+msgid "Send bug &report"
+msgstr "&Envia l'informe d'error"
+
+#: i18n.cpp:211
+msgid "Boot time script"
+msgstr "Seqüència d'inici"
+
+#: i18n.cpp:218
+msgid "Drive"
+msgstr "Volum"
+
+#: i18n.cpp:219 i18n.cpp:275
+msgid "Status"
+msgstr "Estat"
+
+#: i18n.cpp:220
+msgid "Fragmentation"
+msgstr "Fragmentació"
+
+#: i18n.cpp:221
+msgid "Total space"
+msgstr "Total"
+
+#: i18n.cpp:222
+msgid "Free space"
+msgstr "Lliure"
+
+#: i18n.cpp:224
+#, no-c-format
+msgid "% free"
+msgstr "Percentatge"
+
+#: i18n.cpp:267
+msgid "Fragmented files on"
+msgstr "Fitxers fragmentats en"
+
+#: i18n.cpp:268
+msgid "Visit our Homepage"
+msgstr "Visita la pàgina inicial"
+
+#: i18n.cpp:269
+msgid "View report options"
+msgstr "Visualitza les opcions de l'informe"
+
+#: i18n.cpp:270
+msgid "Powered by Lua"
+msgstr "Amb tecnologia de Lua"
+
+#: i18n.cpp:271
+msgid "Fragments"
+msgstr "Fragments"
+
+#: i18n.cpp:272
+msgid "Size"
+msgstr "mida"
+
+#: i18n.cpp:273
+msgid "Filename"
+msgstr "nom del fitxer"
+
+#: i18n.cpp:274
+msgid "Comment"
+msgstr "comentari"
+
+#: i18n.cpp:276
+msgid "locked"
+msgstr "blocat"
+
+#: i18n.cpp:277
+msgid "move failed"
+msgstr "error en desplaçar"
+
+#: i18n.cpp:278
+msgid "invalid"
+msgstr "no és vàlid"
+
+#: shutdown.cpp:100
+msgid "Please confirm"
+msgstr "Confirmació"
+
+#: shutdown.cpp:107
+msgid "Do you really want to hibernate when done?"
+msgstr "Voleu hibernar en finalitzar?"
+
+#. : This expands to "60 seconds until hibernation"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:110
+#, c-format
+msgid "%lu seconds until hibernation"
+msgstr "%lu segons per a la hibernació"
+
+#: shutdown.cpp:113
+msgid "Do you really want to log off when done?"
+msgstr "Voleu tancar la sessión en finalitzar?"
+
+#. : This expands to "60 seconds until logoff"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:116
+#, c-format
+msgid "%lu seconds until logoff"
+msgstr "%lu segons per al tancament de la sessió"
+
+#: shutdown.cpp:119
+msgid "Do you really want to reboot when done?"
+msgstr "Voleu reiniciar en finalitzar?"
+
+#. : This expands to "60 seconds until reboot"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:122
+#, c-format
+msgid "%lu seconds until reboot"
+msgstr "%lu segons per al reinici"
+
+#: shutdown.cpp:125
+msgid "Do you really want to shutdown when done?"
+msgstr "Voleu tancar l'ordinador en finalitzar?"
+
+#. : This expands to "60 seconds until shutdown"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:128
+#, c-format
+msgid "%lu seconds until shutdown"
+msgstr "%lu segons per al tancament de l'ordinador"
+
+#: shutdown.cpp:140
+msgid "&Yes"
+msgstr "&Sí"
+
+#: shutdown.cpp:141
+msgid "&No"
+msgstr "&No"
+
+#: statbar.cpp:92
+msgid "folders"
+msgstr "Carpetes"
+
+#: statbar.cpp:93
+msgid "files"
+msgstr "Fitxers"
+
+#: statbar.cpp:94
+msgid "fragmented"
+msgstr "Fragmentats"
+
+#: statbar.cpp:95
+msgid "compressed"
+msgstr "Comprimits"
+
+#: taskbar.cpp:198
+msgid "The job is paused"
+msgstr "La tasca es troba pausada"
+
+#: taskbar.cpp:203
+msgid "The job is running"
+msgstr "S'està executant una tasca"
+
+#: tray.cpp:70
+msgid "Show"
+msgstr "Mostra"
+
+#: tray.cpp:72
+msgid "Hide"
+msgstr "Amaga"
+
+#. : This expands to "Release 7.0.0 is available for download!"
+#. : Make sure that "%ls" is included in the translated string at the correct
+#. position
+#: upgrade.cpp:158
+#, c-format
+msgid "Release %ls is available for download!"
+msgstr "La versió %ls es troba disponible per baixar!"
+
+#: upgrade.cpp:160
+msgid "You can upgrade me ^-^"
+msgstr "Hi ha una actualització disponible  ^-^"
+
+#: upgrade.cpp:161 utils.cpp:415
+msgid "&Cancel"
+msgstr "&Cancel·la"
+
+#: utils.cpp:414
+msgid "Error!"
+msgstr "S'ha produït un error!"
+
+#: vollist.cpp:328
+msgid "Disk needs to be repaired"
+msgstr "Disc que hagi d'arreglar"
+
+#. : Status of the running disk analysis,
+#. : expands to "10 % analyzed".
+#. : Make sure that "%5.2lf" is included in the
+#. : translated string at the correct position.
+#: vollist.cpp:369
+#, c-format
+msgid "%5.2lf %% analyzed"
+msgstr "%5.2lf %% analitzat"
+
+#. : Status of the running disk defragmentation,
+#. : expands to "10 % defragmented, pass 5".
+#. : Make sure that "%5.2lf" and "%d" are included
+#. : in the translated string at the correct positions.
+#: vollist.cpp:375
+#, c-format
+msgid "%5.2lf %% defragmented, pass %d"
+msgstr "%5.2lf %% compactat, passada %d"
+
+#. : Status of the running disk optimization, expands to
+#. : "10 % optimized, pass 5, 1024 moves total".
+#. : Make sure that "%5.2lf", "%d" and "%I64u" are included
+#. : in the translated string at the correct positions.
+#: vollist.cpp:383
+msgid "%5.2lf %% optimized, pass %d, %I64u moves total"
+msgstr "%5.2lf %% optimitzat, passada %d, %I64u moviments en total"
+
+#. : Status of the completed disk analysis.
+#: vollist.cpp:390
+msgid "Analyzed"
+msgstr "Analitzat"
+
+#. : Status of the completed disk defragmentation,
+#. : expands to "Defragmented, in 5 passes".
+#. : Make sure that "%d" is included in the
+#. : translated string at the correct position.
+#: vollist.cpp:396
+#, c-format
+msgid "Defragmented, in %d passes"
+msgstr "Compactat, en %d passades"
+
+#. : Status of the completed disk optimization, expands to
+#. : "Optimized, in 5 passes, 1024 moves total".
+#. : Make sure that "%d" and "%I64u" are included
+#. : in the translated string at the correct positions.
+#: vollist.cpp:404
+msgid "Optimized, in %d passes, %I64u moves total"
+msgstr "Optimitzat, en %d passades, %I64u moviments en total"

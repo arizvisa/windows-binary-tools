@@ -1,0 +1,48 @@
+/*
+* This file defines the default style of UltraDefrag reports.
+* Save your custom definitions into udreport-custom.css file
+* to ensure that they will be not overwritten on upgrade.
+*/
+
+body {
+    text-align: center;
+}
+
+h3 {
+    font-family: monospace;
+}
+
+a {
+    color: #0000FF;
+}
+
+td {
+    font-family: monospace;
+    font-size: 10pt;
+}
+
+/* auxiliary definitions */
+
+.left {
+    text-align: left;
+}
+
+.c, .center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.filesize {
+    padding-left: 5pt;
+    padding-right: 5pt;
+    text-align: right;
+}
+
+.file-status {
+    padding-left: 5pt;
+    padding-right: 5pt;
+    text-align: center;
+}

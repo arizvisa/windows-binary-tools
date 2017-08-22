@@ -1,0 +1,499 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR UltraDefrag Development Team
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Dmitri Arkhangelski <dmitriar@gmail.com>, 2014
+# Felipefpl, 2015
+# Felipefpl, 2015
+# Felipefpl, 2015
+# Rafael Fontenelle <rffontenelle@gmail.com>, 2013
+# Rafael Fontenelle <rffontenelle@gmail.com>, 2013
+# Stefan Pendl <stefanpe@users.sourceforge.net>, 2013
+# Stefan Pendl <stefanpe@users.sourceforge.net>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: ultradefrag\n"
+"Report-Msgid-Bugs-To: http://sourceforge.net/p/ultradefrag/bugs/\n"
+"POT-Creation-Date: 2013-07-10 21:44+0200\n"
+"PO-Revision-Date: 2015-08-07 14:23+0000\n"
+"Last-Translator: Felipefpl\n"
+"Language-Team: Portuguese (Brazil) (http://www.transifex.com/stefanpendl/ultradefrag/language/pt_BR/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: about.cpp:77
+msgid "About UltraDefrag"
+msgstr "Sobre o UltraDefrag"
+
+#: about.cpp:90
+msgid "An open source defragmentation utility."
+msgstr "Um utilitário de desfragmentação de código aberto."
+
+#: about.cpp:92
+msgid "Credits and licenses are listed in the handbook."
+msgstr "Os créditos e licenças estão listados no manual."
+
+#: about.cpp:95
+msgid "UltraDefrag website"
+msgstr "Website do UltraDefrag"
+
+#: i18n.cpp:129
+msgid "&Action"
+msgstr "&Ação"
+
+#: i18n.cpp:130
+msgid "&Report"
+msgstr "&Relatório"
+
+#: i18n.cpp:131
+msgid "&Settings"
+msgstr "&Configurações"
+
+#: i18n.cpp:132 i18n.cpp:213
+msgid "&Help"
+msgstr "&Ajuda"
+
+#: i18n.cpp:135
+msgid "&Analyze"
+msgstr "&Analisar"
+
+#: i18n.cpp:136
+msgid "&Defragment"
+msgstr "&Desfragmentar"
+
+#: i18n.cpp:137
+msgid "&Quick optimization"
+msgstr "&Otimização rápida"
+
+#: i18n.cpp:138
+msgid "&Full optimization"
+msgstr "&Otimização completa"
+
+#: i18n.cpp:139
+msgid "&Optimize MFT"
+msgstr "&Otimizar MFT"
+
+#: i18n.cpp:140 tray.cpp:80
+msgid "Pa&use"
+msgstr "Pa&usar"
+
+#: i18n.cpp:141
+msgid "&Stop"
+msgstr "&Parar"
+
+#: i18n.cpp:142
+msgid "Re&peat action"
+msgstr "Re&petir ação"
+
+#: i18n.cpp:143
+msgid "Skip removable &media"
+msgstr "Ignorar mídia &removível"
+
+#: i18n.cpp:144
+msgid "&Rescan drives"
+msgstr "&Re-escanear drives"
+
+#: i18n.cpp:145
+msgid "Repair dri&ves"
+msgstr "Reparar dri&ves"
+
+#: i18n.cpp:146 i18n.cpp:151 tray.cpp:85
+msgid "E&xit"
+msgstr "S&air"
+
+#: i18n.cpp:149
+msgid "&When done"
+msgstr "&Quando concluído"
+
+#: i18n.cpp:150
+msgid "&None"
+msgstr "&Nada a fazer"
+
+#: i18n.cpp:152
+msgid "Stan&dby"
+msgstr "Agua&rdar"
+
+#: i18n.cpp:153
+msgid "&Hibernate"
+msgstr "&Hibernar"
+
+#: i18n.cpp:154
+msgid "&Logoff"
+msgstr "&Logoff"
+
+#: i18n.cpp:155
+msgid "&Reboot"
+msgstr "&Reiniciar"
+
+#: i18n.cpp:156
+msgid "&Shutdown"
+msgstr "&Desligar"
+
+#: i18n.cpp:159
+msgid "&Show report"
+msgstr "&Mostrar relatório"
+
+#: i18n.cpp:162
+msgid "&Language"
+msgstr "&Idioma"
+
+#: i18n.cpp:163 i18n.cpp:209
+msgid "&Boot time scan"
+msgstr "&Escanear na hora do boot"
+
+#: i18n.cpp:164
+msgid "&Sorting"
+msgstr "&Organizando"
+
+#: i18n.cpp:165
+msgid "&Reports"
+msgstr "&Relatórios"
+
+#: i18n.cpp:168
+msgid "&View change log"
+msgstr "&Visualizar o changelog"
+
+#: i18n.cpp:169
+msgid "View translation &report"
+msgstr "Visualizar relatório da &tradução"
+
+#: i18n.cpp:170
+msgid "&Translations folder"
+msgstr "&Pasta das traduções"
+
+#: i18n.cpp:171
+msgid "&Submit current translation"
+msgstr "&Submeter a tradução atual"
+
+#: i18n.cpp:174
+msgid "&Options"
+msgstr "&Opções"
+
+#: i18n.cpp:177
+msgid "&Enable"
+msgstr "&Ativar"
+
+#: i18n.cpp:178
+msgid "&Script"
+msgstr "&Script"
+
+#: i18n.cpp:181
+msgid "By &path"
+msgstr "Pelo &caminho"
+
+#: i18n.cpp:182
+msgid "By &size"
+msgstr "Pelo &tamanho"
+
+#: i18n.cpp:183
+msgid "By &creation time"
+msgstr "Pela &hora da criação"
+
+#: i18n.cpp:184
+msgid "By last &modification time"
+msgstr "Pela hora da &última modificação"
+
+#: i18n.cpp:185
+msgid "By &last access time"
+msgstr "Pela &hora do último acesso"
+
+#: i18n.cpp:186
+msgid "In &ascending order"
+msgstr "Em &ordem ascendente"
+
+#: i18n.cpp:187
+msgid "In &descending order"
+msgstr "Em &ordem descendente"
+
+#: i18n.cpp:190
+msgid "&Contents"
+msgstr "&Conteúdos"
+
+#: i18n.cpp:191
+msgid "Best &practice"
+msgstr "Melhor &prática"
+
+#: i18n.cpp:192
+msgid "&Frequently asked questions"
+msgstr "&Perguntas feitas frequentemente"
+
+#: i18n.cpp:193
+msgid "Cluster map &legend"
+msgstr "Legenda do mapa dos &clusters"
+
+#: i18n.cpp:196 upgrade.cpp:161
+msgid "&Upgrade"
+msgstr "&Atualizar"
+
+#: i18n.cpp:197
+msgid "&Never check"
+msgstr "&Nunca verificar"
+
+#: i18n.cpp:198
+msgid "Check &stable releases only"
+msgstr "Verificar &só lançamentos estáveis"
+
+#: i18n.cpp:199
+msgid "Check &all releases"
+msgstr "Verificar &todos os lançamentos"
+
+#: i18n.cpp:200
+msgid "&Check now"
+msgstr "&Verificar agora"
+
+#: i18n.cpp:201
+msgid "&About"
+msgstr "&Sobre"
+
+#: i18n.cpp:204
+msgid "&Debug"
+msgstr "&Debug"
+
+#: i18n.cpp:205 utils.cpp:411
+msgid "Open &log"
+msgstr "Abrir &log"
+
+#: i18n.cpp:206
+msgid "Send bug &report"
+msgstr "Enviar relatório de &bugs"
+
+#: i18n.cpp:211
+msgid "Boot time script"
+msgstr "Script da hora do boot"
+
+#: i18n.cpp:218
+msgid "Drive"
+msgstr "Drive"
+
+#: i18n.cpp:219 i18n.cpp:275
+msgid "Status"
+msgstr "Status"
+
+#: i18n.cpp:220
+msgid "Fragmentation"
+msgstr "Fragmentação"
+
+#: i18n.cpp:221
+msgid "Total space"
+msgstr "Espaço total"
+
+#: i18n.cpp:222
+msgid "Free space"
+msgstr "Espaço livre"
+
+#: i18n.cpp:224
+#, no-c-format
+msgid "% free"
+msgstr "% livre"
+
+#: i18n.cpp:267
+msgid "Fragmented files on"
+msgstr "Arquivos fragmentados no"
+
+#: i18n.cpp:268
+msgid "Visit our Homepage"
+msgstr "Visite nossa Homepage"
+
+#: i18n.cpp:269
+msgid "View report options"
+msgstr "Visualizar opções do relatório"
+
+#: i18n.cpp:270
+msgid "Powered by Lua"
+msgstr "Desenvolvido pelo Lua"
+
+#: i18n.cpp:271
+msgid "Fragments"
+msgstr "Fragmentos"
+
+#: i18n.cpp:272
+msgid "Size"
+msgstr "Tamanho"
+
+#: i18n.cpp:273
+msgid "Filename"
+msgstr "Nome do arquivo"
+
+#: i18n.cpp:274
+msgid "Comment"
+msgstr "Comentário"
+
+#: i18n.cpp:276
+msgid "locked"
+msgstr "trancado"
+
+#: i18n.cpp:277
+msgid "move failed"
+msgstr "falhou em mover"
+
+#: i18n.cpp:278
+msgid "invalid"
+msgstr "inválido"
+
+#: shutdown.cpp:100
+msgid "Please confirm"
+msgstr "Por favor confirme"
+
+#: shutdown.cpp:107
+msgid "Do you really want to hibernate when done?"
+msgstr "Você realmente quer hibernar quando concluído?"
+
+#. : This expands to "60 seconds until hibernation"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:110
+#, c-format
+msgid "%lu seconds until hibernation"
+msgstr "%lu segundos até a hibernação"
+
+#: shutdown.cpp:113
+msgid "Do you really want to log off when done?"
+msgstr "Você realmente quer fazer logoff quando concluído?"
+
+#. : This expands to "60 seconds until logoff"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:116
+#, c-format
+msgid "%lu seconds until logoff"
+msgstr "%lu segundos até o logoff"
+
+#: shutdown.cpp:119
+msgid "Do you really want to reboot when done?"
+msgstr "Você realmente quer reiniciar quando concluído?"
+
+#. : This expands to "60 seconds until reboot"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:122
+#, c-format
+msgid "%lu seconds until reboot"
+msgstr "%lu segundos até reiniciar"
+
+#: shutdown.cpp:125
+msgid "Do you really want to shutdown when done?"
+msgstr "Você realmente quer desligar quando concluído?"
+
+#. : This expands to "60 seconds until shutdown"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:128
+#, c-format
+msgid "%lu seconds until shutdown"
+msgstr "%lu segundos até o desligamento"
+
+#: shutdown.cpp:140
+msgid "&Yes"
+msgstr "&Sim"
+
+#: shutdown.cpp:141
+msgid "&No"
+msgstr "&Não"
+
+#: statbar.cpp:92
+msgid "folders"
+msgstr "pastas"
+
+#: statbar.cpp:93
+msgid "files"
+msgstr "arquivos"
+
+#: statbar.cpp:94
+msgid "fragmented"
+msgstr "fragmentados"
+
+#: statbar.cpp:95
+msgid "compressed"
+msgstr "comprimidos"
+
+#: taskbar.cpp:198
+msgid "The job is paused"
+msgstr "O trabalho está pausado"
+
+#: taskbar.cpp:203
+msgid "The job is running"
+msgstr "O trabalho está em execução"
+
+#: tray.cpp:70
+msgid "Show"
+msgstr "Mostrar"
+
+#: tray.cpp:72
+msgid "Hide"
+msgstr "Ocultar"
+
+#. : This expands to "Release 7.0.0 is available for download!"
+#. : Make sure that "%ls" is included in the translated string at the correct
+#. position
+#: upgrade.cpp:158
+#, c-format
+msgid "Release %ls is available for download!"
+msgstr "O lançamento %ls está disponível pra download!"
+
+#: upgrade.cpp:160
+msgid "You can upgrade me ^-^"
+msgstr "Você pode me atualizar ^-^"
+
+#: upgrade.cpp:161 utils.cpp:415
+msgid "&Cancel"
+msgstr "&Cancelar"
+
+#: utils.cpp:414
+msgid "Error!"
+msgstr "Erro!"
+
+#: vollist.cpp:328
+msgid "Disk needs to be repaired"
+msgstr "O disco precisa ser reparado"
+
+#. : Status of the running disk analysis,
+#. : expands to "10 % analyzed".
+#. : Make sure that "%5.2lf" is included in the
+#. : translated string at the correct position.
+#: vollist.cpp:369
+#, c-format
+msgid "%5.2lf %% analyzed"
+msgstr "%5.2lf %% analisados"
+
+#. : Status of the running disk defragmentation,
+#. : expands to "10 % defragmented, pass 5".
+#. : Make sure that "%5.2lf" and "%d" are included
+#. : in the translated string at the correct positions.
+#: vollist.cpp:375
+#, c-format
+msgid "%5.2lf %% defragmented, pass %d"
+msgstr "%5.2lf %% desfragmentados, passo %d"
+
+#. : Status of the running disk optimization, expands to
+#. : "10 % optimized, pass 5, 1024 moves total".
+#. : Make sure that "%5.2lf", "%d" and "%I64u" are included
+#. : in the translated string at the correct positions.
+#: vollist.cpp:383
+msgid "%5.2lf %% optimized, pass %d, %I64u moves total"
+msgstr "%5.2lf %% otimizado, passo %d, %I64u movimentos no total"
+
+#. : Status of the completed disk analysis.
+#: vollist.cpp:390
+msgid "Analyzed"
+msgstr "Analisado"
+
+#. : Status of the completed disk defragmentation,
+#. : expands to "Defragmented, in 5 passes".
+#. : Make sure that "%d" is included in the
+#. : translated string at the correct position.
+#: vollist.cpp:396
+#, c-format
+msgid "Defragmented, in %d passes"
+msgstr "Desfragmentado, em %d passos"
+
+#. : Status of the completed disk optimization, expands to
+#. : "Optimized, in 5 passes, 1024 moves total".
+#. : Make sure that "%d" and "%I64u" are included
+#. : in the translated string at the correct positions.
+#: vollist.cpp:404
+msgid "Optimized, in %d passes, %I64u moves total"
+msgstr "Otimizado, em %d passos, %I64u movimentos no total"

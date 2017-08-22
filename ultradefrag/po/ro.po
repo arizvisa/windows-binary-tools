@@ -1,0 +1,493 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR UltraDefrag Development Team
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Garoiu Victor, 2014
+# Stefan Pendl <stefanpe@users.sourceforge.net>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: ultradefrag\n"
+"Report-Msgid-Bugs-To: http://sourceforge.net/p/ultradefrag/bugs/\n"
+"POT-Creation-Date: 2013-07-10 21:44+0200\n"
+"PO-Revision-Date: 2014-10-20 06:10+0000\n"
+"Last-Translator: Garoiu Victor\n"
+"Language-Team: Romanian (http://www.transifex.com/stefanpendl/ultradefrag/language/ro/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?2:1));\n"
+
+#: about.cpp:77
+msgid "About UltraDefrag"
+msgstr "Despre UltraDefrag"
+
+#: about.cpp:90
+msgid "An open source defragmentation utility."
+msgstr ""
+
+#: about.cpp:92
+msgid "Credits and licenses are listed in the handbook."
+msgstr ""
+
+#: about.cpp:95
+msgid "UltraDefrag website"
+msgstr "Site-ul UltraDefrag"
+
+#: i18n.cpp:129
+msgid "&Action"
+msgstr "Acțiune"
+
+#: i18n.cpp:130
+msgid "&Report"
+msgstr "Raport"
+
+#: i18n.cpp:131
+msgid "&Settings"
+msgstr "Setări"
+
+#: i18n.cpp:132 i18n.cpp:213
+msgid "&Help"
+msgstr "Ajutor"
+
+#: i18n.cpp:135
+msgid "&Analyze"
+msgstr "Analizează"
+
+#: i18n.cpp:136
+msgid "&Defragment"
+msgstr "Defragmentare"
+
+#: i18n.cpp:137
+msgid "&Quick optimization"
+msgstr "Optimizare rapidă"
+
+#: i18n.cpp:138
+msgid "&Full optimization"
+msgstr "Optimizare completă"
+
+#: i18n.cpp:139
+msgid "&Optimize MFT"
+msgstr "Optimizare MFT"
+
+#: i18n.cpp:140 tray.cpp:80
+msgid "Pa&use"
+msgstr "Pauzã"
+
+#: i18n.cpp:141
+msgid "&Stop"
+msgstr "oprire"
+
+#: i18n.cpp:142
+msgid "Re&peat action"
+msgstr "Repetă acțiunea"
+
+#: i18n.cpp:143
+msgid "Skip removable &media"
+msgstr "Omite drive-urile portabile"
+
+#: i18n.cpp:144
+msgid "&Rescan drives"
+msgstr "Re-scanează unitățile"
+
+#: i18n.cpp:145
+msgid "Repair dri&ves"
+msgstr "Repară unitățile"
+
+#: i18n.cpp:146 i18n.cpp:151 tray.cpp:85
+msgid "E&xit"
+msgstr "Ieșire"
+
+#: i18n.cpp:149
+msgid "&When done"
+msgstr "Când e gata"
+
+#: i18n.cpp:150
+msgid "&None"
+msgstr "Nimic"
+
+#: i18n.cpp:152
+msgid "Stan&dby"
+msgstr "Așteptare"
+
+#: i18n.cpp:153
+msgid "&Hibernate"
+msgstr "Hibernare"
+
+#: i18n.cpp:154
+msgid "&Logoff"
+msgstr "Delogare"
+
+#: i18n.cpp:155
+msgid "&Reboot"
+msgstr "Repornire"
+
+#: i18n.cpp:156
+msgid "&Shutdown"
+msgstr "Închide"
+
+#: i18n.cpp:159
+msgid "&Show report"
+msgstr "Arată raportul"
+
+#: i18n.cpp:162
+msgid "&Language"
+msgstr "Limba"
+
+#: i18n.cpp:163 i18n.cpp:209
+msgid "&Boot time scan"
+msgstr "Scanare la pornirea sistemului"
+
+#: i18n.cpp:164
+msgid "&Sorting"
+msgstr "Sortare"
+
+#: i18n.cpp:165
+msgid "&Reports"
+msgstr "Rapoarte"
+
+#: i18n.cpp:168
+msgid "&View change log"
+msgstr "Vezi jurnalul schimbărilor"
+
+#: i18n.cpp:169
+msgid "View translation &report"
+msgstr "Vezi raportul traducerilor"
+
+#: i18n.cpp:170
+msgid "&Translations folder"
+msgstr "Dosarul traducerilor"
+
+#: i18n.cpp:171
+msgid "&Submit current translation"
+msgstr "Trimite traducerea curentă"
+
+#: i18n.cpp:174
+msgid "&Options"
+msgstr "&Opțiuni"
+
+#: i18n.cpp:177
+msgid "&Enable"
+msgstr "Activează"
+
+#: i18n.cpp:178
+msgid "&Script"
+msgstr "scriptul"
+
+#: i18n.cpp:181
+msgid "By &path"
+msgstr "Sortare dupa locatie"
+
+#: i18n.cpp:182
+msgid "By &size"
+msgstr "Sortare dupa marime"
+
+#: i18n.cpp:183
+msgid "By &creation time"
+msgstr "Sortare dupa durata"
+
+#: i18n.cpp:184
+msgid "By last &modification time"
+msgstr "Sortare dupa timp"
+
+#: i18n.cpp:185
+msgid "By &last access time"
+msgstr "Sortare dupa accesare"
+
+#: i18n.cpp:186
+msgid "In &ascending order"
+msgstr "Sortare ordine crescatoare"
+
+#: i18n.cpp:187
+msgid "In &descending order"
+msgstr "Sortare ordine descrescatoare"
+
+#: i18n.cpp:190
+msgid "&Contents"
+msgstr "Conținut"
+
+#: i18n.cpp:191
+msgid "Best &practice"
+msgstr "Cele mai bune practici"
+
+#: i18n.cpp:192
+msgid "&Frequently asked questions"
+msgstr "Întrebări frecvente"
+
+#: i18n.cpp:193
+msgid "Cluster map &legend"
+msgstr "Legenda hărții cluster"
+
+#: i18n.cpp:196 upgrade.cpp:161
+msgid "&Upgrade"
+msgstr ""
+
+#: i18n.cpp:197
+msgid "&Never check"
+msgstr ""
+
+#: i18n.cpp:198
+msgid "Check &stable releases only"
+msgstr ""
+
+#: i18n.cpp:199
+msgid "Check &all releases"
+msgstr ""
+
+#: i18n.cpp:200
+msgid "&Check now"
+msgstr "&Verifică acum"
+
+#: i18n.cpp:201
+msgid "&About"
+msgstr "Despre"
+
+#: i18n.cpp:204
+msgid "&Debug"
+msgstr "Depanare"
+
+#: i18n.cpp:205 utils.cpp:411
+msgid "Open &log"
+msgstr "Deschide jurnal"
+
+#: i18n.cpp:206
+msgid "Send bug &report"
+msgstr "Trimite raportul de eroare"
+
+#: i18n.cpp:211
+msgid "Boot time script"
+msgstr "Script pentru pornirea sistemului"
+
+#: i18n.cpp:218
+msgid "Drive"
+msgstr "Volum"
+
+#: i18n.cpp:219 i18n.cpp:275
+msgid "Status"
+msgstr "Stadiu"
+
+#: i18n.cpp:220
+msgid "Fragmentation"
+msgstr "Fragmentarea"
+
+#: i18n.cpp:221
+msgid "Total space"
+msgstr "Spațiu total"
+
+#: i18n.cpp:222
+msgid "Free space"
+msgstr "Spațiu liber"
+
+#: i18n.cpp:224
+#, no-c-format
+msgid "% free"
+msgstr "% liber"
+
+#: i18n.cpp:267
+msgid "Fragmented files on"
+msgstr "Fișiere fragmentate de pe"
+
+#: i18n.cpp:268
+msgid "Visit our Homepage"
+msgstr "Vizitați pagina noastră"
+
+#: i18n.cpp:269
+msgid "View report options"
+msgstr "Vizualizați opțiunile de raport"
+
+#: i18n.cpp:270
+msgid "Powered by Lua"
+msgstr ""
+
+#: i18n.cpp:271
+msgid "Fragments"
+msgstr "fragmente"
+
+#: i18n.cpp:272
+msgid "Size"
+msgstr "dimensiune"
+
+#: i18n.cpp:273
+msgid "Filename"
+msgstr "nume fișier"
+
+#: i18n.cpp:274
+msgid "Comment"
+msgstr "comentariu"
+
+#: i18n.cpp:276
+msgid "locked"
+msgstr "blocat"
+
+#: i18n.cpp:277
+msgid "move failed"
+msgstr "mutarea nu a reușit"
+
+#: i18n.cpp:278
+msgid "invalid"
+msgstr "invalid"
+
+#: shutdown.cpp:100
+msgid "Please confirm"
+msgstr "Confirmați"
+
+#: shutdown.cpp:107
+msgid "Do you really want to hibernate when done?"
+msgstr "Vreți să hiberneze calculatorul când e gata?"
+
+#. : This expands to "60 seconds until hibernation"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:110
+#, c-format
+msgid "%lu seconds until hibernation"
+msgstr "%lu secunde până la hibernare"
+
+#: shutdown.cpp:113
+msgid "Do you really want to log off when done?"
+msgstr "Vreți să va delogați când e gata?"
+
+#. : This expands to "60 seconds until logoff"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:116
+#, c-format
+msgid "%lu seconds until logoff"
+msgstr "%lu secunde până la delogare"
+
+#: shutdown.cpp:119
+msgid "Do you really want to reboot when done?"
+msgstr "Vreți să restartați calculatorul când e gata?"
+
+#. : This expands to "60 seconds until reboot"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:122
+#, c-format
+msgid "%lu seconds until reboot"
+msgstr "%lu secunde până la restartare"
+
+#: shutdown.cpp:125
+msgid "Do you really want to shutdown when done?"
+msgstr "Vreți să opriți calculatorul când e gata?"
+
+#. : This expands to "60 seconds until shutdown"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:128
+#, c-format
+msgid "%lu seconds until shutdown"
+msgstr "%lu secunde până la închidere"
+
+#: shutdown.cpp:140
+msgid "&Yes"
+msgstr "Da"
+
+#: shutdown.cpp:141
+msgid "&No"
+msgstr "Nu"
+
+#: statbar.cpp:92
+msgid "folders"
+msgstr "dosare"
+
+#: statbar.cpp:93
+msgid "files"
+msgstr "fișiere"
+
+#: statbar.cpp:94
+msgid "fragmented"
+msgstr "fragmentate"
+
+#: statbar.cpp:95
+msgid "compressed"
+msgstr "arhivate"
+
+#: taskbar.cpp:198
+msgid "The job is paused"
+msgstr ""
+
+#: taskbar.cpp:203
+msgid "The job is running"
+msgstr "O sarcină se execută"
+
+#: tray.cpp:70
+msgid "Show"
+msgstr "Arată"
+
+#: tray.cpp:72
+msgid "Hide"
+msgstr "Ascunde"
+
+#. : This expands to "Release 7.0.0 is available for download!"
+#. : Make sure that "%ls" is included in the translated string at the correct
+#. position
+#: upgrade.cpp:158
+#, c-format
+msgid "Release %ls is available for download!"
+msgstr ""
+
+#: upgrade.cpp:160
+msgid "You can upgrade me ^-^"
+msgstr "Puteți să-mi faceți upgrade ^-^"
+
+#: upgrade.cpp:161 utils.cpp:415
+msgid "&Cancel"
+msgstr "&Anulează"
+
+#: utils.cpp:414
+msgid "Error!"
+msgstr "Eroare!"
+
+#: vollist.cpp:328
+msgid "Disk needs to be repaired"
+msgstr "Discul trebuie reparat"
+
+#. : Status of the running disk analysis,
+#. : expands to "10 % analyzed".
+#. : Make sure that "%5.2lf" is included in the
+#. : translated string at the correct position.
+#: vollist.cpp:369
+#, c-format
+msgid "%5.2lf %% analyzed"
+msgstr ""
+
+#. : Status of the running disk defragmentation,
+#. : expands to "10 % defragmented, pass 5".
+#. : Make sure that "%5.2lf" and "%d" are included
+#. : in the translated string at the correct positions.
+#: vollist.cpp:375
+#, c-format
+msgid "%5.2lf %% defragmented, pass %d"
+msgstr ""
+
+#. : Status of the running disk optimization, expands to
+#. : "10 % optimized, pass 5, 1024 moves total".
+#. : Make sure that "%5.2lf", "%d" and "%I64u" are included
+#. : in the translated string at the correct positions.
+#: vollist.cpp:383
+msgid "%5.2lf %% optimized, pass %d, %I64u moves total"
+msgstr ""
+
+#. : Status of the completed disk analysis.
+#: vollist.cpp:390
+msgid "Analyzed"
+msgstr "Analizare"
+
+#. : Status of the completed disk defragmentation,
+#. : expands to "Defragmented, in 5 passes".
+#. : Make sure that "%d" is included in the
+#. : translated string at the correct position.
+#: vollist.cpp:396
+#, c-format
+msgid "Defragmented, in %d passes"
+msgstr ""
+
+#. : Status of the completed disk optimization, expands to
+#. : "Optimized, in 5 passes, 1024 moves total".
+#. : Make sure that "%d" and "%I64u" are included
+#. : in the translated string at the correct positions.
+#: vollist.cpp:404
+msgid "Optimized, in %d passes, %I64u moves total"
+msgstr ""

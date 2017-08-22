@@ -1,0 +1,12 @@
+FRAGMENTED_FILES_ON = Fragmented files on
+VISIT_HOMEPAGE      = Visit our Homepage
+VIEW_REPORT_OPTIONS = View report options
+POWERED_BY_LUA      = Powered by Lua
+FRAGMENTS           = Fragments
+SIZE                = Size
+FILENAME            = Filename
+COMMENT             = Comment
+STATUS              = Status
+LOCKED              = locked
+MOVE_FAILED         = move failed
+INVALID             = invalid

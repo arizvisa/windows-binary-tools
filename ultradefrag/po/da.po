@@ -1,0 +1,494 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR UltraDefrag Development Team
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Jens Hyllegaard <jens.hyllegaard@gmail.com>, 2013
+# Stefan Pendl <stefanpe@users.sourceforge.net>, 2013
+# Stefan Pendl <stefanpe@users.sourceforge.net>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: ultradefrag\n"
+"Report-Msgid-Bugs-To: http://sourceforge.net/p/ultradefrag/bugs/\n"
+"POT-Creation-Date: 2013-07-10 21:44+0200\n"
+"PO-Revision-Date: 2013-11-20 09:52+0000\n"
+"Last-Translator: Jens Hyllegaard <jens.hyllegaard@gmail.com>\n"
+"Language-Team: Danish (http://www.transifex.com/stefanpendl/ultradefrag/language/da/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: da\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: about.cpp:77
+msgid "About UltraDefrag"
+msgstr "Om UltraDefrag"
+
+#: about.cpp:90
+msgid "An open source defragmentation utility."
+msgstr "Et open source defragmenteringsværktøj."
+
+#: about.cpp:92
+msgid "Credits and licenses are listed in the handbook."
+msgstr "Krediteringer og licenser er i håndbogen."
+
+#: about.cpp:95
+msgid "UltraDefrag website"
+msgstr "UltraDefrag websted"
+
+#: i18n.cpp:129
+msgid "&Action"
+msgstr "Handling"
+
+#: i18n.cpp:130
+msgid "&Report"
+msgstr "Rapport"
+
+#: i18n.cpp:131
+msgid "&Settings"
+msgstr "Indstillinger"
+
+#: i18n.cpp:132 i18n.cpp:213
+msgid "&Help"
+msgstr "Hjælp"
+
+#: i18n.cpp:135
+msgid "&Analyze"
+msgstr "Analysér"
+
+#: i18n.cpp:136
+msgid "&Defragment"
+msgstr "Defragmentér"
+
+#: i18n.cpp:137
+msgid "&Quick optimization"
+msgstr "Hurtig optimering"
+
+#: i18n.cpp:138
+msgid "&Full optimization"
+msgstr "Fuld optimering"
+
+#: i18n.cpp:139
+msgid "&Optimize MFT"
+msgstr "&Optimér MFT"
+
+#: i18n.cpp:140 tray.cpp:80
+msgid "Pa&use"
+msgstr "Pa&use"
+
+#: i18n.cpp:141
+msgid "&Stop"
+msgstr "Afbryd"
+
+#: i18n.cpp:142
+msgid "Re&peat action"
+msgstr "Gentagne kørsler"
+
+#: i18n.cpp:143
+msgid "Skip removable &media"
+msgstr "Skjul flytbare drev"
+
+#: i18n.cpp:144
+msgid "&Rescan drives"
+msgstr "Opdatér drevlisten"
+
+#: i18n.cpp:145
+msgid "Repair dri&ves"
+msgstr "Reparér drev (CHKDSK)"
+
+#: i18n.cpp:146 i18n.cpp:151 tray.cpp:85
+msgid "E&xit"
+msgstr "Afslut UltraDefrag"
+
+#: i18n.cpp:149
+msgid "&When done"
+msgstr "Når opgaven er fuldført"
+
+#: i18n.cpp:150
+msgid "&None"
+msgstr "Gør ingenting"
+
+#: i18n.cpp:152
+msgid "Stan&dby"
+msgstr "Stan&dby"
+
+#: i18n.cpp:153
+msgid "&Hibernate"
+msgstr "Dvale"
+
+#: i18n.cpp:154
+msgid "&Logoff"
+msgstr "Log af"
+
+#: i18n.cpp:155
+msgid "&Reboot"
+msgstr "Genstart Windows"
+
+#: i18n.cpp:156
+msgid "&Shutdown"
+msgstr "Nedluk Windows"
+
+#: i18n.cpp:159
+msgid "&Show report"
+msgstr "Vis rapport"
+
+#: i18n.cpp:162
+msgid "&Language"
+msgstr "Sprog"
+
+#: i18n.cpp:163 i18n.cpp:209
+msgid "&Boot time scan"
+msgstr "Boot-time defrag"
+
+#: i18n.cpp:164
+msgid "&Sorting"
+msgstr "sortering"
+
+#: i18n.cpp:165
+msgid "&Reports"
+msgstr "Rapport-udseende"
+
+#: i18n.cpp:168
+msgid "&View change log"
+msgstr "Se ændrings-log"
+
+#: i18n.cpp:169
+msgid "View translation &report"
+msgstr "Vis oversættelses-rapport"
+
+#: i18n.cpp:170
+msgid "&Translations folder"
+msgstr "Oversættelses-mappen"
+
+#: i18n.cpp:171
+msgid "&Submit current translation"
+msgstr "Redigér/indsend denne oversættelse"
+
+#: i18n.cpp:174
+msgid "&Options"
+msgstr "&Indstillinger"
+
+#: i18n.cpp:177
+msgid "&Enable"
+msgstr "Aktivér"
+
+#: i18n.cpp:178
+msgid "&Script"
+msgstr "&Script"
+
+#: i18n.cpp:181
+msgid "By &path"
+msgstr "Sortér efter sti"
+
+#: i18n.cpp:182
+msgid "By &size"
+msgstr "Sortér efter størrelse"
+
+#: i18n.cpp:183
+msgid "By &creation time"
+msgstr "Sortér efter oprettelse"
+
+#: i18n.cpp:184
+msgid "By last &modification time"
+msgstr "Sortér efter seneste ændring"
+
+#: i18n.cpp:185
+msgid "By &last access time"
+msgstr "Sortér efter seneste åbning"
+
+#: i18n.cpp:186
+msgid "In &ascending order"
+msgstr "Sortér i stigende orden"
+
+#: i18n.cpp:187
+msgid "In &descending order"
+msgstr "Sortér i faldende orden"
+
+#: i18n.cpp:190
+msgid "&Contents"
+msgstr "Indhold"
+
+#: i18n.cpp:191
+msgid "Best &practice"
+msgstr "Bedste praksis"
+
+#: i18n.cpp:192
+msgid "&Frequently asked questions"
+msgstr "Ofte stillede spørgsmål"
+
+#: i18n.cpp:193
+msgid "Cluster map &legend"
+msgstr "Klynge-signaturer mv."
+
+#: i18n.cpp:196 upgrade.cpp:161
+msgid "&Upgrade"
+msgstr "&Opgradér"
+
+#: i18n.cpp:197
+msgid "&Never check"
+msgstr "T&jek aldrig"
+
+#: i18n.cpp:198
+msgid "Check &stable releases only"
+msgstr "Tjek kun &stabile udgivelser"
+
+#: i18n.cpp:199
+msgid "Check &all releases"
+msgstr "Tjek &alle udgivelser"
+
+#: i18n.cpp:200
+msgid "&Check now"
+msgstr "&Tjek nu"
+
+#: i18n.cpp:201
+msgid "&About"
+msgstr "Om"
+
+#: i18n.cpp:204
+msgid "&Debug"
+msgstr "Fejlsøg"
+
+#: i18n.cpp:205 utils.cpp:411
+msgid "Open &log"
+msgstr "Åbn &log"
+
+#: i18n.cpp:206
+msgid "Send bug &report"
+msgstr "Send fejl&rapport"
+
+#: i18n.cpp:211
+msgid "Boot time script"
+msgstr "Boot-time script"
+
+#: i18n.cpp:218
+msgid "Drive"
+msgstr "Drev"
+
+#: i18n.cpp:219 i18n.cpp:275
+msgid "Status"
+msgstr "Tilstand"
+
+#: i18n.cpp:220
+msgid "Fragmentation"
+msgstr "Fragmentering"
+
+#: i18n.cpp:221
+msgid "Total space"
+msgstr "Kapacitet"
+
+#: i18n.cpp:222
+msgid "Free space"
+msgstr "Ubenyttet"
+
+#: i18n.cpp:224
+#, no-c-format
+msgid "% free"
+msgstr "Ledig %"
+
+#: i18n.cpp:267
+msgid "Fragmented files on"
+msgstr "Fragmenterede filer på"
+
+#: i18n.cpp:268
+msgid "Visit our Homepage"
+msgstr "Besøg vores hjemmeside"
+
+#: i18n.cpp:269
+msgid "View report options"
+msgstr "Se rapport-muligheder"
+
+#: i18n.cpp:270
+msgid "Powered by Lua"
+msgstr "Udviklet i Lua"
+
+#: i18n.cpp:271
+msgid "Fragments"
+msgstr "fragmenter"
+
+#: i18n.cpp:272
+msgid "Size"
+msgstr "størrelse"
+
+#: i18n.cpp:273
+msgid "Filename"
+msgstr "filnavn"
+
+#: i18n.cpp:274
+msgid "Comment"
+msgstr "bemærkning"
+
+#: i18n.cpp:276
+msgid "locked"
+msgstr "låst"
+
+#: i18n.cpp:277
+msgid "move failed"
+msgstr "flytning mislykkedes"
+
+#: i18n.cpp:278
+msgid "invalid"
+msgstr "ugyldig"
+
+#: shutdown.cpp:100
+msgid "Please confirm"
+msgstr "Bekræft"
+
+#: shutdown.cpp:107
+msgid "Do you really want to hibernate when done?"
+msgstr "Bekræft dvaletilstand, når opgaven er fuldført ?"
+
+#. : This expands to "60 seconds until hibernation"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:110
+#, c-format
+msgid "%lu seconds until hibernation"
+msgstr "%lu sekunder til dvaletilstand"
+
+#: shutdown.cpp:113
+msgid "Do you really want to log off when done?"
+msgstr "Bekræft log af, når opgaven er fuldført ?"
+
+#. : This expands to "60 seconds until logoff"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:116
+#, c-format
+msgid "%lu seconds until logoff"
+msgstr "%lu sekunder til log af"
+
+#: shutdown.cpp:119
+msgid "Do you really want to reboot when done?"
+msgstr "Bekræft genstart, når opgaven er fuldført ?"
+
+#. : This expands to "60 seconds until reboot"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:122
+#, c-format
+msgid "%lu seconds until reboot"
+msgstr "%lu sekunder til genstart"
+
+#: shutdown.cpp:125
+msgid "Do you really want to shutdown when done?"
+msgstr "Bekræft nedlukning, når opgaven er fuldført ?"
+
+#. : This expands to "60 seconds until shutdown"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:128
+#, c-format
+msgid "%lu seconds until shutdown"
+msgstr "%lu sekunder til nedlukning"
+
+#: shutdown.cpp:140
+msgid "&Yes"
+msgstr "Ja"
+
+#: shutdown.cpp:141
+msgid "&No"
+msgstr "Nej"
+
+#: statbar.cpp:92
+msgid "folders"
+msgstr "mapper"
+
+#: statbar.cpp:93
+msgid "files"
+msgstr "filer"
+
+#: statbar.cpp:94
+msgid "fragmented"
+msgstr "fragmenterede"
+
+#: statbar.cpp:95
+msgid "compressed"
+msgstr "komprimerede"
+
+#: taskbar.cpp:198
+msgid "The job is paused"
+msgstr "Jobbet er sat på pause"
+
+#: taskbar.cpp:203
+msgid "The job is running"
+msgstr "Et job kører"
+
+#: tray.cpp:70
+msgid "Show"
+msgstr "Vis"
+
+#: tray.cpp:72
+msgid "Hide"
+msgstr "Skjul"
+
+#. : This expands to "Release 7.0.0 is available for download!"
+#. : Make sure that "%ls" is included in the translated string at the correct
+#. position
+#: upgrade.cpp:158
+#, c-format
+msgid "Release %ls is available for download!"
+msgstr "Udgivelsen %ls kan downloades!"
+
+#: upgrade.cpp:160
+msgid "You can upgrade me ^-^"
+msgstr "Du kan opgradere mig ^-^"
+
+#: upgrade.cpp:161 utils.cpp:415
+msgid "&Cancel"
+msgstr "&Annuller"
+
+#: utils.cpp:414
+msgid "Error!"
+msgstr "Fejl!"
+
+#: vollist.cpp:328
+msgid "Disk needs to be repaired"
+msgstr "Disk skal repareres"
+
+#. : Status of the running disk analysis,
+#. : expands to "10 % analyzed".
+#. : Make sure that "%5.2lf" is included in the
+#. : translated string at the correct position.
+#: vollist.cpp:369
+#, c-format
+msgid "%5.2lf %% analyzed"
+msgstr "%5.2lf %% analyseret"
+
+#. : Status of the running disk defragmentation,
+#. : expands to "10 % defragmented, pass 5".
+#. : Make sure that "%5.2lf" and "%d" are included
+#. : in the translated string at the correct positions.
+#: vollist.cpp:375
+#, c-format
+msgid "%5.2lf %% defragmented, pass %d"
+msgstr "%5.2lf %% defragmenteret, trin %d"
+
+#. : Status of the running disk optimization, expands to
+#. : "10 % optimized, pass 5, 1024 moves total".
+#. : Make sure that "%5.2lf", "%d" and "%I64u" are included
+#. : in the translated string at the correct positions.
+#: vollist.cpp:383
+msgid "%5.2lf %% optimized, pass %d, %I64u moves total"
+msgstr "%5.2lf %% optimeret, trin %d, %I64u flytninger i alt"
+
+#. : Status of the completed disk analysis.
+#: vollist.cpp:390
+msgid "Analyzed"
+msgstr "Analyseret"
+
+#. : Status of the completed disk defragmentation,
+#. : expands to "Defragmented, in 5 passes".
+#. : Make sure that "%d" is included in the
+#. : translated string at the correct position.
+#: vollist.cpp:396
+#, c-format
+msgid "Defragmented, in %d passes"
+msgstr "Defragmenteret, i %d trin"
+
+#. : Status of the completed disk optimization, expands to
+#. : "Optimized, in 5 passes, 1024 moves total".
+#. : Make sure that "%d" and "%I64u" are included
+#. : in the translated string at the correct positions.
+#: vollist.cpp:404
+msgid "Optimized, in %d passes, %I64u moves total"
+msgstr "Optimeret, i %d trin, %I64u flytninger i alt"

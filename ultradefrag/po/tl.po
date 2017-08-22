@@ -1,0 +1,495 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR UltraDefrag Development Team
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Ezekiel JB Vegiga <ejbnvegiga@gmail.com>, 2015-2016
+# Joseph Maza <joseph.maza@gmail.com>, 2015-2016
+# Stefan Pendl <stefanpe@users.sourceforge.net>, 2013
+# Stefan Pendl <stefanpe@users.sourceforge.net>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: ultradefrag\n"
+"Report-Msgid-Bugs-To: http://sourceforge.net/p/ultradefrag/bugs/\n"
+"POT-Creation-Date: 2013-07-10 21:44+0200\n"
+"PO-Revision-Date: 2016-08-07 01:47+0000\n"
+"Last-Translator: Joseph Maza <joseph.maza@gmail.com>\n"
+"Language-Team: Tagalog (http://www.transifex.com/stefanpendl/ultradefrag/language/tl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tl\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: about.cpp:77
+msgid "About UltraDefrag"
+msgstr "Tungkol sa UltraDefrag"
+
+#: about.cpp:90
+msgid "An open source defragmentation utility."
+msgstr "Gamit sa Pagbubuo ng file."
+
+#: about.cpp:92
+msgid "Credits and licenses are listed in the handbook."
+msgstr "Nakalista sa Handbook ang mga pautang na loob at ang mga lisensiya."
+
+#: about.cpp:95
+msgid "UltraDefrag website"
+msgstr "Website ng UltraDefrag"
+
+#: i18n.cpp:129
+msgid "&Action"
+msgstr "&Utos"
+
+#: i18n.cpp:130
+msgid "&Report"
+msgstr "&Ulat"
+
+#: i18n.cpp:131
+msgid "&Settings"
+msgstr "Mga &Setting"
+
+#: i18n.cpp:132 i18n.cpp:213
+msgid "&Help"
+msgstr "&Tulong"
+
+#: i18n.cpp:135
+msgid "&Analyze"
+msgstr "&Magsuri"
+
+#: i18n.cpp:136
+msgid "&Defragment"
+msgstr "Magbu&o"
+
+#: i18n.cpp:137
+msgid "&Quick optimization"
+msgstr "Magpahusay &nang Mabilis"
+
+#: i18n.cpp:138
+msgid "&Full optimization"
+msgstr "Magpahusay nang &Buo"
+
+#: i18n.cpp:139
+msgid "&Optimize MFT"
+msgstr "Pahusayan ang M&FT"
+
+#: i18n.cpp:140 tray.cpp:80
+msgid "Pa&use"
+msgstr "&Tigilin"
+
+#: i18n.cpp:141
+msgid "&Stop"
+msgstr "&Hintuin"
+
+#: i18n.cpp:142
+msgid "Re&peat action"
+msgstr "&Ulitin"
+
+#: i18n.cpp:143
+msgid "Skip removable &media"
+msgstr "Lakta&wan ang Natatanggal na Media"
+
+#: i18n.cpp:144
+msgid "&Rescan drives"
+msgstr "Muling Suriin ng mga &Drive"
+
+#: i18n.cpp:145
+msgid "Repair dri&ves"
+msgstr "&Kumpunihin ang mga Drive"
+
+#: i18n.cpp:146 i18n.cpp:151 tray.cpp:85
+msgid "E&xit"
+msgstr "&Lumabas"
+
+#: i18n.cpp:149
+msgid "&When done"
+msgstr "&Sa katapusan..."
+
+#: i18n.cpp:150
+msgid "&None"
+msgstr "&Wala"
+
+#: i18n.cpp:152
+msgid "Stan&dby"
+msgstr "&Magpahintay"
+
+#: i18n.cpp:153
+msgid "&Hibernate"
+msgstr "&Patulugin"
+
+#: i18n.cpp:154
+msgid "&Logoff"
+msgstr "Tapusin &ang sesiyon"
+
+#: i18n.cpp:155
+msgid "&Reboot"
+msgstr "Mag&simulang muli"
+
+#: i18n.cpp:156
+msgid "&Shutdown"
+msgstr "Magsa&ra"
+
+#: i18n.cpp:159
+msgid "&Show report"
+msgstr "Ipakita &ang Ulat"
+
+#: i18n.cpp:162
+msgid "&Language"
+msgstr "&Wika"
+
+#: i18n.cpp:163 i18n.cpp:209
+msgid "&Boot time scan"
+msgstr "&Pagsisiyasat sa pagsimula"
+
+#: i18n.cpp:164
+msgid "&Sorting"
+msgstr "&Pag-iisaayos"
+
+#: i18n.cpp:165
+msgid "&Reports"
+msgstr "&Mga Ulat"
+
+#: i18n.cpp:168
+msgid "&View change log"
+msgstr "&Tanawin ang talaan ng pagbabago"
+
+#: i18n.cpp:169
+msgid "View translation &report"
+msgstr "Tanawin ang &Ulat sa mga Pagsasalin"
+
+#: i18n.cpp:170
+msgid "&Translations folder"
+msgstr "Folder ng mga &Pagsasalin"
+
+#: i18n.cpp:171
+msgid "&Submit current translation"
+msgstr "&Ilahad ang kasalukuyang pagsasalin"
+
+#: i18n.cpp:174
+msgid "&Options"
+msgstr "&Mga Opsyon"
+
+#: i18n.cpp:177
+msgid "&Enable"
+msgstr "I&tulot"
+
+#: i18n.cpp:178
+msgid "&Script"
+msgstr "&Iskrip"
+
+#: i18n.cpp:181
+msgid "By &path"
+msgstr "Sa &Pinanggalingan"
+
+#: i18n.cpp:182
+msgid "By &size"
+msgstr "Sa &Kalakihan"
+
+#: i18n.cpp:183
+msgid "By &creation time"
+msgstr "Sa &Oras ng Paglikha"
+
+#: i18n.cpp:184
+msgid "By last &modification time"
+msgstr "Sa &Huling Pagbabago"
+
+#: i18n.cpp:185
+msgid "By &last access time"
+msgstr "Sa Huling Paggaga&mit"
+
+#: i18n.cpp:186
+msgid "In &ascending order"
+msgstr "&Nang Paitaas"
+
+#: i18n.cpp:187
+msgid "In &descending order"
+msgstr "Nang Pa&baba"
+
+#: i18n.cpp:190
+msgid "&Contents"
+msgstr "&Mga Nilalaman"
+
+#: i18n.cpp:191
+msgid "Best &practice"
+msgstr "&Mahusay na Palakad"
+
+#: i18n.cpp:192
+msgid "&Frequently asked questions"
+msgstr "&Mga Madalas Itanong"
+
+#: i18n.cpp:193
+msgid "Cluster map &legend"
+msgstr "Paliwanag ng Mapang &Kumpol"
+
+#: i18n.cpp:196 upgrade.cpp:161
+msgid "&Upgrade"
+msgstr "&Pabaguhin"
+
+#: i18n.cpp:197
+msgid "&Never check"
+msgstr "&Hindi Usisain Kailanman"
+
+#: i18n.cpp:198
+msgid "Check &stable releases only"
+msgstr "Usisain lang ang &Matatag na Bersiyon"
+
+#: i18n.cpp:199
+msgid "Check &all releases"
+msgstr "Usisain ang &Lahat na Bersiyon"
+
+#: i18n.cpp:200
+msgid "&Check now"
+msgstr "&Usisain na ngayon"
+
+#: i18n.cpp:201
+msgid "&About"
+msgstr "&Tungkol sa"
+
+#: i18n.cpp:204
+msgid "&Debug"
+msgstr "&Depurahin"
+
+#: i18n.cpp:205 utils.cpp:411
+msgid "Open &log"
+msgstr "Buksan ang &Talaan"
+
+#: i18n.cpp:206
+msgid "Send bug &report"
+msgstr "Ipadala ang &Ulat ng Kamalian"
+
+#: i18n.cpp:211
+msgid "Boot time script"
+msgstr "Iskrip sa Pagsisimula"
+
+#: i18n.cpp:218
+msgid "Drive"
+msgstr "Drive"
+
+#: i18n.cpp:219 i18n.cpp:275
+msgid "Status"
+msgstr "Kalagayan"
+
+#: i18n.cpp:220
+msgid "Fragmentation"
+msgstr "Pagkapira-piraso"
+
+#: i18n.cpp:221
+msgid "Total space"
+msgstr "Kabuuang Espasyo"
+
+#: i18n.cpp:222
+msgid "Free space"
+msgstr "Natitirang Espasyo"
+
+#: i18n.cpp:224
+#, no-c-format
+msgid "% free"
+msgstr "% natitira"
+
+#: i18n.cpp:267
+msgid "Fragmented files on"
+msgstr "Mga kapirasong file sa"
+
+#: i18n.cpp:268
+msgid "Visit our Homepage"
+msgstr "Bisitahain ang Homepage"
+
+#: i18n.cpp:269
+msgid "View report options"
+msgstr "Tanawin ang mga opsyon ng ulat"
+
+#: i18n.cpp:270
+msgid "Powered by Lua"
+msgstr "Pinagana ng Lua"
+
+#: i18n.cpp:271
+msgid "Fragments"
+msgstr "Mga Kapiraso"
+
+#: i18n.cpp:272
+msgid "Size"
+msgstr "Kalakihan"
+
+#: i18n.cpp:273
+msgid "Filename"
+msgstr "Pangalan ng File"
+
+#: i18n.cpp:274
+msgid "Comment"
+msgstr "Puna"
+
+#: i18n.cpp:276
+msgid "locked"
+msgstr "nakakandado"
+
+#: i18n.cpp:277
+msgid "move failed"
+msgstr "di-nalipat"
+
+#: i18n.cpp:278
+msgid "invalid"
+msgstr "di-naangkop"
+
+#: shutdown.cpp:100
+msgid "Please confirm"
+msgstr "Pakipatunayan"
+
+#: shutdown.cpp:107
+msgid "Do you really want to hibernate when done?"
+msgstr "Patulugin kung natapos na?"
+
+#. : This expands to "60 seconds until hibernation"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:110
+#, c-format
+msgid "%lu seconds until hibernation"
+msgstr "%lu segundo bagong patulugin"
+
+#: shutdown.cpp:113
+msgid "Do you really want to log off when done?"
+msgstr "Tapusin ang sesyon kung natapos na?"
+
+#. : This expands to "60 seconds until logoff"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:116
+#, c-format
+msgid "%lu seconds until logoff"
+msgstr "%lu segundo bagong magsara ng sesyon"
+
+#: shutdown.cpp:119
+msgid "Do you really want to reboot when done?"
+msgstr "Magsimula muli kung natapos na?"
+
+#. : This expands to "60 seconds until reboot"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:122
+#, c-format
+msgid "%lu seconds until reboot"
+msgstr "%lu segundo bagong magsimula muli"
+
+#: shutdown.cpp:125
+msgid "Do you really want to shutdown when done?"
+msgstr "Magsara kung natapos na?"
+
+#. : This expands to "60 seconds until shutdown"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:128
+#, c-format
+msgid "%lu seconds until shutdown"
+msgstr "%lu segundo bagong magsara"
+
+#: shutdown.cpp:140
+msgid "&Yes"
+msgstr "&Oo"
+
+#: shutdown.cpp:141
+msgid "&No"
+msgstr "&Hindi"
+
+#: statbar.cpp:92
+msgid "folders"
+msgstr "mga folder"
+
+#: statbar.cpp:93
+msgid "files"
+msgstr "mga file"
+
+#: statbar.cpp:94
+msgid "fragmented"
+msgstr "napiraso"
+
+#: statbar.cpp:95
+msgid "compressed"
+msgstr "siniksik"
+
+#: taskbar.cpp:198
+msgid "The job is paused"
+msgstr "Pinatigil ang tungkulin"
+
+#: taskbar.cpp:203
+msgid "The job is running"
+msgstr "Isinasagawa ang tungkulin"
+
+#: tray.cpp:70
+msgid "Show"
+msgstr "Ipakita"
+
+#: tray.cpp:72
+msgid "Hide"
+msgstr "Itago"
+
+#. : This expands to "Release 7.0.0 is available for download!"
+#. : Make sure that "%ls" is included in the translated string at the correct
+#. position
+#: upgrade.cpp:158
+#, c-format
+msgid "Release %ls is available for download!"
+msgstr "Ang bersyong %ls ay maaaring maibababa na!"
+
+#: upgrade.cpp:160
+msgid "You can upgrade me ^-^"
+msgstr "Maari na ninyo ako pabaguin."
+
+#: upgrade.cpp:161 utils.cpp:415
+msgid "&Cancel"
+msgstr "&Bawiin"
+
+#: utils.cpp:414
+msgid "Error!"
+msgstr "Kamalian!"
+
+#: vollist.cpp:328
+msgid "Disk needs to be repaired"
+msgstr "Dapat ay kumpunihin ang disk"
+
+#. : Status of the running disk analysis,
+#. : expands to "10 % analyzed".
+#. : Make sure that "%5.2lf" is included in the
+#. : translated string at the correct position.
+#: vollist.cpp:369
+#, c-format
+msgid "%5.2lf %% analyzed"
+msgstr "sinuri: %5.2lf %%"
+
+#. : Status of the running disk defragmentation,
+#. : expands to "10 % defragmented, pass 5".
+#. : Make sure that "%5.2lf" and "%d" are included
+#. : in the translated string at the correct positions.
+#: vollist.cpp:375
+#, c-format
+msgid "%5.2lf %% defragmented, pass %d"
+msgstr "binuo: %5.2lf %%; ganap: %d"
+
+#. : Status of the running disk optimization, expands to
+#. : "10 % optimized, pass 5, 1024 moves total".
+#. : Make sure that "%5.2lf", "%d" and "%I64u" are included
+#. : in the translated string at the correct positions.
+#: vollist.cpp:383
+msgid "%5.2lf %% optimized, pass %d, %I64u moves total"
+msgstr "Pinahusay: %5.2lf %%; ganap: %d; paglilipat: %I64u"
+
+#. : Status of the completed disk analysis.
+#: vollist.cpp:390
+msgid "Analyzed"
+msgstr "Sinuri"
+
+#. : Status of the completed disk defragmentation,
+#. : expands to "Defragmented, in 5 passes".
+#. : Make sure that "%d" is included in the
+#. : translated string at the correct position.
+#: vollist.cpp:396
+#, c-format
+msgid "Defragmented, in %d passes"
+msgstr "Binuo sa %d na ganap"
+
+#. : Status of the completed disk optimization, expands to
+#. : "Optimized, in 5 passes, 1024 moves total".
+#. : Make sure that "%d" and "%I64u" are included
+#. : in the translated string at the correct positions.
+#: vollist.cpp:404
+msgid "Optimized, in %d passes, %I64u moves total"
+msgstr "Pinahusay sa %d na ganap, %I64u na paglilipat"

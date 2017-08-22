@@ -1,0 +1,494 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR UltraDefrag Development Team
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Dionisios Klonaris <zealot_gr@yahoo.com>, 2013
+# Stefan Pendl <stefanpe@users.sourceforge.net>, 2013
+# Wasilis Mandratzis <inactive+Wasilis@transifex.com>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: ultradefrag\n"
+"Report-Msgid-Bugs-To: http://sourceforge.net/p/ultradefrag/bugs/\n"
+"POT-Creation-Date: 2013-07-10 21:44+0200\n"
+"PO-Revision-Date: 2013-12-26 23:00+0000\n"
+"Last-Translator: Dionisios Klonaris <zealot_gr@yahoo.com>\n"
+"Language-Team: Greek (http://www.transifex.com/stefanpendl/ultradefrag/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: about.cpp:77
+msgid "About UltraDefrag"
+msgstr "Σχετικά με το UltraDefrag"
+
+#: about.cpp:90
+msgid "An open source defragmentation utility."
+msgstr "Ένα εργαλείο ανασυγκρότησης δίσκων ανοικτού κώδικα."
+
+#: about.cpp:92
+msgid "Credits and licenses are listed in the handbook."
+msgstr "Οι πιστώσεις και οι άδειες παρατίθενται στο εγχειρίδιο. "
+
+#: about.cpp:95
+msgid "UltraDefrag website"
+msgstr "Ιστοσελίδα του UltraDefrag"
+
+#: i18n.cpp:129
+msgid "&Action"
+msgstr "Ενέργεια"
+
+#: i18n.cpp:130
+msgid "&Report"
+msgstr "Αναφορά"
+
+#: i18n.cpp:131
+msgid "&Settings"
+msgstr "Ρυθμίσεις"
+
+#: i18n.cpp:132 i18n.cpp:213
+msgid "&Help"
+msgstr "Βοήθεια"
+
+#: i18n.cpp:135
+msgid "&Analyze"
+msgstr "Ανάλυση"
+
+#: i18n.cpp:136
+msgid "&Defragment"
+msgstr "Ανασυγκρότηση"
+
+#: i18n.cpp:137
+msgid "&Quick optimization"
+msgstr "Γρήγορη βελτιστοποίηση"
+
+#: i18n.cpp:138
+msgid "&Full optimization"
+msgstr "Πλήρης βελτιστοποίηση"
+
+#: i18n.cpp:139
+msgid "&Optimize MFT"
+msgstr "Βελτιστοποίηση MFT"
+
+#: i18n.cpp:140 tray.cpp:80
+msgid "Pa&use"
+msgstr "Παύση"
+
+#: i18n.cpp:141
+msgid "&Stop"
+msgstr "Διακοπή"
+
+#: i18n.cpp:142
+msgid "Re&peat action"
+msgstr "Επανάληψη ενέργειας"
+
+#: i18n.cpp:143
+msgid "Skip removable &media"
+msgstr "Παράλειψη αφαιρούμενων συσκευών"
+
+#: i18n.cpp:144
+msgid "&Rescan drives"
+msgstr "Επανεξέταση δίσκων"
+
+#: i18n.cpp:145
+msgid "Repair dri&ves"
+msgstr "Επιδιόρθωση δίσκων"
+
+#: i18n.cpp:146 i18n.cpp:151 tray.cpp:85
+msgid "E&xit"
+msgstr "Έξοδος"
+
+#: i18n.cpp:149
+msgid "&When done"
+msgstr "Όταν ολοκληρωθεί"
+
+#: i18n.cpp:150
+msgid "&None"
+msgstr "Τίποτα"
+
+#: i18n.cpp:152
+msgid "Stan&dby"
+msgstr "Σε αναμονή"
+
+#: i18n.cpp:153
+msgid "&Hibernate"
+msgstr "Αδρανοποίηση"
+
+#: i18n.cpp:154
+msgid "&Logoff"
+msgstr "Αποσύνδεση"
+
+#: i18n.cpp:155
+msgid "&Reboot"
+msgstr "Επανεκκίνηση"
+
+#: i18n.cpp:156
+msgid "&Shutdown"
+msgstr "Τερματισμός"
+
+#: i18n.cpp:159
+msgid "&Show report"
+msgstr "Προβολή αναφοράς"
+
+#: i18n.cpp:162
+msgid "&Language"
+msgstr "Γλώσσα"
+
+#: i18n.cpp:163 i18n.cpp:209
+msgid "&Boot time scan"
+msgstr "Έλεγχος κατά την εκκίνηση"
+
+#: i18n.cpp:164
+msgid "&Sorting"
+msgstr "Ταξινόμηση"
+
+#: i18n.cpp:165
+msgid "&Reports"
+msgstr "Αναφορές"
+
+#: i18n.cpp:168
+msgid "&View change log"
+msgstr "Επισκόπηση αρχείου καταγραφής"
+
+#: i18n.cpp:169
+msgid "View translation &report"
+msgstr "Επισκόπηση αναφοράς μεταφράσεων"
+
+#: i18n.cpp:170
+msgid "&Translations folder"
+msgstr "Φάκελος μεταφράσεων"
+
+#: i18n.cpp:171
+msgid "&Submit current translation"
+msgstr "Υποβολή ενημερωμένης μετάφρασης"
+
+#: i18n.cpp:174
+msgid "&Options"
+msgstr "Επιλογές"
+
+#: i18n.cpp:177
+msgid "&Enable"
+msgstr "Ενεργοποίηση"
+
+#: i18n.cpp:178
+msgid "&Script"
+msgstr "Σενάριο"
+
+#: i18n.cpp:181
+msgid "By &path"
+msgstr "Bάσει διαδρομής"
+
+#: i18n.cpp:182
+msgid "By &size"
+msgstr "Bάσει μεγέθους"
+
+#: i18n.cpp:183
+msgid "By &creation time"
+msgstr "Bάσει χρόνου δημιουργίας"
+
+#: i18n.cpp:184
+msgid "By last &modification time"
+msgstr "Bάσει χρόνου τελευταίας τροποποίησης"
+
+#: i18n.cpp:185
+msgid "By &last access time"
+msgstr "Bάσει χρόνου τελευταίας πρόσβασης"
+
+#: i18n.cpp:186
+msgid "In &ascending order"
+msgstr "Αύξουσα ταξινόμηση"
+
+#: i18n.cpp:187
+msgid "In &descending order"
+msgstr "Φθίνουσα ταξινόμηση"
+
+#: i18n.cpp:190
+msgid "&Contents"
+msgstr "Περιεχόμενα"
+
+#: i18n.cpp:191
+msgid "Best &practice"
+msgstr "Καλύτερη πρακτική"
+
+#: i18n.cpp:192
+msgid "&Frequently asked questions"
+msgstr "Συχνές ερωτήσεις"
+
+#: i18n.cpp:193
+msgid "Cluster map &legend"
+msgstr "Χάρτης συστοιχιών και υπόμνημα"
+
+#: i18n.cpp:196 upgrade.cpp:161
+msgid "&Upgrade"
+msgstr "Αναβάθμιση "
+
+#: i18n.cpp:197
+msgid "&Never check"
+msgstr "Κανένας έλεγχος"
+
+#: i18n.cpp:198
+msgid "Check &stable releases only"
+msgstr "Έλεγχος σταθερών εκδόσεων μόνο"
+
+#: i18n.cpp:199
+msgid "Check &all releases"
+msgstr "Έλεγχος όλων των εκδόσεων"
+
+#: i18n.cpp:200
+msgid "&Check now"
+msgstr "'Ελεγχος τώρα"
+
+#: i18n.cpp:201
+msgid "&About"
+msgstr "Σχετικά"
+
+#: i18n.cpp:204
+msgid "&Debug"
+msgstr "Αποσφαλμάτωση"
+
+#: i18n.cpp:205 utils.cpp:411
+msgid "Open &log"
+msgstr "Άνοιγμα αρχείου καταγραφής"
+
+#: i18n.cpp:206
+msgid "Send bug &report"
+msgstr "Αποστολή αναφοράς σφαλμάτων"
+
+#: i18n.cpp:211
+msgid "Boot time script"
+msgstr "Σενάριο κατά την εκκίνηση"
+
+#: i18n.cpp:218
+msgid "Drive"
+msgstr "Μονάδα δίσκου"
+
+#: i18n.cpp:219 i18n.cpp:275
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: i18n.cpp:220
+msgid "Fragmentation"
+msgstr "Κατακερματισμός"
+
+#: i18n.cpp:221
+msgid "Total space"
+msgstr "Συνολικός χώρος"
+
+#: i18n.cpp:222
+msgid "Free space"
+msgstr "Ελεύθερος χώρος"
+
+#: i18n.cpp:224
+#, no-c-format
+msgid "% free"
+msgstr "% ελεύθερο"
+
+#: i18n.cpp:267
+msgid "Fragmented files on"
+msgstr "Κατακερματισμένα αρχεία σε"
+
+#: i18n.cpp:268
+msgid "Visit our Homepage"
+msgstr "Επίσκεψη του ιστοτόπου μας"
+
+#: i18n.cpp:269
+msgid "View report options"
+msgstr "Επισκόπηση επιλογών αναφοράς"
+
+#: i18n.cpp:270
+msgid "Powered by Lua"
+msgstr "Βασισμένο στη Lua"
+
+#: i18n.cpp:271
+msgid "Fragments"
+msgstr "κατακερματισμένα στοιχεία"
+
+#: i18n.cpp:272
+msgid "Size"
+msgstr "Μέγεθος"
+
+#: i18n.cpp:273
+msgid "Filename"
+msgstr "Όνομα αρχείου"
+
+#: i18n.cpp:274
+msgid "Comment"
+msgstr "Σχόλιο"
+
+#: i18n.cpp:276
+msgid "locked"
+msgstr "κλειδωμένο"
+
+#: i18n.cpp:277
+msgid "move failed"
+msgstr "αποτυχία μετακίνησης"
+
+#: i18n.cpp:278
+msgid "invalid"
+msgstr "άκυρο"
+
+#: shutdown.cpp:100
+msgid "Please confirm"
+msgstr "Παρακαλώ επιβεβαιώστε"
+
+#: shutdown.cpp:107
+msgid "Do you really want to hibernate when done?"
+msgstr "Σίγουρα θέλετε να γίνει αδρανοποίηση μόλις ολοκληρωθεί η διαδικασία;"
+
+#. : This expands to "60 seconds until hibernation"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:110
+#, c-format
+msgid "%lu seconds until hibernation"
+msgstr "%lu δευτερόλεπτα μέχρι την αδρανοποίηση"
+
+#: shutdown.cpp:113
+msgid "Do you really want to log off when done?"
+msgstr "Σίγουρα θέλετε να αποσυνδεθείτε μόλις ολοκληρωθεί η διαδικασία;"
+
+#. : This expands to "60 seconds until logoff"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:116
+#, c-format
+msgid "%lu seconds until logoff"
+msgstr "%lu δευτερόλεπτα μέχρι την αποσύνδεση"
+
+#: shutdown.cpp:119
+msgid "Do you really want to reboot when done?"
+msgstr "Σίγουρα θέλετε να κάνετε επανεκκίνηση μόλις ολοκληρωθεί η διαδικασία;"
+
+#. : This expands to "60 seconds until reboot"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:122
+#, c-format
+msgid "%lu seconds until reboot"
+msgstr "%lu δευτερόλεπτα μέχρι την επανεκκίνηση"
+
+#: shutdown.cpp:125
+msgid "Do you really want to shutdown when done?"
+msgstr "Σίγουρα θέλετε να γίνει τερματισμός μόλις ολοκληρωθεί η διαδικασία;"
+
+#. : This expands to "60 seconds until shutdown"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:128
+#, c-format
+msgid "%lu seconds until shutdown"
+msgstr "%lu δευτερόλεπτα μέχρι τον τερματισμό"
+
+#: shutdown.cpp:140
+msgid "&Yes"
+msgstr "Ναι"
+
+#: shutdown.cpp:141
+msgid "&No"
+msgstr "Όχι"
+
+#: statbar.cpp:92
+msgid "folders"
+msgstr "φάκελοι"
+
+#: statbar.cpp:93
+msgid "files"
+msgstr "αρχεία"
+
+#: statbar.cpp:94
+msgid "fragmented"
+msgstr "κατακερματισμένα"
+
+#: statbar.cpp:95
+msgid "compressed"
+msgstr "συμπιεσμένα"
+
+#: taskbar.cpp:198
+msgid "The job is paused"
+msgstr "Διεργασία σε παύση"
+
+#: taskbar.cpp:203
+msgid "The job is running"
+msgstr "Η διεργασία εκτελείται"
+
+#: tray.cpp:70
+msgid "Show"
+msgstr "Εμφάνιση"
+
+#: tray.cpp:72
+msgid "Hide"
+msgstr "Απόκρυψη"
+
+#. : This expands to "Release 7.0.0 is available for download!"
+#. : Make sure that "%ls" is included in the translated string at the correct
+#. position
+#: upgrade.cpp:158
+#, c-format
+msgid "Release %ls is available for download!"
+msgstr "Η έκδοση %ls είναι διαθέσιμη για λήψη!"
+
+#: upgrade.cpp:160
+msgid "You can upgrade me ^-^"
+msgstr "Δυνατότητα αναβάθμισης ^-^"
+
+#: upgrade.cpp:161 utils.cpp:415
+msgid "&Cancel"
+msgstr "Ακύρωση"
+
+#: utils.cpp:414
+msgid "Error!"
+msgstr "Σφαλμα!"
+
+#: vollist.cpp:328
+msgid "Disk needs to be repaired"
+msgstr "Απαιτείται επιδιόρθωση δίσκου"
+
+#. : Status of the running disk analysis,
+#. : expands to "10 % analyzed".
+#. : Make sure that "%5.2lf" is included in the
+#. : translated string at the correct position.
+#: vollist.cpp:369
+#, c-format
+msgid "%5.2lf %% analyzed"
+msgstr "%5.2lf %% αναλύθηκε"
+
+#. : Status of the running disk defragmentation,
+#. : expands to "10 % defragmented, pass 5".
+#. : Make sure that "%5.2lf" and "%d" are included
+#. : in the translated string at the correct positions.
+#: vollist.cpp:375
+#, c-format
+msgid "%5.2lf %% defragmented, pass %d"
+msgstr "%5.2lf %% αναλύθηκε, πέρασμα %d"
+
+#. : Status of the running disk optimization, expands to
+#. : "10 % optimized, pass 5, 1024 moves total".
+#. : Make sure that "%5.2lf", "%d" and "%I64u" are included
+#. : in the translated string at the correct positions.
+#: vollist.cpp:383
+msgid "%5.2lf %% optimized, pass %d, %I64u moves total"
+msgstr "%5.2lf %% βελτιστοποιήθηκε, πέρασμα %d, %I64u μετακινήσεις συνολικά"
+
+#. : Status of the completed disk analysis.
+#: vollist.cpp:390
+msgid "Analyzed"
+msgstr "Αναλύθηκε"
+
+#. : Status of the completed disk defragmentation,
+#. : expands to "Defragmented, in 5 passes".
+#. : Make sure that "%d" is included in the
+#. : translated string at the correct position.
+#: vollist.cpp:396
+#, c-format
+msgid "Defragmented, in %d passes"
+msgstr "Ανασυγκροτήθηκε, σε %d περάσματα"
+
+#. : Status of the completed disk optimization, expands to
+#. : "Optimized, in 5 passes, 1024 moves total".
+#. : Make sure that "%d" and "%I64u" are included
+#. : in the translated string at the correct positions.
+#: vollist.cpp:404
+msgid "Optimized, in %d passes, %I64u moves total"
+msgstr "Βελτιστοποιήθηκε, σε %d περάσματα, %I64u μετακινήσεις συνολικά"

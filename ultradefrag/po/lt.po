@@ -1,0 +1,492 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR UltraDefrag Development Team
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Eugenijus Januškevičius <eugenijus.januskevicius@vgtu.lt>, 2014
+msgid ""
+msgstr ""
+"Project-Id-Version: ultradefrag\n"
+"Report-Msgid-Bugs-To: http://sourceforge.net/p/ultradefrag/bugs/\n"
+"POT-Creation-Date: 2013-07-10 21:44+0200\n"
+"PO-Revision-Date: 2014-02-02 11:40+0000\n"
+"Last-Translator: Eugenijus Januškevičius <eugenijus.januskevicius@vgtu.lt>\n"
+"Language-Team: Lithuanian (http://www.transifex.com/stefanpendl/ultradefrag/language/lt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: lt\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: about.cpp:77
+msgid "About UltraDefrag"
+msgstr "Apie UltraDefrag"
+
+#: about.cpp:90
+msgid "An open source defragmentation utility."
+msgstr "Atviro kodo defragmentavimo programa"
+
+#: about.cpp:92
+msgid "Credits and licenses are listed in the handbook."
+msgstr "Padėką ir naudojimo sąlygas rasite naudotojo vadove."
+
+#: about.cpp:95
+msgid "UltraDefrag website"
+msgstr "UltraDefrag WWW puslapis"
+
+#: i18n.cpp:129
+msgid "&Action"
+msgstr "&Veiksmai"
+
+#: i18n.cpp:130
+msgid "&Report"
+msgstr "&Ataskaita"
+
+#: i18n.cpp:131
+msgid "&Settings"
+msgstr "&Nuostatos"
+
+#: i18n.cpp:132 i18n.cpp:213
+msgid "&Help"
+msgstr "&Pagalba"
+
+#: i18n.cpp:135
+msgid "&Analyze"
+msgstr "&Analizuoti"
+
+#: i18n.cpp:136
+msgid "&Defragment"
+msgstr "&Defragmentuoti"
+
+#: i18n.cpp:137
+msgid "&Quick optimization"
+msgstr "&Greitas optimizavimas"
+
+#: i18n.cpp:138
+msgid "&Full optimization"
+msgstr "&Pilnas optimizavimas"
+
+#: i18n.cpp:139
+msgid "&Optimize MFT"
+msgstr "&Optimizuoti MFT"
+
+#: i18n.cpp:140 tray.cpp:80
+msgid "Pa&use"
+msgstr "Prista&bdyti"
+
+#: i18n.cpp:141
+msgid "&Stop"
+msgstr "&Stabdyti"
+
+#: i18n.cpp:142
+msgid "Re&peat action"
+msgstr "Pa&kartoti veiksmą"
+
+#: i18n.cpp:143
+msgid "Skip removable &media"
+msgstr "Praleisti &mobilias laikmenas"
+
+#: i18n.cpp:144
+msgid "&Rescan drives"
+msgstr "Pe&rskanuoti diskus"
+
+#: i18n.cpp:145
+msgid "Repair dri&ves"
+msgstr "Tva&rkyti diskus"
+
+#: i18n.cpp:146 i18n.cpp:151 tray.cpp:85
+msgid "E&xit"
+msgstr "&Išeiti"
+
+#: i18n.cpp:149
+msgid "&When done"
+msgstr "&Užbaigus"
+
+#: i18n.cpp:150
+msgid "&None"
+msgstr "&Nieko"
+
+#: i18n.cpp:152
+msgid "Stan&dby"
+msgstr "Pristab&dyti"
+
+#: i18n.cpp:153
+msgid "&Hibernate"
+msgstr "&Hibernuoti"
+
+#: i18n.cpp:154
+msgid "&Logoff"
+msgstr "&Atjungti vartotoją"
+
+#: i18n.cpp:155
+msgid "&Reboot"
+msgstr "&Perkrauti"
+
+#: i18n.cpp:156
+msgid "&Shutdown"
+msgstr "Išjun&gti"
+
+#: i18n.cpp:159
+msgid "&Show report"
+msgstr "&Rodyti ataskaitą"
+
+#: i18n.cpp:162
+msgid "&Language"
+msgstr "Ka&lba"
+
+#: i18n.cpp:163 i18n.cpp:209
+msgid "&Boot time scan"
+msgstr "&Skanuoti OS krovimo metu"
+
+#: i18n.cpp:164
+msgid "&Sorting"
+msgstr "&Rikiavimas"
+
+#: i18n.cpp:165
+msgid "&Reports"
+msgstr "&Ataskaitos"
+
+#: i18n.cpp:168
+msgid "&View change log"
+msgstr "&Pakeitimai"
+
+#: i18n.cpp:169
+msgid "View translation &report"
+msgstr "Vertimo &ataskaita"
+
+#: i18n.cpp:170
+msgid "&Translations folder"
+msgstr "Vertimų &katalogas"
+
+#: i18n.cpp:171
+msgid "&Submit current translation"
+msgstr "&Siųsti vertimą"
+
+#: i18n.cpp:174
+msgid "&Options"
+msgstr "Tinkinti"
+
+#: i18n.cpp:177
+msgid "&Enable"
+msgstr "&Paleisti"
+
+#: i18n.cpp:178
+msgid "&Script"
+msgstr "&Skriptas"
+
+#: i18n.cpp:181
+msgid "By &path"
+msgstr "Rikiuoti pagal &kelią"
+
+#: i18n.cpp:182
+msgid "By &size"
+msgstr "Rikiuoti pagal &dydį"
+
+#: i18n.cpp:183
+msgid "By &creation time"
+msgstr "Rikiuoti pagal &sukūrimo laiką"
+
+#: i18n.cpp:184
+msgid "By last &modification time"
+msgstr "Rikiuoti pagal paskutinį &modifikacijos laiką"
+
+#: i18n.cpp:185
+msgid "By &last access time"
+msgstr "Rikiuoti pagal &paskutinį kreipties laiką"
+
+#: i18n.cpp:186
+msgid "In &ascending order"
+msgstr "Rikiuoti &didėjimo tvarka"
+
+#: i18n.cpp:187
+msgid "In &descending order"
+msgstr "Rikiuoti &mažėjimo tvarka"
+
+#: i18n.cpp:190
+msgid "&Contents"
+msgstr "&Turinys"
+
+#: i18n.cpp:191
+msgid "Best &practice"
+msgstr "Geroji &praktika"
+
+#: i18n.cpp:192
+msgid "&Frequently asked questions"
+msgstr "&DUK"
+
+#: i18n.cpp:193
+msgid "Cluster map &legend"
+msgstr "Klasterių išdėstymo &legenda"
+
+#: i18n.cpp:196 upgrade.cpp:161
+msgid "&Upgrade"
+msgstr "Atna&ujinti"
+
+#: i18n.cpp:197
+msgid "&Never check"
+msgstr "&Niekada netikrinti"
+
+#: i18n.cpp:198
+msgid "Check &stable releases only"
+msgstr "Tikrinti tik &stabilias laidas"
+
+#: i18n.cpp:199
+msgid "Check &all releases"
+msgstr "Tikrinti visas l&aidas"
+
+#: i18n.cpp:200
+msgid "&Check now"
+msgstr "Patikrinti"
+
+#: i18n.cpp:201
+msgid "&About"
+msgstr "&Apie"
+
+#: i18n.cpp:204
+msgid "&Debug"
+msgstr "De&rinti"
+
+#: i18n.cpp:205 utils.cpp:411
+msgid "Open &log"
+msgstr "Atverti žurna&lą"
+
+#: i18n.cpp:206
+msgid "Send bug &report"
+msgstr "Pranešti apie &klaidą"
+
+#: i18n.cpp:211
+msgid "Boot time script"
+msgstr "Skriptas OS įkrovai"
+
+#: i18n.cpp:218
+msgid "Drive"
+msgstr "Diskas"
+
+#: i18n.cpp:219 i18n.cpp:275
+msgid "Status"
+msgstr "Statusas"
+
+#: i18n.cpp:220
+msgid "Fragmentation"
+msgstr "Skilimas"
+
+#: i18n.cpp:221
+msgid "Total space"
+msgstr "Bendras dydis"
+
+#: i18n.cpp:222
+msgid "Free space"
+msgstr "Laisva"
+
+#: i18n.cpp:224
+#, no-c-format
+msgid "% free"
+msgstr "% laisva"
+
+#: i18n.cpp:267
+msgid "Fragmented files on"
+msgstr "Fragmentuoti failai"
+
+#: i18n.cpp:268
+msgid "Visit our Homepage"
+msgstr "Mūsų puslapis"
+
+#: i18n.cpp:269
+msgid "View report options"
+msgstr "Ataskaitos parinktys"
+
+#: i18n.cpp:270
+msgid "Powered by Lua"
+msgstr "Parašytas Lua"
+
+#: i18n.cpp:271
+msgid "Fragments"
+msgstr "Fragmentai"
+
+#: i18n.cpp:272
+msgid "Size"
+msgstr "Dydis"
+
+#: i18n.cpp:273
+msgid "Filename"
+msgstr "Failo pavadinimas"
+
+#: i18n.cpp:274
+msgid "Comment"
+msgstr "Pastabos"
+
+#: i18n.cpp:276
+msgid "locked"
+msgstr "užrakinta"
+
+#: i18n.cpp:277
+msgid "move failed"
+msgstr "perkėlimas nepavyko"
+
+#: i18n.cpp:278
+msgid "invalid"
+msgstr "neteisinga"
+
+#: shutdown.cpp:100
+msgid "Please confirm"
+msgstr "Patvirtinkite"
+
+#: shutdown.cpp:107
+msgid "Do you really want to hibernate when done?"
+msgstr "Ar tikrai pabaigus darbą hibernuoti?"
+
+#. : This expands to "60 seconds until hibernation"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:110
+#, c-format
+msgid "%lu seconds until hibernation"
+msgstr "%lu sekundžių iki hibernavimo"
+
+#: shutdown.cpp:113
+msgid "Do you really want to log off when done?"
+msgstr "Ar tikrai pabaigus darbą atjungti vartotoją?"
+
+#. : This expands to "60 seconds until logoff"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:116
+#, c-format
+msgid "%lu seconds until logoff"
+msgstr "%lu sekundžių iki vartotojo atjungimo"
+
+#: shutdown.cpp:119
+msgid "Do you really want to reboot when done?"
+msgstr "Ar tikrai pabaigus darbą perkrauti OS?"
+
+#. : This expands to "60 seconds until reboot"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:122
+#, c-format
+msgid "%lu seconds until reboot"
+msgstr "%lu sekundžių iki OS perkrovimo"
+
+#: shutdown.cpp:125
+msgid "Do you really want to shutdown when done?"
+msgstr "Ar tikrai išjungti pabaigus darbą?"
+
+#. : This expands to "60 seconds until shutdown"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:128
+#, c-format
+msgid "%lu seconds until shutdown"
+msgstr "%lu sekundžių iki išjungimo"
+
+#: shutdown.cpp:140
+msgid "&Yes"
+msgstr "&Taip"
+
+#: shutdown.cpp:141
+msgid "&No"
+msgstr "&Ne"
+
+#: statbar.cpp:92
+msgid "folders"
+msgstr "katalogai"
+
+#: statbar.cpp:93
+msgid "files"
+msgstr "failai"
+
+#: statbar.cpp:94
+msgid "fragmented"
+msgstr "fragmentuota"
+
+#: statbar.cpp:95
+msgid "compressed"
+msgstr "suspausta"
+
+#: taskbar.cpp:198
+msgid "The job is paused"
+msgstr "Užduotis sustabdyta"
+
+#: taskbar.cpp:203
+msgid "The job is running"
+msgstr "Dirbu"
+
+#: tray.cpp:70
+msgid "Show"
+msgstr "Rodyti"
+
+#: tray.cpp:72
+msgid "Hide"
+msgstr "Slėpti"
+
+#. : This expands to "Release 7.0.0 is available for download!"
+#. : Make sure that "%ls" is included in the translated string at the correct
+#. position
+#: upgrade.cpp:158
+#, c-format
+msgid "Release %ls is available for download!"
+msgstr "Galima parsisiųsti %ls laidą!"
+
+#: upgrade.cpp:160
+msgid "You can upgrade me ^-^"
+msgstr "O mane galima atnaujnti ^-^"
+
+#: upgrade.cpp:161 utils.cpp:415
+msgid "&Cancel"
+msgstr "&Nutraukti"
+
+#: utils.cpp:414
+msgid "Error!"
+msgstr "Klaida!"
+
+#: vollist.cpp:328
+msgid "Disk needs to be repaired"
+msgstr "diską reikia tvarkyti"
+
+#. : Status of the running disk analysis,
+#. : expands to "10 % analyzed".
+#. : Make sure that "%5.2lf" is included in the
+#. : translated string at the correct position.
+#: vollist.cpp:369
+#, c-format
+msgid "%5.2lf %% analyzed"
+msgstr "Išanalizuota %5.2lf %%"
+
+#. : Status of the running disk defragmentation,
+#. : expands to "10 % defragmented, pass 5".
+#. : Make sure that "%5.2lf" and "%d" are included
+#. : in the translated string at the correct positions.
+#: vollist.cpp:375
+#, c-format
+msgid "%5.2lf %% defragmented, pass %d"
+msgstr "Defragmentuota %5.2lf %%, %d etapas"
+
+#. : Status of the running disk optimization, expands to
+#. : "10 % optimized, pass 5, 1024 moves total".
+#. : Make sure that "%5.2lf", "%d" and "%I64u" are included
+#. : in the translated string at the correct positions.
+#: vollist.cpp:383
+msgid "%5.2lf %% optimized, pass %d, %I64u moves total"
+msgstr "Opitimizuota %5.2lf %%, %d etapas, perkelta %I64u kartų"
+
+#. : Status of the completed disk analysis.
+#: vollist.cpp:390
+msgid "Analyzed"
+msgstr "išanalizuota"
+
+#. : Status of the completed disk defragmentation,
+#. : expands to "Defragmented, in 5 passes".
+#. : Make sure that "%d" is included in the
+#. : translated string at the correct position.
+#: vollist.cpp:396
+#, c-format
+msgid "Defragmented, in %d passes"
+msgstr "Defragmentuota per %d etapą(-us)"
+
+#. : Status of the completed disk optimization, expands to
+#. : "Optimized, in 5 passes, 1024 moves total".
+#. : Make sure that "%d" and "%I64u" are included
+#. : in the translated string at the correct positions.
+#: vollist.cpp:404
+msgid "Optimized, in %d passes, %I64u moves total"
+msgstr "Optimizuota per %d etapų (-us), perkelta %I64u kartų"

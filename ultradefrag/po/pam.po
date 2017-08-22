@@ -1,0 +1,491 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR UltraDefrag Development Team
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: ultradefrag\n"
+"Report-Msgid-Bugs-To: http://sourceforge.net/p/ultradefrag/bugs/\n"
+"POT-Creation-Date: 2013-07-10 21:44+0200\n"
+"PO-Revision-Date: 2013-11-20 09:52+0000\n"
+"Last-Translator: Stefan Pendl <stefanpe@users.sourceforge.net>\n"
+"Language-Team: Kapampangan (http://www.transifex.com/stefanpendl/ultradefrag/language/pam/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pam\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: about.cpp:77
+msgid "About UltraDefrag"
+msgstr "Tungkul king UltraDefrag"
+
+#: about.cpp:90
+msgid "An open source defragmentation utility."
+msgstr ""
+
+#: about.cpp:92
+msgid "Credits and licenses are listed in the handbook."
+msgstr ""
+
+#: about.cpp:95
+msgid "UltraDefrag website"
+msgstr ""
+
+#: i18n.cpp:129
+msgid "&Action"
+msgstr "&Gawan"
+
+#: i18n.cpp:130
+msgid "&Report"
+msgstr "&Ulat"
+
+#: i18n.cpp:131
+msgid "&Settings"
+msgstr "&Setting"
+
+#: i18n.cpp:132 i18n.cpp:213
+msgid "&Help"
+msgstr "&Saup"
+
+#: i18n.cpp:135
+msgid "&Analyze"
+msgstr "&Suryan/Analisan"
+
+#: i18n.cpp:136
+msgid "&Defragment"
+msgstr "&Piaben-abayan"
+
+#: i18n.cpp:137
+msgid "&Quick optimization"
+msgstr "&Samasan yang malagwa"
+
+#: i18n.cpp:138
+msgid "&Full optimization"
+msgstr "&Samasan yang laganas"
+
+#: i18n.cpp:139
+msgid "&Optimize MFT"
+msgstr "&Samasan ya ing MFT"
+
+#: i18n.cpp:140 tray.cpp:80
+msgid "Pa&use"
+msgstr ""
+
+#: i18n.cpp:141
+msgid "&Stop"
+msgstr "&Ituknang"
+
+#: i18n.cpp:142
+msgid "Re&peat action"
+msgstr "&Pasibaywan/Ulitan"
+
+#: i18n.cpp:143
+msgid "Skip removable &media"
+msgstr "&Lakton la reng mediang milalako"
+
+#: i18n.cpp:144
+msgid "&Rescan drives"
+msgstr "&Lawan lang pasibayu deng drive"
+
+#: i18n.cpp:145
+msgid "Repair dri&ves"
+msgstr ""
+
+#: i18n.cpp:146 i18n.cpp:151 tray.cpp:85
+msgid "E&xit"
+msgstr "&Lumwal"
+
+#: i18n.cpp:149
+msgid "&When done"
+msgstr "&Kayari..."
+
+#: i18n.cpp:150
+msgid "&None"
+msgstr "&Ala"
+
+#: i18n.cpp:152
+msgid "Stan&dby"
+msgstr "&Manaya"
+
+#: i18n.cpp:153
+msgid "&Hibernate"
+msgstr "&Matudtud"
+
+#: i18n.cpp:154
+msgid "&Logoff"
+msgstr "&Mag-logoff"
+
+#: i18n.cpp:155
+msgid "&Reboot"
+msgstr "&Magumpisang pasibayu"
+
+#: i18n.cpp:156
+msgid "&Shutdown"
+msgstr "&Manyara"
+
+#: i18n.cpp:159
+msgid "&Show report"
+msgstr "&Pakit ya ing ulat"
+
+#: i18n.cpp:162
+msgid "&Language"
+msgstr "&Amanu/Lenggwahi"
+
+#: i18n.cpp:163 i18n.cpp:209
+msgid "&Boot time scan"
+msgstr "&Pamag-scan keng umpisa"
+
+#: i18n.cpp:164
+msgid "&Sorting"
+msgstr ""
+
+#: i18n.cpp:165
+msgid "&Reports"
+msgstr "&Ulat"
+
+#: i18n.cpp:168
+msgid "&View change log"
+msgstr ""
+
+#: i18n.cpp:169
+msgid "View translation &report"
+msgstr ""
+
+#: i18n.cpp:170
+msgid "&Translations folder"
+msgstr "&Pamaglikas/Translations"
+
+#: i18n.cpp:171
+msgid "&Submit current translation"
+msgstr ""
+
+#: i18n.cpp:174
+msgid "&Options"
+msgstr ""
+
+#: i18n.cpp:177
+msgid "&Enable"
+msgstr "&Paintulutan/Papalyaryan"
+
+#: i18n.cpp:178
+msgid "&Script"
+msgstr ""
+
+#: i18n.cpp:181
+msgid "By &path"
+msgstr ""
+
+#: i18n.cpp:182
+msgid "By &size"
+msgstr ""
+
+#: i18n.cpp:183
+msgid "By &creation time"
+msgstr ""
+
+#: i18n.cpp:184
+msgid "By last &modification time"
+msgstr ""
+
+#: i18n.cpp:185
+msgid "By &last access time"
+msgstr ""
+
+#: i18n.cpp:186
+msgid "In &ascending order"
+msgstr ""
+
+#: i18n.cpp:187
+msgid "In &descending order"
+msgstr ""
+
+#: i18n.cpp:190
+msgid "&Contents"
+msgstr "&Kalamnan"
+
+#: i18n.cpp:191
+msgid "Best &practice"
+msgstr "&Mayap a Palakad"
+
+#: i18n.cpp:192
+msgid "&Frequently asked questions"
+msgstr "&Maralas a Kutang"
+
+#: i18n.cpp:193
+msgid "Cluster map &legend"
+msgstr ""
+
+#: i18n.cpp:196 upgrade.cpp:161
+msgid "&Upgrade"
+msgstr ""
+
+#: i18n.cpp:197
+msgid "&Never check"
+msgstr ""
+
+#: i18n.cpp:198
+msgid "Check &stable releases only"
+msgstr ""
+
+#: i18n.cpp:199
+msgid "Check &all releases"
+msgstr ""
+
+#: i18n.cpp:200
+msgid "&Check now"
+msgstr ""
+
+#: i18n.cpp:201
+msgid "&About"
+msgstr "&Tungkul king"
+
+#: i18n.cpp:204
+msgid "&Debug"
+msgstr ""
+
+#: i18n.cpp:205 utils.cpp:411
+msgid "Open &log"
+msgstr ""
+
+#: i18n.cpp:206
+msgid "Send bug &report"
+msgstr ""
+
+#: i18n.cpp:211
+msgid "Boot time script"
+msgstr "Script king Pamagumpisa"
+
+#: i18n.cpp:218
+msgid "Drive"
+msgstr "Volume"
+
+#: i18n.cpp:219 i18n.cpp:275
+msgid "Status"
+msgstr "Kabilyan"
+
+#: i18n.cpp:220
+msgid "Fragmentation"
+msgstr ""
+
+#: i18n.cpp:221
+msgid "Total space"
+msgstr "Kapasidad/Pangkabilugan"
+
+#: i18n.cpp:222
+msgid "Free space"
+msgstr "Ilibri/Itimawa"
+
+#: i18n.cpp:224
+#, no-c-format
+msgid "% free"
+msgstr "% a libri o timawa"
+
+#: i18n.cpp:267
+msgid "Fragmented files on"
+msgstr ""
+
+#: i18n.cpp:268
+msgid "Visit our Homepage"
+msgstr ""
+
+#: i18n.cpp:269
+msgid "View report options"
+msgstr ""
+
+#: i18n.cpp:270
+msgid "Powered by Lua"
+msgstr ""
+
+#: i18n.cpp:271
+msgid "Fragments"
+msgstr ""
+
+#: i18n.cpp:272
+msgid "Size"
+msgstr ""
+
+#: i18n.cpp:273
+msgid "Filename"
+msgstr ""
+
+#: i18n.cpp:274
+msgid "Comment"
+msgstr ""
+
+#: i18n.cpp:276
+msgid "locked"
+msgstr ""
+
+#: i18n.cpp:277
+msgid "move failed"
+msgstr ""
+
+#: i18n.cpp:278
+msgid "invalid"
+msgstr ""
+
+#: shutdown.cpp:100
+msgid "Please confirm"
+msgstr "Kumpirman/Patunayan"
+
+#: shutdown.cpp:107
+msgid "Do you really want to hibernate when done?"
+msgstr "Buri meng patudturan kayari na?"
+
+#. : This expands to "60 seconds until hibernation"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:110
+#, c-format
+msgid "%lu seconds until hibernation"
+msgstr "%lu segundu bayu ya patudturan"
+
+#: shutdown.cpp:113
+msgid "Do you really want to log off when done?"
+msgstr "Bisa kang mag-logoff kayari na?"
+
+#. : This expands to "60 seconds until logoff"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:116
+#, c-format
+msgid "%lu seconds until logoff"
+msgstr "%lu segundu bayu mag-logoff"
+
+#: shutdown.cpp:119
+msgid "Do you really want to reboot when done?"
+msgstr "Bisa kang magumpisang pasibayu kayari na?"
+
+#. : This expands to "60 seconds until reboot"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:122
+#, c-format
+msgid "%lu seconds until reboot"
+msgstr "%lu segundu bayu magumpisang pasibayu"
+
+#: shutdown.cpp:125
+msgid "Do you really want to shutdown when done?"
+msgstr "Bisa kang manyara kayari na?"
+
+#. : This expands to "60 seconds until shutdown"
+#. : Make sure that "%lu" is included in the translated string at the correct
+#. position
+#: shutdown.cpp:128
+#, c-format
+msgid "%lu seconds until shutdown"
+msgstr "%lu segundu bayu manyara"
+
+#: shutdown.cpp:140
+msgid "&Yes"
+msgstr "&Wa"
+
+#: shutdown.cpp:141
+msgid "&No"
+msgstr "&Ali"
+
+#: statbar.cpp:92
+msgid "folders"
+msgstr "Folder"
+
+#: statbar.cpp:93
+msgid "files"
+msgstr "Simpan/File"
+
+#: statbar.cpp:94
+msgid "fragmented"
+msgstr "Pira-pirasu"
+
+#: statbar.cpp:95
+msgid "compressed"
+msgstr "Mesiksik"
+
+#: taskbar.cpp:198
+msgid "The job is paused"
+msgstr ""
+
+#: taskbar.cpp:203
+msgid "The job is running"
+msgstr ""
+
+#: tray.cpp:70
+msgid "Show"
+msgstr ""
+
+#: tray.cpp:72
+msgid "Hide"
+msgstr ""
+
+#. : This expands to "Release 7.0.0 is available for download!"
+#. : Make sure that "%ls" is included in the translated string at the correct
+#. position
+#: upgrade.cpp:158
+#, c-format
+msgid "Release %ls is available for download!"
+msgstr ""
+
+#: upgrade.cpp:160
+msgid "You can upgrade me ^-^"
+msgstr ""
+
+#: upgrade.cpp:161 utils.cpp:415
+msgid "&Cancel"
+msgstr ""
+
+#: utils.cpp:414
+msgid "Error!"
+msgstr ""
+
+#: vollist.cpp:328
+msgid "Disk needs to be repaired"
+msgstr ""
+
+#. : Status of the running disk analysis,
+#. : expands to "10 % analyzed".
+#. : Make sure that "%5.2lf" is included in the
+#. : translated string at the correct position.
+#: vollist.cpp:369
+#, c-format
+msgid "%5.2lf %% analyzed"
+msgstr ""
+
+#. : Status of the running disk defragmentation,
+#. : expands to "10 % defragmented, pass 5".
+#. : Make sure that "%5.2lf" and "%d" are included
+#. : in the translated string at the correct positions.
+#: vollist.cpp:375
+#, c-format
+msgid "%5.2lf %% defragmented, pass %d"
+msgstr ""
+
+#. : Status of the running disk optimization, expands to
+#. : "10 % optimized, pass 5, 1024 moves total".
+#. : Make sure that "%5.2lf", "%d" and "%I64u" are included
+#. : in the translated string at the correct positions.
+#: vollist.cpp:383
+msgid "%5.2lf %% optimized, pass %d, %I64u moves total"
+msgstr ""
+
+#. : Status of the completed disk analysis.
+#: vollist.cpp:390
+msgid "Analyzed"
+msgstr "Mesuri"
+
+#. : Status of the completed disk defragmentation,
+#. : expands to "Defragmented, in 5 passes".
+#. : Make sure that "%d" is included in the
+#. : translated string at the correct position.
+#: vollist.cpp:396
+#, c-format
+msgid "Defragmented, in %d passes"
+msgstr ""
+
+#. : Status of the completed disk optimization, expands to
+#. : "Optimized, in 5 passes, 1024 moves total".
+#. : Make sure that "%d" and "%I64u" are included
+#. : in the translated string at the correct positions.
+#: vollist.cpp:404
+msgid "Optimized, in %d passes, %I64u moves total"
+msgstr ""

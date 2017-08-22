@@ -1,0 +1,1272 @@
+﻿HISTORY
+
+  Version 7.0.2 2016-12-17
+  ------------------------------------------------------------------------------
+    - graphical and command line tools were optimized for speed and size
+    - the following translations were updated:
+
+      Arabic, Filipino (Tagalog), Iloko, Indonesian,
+      Japanese, Ukrainian, Uzbek (Latin)
+
+
+  Version 7.0.1 2016-03-26
+  ------------------------------------------------------------------------------
+    - wxWidgets were upgraded to the latest 3.1.0 release
+    - crash handler was improved to handle division by zero errors
+    - Uzbek (Latin) translation was added
+    - the following translations were updated:
+    
+      Filipino (Tagalog), Iloko, Korean
+
+
+  Version 7.0.0 2015-12-23
+  ------------------------------------------------------------------------------
+    RC1:
+    - few minor bugs were fixed
+    - the following translations were updated:
+
+      Filipino (Tagalog), Spanish
+    
+    beta6:
+    - few major bugs affecting thread safety were fixed
+
+    beta5:
+    - wxWidgets were upgraded to the latest stable 3.0.2 release
+    - a lot of minor bugs were fixed
+    - Finnish translation was updated
+    - NOTE: the language selection got broken, because wxWidgets 3.0.2
+      uses different language identifiers; just click Settings > Language
+      and select yours once again to fix that
+    
+    beta4:
+    - safer options were used for compilation
+    - Slovak translation was updated
+    - one minor bug was fixed
+    
+    beta3:
+    - crash handling was reimplemented
+    - few minor bugs were fixed
+    - Portuguese (Brazil) translation was updated
+
+    beta2:
+    - the following translations were updated:
+
+      Catalan, Chinese (China), Chinese (Taiwan), Czech, Danish, Dutch, 
+      English (United Kingdom), French, Georgian, German, Greek, Hungarian, 
+      Iloko, Indonesian, Italian, Japanese, Korean, Lithuanian, Persian, 
+      Polish, Portuguese, Portuguese (Brazil), Russian, Spanish, Spanish (Mexico), 
+      Swedish, Thai, Turkish, Ukrainian, Vietnamese
+
+    beta1:
+    - GUI and command line tools reimplemented on top of wxWidgets library
+    - online translation migrated from http://ultradefrag.wikispaces.com/
+      to http://www.transifex.com/projects/p/ultradefrag/
+    - initial language selection is now done by the GUI instead of the installer
+    - ability to hide drives list columns through their resizing added
+    - ability to check for all or stable updates added
+    - multicolumn language selection menu implemented
+    - internal GUI settings moved from guiopts-internals.lua to gui.ini file
+    - Windows NT 4.0 and Windows 2000 support dropped due to poor API support
+    - useless font selection dialog removed from GUI (adjust Windows theme instead)
+    - scale_by_dpi GUI parameter removed, as well as disable_latest_version_check
+      and restore_default_window_size parameters (examine guiopts.lua file for details)
+    - Internals: Windows Driver Kit support dropped because of its
+      unreliable development environment - use Windows SDK v7.1 instead
+    - winx_vswprintf and winx_swprintf routines added to zenwinx library
+    - wgx library replaced by wxWidgets library
+
+                                    ***
+
+  Version 6.1.2 2016-06-09
+  ------------------------------------------------------------------------------
+    - crash handling was reimplemented
+
+
+  Version 6.1.1 2015-11-20
+  ------------------------------------------------------------------------------
+    - graphical interface forced to check for available updates more reliably
+
+
+  Version 6.1.0 2015-04-19
+  ------------------------------------------------------------------------------
+    - documentation was cleaned up
+    - configuration files were superseded by a single options.lua file
+    - few minor bugs were fixed
+
+
+  Version 6.0.4 2014-10-25
+  ------------------------------------------------------------------------------
+    - fixed a bug preventing configuration files creation on Windows 7
+
+
+  Version 6.0.3 2014-10-19
+  ------------------------------------------------------------------------------
+    - corrected a problem where the Windows folder was not detected properly
+      if the terminal services were activated
+    - online translation support discontinued due to migration to transifex
+    - the following translations were updated:
+
+      Filipino (Tagalog), Galician, German, Thai, Ukrainian
+
+
+  Version 6.0.2 2013-05-17
+  ------------------------------------------------------------------------------
+    - the FAQ section of the handbook now contains information about how to
+      set up v6 to optimize similarly to v5
+    - the Explorer context menu is now reduced to a single entry with sub-menu
+      on Windows 7 and above
+    - the following translations were updated:
+
+      Albanian, Danish, Filipino (Tagalog), Indonesian (Bahasa Indonesia),
+      Javanese, Polish, Portuguese (BR)
+
+
+  Version 6.0.1 2013-04-01
+  ------------------------------------------------------------------------------
+    - Installer no longer warns about Windows 8 being untested
+    - shortened the delay after hitting the finish button of the installer
+    - increased Windows 8 compatibility
+    - the following translations were added:
+
+      Armenian
+
+    - the following translations were updated:
+
+      Chinese (Traditional), Filipino (Tagalog), Italian, Portuguese, Spanish (AR),
+      Ukrainian, Vietnamese
+
+
+  Version 6.0.0 2013-03-02
+  ------------------------------------------------------------------------------
+    - the following translations were updated:
+
+      Chinese (Traditional)
+
+    RC3:
+    - fixed bug #175 "End of stage shows completion at 0.0%"
+    - log creation in case of out of memory condition added
+    - performance of analysis for fragmented files count above 30000 was
+      improved dramatically
+    - the following translations were updated:
+
+      Chinese (Traditional), Dutch, Iloko, Italian, Russian, Spanish (ES),
+      Spanish (MEX)
+
+    RC2:
+    - upgrade check now better supports development releases
+    - out of memory condition handling added
+
+    RC1:
+    - Internals: changed definition of WGX_OPTION structure
+    - WgxGetControlDimensions routine added to wgx library
+
+    - the following translations were added:
+
+      Bengali
+
+    - the following translations were updated:
+
+      Catalan, Italian
+
+    beta2:
+    - added progress indication to the taskbar button for Windows 7
+      and more recent Windows editions; it can be turned on/off by 
+      show_progress_in_taskbar GUI option
+    - file fragmentation reports moved from the root directories of
+      the drives to the /reports sub-folder of the program's directory
+    - added ability to configure the Explorer's context menu handler;
+      an appropriate section added to guiopts.lua file
+    - bug fix: UD_IN_FILTER forced to be not ignored when individual
+      files/directories are specified on the command line
+    - bug fix: UD_SORTING and UD_SORTING_ORDER environment variables
+      forced to be set properly on GUI startup according to the Preview
+      menu selections
+    - added prefixes for all the debugging messages for easier analysis of logs
+    - Internals: many prototypes changed in zenwinx, udefrag, wgx libraries;
+      obsolete routines removed
+    - winx_bootex_check routine added to zenwinx library
+    - udefrag_init_library, udefrag_unload_library, udefrag_bootex_check,
+      udefrag_bootex_register, udefrag_bootex_unregister routines added
+    - WgxSetTaskbarProgressState, WgxSetTaskbarProgressValue, wgx_sprintf,
+      wgx_vsprintf, wgx_swprintf, wgx_vswprintf routines added to wgx library
+    - tracing macros for easier debugging added to zenwinx.h and wgx.h files
+    - Windows Server 2003 DDK support dropped because of lack of variadic macros
+      support there - use Windows Driver Kit v7.1.0 instead
+
+    - the following translations were updated:
+
+      Catalan
+
+    beta1:
+    - all the disk processing algorithms were reimplemented
+      to reach better efficiency and shorter processing times
+    - FAT optimization was implemented
+    - ability to sort files on the disk by the disk optimization was added;
+      files can be sorted by path, size, creation time, last modification time,
+      last access time - in either ascending or descending order
+    - ability to filter out files by size of their fragments was added
+      (fragment_size_threshold option in GUI; UD_FRAGMENT_SIZE_THRESHOLD
+      environment variable in command line tool and boot time interface)
+    - ability to tune the disk optimization by UD_OPTIMIZER_FILE_SIZE_THRESHOLD
+      environment variable (optimizer_file_size_threshold GUI option) was added
+    - ability to suspend/resume the running job was added to GUI
+    - ability to minimize the program to the taskbar notification
+      area (system tray) was added; it can be turned on/off by
+      minimize_to_system_tray GUI option
+    - MFT optimization was forced to do nothing silently on non-NTFS disks
+    - quite useless cyan color removed from the cluster map
+    - icons were redesigned to reach better appearance
+      on Windows Vista and above
+    - high DPI screens support was improved
+    - Internals: flags field removed from winx_file_disposition structure
+    - many zenwinx prototypes changed by replacing short keyword by wchar_t
+    - useless fat32_xxx fields removed from winx_volume_information structure
+    - device_capacity field added to winx_volume_information structure
+    - WgxShowWindow and WgxHideWindow definitions added to wgx.h file
+    - WgxSetProcessPriority routine added to wgx library
+    - Windows Server 2003 DDK needs to be patched in order to compile
+      the program; look at rsc/compilation.dox for details
+
+                                    ***
+
+  Version 5.1.2  2012-12-18
+  ------------------------------------------------------------------------------
+    - USB keyboards detection problem solved for the boot time interface
+    - bug fix: boot time logs forced to use correct error messages
+    - now displaying a message when installing on a newer versions than Windows 7,
+      to make users aware of UltraDefrag being not tested on anything newer than
+      Windows 7 currently
+
+    - the following translations were updated:
+
+      Iloko, Russian, Spanish (ES), Tamil
+
+
+  Version 5.1.1  2012-11-11
+  ------------------------------------------------------------------------------
+    - it is now supported to install over an existing portable package
+    - a problem with launching the cluster map legend from the help menu,
+      if the path to the HTML file contained spaces, is fixed
+
+    - the following translations were updated:
+
+      Czech, Greek, Hungarian, Iloko, Javanese, Latvian, Tamil
+
+
+  Version 5.1.0  2012-10-18
+  ------------------------------------------------------------------------------
+    - added fragmentation level display to all the interfaces
+    - added ability to skip the disk processing when fragmentation level
+      is below a specified one (fragmentation_threshold option in GUI;
+      UD_FRAGMENTATION_THRESHOLD environment variable in command line tool
+      and boot time interface)
+    - added settings for file pattern groups to easier exclude or include
+      groups of files (fixes issue #3449331)
+    - bug fix: GUI forced to handle any setting changes reliably
+    - bug fix: filters forced to be case insensitive for all the characters
+      (they worked properly for ANSI characters only)
+    - added ability to specify the installation folder
+    - added log file creation to debug silent installations
+
+    - the following translations were added:
+
+      Malay
+
+    - the following translations were updated:
+
+      Albanian, Arabic, English (GB), French, Indonesian, Italian, Polish,
+      Spanish (ES), Spanish (MEX)
+
+    - Internals: creation_time, last_modification_time, last_access_time
+      members added to the winx_file_info structure
+    - bug fix: winx_wcsistr, winx_wcsmatch, winx_patfind, winx_patcmp 
+      routines forced to work properly for all the characters 
+      (they worked well for ASCII characters only)
+    - bug fix: winx_hr_to_bytes routine forced to convert numbers with
+      leading zeros after the decimal point properly
+    - winx_toupper, winx_tolower, winx_wcsistr, winx_stristr, winx_wcsmatch,
+      winx_patfind, winx_patcmp routines optimized for speed
+    - winx_towupper, winx_towlower, winx_wcsupr, winx_wcslwr, winx_wcsicmp
+      routines added to zenwinx library to be used instead of the fake 
+      Windows routines working properly for ASCII characters only
+    - udefrag_towupper, udefrag_towlower, udefrag_wcsupr, udefrag_wcslwr, 
+      udefrag_wcsicmp routines added to udefrag library for the same reasons
+      as mentioned above
+    - os.setenv, os.getenv Lua routines reimplemented for better reliability
+
+
+  Version 5.0.7  2012-09-01
+  ------------------------------------------------------------------------------
+    - added compatibility with the following software by exclusion their 
+      essential files from moving (excluded files are listed in brackets):
+      SafeBoot (safeboot.fs), Symantec GoBack (Gobackio.bin),
+      PGP Whole Disk Encryption (PGPWDE0*), Acronis OS Selector (bootwiz*),
+      DriveCrypt (BootAuth?.sys), DiskCryptor ($dcsys$)
+    - added crash handling code to the GUI, it shows the crash information
+      on startup when the program crashed during the last run
+    - changed unit suffixes from lower case 'b' to capital 'B',
+      this is going conform with the SI units.
+      Current scripts will still function, since we ignore character case.
+    - error messages of the command line tool redirected to stderr
+      while everything else - to stdout to comply with the common practice
+    - fixed the progress indicator overflow; now it should never exceed 100%
+    - added option to specify a custom cluster map background color
+      (free-space color)
+    - included further information in the documentation to fix bug #3561122
+
+    - the following translations were added:
+
+      Lithuanian, Albanian
+
+    - the following translations were updated:
+
+      Vietnamese, Polish, Iloko, Portuguese (BR), Norwegian, Slovak,
+      Chinese (Simplified), Chinese (Traditional), Spanish (MEX),
+      Wáray-Wáray, Japanese, Spanish (AR)
+
+    - Internals: WgxPrintUnicodeString, WgxCheckAdminRights
+      routines added to wgx library
+
+
+  Version 5.0.6  2012-06-20
+  ------------------------------------------------------------------------------
+    - GUI debugging output was forced to be saved in the log file
+    - added "Debug" item to the help menu
+    - added "View change log", "View translation report" and
+      "Submit current translation" items to language menu
+    - result of the previous operation stays visible for the boot time interface
+    - the following translations were updated:
+
+      Arabic, Portuguese, Italian, Spanish (ES), Hebrew, Serbian, Javanese,
+      Indonesian (Bahasa Indonesia), Polish, Korean, Filipino (Tagalog),
+      Iloko, Chinese (Simplified), Dutch, Portuguese (BR), Danish, Hindi,
+      Bulgarian, Russian
+
+    - the following translations were renamed:
+
+      French (FR) to French, Bosanski to Bosnian and Vietnamese (VI) to Vietnamese
+
+    - Internals: winx_to_utf8 routine added to zenwinx library
+    - winx_dbg_print routine enhanced: $NS and $LE magic sequences support added
+    - udefrag_dbg_print routine added to udefrag library
+    - WgxSetDbgPrintHandler routine added to wgx library
+
+
+  Version 5.0.5  2012-05-05
+  ------------------------------------------------------------------------------
+    - repair drives action was added to the GUI menu
+    - displaying the cluster map legend from the help menu was added
+    - cluster map scaling was forced to be more accurate
+    - GUI options verification was added
+    - a bug causing "wrong map detected" error was fixed
+    - ability to analyze, optimize and quick optimize drive from
+      Explorer context menu added
+    - relative log paths support added to both GUI and console interface
+    - support of Unicode strings added to GUI options
+    - encoding of language packs changed to UTF-8
+    - status bar MFT string removed from translations, since it is nearly
+      impossible to translate due to space issues
+    - handbook section about bug reporting reworked to include detailed steps
+    - the following translations were updated:
+
+      Hebrew, Bosanski
+
+    - Internals: make-mingw-projects.lua script added
+    - WgxCreateProcess and WgxCreateThread routines added to wgx library
+    - winx_flush_dbg_log routine added to zenwinx library
+    - udefrag_flush_dbg_log routine added to udefrag library
+    - os.setenv routine added to Lua library
+    - WgxBuildResourceTable, WgxSetText, WgxGetResourceString prototypes
+      changed as well as WGX_I18N_RESOURCE_ENTRY structure definition
+    - unsafe IncreaseGoogleAnalyticsCounterAsynch routine
+      removed from wgx library
+
+
+  Version 5.0.4  2012-04-07
+  ------------------------------------------------------------------------------
+    - dirty volumes needing CHKDSK repair were returned
+      to the drives list with a special mark in their status field
+    - taskbar icon overlay indicating that a job is running was added
+      for Windows 7 and more recent Windows editions; it can be turned
+      on/off by show_taskbar_icon_overlay GUI option
+    - menu item to manually check for updates added
+    - i18n support was added to file fragmentation reports
+    - the following translations were updated:
+
+      Korean, French (FR), Spanish (AR), Croatian, Spanish (MEX), Wáray-Wáray
+
+    - menu icons for high DPI screens were added
+    - Internals: WgxSetTaskbarIconOverlay, WgxRemoveTaskbarIconOverlay,
+      WgxLoadIcon and WgxGetTextDimensions routines added to wgx library
+    - WgxGetResourceString behavior changed
+    - math.lshift function added to Lua library
+    - incremental compilation enabled
+    - MS Visual Studio 6.0 development environment support dropped
+
+
+  Version 5.0.3  2012-02-26
+  ------------------------------------------------------------------------------
+    - produce_html_report and produce_plain_text_report options were added
+      to the udreportopts.lua file; now the program generates text reports
+      only when they're enabled explicitly
+    - GUI was forced to open plain text reports in case of turned off
+      HTML reports generation
+    - size of plain text reports was reduced by use of UTF-8 encoding
+      instead of UTF-16
+    - one bug preventing language selection saving on installation was fixed
+    - menu icons were added for Vista and more recent Windows editions;
+      they can be enabled/disabled through the show_menu_icons GUI option
+    - one bug in GUI cluster map draw was fixed
+    - few bugs in disk optimization algorithm were fixed
+    - UD_SIZELIMIT environment variable superseded by UD_FILE_SIZE_THRESHOLD,
+      sizelimit GUI option superseded by file_size_threshold option
+    - environment variables expansion support was added to the boot time shell
+    - the following translations were added:
+
+      Wáray-Wáray
+
+    - the following translations were updated:
+
+      Iloko
+
+
+  Version 5.0.2  2012-01-31
+  ------------------------------------------------------------------------------
+    - representation of disk clusters on the cluster map was improved
+    - one little bug in MFT Zone redraw was fixed
+    - registry is now queried for the number of installed keyboards
+      to guarantee detection of all installed keyboards
+    - Installer: forced default action for .luar files to be "view"
+    - the following translations were added:
+
+      Bosanski, Arabic
+
+    - the following translations were updated:
+
+      Dutch
+
+    - some additions to the intro and GUI section of the documentation
+    - PDF version of the documentation is now available as separate download
+
+
+  Version 5.0.1  2012-01-08
+  ------------------------------------------------------------------------------
+    - few important bugs in disk processing routines were fixed
+    - few bugs in MFT optimizer were fixed
+    - one bug causing boot time interface freeze 
+      after "Good bye..." message was fixed
+    - the following translations were updated:
+
+      Finnish, Indonesian, Italian
+
+    - some additions to the tips, FAQ and GUI sections of the documentation
+
+
+  Version 5.0.0  2011-12-31
+  ------------------------------------------------------------------------------
+    - the following translations were added:
+
+      Kapampangan, Georgian
+
+    - the following translations were updated:
+
+      Italian, Polish, Swedish, Burmese (Padauk), Finnish, Japanese
+
+    RC2:
+    - ability to defragment NTFS attribute lists was added
+    - check for the volume dirty flag was added to the volume analysis
+    - ability to select all disks by pressing Ctrl+A was added to GUI
+    - ability to analyze disk by pressing Enter or double-clicking on
+      the list row was added to GUI
+    - the following translations were updated:
+
+      Japanese, Korean, Italian, Iloko, Czech, Slovak, Portuguese (BR),
+      Romanian, Filipino (Tagalog), Catalan, Spanish (ES), Hungarian,
+      Farsi, Yiddish
+
+    - installer has been enhanced in the following ways:
+      + usage tracking can be enabled/disabled
+        during silent installations using the /S switch:
+            * /DISABLE_USAGE_TRACKING ... enable/disable usage tracking
+                                          through the web
+    - added command script to create translation report as text/plain
+      and text/wiki
+    - few little bugs in volume processing routines were fixed
+    - volume letter being processed was added to GUI title
+    - a header was added to 'udefrag -l' command output
+    - Internals: coding style changed: tabs replaced by four spaces
+    - is_dirty flag added to winx_volume_information (zenwinx.h)
+      and volume_info (udefrag.h) structures
+
+    RC1:
+    - FILTER SYNTAX CHANGED to provide better flexibility
+    - ability to defragment folder itself without defragmentation
+      of its contents added to the context menu of Windows Explorer
+    - GUI options forced to be not overwritten at GUI program exit
+    - MFT optimization implemented
+    - repeat action menu and toolbar button were added to GUI
+    - --repeat command line switch was added to the console interface
+      and to the boot time defragmenter
+    - volume label is now displayed by the console interface for
+      -l and -la switches
+    - ability to defragment a few more internal NTFS files 
+      ($Secure streams, $Extend folder and its subfolders) was added
+    - ability to defragment reparse points was added
+    - all the volume processing routines were optimized for speed
+    - one bug causing incorrect time limit treatment was fixed
+    - added display of the time limit at boot time
+    - MFT zone draw was adjusted to be more precise and correct
+    - few bugs in cluster map redraw algorithm were fixed
+    - few bugs in volume processing routines were fixed
+    - console interface help screen now includes examples
+    - the following translations were added:
+
+      Latin, Hebrew, Javanese, Indonesian (Bahasa Indonesia), Spanish (MEX)
+
+    - the following translations were updated:
+
+      Portuguese (BR), Yiddish, Hungarian, Spanish (ES), Dutch, Finnish,
+      Italian, Iloko, Filipino (Tagalog), Catalan, Danish, Norwegian,
+      Portuguese, Chinese (Traditional), Korean
+    
+    - installer has been enhanced in the following ways:
+      + now checks Mutex to prevent install/remove while the program is running
+      + installer supports full, micro edition and custom installation
+      + component selections are remembered between installations
+      + interfaces can be selected individually
+      + shortcut icons can be selected individually
+      + all selections can be done through command line switches
+        during silent installations using the /S switch:
+            * /FULL .............. install full edition
+            * /MICRO ............. install micro edition (no GUI, no help, no icons)
+            * /ICONS ............. install/remove all shortcut icons
+            * /BOOT .............. install/remove boot time component
+            * /CONSOLE ........... install/remove console component
+            * /GUI ............... install/remove GUI component
+            * /HELP .............. install/remove documentation
+            * /SHELLEXTENSION .... install/remove Explorer context menu handler
+            * /STARTMENUICON ..... install/remove start menu icon
+            * /DESKTOPICON ....... install/remove desktop icon
+            * /QUICKLAUNCHICON ... install/remove quick launch icon
+    - one little bug causing log file path truncation in GUI was fixed
+    - one bug causing infinite loops in volume optimization was fixed
+    - progress percentage calculation was improved
+    - volume analysis was allowed for full disks having no free space
+    - Internals: winx_create_mutex, winx_open_mutex, winx_release_mutex,
+      winx_destroy_mutex, winx_stristr, winx_wcsmatch, winx_patcmp, 
+      winx_defrag_fopen, winx_defrag_fclose functions added to zenwinx library
+    - binary tree manipulation routines were added to zenwinx library;
+      they're based on the GNU libavl red-black trees with parent pointers
+    - winx_fbsize, winx_dfbsize, udefrag_fbsize, udefrag_dfbsize routines
+      replaced by winx_bytes_to_hr, winx_hr_to_bytes, udefrag_bytes_to_hr,
+      udefrag_hr_to_bytes routines in zenwinx and udefrag libraries
+    - winx_exit_thread prototype changed by adding the exit status parameter
+    - zenwinx_native_init and zenwinx_native_unload routines replaced
+      by winx_init_library and winx_unload_library routines respectively
+    - winx_init_failed and winx_kb_init routines added to zenwinx library
+    - winx_init routine removed from zenwinx library
+    - WINX_FTW_SKIP_RESIDENT_STREAMS flag added to winx_ftw and winx_scan_disk
+      routines
+    - WgxGetToolbarBitmapForMenu, WgxCreateMenuBitmapMasked functions added
+    - calling conventions removed from all the function prototypes
+      in all the libraries
+    - silent mode (-s switch) added to lua5.1a_gui program
+
+    beta3:
+    - volume optimization reimplemented
+    - quick volume optimization implemented
+    - the cluster map now indicates unused map blocks with gray color
+    - one bug preventing a proper redraw of defragmented files was fixed
+    - few bugs causing infinite loops in defragmentation algorithm were fixed
+    - one bug preventing MFT defragmentation was fixed
+    - one bug preventing reports containing Asian characters in file names
+      from being built was fixed
+    - one bug preventing defragmentation in some cases on Windows NT 4.0
+      and Windows 2000 was fixed
+    - the documentation was updated to include better information about
+      taking screen-shots and creating support packages on the bug reports page
+    - tree-view to select chapters was added to documentation and the
+      default doxygen color theme is now used
+    
+    - the following translations were added:
+
+      English (GB), Iloko
+    
+    - the following translations were updated:
+    
+      Korean, Turkish, Slovak, English (US), Hindi, Romanian, Filipino (Tagalog),
+      Catalan, Spanish (ES), Greek, Chinese (Simplified), Polish, Swedish, 
+      Italian, Finnish, Chinese (Traditional), German, Hungarian, Danish
+      
+    - hexview command added to the boot time shell
+    - Internals: udefrag_start_job prototype changed by adding algorithm 
+      preview flags
+
+    beta2:
+    - UD_LOG_FILE_PATH environment variable added to force save of debugging
+      information to a log file. Intended for use in boot time interface
+      and batch scripts.
+      For the GUI a setting was introduced, which is equivalent to setting
+      this variable.
+    - boot time interface startup logging added; the program saves log files
+      in %windir%\UltraDefrag\logs folder
+    - a bug preventing the boot time defragmenter from being turned off fixed
+
+    - the following translations were added:
+
+      Indonesian
+
+    - the following translations were updated:
+
+      Spanish(ES), Czech, Belarusian, Ukrainian, Chinese(Traditional)
+
+    - Internals: winx_strdup, winx_vsprintf, winx_sprintf, winx_enable_dbg_log,
+      winx_disable_dbg_log, winx_get_module_filename, winx_path_remove_filename,
+      winx_path_remove_extension, winx_path_extract_filename, winx_create_path,
+      winx_init_spin_lock, winx_acquire_spin_lock, winx_release_spin_lock,
+      winx_destroy_spin_lock functions added to zenwinx library
+    - udefrag_set_log_file_path function added to udefrag library
+
+    beta1:
+    - defragmentation algorithm reimplemented; partial defragmentation improved
+    - ability to defragment MFT as well as other internal NTFS files
+      on Windows XP and Windows Server 2003 was added
+    - ability to defragment internal NTFS files on Windows 2000 was added
+    - one huge bug was fixed in the boot time defragmenter, udefrag.dll and
+      zenwinx.dll libraries - they all have had improper definition of the
+      IO_STATUS_BLOCK structure used by many undocumented Windows API functions
+    - a problem was fixed, where the abort flag was not cleared, when entering
+      the interactive mode at boot time
+    - actions to take after processing is done implemented as separate menu
+    - file status was added to reports
+    - current time was added to reports
+    - ability to specify not only drive letters but also paths of files
+      and folders added to the command line and the boot time interfaces
+    - Explorer context menu handler reimplemented to be more reliable
+      (batch script used before caused sometimes an environment 
+      desynchronization due to the start of udefrag command with elevated
+      privileges on Vista and Windows 7)
+    - added icon to Explorer context menu handler in Windows 7 and later
+    - the following translations were added:
+
+      Galician, Tamil
+
+    - the following translations were updated:
+
+      Italian, Norwegian, Portuguese, Spanish(ES), French(FR), Dutch, Czech,
+      Vietnamese(VI), Spanish(AR)
+
+    - dry_run parameter added to GUI options as well as UD_DRY_RUN environment
+      variable support added to the driver to be able to quickly test algorithms
+      without actual data moves on disk
+    - keyboard reading routines used at Windows boot time were reimplemented
+      to reach higher reliability
+    - Internals: winx_get_system_time, winx_get_local_time functions 
+      added to zenwinx library
+    - ULONG_PTR wrong definition was replaced by correct one in ntndk.h file
+    
+    alpha2:
+    - ability to resize list of volumes was added to graphical interface
+    - the volume label is now displayed in the volume list
+    - textual progress is now displayed in the status column of the volume list
+    - file sizes were added to HTML reports
+    - file sizes were converted to a human readable format in text reports
+    - few bugs were fixed in the BootExecute Control program used to enable and
+      disable the boot time defragmenter
+    - Internals: build scripts were highly optimized
+    - mistakes preventing build on the path containing spaces were eliminated
+    - support of custom report options was added to simplify upgrade 
+      of default options
+    - the following translations were updated:
+
+      Chinese (Simplified)
+
+    - the problem of dialog captions not being translated was fixed
+    
+    alpha1:
+    - GUI was redesigned to be much more ergonomic (comfortable for daily use)
+    - ability to change preferences without the need to restart GUI was added
+    - ability to resize GUI window at any time was added;
+      cluster map scales now automatically
+    - GUI flicker on window resize was reduced
+    - better hotkeys were assigned to GUI actions
+    - the process of adding/editing/testing of translations
+      was highly simplified
+    - GUI uses system font respecting global Windows settings anywhere
+      except of the list control for which mono-space fonts are more preferred
+    - GUI uses custom font in all dialog boxes in case of Burmese (Padauk)
+      translation, because otherwise Windows fail to display texts correctly
+    - separate Configuration dialog was retired
+    - Language Selector was retired
+    - ability to run multiple instances simultaneously was added
+    - the driver has been completely reworked to increase its reliability
+      and flexibility; many complicated algorithms were replaced
+      by obvious ones; as a side effect we have a noticeable speedup
+      of the volume analysis
+    - filter pattern length limitation (4096 characters) was removed
+    - added hints about using CHKDSK to get a consistent drive
+    - "Tips and Tricks" moved to separate handbook page to be accessible
+      from the "Best Practice" help menu item
+    - the following translations were added:
+
+      Estonian, Vietnamese(VI), Burmese(Padauk), Spanish(ES)
+
+    - the following translations were updated:
+
+      Portuguese(BR), Czech, French (FR), Portuguese, Catalan
+
+    - FAT12 and FAT16 volumes are displayed in GUI again as a simple FAT,
+      because this highly speeds up the volume list building
+    - Internals: dfrg.exe historical name of GUI executable was replaced
+      by final name ultradefrag.exe
+    - manifest was added to signal Vista and higher that this is a
+      high DPI aware application (http://support.microsoft.com/kb/969789)
+    - portable.x file became meaningless for the portable edition
+    - winx_patcomp, winx_patfind, winx_patfree, winx_wcsdup, winx_vopen,
+      winx_vflush, winx_ftw_dump_file, winx_get_free_volume_regions,
+      winx_add_volume_region, winx_sub_volume_region,
+      winx_release_free_volume_regions, winx_dbg_print_header,
+      winx_toupper, winx_tolower functions added to zenwinx library
+    - udefrag_get_volume_information function added to udefrag library
+    - WgxDbgPrint, WgxDbgPrintLastError, WgxDisplayLastError,
+      WgxSafeSubclassWindow, WgxSafeCallWndProc, WgxCenterWindow, WgxSetText,
+      WgxCreateFont, WgxDestroyFont, WgxSaveFont, WgxGetOptions, WgxSaveOptions
+      WgxBuildMenu, WgxBuildPopupMenu calls added to wgx library
+    - WgxSetFont prototype changed
+    - obsolete WgxGetLogFontStructureFromFile, WgxSaveLogFontStructureToFile
+      calls removed from wgx.dll library
+
+                                    ***
+
+  Version 4.4.0  2010-09-24
+  ------------------------------------------------------------------------------
+    RC2:
+    - history of typed commands added to the boot time interactive mode;
+      navigation is possible by arrow keys, 'history' command can be used
+      to list all typed commands
+    - call, man and type commands added to the boot time shell
+    - echo, exit, pause and set commands of the boot time shell improved
+    - clearing of the failed boot flag added for reboot and shutdown at boot time
+    - pending boot-off boot time script command support added,
+      this removes the limitation of boot-on/off not working before reboot/shutdown
+    - interactive mode at boot time now displays help split into pages
+    - escape key handling added to break the boot time script execution
+    - boot time commands parsing was rewritten to increase 
+      reliability and flexibility of the boot time shell
+    - corrected cluttered progress display if console output was redirected
+    - optimized timeout for waiting for a keyboard event in boot time interface
+    - the following translations were updated:
+
+      Portuguese, Chinese (Traditional)
+
+    - FAT formatted volumes are displayed in GUI now as FAT12/FAT16/FAT32
+      instead of less informative FAT/FAT32
+    - winx_heap_alloc replaced by winx_heap_alloc_ex to allow specifying flags
+    - winx_heap_alloc_zero added to allow allocating memory initialized with zero
+    - winx_ftw, winx_scan_disk, winx_fsize, winx_kb_read, winx_xtime, 
+      winx_prompt_ex, winx_get_file_contents, winx_release_file_contents,
+      winx_wcsistr, winx_print_array_of_strings, winx_get_volume_information,
+      calls were added to zenwinx library
+    - winx_fbopen call added to zenwinx library for buffered file i/o support
+    - obsolete winx_get_volume_size and winx_get_filesystem_name calls
+      were removed from zenwinx library; use more common
+      winx_get_volume_information instead
+    - one little bug in winx_kbhit, winx_breakhit functions was fixed
+    - udefrag_get_vollist and udefrag_release_vollist calls were added
+      to udefrag library; an obsolete udefrag_get_avail_volumes was removed
+    RC1:
+    - partial defragmentation was added to decrease number of fragments
+      even when there is no free space on disk to hold all fragments of the file together
+    - volume optimization algorithm was improved to prevent useless
+      additional optimization passes
+    - one little bug preventing optimization from being stopped was fixed
+      in driver
+    - volume optimization algorithm was improved to prevent skipping
+      heavily fragmented parts of the processed volume
+    - progress is now added to the GUI window caption,
+      so it is displayed in the tool-tip of the task-bar icon
+    - cryptic single character progress label was replaced
+      by the localized operation names
+    - file system type detection was rewritten to be more reliable
+      and detect UDF-formatted volumes properly
+    - fixed a problem where the case of the names of the help pages
+      launched from the configuration dialog did not match
+    - fixed a problem, where .lua files would get executed instead of edited,
+      if "Lua for Windows" was installed
+    - 10 seconds delay is skipped on boot time scan, if only one keyboard is present
+    - added language selector to the GUI package
+    - Hindi translation was added
+    - the following translations were updated:
+
+      Croatian, Danish, Dutch, French, Greek, Polish, Russian, Serbian,
+      Swedish, Turkish
+
+
+  Version 4.3.0  2010-05-29
+  ------------------------------------------------------------------------------
+    RC4:
+    - GUI window resizing feature was added
+    - scaling according to the screens DPI settings added
+    - native keyboard check was enhanced to add a delay if one of the first two
+      keyboards fail detection
+    RC3:
+    - driver was improved to better distinguish between free space and MFT zone
+    - progress indication was improved in the boot time interface
+    - backspace and escape keys handling added to the boot time interactive mode
+    - one little bug preventing the root directory from being defragmented fixed
+    RC2:
+    - --use-entire-window option was added to the command line interface
+    - fixed a bug preventing OS version check to work on later Windows versions
+    - update check was added to the GUI
+    - few wrong prototypes in /src/dll/zenwinx/ntndk.h file were fixed
+    RC1:
+    - UltraDefrag Scheduler has been retired as a component less functional
+      than standard Windows Task Scheduler;
+      visit http://ultradefrag.wikispaces.com/ for tutorials on scheduling
+      disk defragmentation tasks through Windows Task Scheduler
+    - --wait option was added to the command line interface to make scheduled
+      defragmentation more flexible
+    - more reliable monolithic boot time defragmenter was made
+    - few bugs preventing the correct MFT displaying were fixed in driver
+    - one little bug preventing displaying system files in green color
+      on NTFS volumes was fixed
+    - cluster map appearance in GUI was improved and made absolutely
+      independent from the screen DPI
+    - cluster map block size was made customizable in GUI through map_block_size
+      and grid_line_width parameters added to guiopts.lua configuration file
+    - the following translations were updated:
+
+      Czech, Finnish, Japanese, Spanish (AR), Portuguese (BR), Korean, Hungarian
+
+    - installer was updated to include publisher, version, estimated size,
+      custom icon and support link in uninstall information
+    - sources were cleaned up by removing the obsolete 
+      kernel mode driver support at all
+    - for programmers: winx_create_thread improved, winx_getche and winx_gets
+      improved, winx_prompt added, udefrag.dll interface optimized
+      (function prototypes changed!)
+
+
+  Version 4.2.0  2010-03-30
+  ------------------------------------------------------------------------------
+    - multiple drives selection feature was added to GUI and Scheduler
+    - progress indication was improved to be more detailed and smooth
+    - defragmentation and optimization speedup was performed
+    - --all, --all-fixed command line switches added to the console interface
+      and to the boot time defragmenter
+    - boot time interface initialization speedup was performed
+    - boot time interface interactive mode commands set changed to be the same
+      as in scripting mode
+    - HTML reports encoding was changed to UTF-8, which renders nicely
+      in all popular web browsers including Internet Explorer
+    - plain text reports were improved to be more readable
+    - the following translations were updated:
+
+      Dutch, Swedish, Japanese, Polish
+
+    - a bug preventing true Unicode paths from being displayed 
+      in file fragmentation reports was fixed
+    - shutdown confirmation dialogs were added to GUI
+    - one additional check preventing the boot time defragmenter from
+      running in Windows Safe Mode was added
+    - one little bug causing a wrong progress bar appearance on Windows XP
+      default theme was fixed
+
+
+  Version 4.1.0  2010-03-06
+  ------------------------------------------------------------------------------
+    - few bugs in driver were fixed
+    - a huge analysis speedup performed
+    - one bug in GUI (#2964309) was fixed
+    - one little bug preventing the Scheduler running on Windows 2000 was fixed
+    - volume status messages were improved in UltraDefrag GUI
+    - the report saving speedup was performed
+    - the following translations were added:
+
+      Belarusian, Bulgarian, Croatian, Filipino (Tagalog), Finnish, Icelandic,
+      Macedonian, Norwegian, Romanian, Serbian, Ukrainian, Yiddish
+
+    - the following translations were updated:
+
+      Catalan, Chinese(Simplified), Chinese(Traditional), Czech, Danish,
+      Dutch, Farsi, French(FR), German, Greek, Hungarian, Italian,
+      Japanese, Korean, Latvian, Polish, Portuguese(BR), Portuguese,
+      Russian, Slovak, Slovenian, Spanish(AR), Swedish, Thai, Turkish
+
+    - /LANG command line option was added to the installer
+
+
+  Version 4.0.0  2010-01-30
+  ------------------------------------------------------------------------------
+    - a lot of extremely important bugs were fixed
+    - the strongest error handling was added to all program modules
+    - program is available again for all 64-bit targets
+    - documentation was rewritten to be much clearer
+    - kernel mode driver was removed as a component
+      less reliable by definition
+    - translations submitting is available again through 
+      http://ultradefrag.wikispaces.com/
+    - USB keyboards support at Windows boot time was added
+    - all important program sources were well documented
+
+
+  Beta Stage
+  ------------------------------------------------------------------------------
+    All versions listed below were treated as stable and so on, but actually 
+    they were highly unreliable. Program's internal structure is very complex, 
+    it uses a lot of undocumented Windows calls. Therefore bug hunting was
+    always extremely hard, especially in early days when an author had 
+    no enough experience.
+
+    In other words, all versions prior to 4.0.0 must be treated as products 
+    of the beta stage of program's development.
+
+
+  Version 3.3.0  2009-12-04
+  ------------------------------------------------------------------------------
+    - volume optimization algorithm was highly improved
+    - fragments threshold filter parameter was added
+    - UD_TIME_LIMIT option was added
+    - portable version was highly improved
+    - few little bugs were fixed
+    - now the program is much more compatible with Vista and later versions 
+      of Windows; this is achieved by adding the User Mode Driver to it
+    - program's reliability increased by removing error handlers caused 
+      infinite loops
+    - now the program can be used in Windows Safe Mode when the user mode 
+      driver is enabled
+
+    - since this version native 64-bit binaries aren't available
+      due to the C compilers internal bugs (Windows DDK, Windows SDK, Pelles C, 
+      MinGW x64 were tested); portable UltraDefrag can be used now on all of the  
+      64-bit systems instead of the native 64-bit packages
+
+    - NOTE FOR PROGRAMMERS: to successfully compile the user mode driver run 
+      configure.lua script, check 'Apply patch to MinGW' box and click OK 
+      once again
+
+
+  Version 3.2.1  2009-10-06
+  ------------------------------------------------------------------------------
+    - shutdown after a job feature was added to GUI
+    - hibernate after a job feature was added to GUI
+    - `boot-on` and `boot-off` commands were added to boot time defragger
+    - Scheduler has been translated into Spanish (AR) language
+    - Hibernate command line tool was added
+    - few bugs were fixed
+
+
+  Version 3.2.0  2009-09-29
+  ------------------------------------------------------------------------------
+    - Ultra Fast NTFS scanning feature was added, NTFS analysis becomes 
+      approximately 25 times faster now
+    - defragmentation of additional streams attached to NTFS files was added 
+    - information about trash (temporary files) excluded from reports,
+      statistics and cluster map; these files are completely ignored now
+    - a lot of new options were added to the console program
+    - the \??\ sequence removed from file names in reports
+    - Thai translation was made
+    - some important parts of handbook were completely rewritten
+    - Scheduler was rewritten in C language; NET framework is not required now!
+    - ability to translate Scheduler into foreign languages was added
+    - GUI options were moved from udefrag-gui.cmd script to 
+      easy to understand guiopts.lua file
+    - debugging information will not be saved on disk since this version of the 
+      program; read carefully an appropriate chapter of program's handbook for 
+      detailed instructions about kernel mode driver debugging instead
+    - few fatal driver bugs were fixed
+    - driver's reliability was increased
+    - now UltraDefrag requires less software for its development
+    - FOR PROGRAMMERS: build configurator was rewritten in Lua
+    - NOTE FOR PROGRAMMERS: to successfully recompile the driver run 
+      configure.pl script and click 'Apply patch to MinGW' button once again
+
+
+  Version 3.1.0  2009-05-13
+  ------------------------------------------------------------------------------
+    - this is the most stable release at this moment
+    - graphical interface was completely rewritten
+    - gui program was translated into the following languages:
+
+      Danish, Farsi, Swedish, Turkish
+
+    - a lot of GUI bugs were fixed
+    - very important driver bugs were fixed
+
+
+  Version 3.0.0  2009-03-15
+  ------------------------------------------------------------------------------
+    - defragmentation algorithm was completely rewritten to be more effective
+    - free space optimization algorithm was completely rewritten 
+      to be more effective
+    - a lot of important bugs were fixed
+
+                                    ***
+
+  Version 2.1.2  2009-02-18
+  ------------------------------------------------------------------------------
+    - few important bugs were fixed
+
+
+  Version 2.1.1  2009-02-16
+  ------------------------------------------------------------------------------
+    - Japanese translation was made
+    - column widths in GUI are now adjustable
+    - processor architecture check was added to installer
+    - most known bugs were fixed
+
+
+  Version 2.1.0  2009-02-09
+  ------------------------------------------------------------------------------
+    - debug logging feature was added
+    - website was completely redesigned
+    - UltraDefrag Handbook was added
+    - many important x64 bugs were fixed
+    - single file/directory defragmentation ability was added
+    - console and native programs great speedup performed
+    - gui program was translated into the following languages:
+
+      Czech, Korean, Latvian, Polish, Portuguese (Brazilian), Spanish (AR)
+
+    - gui design was improved
+    - two different driver versions (for NT4 and later systems) were replaced 
+      by one universal OS version independent driver
+    - installer was highly optimized
+    - winx_fopen: a, a+ modes were added
+
+
+  Version 2.0.0  2008-11-13
+  ------------------------------------------------------------------------------
+    - scripting support for boot time interface was added
+    - program options were moved to environment variables
+    - UltraDefrag Micro Edition package was added
+    - a lot of portable application bugs were fixed
+
+    - gui program was translated into the following languages:
+
+      Catalan, Chinese (Simplified), Chinese (Traditional), Dutch, 
+      French (FR), German, Greek, Italian, Portuguese, Slovak, Slovenian
+
+    - boot-on, boot-off, ud-config scripts were added
+    - few useful shortcuts were added
+    - udefrag.dll great optimization was performed
+    - many functions were added to zenwinx.dll
+    - installer compression ratio was increased
+    - gui design was improved
+
+                                    ***
+
+  Version 1.4.0  2008-10-02
+  ------------------------------------------------------------------------------
+    - i18n support was added
+    - gui program was translated into Hungarian and Russian languages
+    - documentation was improved
+    - program settings were moved to one file
+    - gui design was improved and simplified
+    - console program's option -l was added
+    - many significant bugs were fixed (possible buffer overflows)
+
+
+  Version 1.3.4  2008-03-09
+  ------------------------------------------------------------------------------
+    - new installation location: %windir%\UltraDefrag
+    - driver code was simplified
+    - most stable release at this moment
+
+  Version 1.3.3  2008-03-07
+  ------------------------------------------------------------------------------
+    - one important driver bug was fixed
+    - few x64 installation bugs were fixed
+
+  Version 1.3.2  2008-03-03
+  ------------------------------------------------------------------------------
+    - few important bugs were fixed
+
+  Version 1.3.1  2008-03-02
+  ------------------------------------------------------------------------------
+    - SCSI and RAID volumes support was added
+    - some significant bugs were fixed
+    - new installation location: %windir%\system32\UltraDefrag
+
+  Version 1.3.0  2008-02-06
+  ------------------------------------------------------------------------------
+    - driver code was completely rewritten (to improve reliability)
+    - highly configurable reports feature was added
+    - report sorting ability was added
+    - documentation was improved
+    - driver code cleanup was performed
+    - gui application memory requirements were reduced
+    - build scripts were improved
+    - many bugs were fixed
+    - error handling was improved
+    - coding style was changed to improve readability
+
+
+  Version 1.2.4  2007-12-22
+  ------------------------------------------------------------------------------
+    - big modern volumes support was added (by reducing memory requirements)
+    - context menu handler for volumes in Explorer was added
+    - documentation improved
+    - first compilation using gcc -> strong code verifying ->
+      hundreds of small bugs were fixed
+    - full MinGW support for compilation
+    - configure.pl script was created
+
+
+  Version 1.2.3  2007-12-04
+  ------------------------------------------------------------------------------
+    - two gui bugs (#1833605 and #1839755) were fixed
+    - localized error descriptions were added
+    - small driver optimization was performed
+
+
+  Version 1.2.2  2007-11-16
+  ------------------------------------------------------------------------------
+    - all modules were internally completely redesigned
+    - full NTFS junctions (reparse points) support!
+    - many bugs were fixed
+    - documentation was improved
+    - full optimization was performed
+    - portable application was simplified
+    - full WinDDK support for compilation
+    - gui was improved with new list of volumes
+    - console program was improved with new useful options
+
+
+  Version 1.2.1  2007-10-08
+  ------------------------------------------------------------------------------
+    - bug #1807912 was fixed (Boot time defrag BSOD on w2k)
+
+
+  Version 1.2.0  2007-10-04
+  ------------------------------------------------------------------------------
+    - full NT 4.0 support
+    - boot time defragmentation for 64-bit systems
+    - Scheduler.NET
+    - bug #1771887 (I/O error!) was fixed
+    - native application was optimized
+    - offline manual
+    - system preset was improved
+    - portable application option was added
+    - small gui bugs were fixed
+
+
+
+  Version 1.1.0  2007-09-05
+  ------------------------------------------------------------------------------
+    - BOOT TIME DEFRAGMENTATION WAS ADDED
+    - filter presets were added
+    - 'progress bar disappears' bug was fixed
+    - installer improved
+    - 'paranoid debug print' option was added
+    - DOCUMENTATION AND WEB SITE WERE IMPROVED
+
+
+
+  Version 1.0.5  2007-08-03
+  ------------------------------------------------------------------------------
+    - 120 DPI bug was fixed
+    - small console bug was fixed
+    - drive letters assigned by subst command were excluded
+    - most stable 1.0.x release
+
+
+  Version 1.0.4  2007-07-27
+  ------------------------------------------------------------------------------
+    - fatal buffer overflow bug was fixed
+    - small gui bug was fixed
+
+
+  Version 1.0.3  2007-07-22
+  ------------------------------------------------------------------------------
+    - progress bar in gui
+    - more settings
+    - few small bugs were fixed
+
+
+  Version 1.0.2  2007-07-17
+  ------------------------------------------------------------------------------
+    - FULL x64 SUPPORT
+    - significant bugs were fixed
+    - Windows DDK support for compilation [partially]
+
+
+  Version 1.0.1  2007-07-11
+  ------------------------------------------------------------------------------
+    - 'stop' function and some other significant bugs were fixed
+
+
+  Version 1.0.0  2007-07-05
+  ------------------------------------------------------------------------------
+    - initial public release
+    - basic documentation was added
+    - source code cleanup
+    - build.cmd tool and makefiles were added
+
+                                    ***
+
+  Alpha Stage
+  ------------------------------------------------------------------------------
+    Releases listed below were never published.
+
+
+  Version 0.6.0  2007-06-07
+  ------------------------------------------------------------------------------
+    - include & exclude filters were added
+    - UTF-16/ASCII report format option
+
+
+  Version 0.5.0  2007-06-05
+  ------------------------------------------------------------------------------
+    - fragmented files list generation (in HTML) was added
+    - cluster map in progress displaying
+    - significant bugs were fixed
+
+
+  Version 0.4.3  2007-06-02
+  ------------------------------------------------------------------------------
+    - optimization and bug fixes
+
+
+  Version 0.4.2  2007-05-19
+  ------------------------------------------------------------------------------
+    - very significant optimization
+    - source code cleanup
+
+
+  Version 0.4.1  2007-05-18
+  ------------------------------------------------------------------------------
+    - some optimization and small bug fixes
+
+
+  Version 0.4.0  2007-05-17
+  ------------------------------------------------------------------------------
+    - free space optimization command for NTFS-volumes
+    - some fatal bugs were fixed
+
+
+  Version 0.3.0  2007-05-08
+  ------------------------------------------------------------------------------
+    - NT4.0 [in theory] & 5.0 [practically] support in defragmentation algorithm
+    - full support for files compressed by NTFS
+    - new gui design - better results displaying
+    - gui: accelerators were added
+    - some bugs were fixed
+
+
+  Version 0.2.0  2007-04-26
+  ------------------------------------------------------------------------------
+    - exclude defragmentation of fat directories (because not possible)
+    - new design of gui interface - better cluster map visualization
+
+
+  Version 0.1.0  2007-04-25
+  ------------------------------------------------------------------------------
+    - defragmentation of NTFS directories
+    - some bugs were fixed
+    - MFT and directories displaying in cluster map
+
+
+  Version 0.0.1  2007-04-13
+  ------------------------------------------------------------------------------
+    - first release for NT 5.1 & 5.2
