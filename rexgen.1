@@ -1,0 +1,95 @@
+                                                                     
+                                                                     
+                                                                     
+                                             
+.TH rexgen l 2013-10-30 "Jan Starke" 
+.SH NAME
+.B rexgen \- A tool to create all words that match the given regular expression
+.
+.SH SYNOPSIS
+.B rexgen 
+.RI [< command >]
+.RI < regex >
+.br
+.SH Description
+rexgen is a library which allows you to create all words that match the given regular expression.
+
+The aim of this tool is to check if some secret follows a given pattern, which is an integral part of penetration tests. This tool is not intended to be used for real attacks against any secrets.
+.SH Options
+.IP "-f <file>" 10
+read from file; use - to read from stdin you can use \\0 to refer to the current line
+.IP -u8 10
+encode values in UTF-8
+.IP -u16[le] 10
+encode values in UTF-16BE (resp. UTF-16LE)
+.IP -u32[le] 10
+encode values in UTF-32BE (resp. UTF-32LE)
+.IP -b 10
+prepend output with byte order mark
+.IP -w 10
+display warranty information
+.IP -c 10
+display redistribution conditions
+
+.SH Regular Expressions
+The following kinds of regular expressions are allowed:
+
+.TS
+tab(@);
+l l lw(3.6i).
+T{
+.B Syntax
+T}@T{
+.B Name
+T}@T{
+.B Description
+T}
+_
+abc123@terminals (compound)@T{
+generates a string, containing of the given characters in the given order
+T}
+\\n@line feed@
+\\r@carriage return@
+\\t@tabulator@
+\\d@the same as [0-9]@
+\\w@the same as [a-zA-Z0-9_]@
+\\c@terminal@T{
+the character c (must be no digit or any of n, r, t)
+T}
+[123a-f]@character class@T{
+generates every character in the class exactly once
+T}
+(re1|re2)@alternative@T{
+creates all values which match _re1_, then creates all values which match _re2_
+T}
+re1 re2@compound@T{
+creates all values which match _re1_ and combines them with all values which match _re2_, one by one
+T}
+re{m, n}@quantifier@T{
+creates all values which match _re_, and combines them together at least _m_ times and at most _n_ times
+T}
+\\0@pipe reference@T{
+will be replaced with the respective line of input. input can be either a file (specified with -f wordlist.txt or pipe (specified with -f -). Using this, one can do something like this: rexgen -f htmltags.txt '<(\\0) id="[0-9]">xyz</\\1>'. The pipe reference \\0 can appear multiple times in a regular expression, you do not need to create a capturing group: rexgen -f htmltags.txt '<\\0 id="[0-9]">xyz</\\0>' does also work.
+T}
+\\n@back reference@T{
+will be replaced by the value created with the n th (with 1<=n<=9) opened alternative/group; e.g. <(script|link|embed|object)>xyz</\\1> creates the results <script>xyz</script>, <link>xyz</link>, <embed>xyz</embed> and <object>xyz</object>
+T}
+(?i:re)@ignore case@T{
+creates all variants of uppercase and lowercase of the values created by _re_. For example, (?i:moo) will create the values moo, Moo, mOo, MOo, moO, MoO, mOO and MOO (but not in that order)
+T}
+.TE
+
+.SH Examples
+.IP "rexgen index.php?id=[1-5]"
+Would create the results
+.nf
+index.php?id=1
+index.php?id=2
+index.php?id=3
+index.php?id=4
+index.php?id=5
+
+.SH SEE ALSO
+.BR john (8)
+.\" UTF-8 ist nicht ok
+.\" vim: syntax=groff
