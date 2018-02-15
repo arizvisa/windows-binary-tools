@@ -1,0 +1,59 @@
+MICROSOFT INTERNET EXPLORER, VERSION 4.0, AND SOFTWARE RELATED COMPONENTS, INCLUDING, BUT NOT LIMITED TO MICROSOFT NETMEETING, OUTLOOK EXPRESS, NETSHOW, MICROSOFT CHAT AND VISUALBASIC SCRIPT
+
+END-USER LICENSE AGREEMENT FOR MICROSOFT SOFTWARE
+
+IMPORTANT-READ CAREFULLY:  This Microsoft End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) and Microsoft Corporation for the Microsoft software product(s) identified above which may include associated media, printed materials, and "online" or electronic documentation ("SOFTWARE PRODUCT"). By installing, copying, or otherwise using the SOFTWARE PRODUCT, you agree to be bound by the terms of this EULA. If you do not agree to the terms of this EULA, do not install or use the SOFTWARE PRODUCT.  If the SOFTWARE PRODUCT was purchased by you, you may return it to your place of purchase for a full refund
+
+The SOFTWARE PRODUCT is protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties. The SOFTWARE PRODUCT is licensed, not sold.
+
+
+1.	GRANT OF LICENSE..  The SOFTWARE PRODUCT is licensed as follows:
+
+* Installation and Use.. Microsoft grants you the right to install and use copies of the SOFTWARE PRODUCT on your computers running validly licensed copies of the operating system for which the SOFTWARE PRODUCT was designed [e.g., Windows(r) 95; Windows NT(r), Windows 3.x, Macintosh, etc.].  
+
+* Backup Copies.  You may also make copies of the SOFTWARE PRODUCT as may be necessary for backup and archival purposes.  
+
+* Components.  Certain components of the SOFTWARE PRODUCT are subject to the following additional provisions: 
+
+NetMeeting.  NetMeeting contains technology that enables applications to be shared between two or more computers, even if an application is installed on only one of the computers.  You may use this technology with all Microsoft products for multi-party conferences.  For non-Microsoft applications, you should consult the accompanying license agreement or contact the licensor to determine whether application sharing is permitted by the licensor.
+
+2.	DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS.
+* Prerelease Software.  If any component of the SOFTWARE PRODUCT or any of its components is marked "Prerelease" or "Beta", the component of the  SOFTWARE PRODUCT constitutes pre-release code and may be changed substantially before commercial release.  You may not use such component in a live operating environment where it may be relied upon to perform in the same manner as a commercially released product or with data that has not been sufficiently backed up.
+* Maintenance of Copyright Notices.  You must not remove or alter any copyright notices on all copies of the SOFTWARE PRODUCT.
+* Distribution.  You may not distribute copies of the SOFTWARE PRODUCT to third parties, except as expressly provided in Section 1.
+* Prohibition on Reverse Engineering, Decompilation, and Disassembly.  You may not reverse engineer, decompile, or disassemble the SOFTWARE PRODUCT, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation.
+* Rental.  You may not rent, lease, or lend the SOFTWARE PRODUCT.
+* Transfer.  You may permanently transfer all of your rights under this EULA, provided the recipient agrees to the terms of this EULA.
+* Support Services.  Microsoft may provide you with support services related to the SOFTWARE PRODUCT ("Support Services").  Use of Support Services is governed by the Microsoft polices and programs described in the user manual, in "on line" documentation and/or other Microsoft-provided materials. Any supplemental software code provided to you as part of the Support Services shall be considered part of the SOFTWARE PRODUCT and subject to the terms and conditions of this EULA.  With respect to technical information you provide to Microsoft as part of the Support Services, Microsoft may use such information for its business purposes, including for product support and development.  Microsoft will not utilize such technical information in a form that personally identifies you.
+* Compliance with Applicable Laws.  You must comply with all applicable laws regarding use of the SOFTWARE PRODUCT.
+
+3.	TERMINATION.  Without prejudice to any other rights, Microsoft may terminate this EULA if you fail to comply with the terms and conditions of this EULA. In such event, you must destroy all copies of the SOFTWARE PRODUCT.
+
+4.	COPYRIGHT.  All title, including but not limited to copyrights, in and to the SOFTWARE PRODUCT and any copies thereof are owned by Microsoft or its suppliers. All title and intellectual property rights in and to the content which may be accessed through use of the SOFTWARE PRODUCT is the property of the respective content owner and may be protected by applicable copyright or other intellectual property laws and treaties.  This EULA grants you no rights to use such content.  All rights not expressly granted are reserved by Microsoft.
+
+5.	U.S. GOVERNMENT RESTRICTED RIGHTS.  The SOFTWARE PRODUCT is provided with RESTRICTED RIGHTS. Use, duplication, or disclosure by the Government is subject to restrictions as set forth in subparagraph (c)(1)(ii) of the Rights in Technical Data and Computer Software clause at DFARS 252.227-7013 or subparagraphs (c)(1) and (2) of the Commercial Computer Software Restricted Rights at 48 CFR 52.227-19, as applicable. Manufacturer is Microsoft Corporation/One Microsoft Way/Redmond, WA 98052-6399. 
+
+6.	EXPORT RESTRICTIONS.  You agree that you will not export or re-export the SOFTWARE PRODUCT to any country, person, entity or end user subject to U.S.A. export restrictions.  Restricted countries currently include, but are not necessarily limited to Cuba, Iran, Iraq, Libya, North Korea, Sudan, and Syria.  You warrant and represent that neither the U.S.A. Bureau of Export Administration nor any other federal agency has suspended, revoked or denied your export privileges.
+
+7.	NOTE ON JAVA SUPPORT.  The SOFTWARE PRODUCT may contain support for programs written in Java.  Java technology is not fault tolerant and is not designed, manufactured, or intended for use or resale as on-line control equipment in hazardous environments requiring fail-safe performance, such as in the operation of nuclear facilities, aircraft navigation or communication systems, air traffic control, direct life support machines, or weapons systems, in which the failure of Java technology could lead directly to death, personal injury, or severe physical or environmental damage.
+8.	NO WARRANTIES.  Microsoft expressly disclaims any warranty for the SOFTWARE PRODUCT.  THE SOFTWARE PRODUCT AND ANY RELATED DOCUMENTATION IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OR MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT.  THE ENTIRE RISK ARISING OUT OF USE OR PERFORMANCE OF THE SOFTWARE PRODUCT REMAINS WITH YOU.
+
+9.	LIMITATION OF LIABILITY.  To the maximum extent permitted by applicable law, in no event shall Microsoft or its suppliers be liable for any special, incidental, indirect, or consequential damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or any other pecuniary loss) arising out of the use of or inability to use the SOFTWARE PRODUCT or the provision of or failure to provide Support Services, even if Microsoft has been advised of the possibility of such damages. In any case, Microsoft's entire liability under any provision of this EULA shall be limited to the greater of the amount actually paid by you for the SOFTWARE PRODUCT or US$5.00; provided however, if you have entered into a Microsoft Support Services Agreement, Microsoft's entire liability regarding Support Services shall be governed by the terms of that agreement. Because some states and jurisdictions do not allow the exclusion or limitation of liability, the above limitation may not apply to you.
+
+10.	MISCELLANEOUS.
+
+This EULA is governed by the laws of the State of Washington, U.S.A.
+
+Should you have any questions concerning this EULA, or if you desire to contact Microsoft for any reason, please contact the Microsoft subsidiary serving your country, or write:
+Microsoft Sales Information Center/One Microsoft Way/Redmond, WA 98052-6399.
+
+Si vous avez acquis votre produit Microsoft au CANADA, la garantie limitée suivante vous concerne:
+
+EXCLUSION DE GARANTIES. Microsoft exclut expressément toute garantie relative au LOGICIEL. Le LOGICIEL et la documentation y afférente sont fournis "en l'état", sans garantie d'aucune sorte, expresse ou implicite, y compris, de manière limitative, sans aucune garantie de qualité, d'adéquation à un usage particulier ou de non-contrefaçon. Vous assumez l'ensemble des risques découlant de l'utilisation ou des performances du LOGICIEL.
+
+Pas de Responsabilité pour les Dommages Indirects - Microsoft ou ses fournisseurs ne seront pas responsables en aucune circonstance pour tout dommage  spécial, incident, indirect, ou conséquent quel qu'il soit (y compris, sans limitation, les dommages entrainés par la perte de bénéfices, l'interruption des activités,  la perte d'information ou toute autre perte pécuniaire) découlant de l'utilisation ou de l'impossibilité d'utilisation de ce  LOGICIEL  ainsi que pour toute disposition concernant le Suport Technique ou la façon dont celui-ci a été rendu et ce, même si Microsoft a été avisée de la possibilité de tels dommages. la responsabilité de  Microsoft en vertu de toute disposition de cette convention  ne pourra en aucun temps excéder  le plus élevé entre i) le montant effectivement payé par vous pour le LOGICIEL ou ii) US$5.00. advenant que vous ayez contracté par entente distincte avec Microsoft pour un Support Technique étendu, vous serez lié par les termes d' une telle entente.
+
+La présente Convention est régie par les lois de la province d'Ontario, Canada. Chacune des parties à la présente reconnaît irrévocablement la compétence des tribunaux de la province d'Ontario et consent à instituer tout litige qui pourrait découler de la présente auprès des tribunaux situés dans le district judiciaire de York, province d'Ontario.
+
+Au cas où vous auriez des questions concernant cette licence ou que vous désiriez vous mettre en rapport avec Microsoft pour quelque raison que ce soit, veuillez contacter la succursale Microsoft desservant votre pays, dont l'adresse est fournie dans ce produit, ou écrivez à : Microsoft Sales Information Center, One Microsoft Way, Redmond, Washington 98052-6399.
+
